@@ -50,7 +50,7 @@ def parse_args() -> argparse.Namespace:
     p.add_argument("--api-key", default=os.getenv("SERPAPI_KEY") or os.getenv("API_KEY"), help="SerpAPI key (preferred)")
     p.add_argument("--max", type=int, default=50, help="Maximum results to fetch")
     p.add_argument("--delay", type=float, default=1.0, help="Base delay between requests (seconds)")
-    p.add_argument("--output", default=os.getenv("OUTPUT", "README.md"), help="Output markdown file")
+    p.add_argument("--output", default=os.getenv("OUTPUT", "CAREERS.md"), help="Output markdown file")
     p.add_argument("--proxy", default=os.getenv("HTTP_PROXY") or os.getenv("PROXY"), help="Optional proxy URL (http://user:pass@host:port)")
     p.add_argument("--no-verify-ssl", action="store_true", help="Disable SSL verify for requests (not recommended)")
     return p.parse_args()
