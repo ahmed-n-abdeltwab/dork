@@ -1,5 +1,9 @@
 name: Update CAREERS daily
 
+# Grant the workflow write access to repository contents so it can push updates
+permissions:
+  contents: write
+
 on:
   schedule:
     # run once per day at midnight UTC (adjust cron as needed)
@@ -17,6 +21,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
+          # ensure the workflow can push using the provided GITHUB_TOKEN
+          token: ${{ secrets.GITHUB_TOKEN }}
           persist-credentials: true
 
       - name: Setup Python
