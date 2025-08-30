@@ -1,0 +1,63 @@
+name: Update README daily
+
+on:
+  schedule:
+    # run once per day at midnight UTC (adjust cron as needed)
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: update-readme
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Determine engine (SerpAPI if secret provided, else scraping fallback)
+        run: |
+          if [ -n "${{ secrets.SERPAPI_KEY }}" ]; then
+            echo "ENGINE=serpapi" >> $GITHUB_ENV
+            echo "APIKEY=${{ secrets.SERPAPI_KEY }}" >> $GITHUB_ENV
+          else
+            echo "ENGINE=google" >> $GITHUB_ENV
+          fi
+
+      - name: Install dependencies
+        run: python -m pip install --upgrade pip && python -m pip install -r requirements.txt
+
+      - name: Run scraper
+        env:
+          OUTPUT: README.md
+        run: |
+          set -euo pipefail
+          echo "Running scraper with engine=$ENGINE"
+          if [ "${ENGINE}" = "serpapi" ]; then
+            python job_scraper.py --engine serpapi --api-key "$APIKEY" --output "$OUTPUT" --max 50 --delay 1.5
+          else
+            python job_scraper.py --engine google --output "$OUTPUT" --max 20 --delay 2.5
+          fi
+
+      - name: Commit README
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md || true
+          # If there are no staged changes, exit successfully
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "chore: update README with latest job dork results [skip ci]"
+          git push
+        shell: bash
