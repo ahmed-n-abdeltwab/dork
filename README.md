@@ -32,7 +32,7 @@ python job_scraper.py --engine google --output CAREERS.md
 
 Automation
 
-- A GitHub Actions workflow runs daily and will update `CAREERS.md` automatically if a `SERPAPI_KEY` secret is configured. See `.github/workflows/update-readme.yml`.
+- A GitHub Actions workflow runs daily and will update `CAREERS.md` automatically.
 
 Notes
 
