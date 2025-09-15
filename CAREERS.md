@@ -1,6 +1,6 @@
 # Job results for: `(inurl:careers OR inurl:jobs) (inurl:open OR inurl:positions OR inurl:listings OR inurl:vacancies OR inurl:search)`
 
-_Engine: serpapi  |  Generated: 2025-09-14T01:20:27.014503+00:00  |  Results: 39_
+_Engine: serpapi  |  Generated: 2025-09-15T01:20:40.102444+00:00  |  Results: 39_
 
 **Search metadata**:
 - source: serpapi
@@ -8,11 +8,6 @@ _Engine: serpapi  |  Generated: 2025-09-14T01:20:27.014503+00:00  |  Results: 39
 - deduped: 39
 
 ## Results grouped by domain
-
-### arizonaatwork.com — 1 result(s)
-
-- [Search Jobs | ARIZONA@WORK](https://arizonaatwork.com/find-jobs/search-jobs) — `jobs`  
-  - _Arizona Job Connection (AJC) is a no-cost jobs database for our state's public workforce system. We offer job matching, job vacancy listings, and current labor ..._
 
 ### careers.bankofamerica.com — 1 result(s)
 
@@ -22,147 +17,152 @@ _Engine: serpapi  |  Generated: 2025-09-14T01:20:27.014503+00:00  |  Results: 39
 ### careers.boozallen.com — 1 result(s)
 
 - [Jobs at Booz Allen - Careers](https://careers.boozallen.com/jobs/search) — `jobs`  
-  - _Open Jobs ; Scrum Master and Technical Project Manager, Fort Meade, Maryland, USA, Hybrid ; IAA FMS Analyst, Annapolis Junction, Maryland, ..._
+  - _Open Jobs ; UI Full Stack Software Developer, Mid, Fort Meade, Maryland, USA, No ; Business Analyst, Fort Meade, Maryland, USA, Hybrid._
 
-### careers.corewellhealth.org — 1 result(s)
+### careers.cbp.gov — 1 result(s)
 
-- [Search results | Find available job openings at Corewell ...](https://careers.corewellhealth.org/us/en/search-results) — `search`  
-  - _Refine your search · Grand Rapids (637) jobs · Royal Oak (258) jobs · Dearborn (176) jobs · Troy (130) jobs · St Joseph (121) jobs · Farmington ..._
+- [Search All Jobs - CBP Careers](https://careers.cbp.gov/s/search-careers) — `careers`  
+  - _Border Patrol Agent (20K to 30K BPA Recruitment Incentive) (GL 9-GS 11). United States Border Patrol. Open to Multiple Hiring Authorities._
 
-### careers.l3harris.com — 1 result(s)
+### careers.detroitk12.org — 1 result(s)
 
-- [Harris Corporation Jobs](https://careers.l3harris.com/search-jobs/) — `search`  
-  - _No information is available for this page._
+- [Job Search Results](https://careers.detroitk12.org/search/jobs) — `jobs`  
+  - _Get updates when new jobs open up. Join one of our talent networks today. College Students · Teachers. Administrators. Visit ..._
 
-### careers.mta.org — 1 result(s)
+### careers.nyp.org — 1 result(s)
 
-- [Open positions at the MTA](https://careers.mta.org/search/jobs/in/ny-new-york) — `jobs`  
-  - _Search 270 New York Careers available at Metropolitan Transportation Authority._
+- [Search our Job Opportunities at NewYork-Presbyterian](https://careers.nyp.org/search-jobs) — `jobs`  
+  - _We found 430 results · Registered Nurse - Progressive Care Unit (PCU) - Full Time Night - NYP-Queens · ​Administrative Coordinator – Perioperative ..._
 
 ### careers.temple.edu — 1 result(s)
 
 - [Search and Apply For Jobs](https://careers.temple.edu/careers-temple/search-and-apply-jobs) — `careers`  
   - _Those interested in applying for a full-time faculty position can view current openings by clicking on the career site link below._
 
-### careers.unilever.com — 1 result(s)
+### careers.ua.edu — 1 result(s)
 
-- [Search our Job Opportunities at Unilever](https://careers.unilever.com/search-jobs) — `jobs`  
-  - _Search for your dream job. Search for a role that equips you with the tools you need to deliver pioneering products to the world. And embark on a journey ..._
+- [Search Page - UA Careers - The University of Alabama](https://careers.ua.edu/jobs/search) — `jobs`  
+  - _UA Staff Employment · Police/Security/Safety · Public Safety Administration · Regular Full-time (Benefits eligible) · Tuscaloosa._
 
-### careers.united.com — 1 result(s)
+### careers.uh.edu — 1 result(s)
 
-- [Search results | Find available job openings at United ...](https://careers.united.com/us/en/search-results) — `search`  
-  - _Location San Francisco, California, United States Category Aircraft Maintenance and Support Job Id SFO00005043 Posted Date August 14 2025._
+- [UH Central Postings](https://careers.uh.edu/jobs/search/uh-postings) — `jobs`  
+  - _Search by job title, location, department, category, etc. Search Jobs near me. Filter jobs._
 
 ### careers.unitedhealthgroup.com — 1 result(s)
 
 - [Job Search Results - Careers at UnitedHealth Group](https://careers.unitedhealthgroup.com/job-search-results/)  
   - _Job Search Results at United Health Group. See our open career opportunities and search for jobs._
 
-### careers.upstate.edu — 1 result(s)
-
-- [Search Page - Upstate Careers](https://careers.upstate.edu/jobs/search) — `jobs`  
-  - _Filter jobs &nbsp; -Categories- Administrative, Secretarial & Clerical Allied Health Information Management & Technology Management & Professional Nurse ..._
-
 ### careers.zoom.us — 1 result(s)
 
 - [Remote Jobs](https://careers.zoom.us/jobs/search) — `jobs`  
   - _We're Hiring! Zoom offers a structured hybrid working environment for our employees. Open roles in Engineering, Marketing, Legal, IT, Agentic AI._
+
+### hr.jefferson.edu — 1 result(s)
+
+- [Search Jobs - Human Resources - Thomas Jefferson University](https://hr.jefferson.edu/human-resources/careers/search-jobs.html) — `careers`  
+  - _Our online application website allows candidates to easily search and apply for open staff positions. You may also use this site to update an existing ..._
+
+### hr.northeastern.edu — 1 result(s)
+
+- [Job Listings - Human Resources - Northeastern University](https://hr.northeastern.edu/careers/job-listings/) — `careers`  
+  - _At Northeastern, we don't just provide jobs; we foster a thriving, innovative, global community of the industry's brightest minds. We are open-minded, friendly, ..._
+
+### hr.princeton.edu — 1 result(s)
+
+- [Search Opportunities - Human Resources - Princeton University](https://hr.princeton.edu/careers/search-opportunities) — `careers`  
+  - _We offer many different types of jobs. Visit any of our career centers to search and apply for positions, join our Talent Network, and log in through the ..._
 
 ### jobs.apple.com — 1 result(s)
 
 - [Search Jobs - United States - Jobs - Careers at Apple](https://jobs.apple.com/en-us/search?location=united-states-USA) — `search`  
   - _Explore all United States jobs at Apple. Create a profile and apply today._
 
-### jobs.boeing.com — 1 result(s)
+### jobs.charlotte.edu — 1 result(s)
 
-- [Search our Job Opportunities at Boeing](https://jobs.boeing.com/search-jobs) — `jobs`  
-  - _Let's explore your tomorrow. Search. Search by Location. Search by Keyword. Search Find U.S. Contract Jobs. Filter Results. Category. All Hourly Unions 76_
+- [UNC Charlotte Applicant Site | Search Jobs](https://jobs.charlotte.edu/postings/search) — `search`  
+  - _View all open Postings below, or enter search criteria to narrow your search. Keywords. Posted Within. Any time ..._
 
 ### jobs.citi.com — 1 result(s)
 
 - [Job Search | Citi Careers](https://jobs.citi.com/search-jobs) — `jobs`  
   - _Search for jobs at Citi. Filter by location, function and keyword to help find a role that may be ideal for you. Apply online today._
 
-### jobs.discover.com — 1 result(s)
+### jobs.clevelandclinic.org — 1 result(s)
 
-- [Job search](https://jobs.discover.com/job-search/)  
-  - _Job Search · Lead Relationship Management · Senior Lead User Acceptance Tester · Senior Manager Payments Network Operations · Card Fraud Customer Service._
-
-### jobs.hackensackmeridianhealth.org — 1 result(s)
-
-- [Search our Job Opportunities at Hackensack Meridian Health](https://jobs.hackensackmeridianhealth.org/search-jobs) — `jobs`  
-  - _Search our Job Opportunities at Hackensack Meridian Health · OR Service Coordinator · Obstetric Technician - Labor and Delivery - P/T with Benefits Day · Nurse ..._
-
-### jobs.intuit.com — 1 result(s)
-
-- [Intuit Job Search page](https://jobs.intuit.com/search-jobs/) — `search`  
-  - _No information is available for this page._
+- [Job Search Results](https://jobs.clevelandclinic.org/job-search-results/)  
+  - _Start typing a location to get suggestions, then press the down arrow to select one.*Please select location from the dropdown._
 
 ### jobs.merck.com — 1 result(s)
 
 - [Your job search results](https://jobs.merck.com/us/en/search-results) — `search`  
-  - _Administration (198) jobs · Engineering (33) jobs · Manufacturing (18) jobs · Preclinical Development (16) jobs · Clinical (12) jobs · Medical Affairs (10) jobs_
+  - _Refine your search · Administration (198) jobs · Engineering (33) jobs · Manufacturing (17) jobs · Preclinical Development (15) jobs · Clinical (12) ..._
 
-### jobs.ohiomeansjobs.monster.com — 1 result(s)
+### jobs.ncsu.edu — 1 result(s)
 
-- [Search jobs on OhioMeansJobs](https://jobs.ohiomeansjobs.monster.com/Search.aspx?rad=20&rad_units=miles&sid=68&pg=1) — `search`  
-  - _Find a job on OhioMeansJobs today. Use our job search engine to find and apply for the job of your dreams in OH. Jobs in Ohio, Employment, ..._
+- [NCSU Employment Site | Search Jobs](https://jobs.ncsu.edu/postings/search) — `search`  
+  - _Search Postings (393) All Jobs Atom Feed ... View all open Postings below, or enter search criteria to narrow your search. Keywords._
 
-### jobs.sanofi.com — 1 result(s)
+### jobs.northwell.edu — 1 result(s)
 
-- [Search our Job Opportunities at Sanofi](https://jobs.sanofi.com/en/search-jobs) — `jobs`  
-  - _1267 jobs · Supply Chain Lead · Global Artwork Business Process Owner · Global Head of Learning Innovation · Early Development Clinical Operations Therapeutic Area ..._
+- [Northwell Health Job Search | Discover a Career Well Cared For](https://jobs.northwell.edu/job-search-results/)  
+  - _Job search Careers Well Cared For. Job ID, Keywords or MOS Code. Begin typing to find suggestions. Profession Academia and Research Administrative Support_
 
-### jobs.tjx.com — 1 result(s)
+### jobs.nyulangone.org — 1 result(s)
 
-- [Search results | Find available job openings at TJX Companies](https://jobs.tjx.com/global/en/search-results) — `search`  
-  - _SEARCH JOBS. DISCOVER A CAREER YOU WILL LOVE. For your information, our application system will be down due to maintenance between the below hours on each ..._
+- [Find the Right Career Fit For You - NYU Langone Health](https://jobs.nyulangone.org/job-search-results/)  
+  - _We have a range of exciting career opportunities, all supported by our unwavering commitment to helping all our faculty and staff reach their full potential._
+
+### jobs.rutgers.edu — 1 result(s)
+
+- [Rutgers University Employment Opportunities | Search Jobs](https://jobs.rutgers.edu/postings/search) — `search`  
+  - _To view open positions, please enter your search criteria below. You may view all open positions by not specifying any search criteria and clicking the Search ..._
 
 ### mn.gov — 1 result(s)
 
 - [Search Jobs / Careers in the State of Minnesota](https://mn.gov/mmb/careers/search-for-jobs/) — `careers`  
   - _Offers a job search tool for the State of Minnesota, information about student worker and intern opportunities, links to other state employers, ..._
 
-### www.amazon.jobs — 1 result(s)
+### opportunities.columbia.edu — 1 result(s)
 
-- [Job search](https://www.amazon.jobs/search) — `search`  
-  - _Basic qualifications: Bachelor's degree or equivalent; 3+ years of non-internship professional software development experience; 3+ years of non-internship ..._
+- [Careers at Columbia: Search Staff Jobs](https://opportunities.columbia.edu/jobs/search) — `jobs`  
+  - _Title, Category, Department, Employment Type, Location, Grade. Assoc Director-Development. Development/Alumni Relations. P&S CUIMC Development. Full Time._
+
+### publicrecords.thecountyoffice.com — 1 result(s)
+
+- [Vacancies and Job Opportunities](https://publicrecords.thecountyoffice.com/government-jobs-and-employment-listings-search/new-york/broome-county/source-80010/)  
+  - _The Broome County Department of Personnel posts current job openings. All hiring for these positions is done by the department with the vacancy._
+
+### wmchealthjobs.org — 1 result(s)
+
+- [Search Jobs at WMCHealth Network](https://wmchealthjobs.org/search-jobs/) — `search`  
+  - _WMCHealth Network is the pre-eminent provider of integrated healthcare in the Hudson Valley. We're hiring for a variety of clinical and non-clinical jobs ..._
 
 ### www.att.jobs — 1 result(s)
 
 - [Search our Job Opportunities at AT&T](https://www.att.jobs/search-jobs) — `jobs`  
   - _We found 1821 jobs · Retail Sales Consultant · Lead Advanced Analytics · Bilingual Spanish Retail Sales Consultant · Principal Technical Product Management._
 
-### www.azstatejobs.gov — 1 result(s)
+### www.clemson.edu — 1 result(s)
 
-- [Careers](https://www.azstatejobs.gov/jobs/search) — `jobs`  
-  - _As a State of Arizona employee, you can choose from more than 1,700 types of career opportunities, all with the same employer, making job mobility and career ..._
+- [Search Jobs](https://www.clemson.edu/human-resources/careers/search-jobs/) — `careers`  
+  - _Search jobs. Find your dream job. Explore our open positions today! Staff Positions (External Applicants- Screen Reader Mode) Internal Applicants Search Staff ..._
 
-### www.capitalonecareers.com — 1 result(s)
+### www.disneycareers.com — 1 result(s)
 
-- [Search our Job Opportunities at Capital One](https://www.capitalonecareers.com/search-jobs) — `jobs`  
-  - _1345 Jobs ; Distinguished Applied Researcher. McLean, VA ; Senior Manager, Product Management - Developer Experience. McLean, VA ; Senior Director, CFO- Capital ..._
-
-### www.careers.peraton.com — 1 result(s)
-
-- [Search Jobs](https://www.careers.peraton.com/search-jobs) — `jobs`  
-  - _Explore career opportunities at Peraton and help tackle critical national security challenges. Join our team to shape the future through innovation, ..._
+- [Search our Job Opportunities at DISNEY](https://www.disneycareers.com/en/search-jobs) — `jobs`  
+  - _920 Roles · Principal Software Engineer · Stage - Ingénieur(e) Automatique et Sytèmes Intelligents (F/H/NB) · Content Security Engineer · Manager, Creative Talent ..._
 
 ### www.dol.gov — 1 result(s)
 
 - [DOL Job Opportunities | U.S. Department of Labor](https://www.dol.gov/general/jobs/search-job-postings) — `jobs`  
   - _The Department of Labor posts all job opportunities on USAJOBS, the job board for the federal government. Scroll to Top._
 
-### www.hitachienergy.com — 1 result(s)
+### www.jointheportauthority.com — 1 result(s)
 
-- [Open Jobs](https://www.hitachienergy.com/careers/open-jobs) — `careers`  
-  - _Open Jobs · Administration, Facilities & Secretarial · Communications & Corporate Affairs · Construction · Consumer & Commercial Banking · Creative & Design._
-
-### www.iowaworkforcedevelopment.gov — 1 result(s)
-
-- [Find Your Next Great Career in Iowa](https://www.iowaworkforcedevelopment.gov/search-jobs) — `jobs`  
-  - _Iowa's largest jobs bank is the best source for finding your next career. Nearly 50,000 job openings in any industry you can imagine._
+- [The Port Authority of New York and New Jersey - Careers](https://www.jointheportauthority.com/jobs/search) — `jobs`  
+  - _Welcome! A search can be performed by typing in a keyword or by selecting a field from the form. Click “Search” to view the results and click on the job title ..._
 
 ### www.justice.gov — 1 result(s)
 
@@ -171,33 +171,33 @@ _Engine: serpapi  |  Generated: 2025-09-14T01:20:27.014503+00:00  |  Results: 39
 
 ### www.linkedin.com — 1 result(s)
 
-- [4107000+ Jobs in United States (175824 new)](https://www.linkedin.com/jobs/search) — `jobs`  
-  - _Today's 4107000+ jobs in United States. Leverage your professional network, and get hired. New United States jobs added daily._
-
-### www.lockheedmartinjobs.com — 1 result(s)
-
-- [Search our Job Opportunities at Lockheed Martin Corporation](https://www.lockheedmartinjobs.com/search-jobs) — `jobs`  
-  - _Search for available job openings at Lockheed Martin Corporation._
+- [4071000+ Jobs in United States (82944 new)](https://www.linkedin.com/jobs/search) — `jobs`  
+  - _Today's 4071000+ jobs in United States. Leverage your professional network, and get hired. New United States jobs added daily._
 
 ### www.nestle.com — 1 result(s)
 
 - [Search for jobs](https://www.nestle.com/jobs/search-jobs) — `jobs`  
   - _We have hundreds of jobs at Nestlé worldwide. Search our current opportunities to find the one that's right for you._
 
-### www.schools.nyc.gov — 1 result(s)
+### www.nexteraenergy.com — 1 result(s)
 
-- [Current Career Openings - NYC DOE](https://www.schools.nyc.gov/careers/administration-and-central-offices/search-openings) — `careers`  
-  - _Please click the plus "+" sign next to each Division office to view current vacancies. Thank you for your interest in job opportunities at one of the Department ..._
+- [Search Jobs at NextEra Energy | Internships, Corporate & ...](https://www.nexteraenergy.com/careers/search-jobs.html) — `careers`  
+  - _Find your ideal job at NextEra Energy by searching with keywords or locations. Explore a variety of roles, including internships, corporate positions, ..._
 
-### www.search-inc.org — 1 result(s)
+### www.pa.gov — 1 result(s)
 
-- [Jobs](https://www.search-inc.org/jobs) — `jobs`  
-  - _Search offers a range of full time (40 hours) and part time employment opportunities in our Supported Living, Employment and Adult Learning programs._
+- [Open Jobs](https://www.pa.gov/agencies/employment/open-jobs.html) — `open`  
+  - _Explore and apply for jobs with the Commonwealth of Pennsylvania. Find open positions, special programs for skilled workers and students, and connect with ..._
 
-### www.tenethealth.com — 1 result(s)
+### www.planning.org — 1 result(s)
 
-- [Search Our Careers](https://www.tenethealth.com/careers/search-our-careers) — `careers`  
-  - _Be mindful of fraudulent activity. Many companies have been affected by scams that use our company name and the names of real employees, along with similar ..._
+- [Jobs Search](https://www.planning.org/jobs/search/) — `jobs`  
+  - _Search for your perfect position — from internship to director — and keep track of the positions you're pursuing._
+
+### www.thevillages.com — 1 result(s)
+
+- [Search for Career Opportunities in The ...](https://www.thevillages.com/careers/search/) — `careers`  
+  - _Become a DreamMaker! Search for jobs in The Villages where you can explore your passions, build relationships, and achieve your goals._
 
 ### www.uabmedicine.org — 1 result(s)
 
