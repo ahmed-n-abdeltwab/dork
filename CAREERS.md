@@ -1,182 +1,239 @@
 # Job results for: `(inurl:careers OR inurl:jobs) (inurl:open OR inurl:positions OR inurl:listings OR inurl:vacancies OR inurl:search)`
 
-_Engine: serpapi  |  Generated: 2026-01-10T01:26:12.088237+00:00  |  Results: 35_
+_Engine: serpapi  |  Generated: 2026-01-11T01:46:00.435541+00:00  |  Results: 47_
 
 **Search metadata**:
 - source: serpapi
-- fetched: 39
-- deduped: 35
+- fetched: 50
+- deduped: 47
 
 ## Results grouped by domain
 
-### jobs.apple.com — 2 result(s)
+### publicrecords.thecountyoffice.com — 2 result(s)
 
-- [Search Jobs - Canada - Jobs at Apple (CA)](https://jobs.apple.com/en-ca/search?location=canada-CANC) — `search`  
-  - _Explore all Canada jobs at Apple. Create a profile and apply today._
-- [Search Jobs - United States - Jobs - Careers at Apple](https://jobs.apple.com/en-us/search?location=united-states-USA) — `search`  
-  - _Explore all United States jobs at Apple. Create a profile and apply today._
+- [Job Opportunities | Sorted by Job Title ascending | .](https://publicrecords.thecountyoffice.com/government-jobs-and-employment-listings-search/california/contra-costa-county/source-78007/)  
+  - _You will be notified by email once the position you are interested in is open for recruitment. The job interest notification lasts for twelve ( ..._
+- [Sorted by Job Title ascending | County of Orange Careers](https://publicrecords.thecountyoffice.com/government-jobs-and-employment-listings-search/california/orange-county/source-78110/)  
+  - _The eligible list established from this recruitment may also be used to fill positions in similar and/or lower classifications. DEADLINE TO ..._
 
-### arizonaatwork.com — 1 result(s)
+### www.indeed.com — 2 result(s)
 
-- [Search Jobs | ARIZONA@WORK](https://arizonaatwork.com/find-jobs/search-jobs) — `jobs`  
-  - _Arizona Job Connection (AJC) is a no-cost jobs database for our state's public workforce system. We offer job matching, job vacancy listings, and current labor ..._
+- [Indeed: Job Search](https://www.indeed.com/)  
+  - _With Indeed, you can search millions of jobs online to find the next step in your career. With tools for job search, resumes, company reviews and more, ..._
+- [Search Jobs, Employment in San Jose, CA](https://www.indeed.com/q-search-l-san-jose,-ca-jobs.html)  
+  - _3475 Search jobs available in San Jose, CA on Indeed.com. Apply to Program Officer, Community Service Officer, Parts Specialist and more!_
+
+### careers.astrazeneca.com — 1 result(s)
+
+- [Search our Job Opportunities at AstraZeneca](https://careers.astrazeneca.com/search-jobs) — `jobs`  
+  - _Search for jobs worldwide and explore our locations. Glassdoor logo Rated four stars on Glassdoor. Great culture, great work assignments, ..._
 
 ### careers.bankofamerica.com — 1 result(s)
 
 - [Bank of America Jobs: Search & Apply for ...](https://careers.bankofamerica.com/en-us/job-search) — `search`  
   - _Search and apply for jobs directly at the Bank of America Careers site. Search available job openings by location, career area, or keywords._
 
+### careers.blackrock.com — 1 result(s)
+
+- [Search our Job Opportunities at BlackRock](https://careers.blackrock.com/search-jobs) — `jobs`  
+  - _345 jobs found. Filter results · Java Developer, Aladdin Engineering, Associate · Investment Product Strategist (Python), · Finance Information & Analytics ..._
+
 ### careers.boozallen.com — 1 result(s)
 
 - [Jobs at Booz Allen - Careers](https://careers.boozallen.com/jobs/search) — `jobs`  
-  - _Open Jobs ; Full Stack Software Engineer, Lead, Fort Meade, Maryland, USA, No ; Cyber Security Architect, Fort Meade, Maryland, USA, Hybrid._
+  - _Open Jobs ; Technical Project Manager, Fort Meade, Maryland, USA, Hybrid ; Full Stack Software Engineer, Lead, Fort Meade, Maryland, USA, No._
 
-### careers.compass-canada.com — 1 result(s)
+### careers.chevron.com — 1 result(s)
 
-- [Job Search Results](https://careers.compass-canada.com/job-search-results/)  
-  - _Clicking search without inputting text for keywords or location will provide all open jobs available at Compass Group._
+- [Search our Job Opportunities at Chevron](https://careers.chevron.com/search-jobs) — `jobs`  
+  - _147 jobs · Hazard Communication Specialist – SDS Authoring · API Developer · I&E Reliability Engineer · Reliability Engineer · OT BCP - DR Technical Analyst · Senior ..._
 
-### careers.homedepot.ca — 1 result(s)
+### careers.google.com — 1 result(s)
 
-- [Find Your Career at Home Depot Canada | Job Search](https://careers.homedepot.ca/job-search) — `search`  
-  - _Explore career opportunities at Home Depot Canada. Search and apply for jobs that fit your skills and career goals._
+- [Search Jobs — Google Careers](https://careers.google.com/jobs#!t=jo&jid=127025001&) — `jobs`  
+  - _Find your next job at Google — Careers at Google. Search by location, role, skills, and more._
 
-### careers.intact.ca — 1 result(s)
+### careers.southwestair.com — 1 result(s)
 
-- [All Jobs | Intact Careers](https://careers.intact.ca/ca/en/search-results) — `search`  
-  - _Open Opportunities ; Expert Forensic Engineer, Fire and Explosion. Calgary AB · R151152 ; Customer Service Representative - Auto Claims. St._
+- [Search Results | Southwest Careers](https://careers.southwestair.com/us/en/search-results) — `search`  
+  - _Apply for a career by you, for you. Search job title or location_
 
 ### careers.temple.edu — 1 result(s)
 
 - [Search and Apply For Jobs](https://careers.temple.edu/careers-temple/search-and-apply-jobs) — `careers`  
   - _Those interested in applying for a full-time faculty position can view current openings by clicking on the career site link below._
 
-### careers.uh.edu — 1 result(s)
+### careers.thrivegroup.ca — 1 result(s)
 
-- [UH Central Postings](https://careers.uh.edu/jobs/search/uh-postings) — `jobs`  
-  - _The University of Houston is seeking dynamic, results driven professionals to join our Division of Advancement & Alumni in a variety of development roles at the ..._
+- [Job Listings - Careers](https://careers.thrivegroup.ca/job-listings/)  
+  - _Current Job Opportunities. Contact · Privacy Policy · Staff · Return to Main Site. ©2026 Copyright Thrive Group | Designed by ADS Media._
 
-### explore.jobs.ufl.edu — 1 result(s)
+### careers.utrgv.edu — 1 result(s)
 
-- [University of Florida - Search Results - Careers at UF](https://explore.jobs.ufl.edu/en-us/Search/?search-keyword=&work-type=staff+full-time%2Cstaff+part-time%2Ctemp+full-time%2Ctemp+part-time&subscribe=true) — `search`  
-  - _We offer highly competitive wages, benefits including health benefits, relocation assistance, retention bonuses, 3-day work week, licensing fees paid, and more!_
+- [The University of Texas Rio Grande Valley Job Site](https://careers.utrgv.edu/postings/search) — `search`  
+  - _To view open positions, please enter your search criteria below. You may view all open positions by not specifying any search criteria and clicking the Search ..._
 
-### hfojobs.ontariohealth.ca — 1 result(s)
+### careersourcerc.com — 1 result(s)
 
-- [Search Jobs - HFOJobs - Ontario Health](https://hfojobs.ontariohealth.ca/jobs/s/search?language=en_CA) — `jobs`  
-  - _Find healthcare jobs in Ontario for Physician, Nurse, Medical Laboratory Technologist, Medical Laboratory Technician/Assistant, Medical Radiation ..._
+- [Search For Jobs](https://careersourcerc.com/job-seekers/services-for-job-seekers/search-for-jobs/) — `search`  
+  - _Search for the right job for you through the CareerSource Research Coast page. Visit our website today to get started._
 
-### hr.jefferson.edu — 1 result(s)
+### dhrm.utah.gov — 1 result(s)
 
-- [Search Jobs - Human Resources - Thomas Jefferson University](https://hr.jefferson.edu/human-resources/careers/search-jobs.html) — `careers`  
-  - _Our online application website allows candidates to easily search and apply for open staff positions. You may also use this site to update an existing ..._
+- [Search Jobs | Division of Human Resource Management](https://dhrm.utah.gov/search-jobs/) — `search`  
+  - _Search active job descriptions found within Utah state government. Find features of a job such as the minimum requirements._
 
-### hr.princeton.edu — 1 result(s)
+### hr.mit.edu — 1 result(s)
 
-- [Search Opportunities - Human Resources - Princeton University](https://hr.princeton.edu/careers/search-opportunities) — `careers`  
-  - _We offer many different types of jobs. Visit any of our career centers to search and apply for positions, join our Talent Network, and log in through the ..._
+- [Search Jobs](https://hr.mit.edu/jobs/search) — `jobs`  
+  - _Discover a wide range of career opportunities at MIT and become a part of our innovative and collaborative community by exploring our current job openings ..._
 
 ### inova-search-drupal.com — 1 result(s)
 
 - [Search Jobs - Inova Careers - Sign in](https://inova-search-drupal.com/careers/results) — `careers`  
   - _Register for the Inova Talent Community. Receive new job notifications, recruiting news, and stay up-to-date on hiring events near you._
 
-### jobs.bell.ca — 1 result(s)
+### jobs.berkeley.edu — 1 result(s)
 
-- [Search results | Find available job openings at Bell Canada](https://jobs.bell.ca/ca/en/search-results) — `search`  
-  - _Browse open positions, search by job title, location, or skills, and review detailed job descriptions to see where your skills will make an impact._
+- [Featured Jobs](https://jobs.berkeley.edu/job-listings/featured-jobs) — `jobs`  
+  - _The UC Systemwide Job Board(link is external) is available for applicants to search for job opportunities at all UC campuses, medical centers, and Office of ..._
 
-### jobs.cityofchesapeake.net — 1 result(s)
+### jobs.charlotte.edu — 1 result(s)
 
-- [City of Chesapeake Portal | Search Jobs](https://jobs.cityofchesapeake.net/postings/search) — `search`  
-  - _Search Postings (44) All Jobs Atom Feed ... View all open Postings below, or enter search criteria to narrow your search. Keywords._
+- [UNC Charlotte Applicant Site | Search Jobs](https://jobs.charlotte.edu/postings/search) — `search`  
+  - _View all open Postings below, or enter search criteria to narrow your search. Keywords. Posted Within. Any time ..._
+
+### jobs.google.com — 1 result(s)
+
+- [Job Search on Google - Get Your Job Postings on Google Today](https://jobs.google.com/about/)  
+  - _Google brings together job postings from across the web. Have your job postings found by millions of job seekers who search on Google every day._
+
+### jobs.insightglobal.com — 1 result(s)
+
+- [Find a Job Using Insight Global's Staffing Services, Start Your ...](https://jobs.insightglobal.com/)  
+  - _Start your job search now. We work with job seekers to find the IT, Accounting & Finance, Engineering and Government jobs that match their skills and goals._
 
 ### jobs.northwell.edu — 1 result(s)
 
 - [Job Search Results](https://jobs.northwell.edu/job-search-results/)  
-  - _Search Results ; Medical Assistant. 175188. Clinical Support. Tarrytown, NY ; Senior Medical Assistant. 175286. Clinical Support. Harrison, NY ; Pediatrics ..._
+  - _Job search Careers Well Cared For. Job ID, Keywords or MOS Code. Begin typing to find suggestions. Profession Academia and Research Administrative Support_
 
-### jobs.pge.com — 1 result(s)
+### jobs.nyulangone.org — 1 result(s)
 
-- [Search our Job Opportunities at Pacific Gas and Electric ...](https://jobs.pge.com/search-jobs) — `jobs`  
-  - _Search our Job Opportunities at Pacific Gas and Electric Company._
-
-### jobs.rutgers.edu — 1 result(s)
-
-- [Rutgers University Employment Opportunities | Search Jobs](https://jobs.rutgers.edu/postings/search) — `search`  
-  - _To view open positions, please enter your search criteria below. You may view all open positions by not specifying any search criteria and clicking the Search ..._
-
-### jobs.tjx.com — 1 result(s)
-
-- [Search results | Find available job openings at TJX Companies](https://jobs.tjx.com/global/en/search-results) — `search`  
-  - _TK Maxx. At TJX Europe, every day brings new opportunities for growth, exploration, and achievement. You'll be part of our vibrant team ..._
+- [Find the Right Career Fit For You - NYU Langone Health](https://jobs.nyulangone.org/job-search-results/)  
+  - _We have a range of exciting career opportunities, all supported by our unwavering commitment to helping all our faculty and staff reach their full potential._
 
 ### jobs.uncw.edu — 1 result(s)
 
 - [Search Jobs](https://jobs.uncw.edu/postings/search) — `search`  
-  - _Search Postings (95) All Jobs Atom Feed ... View all open Postings below, or enter search criteria to narrow your search. Keywords._
+  - _View all open Postings below, or enter search criteria to narrow your search. Keywords. Posted Within. Any time ..._
 
-### mn.gov — 1 result(s)
+### pastebin.com — 1 result(s)
 
-- [Search Jobs / Careers in the State of Minnesota](https://mn.gov/mmb/careers/search-for-jobs/) — `careers`  
-  - _Offers a job search tool for the State of Minnesota, information about student worker and intern opportunities, links to other state employers, ..._
+- [site:.com "index.php?op="site:.ca "products. ...](https://pastebin.com/8qmbqqv1)  
+  - _Pastebin.com is the number one paste tool since 2002. Pastebin is a website where you can store text online for a set period of time._
 
-### stanford.io — 1 result(s)
+### pdfcoffee.com — 1 result(s)
 
-- [Stanford University Careers - Jobs](https://stanford.io/search-jobs) — `jobs`  
-  - _At Stanford, every employee plays a part in our mission for a better tomorrow—from researchers to operations and from food services to educators._
+- [Пособие It Рекрутера](https://pdfcoffee.com/-it--4-pdf-free.html)  
+  - _ПОСОБИЕ IT РЕКРУТЕРА возросла важность должного обучения рекрутеров в сфере IT и рациональное использование цифровых технологий в отборе персонала. В результате ..._
 
-### universityaffairs.ca — 1 result(s)
+### www.att.jobs — 1 result(s)
 
-- [Search Jobs](https://universityaffairs.ca/search-jobs/) — `search`  
-  - _Search jobs · Chair, Department of Medical Biophysics · Physical Therapy - Faculty Position · Medicine - Clinical Academic Faculty Position, Term (Paediatrics)._
+- [Search our Job Opportunities at AT&T](https://www.att.jobs/search-jobs) — `jobs`  
+  - _We found 1943 jobs · Machine Operator · Specialist Cricket Indirect Sales · Bilingual Spanish Field Sales Representative · Bilingual Spanish Field Sales ..._
 
-### www.azstatejobs.gov — 1 result(s)
+### www.bp.com.cn — 1 result(s)
 
-- [Search Page](https://www.azstatejobs.gov/jobs/search) — `jobs`  
-  - _As a State of Arizona employee, you can choose from more than 1,700 types of career opportunities, all with the same employer, making job mobility and career ..._
+- [Job Opportunities at bp | Search open roles](https://www.bp.com.cn/en/global/corporate/careers/search-and-apply.html) — `careers`  
+  - _Search open roles at bp and apply today. Find jobs that match your skills and help drive global progress._
 
-### www.dol.gov — 1 result(s)
+### www.careersite.com — 1 result(s)
 
-- [DOL Job Opportunities | U.S. Department of Labor](https://www.dol.gov/general/jobs/search-job-postings) — `jobs`  
-  - _The Department of Labor posts all job opportunities on USAJOBS, the job board for the federal government. Scroll to Top._
+- [CareerSite.com - thousands of new jobs posted every day!](https://www.careersite.com/)  
+  - _Welcome to CareerSite.com, with thousands of new jobs posted every day and thousands of employers searching for candidates just like you._
 
-### www.expresspros.ca — 1 result(s)
+### www.cppinvestments.com — 1 result(s)
 
-- [Job Openings](https://www.expresspros.ca/ca-ontario-sarnia/search-jobs) — `jobs`  
-  - _Search the jobs available now from Express Employment Professionals. Express places for a wide range of positions, at all levels._
+- [Search Jobs](https://www.cppinvestments.com/careers/search-jobs/) — `careers`  
+  - _Find exciting career opportunities at CPP Investments. Search for open positions and start your journey with a global investment leader and ..._
+
+### www.denvergov.org — 1 result(s)
+
+- [Denver Jobs - Myworkdayjobs.com](https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Work-With-Us/Search-Jobs-External-Applicants-Only) — `search`  
+  - _With competitive pay, great benefits, and endless opportunities, working for the City and County of Denver means seeing yourself working ..._
+
+### www.google.com — 1 result(s)
+
+- [Chicago - Google Careers](https://www.google.com/about/careers/applications/locations/chicago/) — `careers`  
+  - _Located in the vibrant West Loop, Google Chicago is a diverse, cross-functional site where Googlers of all backgrounds and job descriptions work, thrive, ..._
 
 ### www.gwu.jobs — 1 result(s)
 
 - [George Washington Employment Site | Search Jobs](https://www.gwu.jobs/postings/search) — `search`  
-  - _Search Postings (120) All Jobs Atom Feed ... View all open Postings below, or enter search criteria to narrow your search. Keywords._
+  - _Search Postings (121) All Jobs Atom Feed ... View all open Postings below, or enter search criteria to narrow your search. Keywords._
 
-### www.henryford.com — 1 result(s)
+### www.hokecounty.net — 1 result(s)
 
-- [Henry Ford Health - Careers Careers - Jobs](https://www.henryford.com/careers/search-all-career-opportunities) — `careers`  
-  - _Looking for a new career opportunity in Revenue Cycle? Our team is growing, and we have more openings than ever before. Explore our available roles and find ..._
+- [Jobs • All Hoke County Positions](https://www.hokecounty.net/jobs.aspx?CommunityJobs=False&CatID=All-Hoke-County-Positions-99) — `jobs`  
+  - _Use the Government Jobs tab to search through your municipality's employment opportunities. Subscribe to job posting notifications._
+
+### www.illinois.gov — 1 result(s)
+
+- [Find Jobs](https://www.illinois.gov/employment/find-jobs.html)  
+  - _Job Openings in Illinois. Use the Illinois workNet JobFinder to find recent job listings that best fit your skills and interests._
+
+### www.illinoisworknet.com — 1 result(s)
+
+- [Job Openings & Recruiting Illinois workNet JobFinder](https://www.illinoisworknet.com/Jobs/Pages/JobFinder.aspx) — `jobs`  
+  - _The Illinois workNet Center System, an American Job Center, is an equal opportunity employer/program. Auxiliary aids and services are available upon request._
 
 ### www.iowaworkforcedevelopment.gov — 1 result(s)
 
 - [Find Your Next Great Career in Iowa](https://www.iowaworkforcedevelopment.gov/search-jobs) — `jobs`  
   - _Iowa's largest jobs bank is the best source for finding your next career. Nearly 50,000 job openings in any industry you can imagine._
 
-### www.jobs.virginia.gov — 1 result(s)
+### www.jointheportauthority.com — 1 result(s)
 
-- [Search Page](https://www.jobs.virginia.gov/jobs/search) — `jobs`  
-  - _We're Hiring! ; Chief Financial Officer. Health and Human Services. Full-Time (Salaried) ; Graphic Designer. Educational and Media Services. Full-Time (Salaried)._
+- [The Port Authority of New York and New Jersey - Careers](https://www.jointheportauthority.com/jobs/search) — `jobs`  
+  - _A search can be performed by typing in a keyword or by selecting a field from the form. Click “Search” to view the results and click on the job title to view a ..._
 
-### www.kaiserpermanentejobs.org — 1 result(s)
+### www.linkedin.com — 1 result(s)
 
-- [Search our Job Opportunities at Kaiser Permanente](https://www.kaiserpermanentejobs.org/search-jobs) — `jobs`  
-  - _3131 Job Results Jobs · RN, L&D (36hr, Nights) · Organizational Effectiveness Consultant IV, Physician Group · ICU/IMCU Assistant Nurse Manager · Senior Director, ..._
+- [Find US Jobs, Internships, Jobs Near Me](https://www.linkedin.com/jobs) — `jobs`  
+  - _Find the right job or internship for you · Engineering · Business Development · Finance · Administrative Assistant · Retail Associate · Customer Service · Operations ..._
 
-### www.pa.gov — 1 result(s)
+### www.mapleleaffoods.com — 1 result(s)
 
-- [Open Jobs](https://www.pa.gov/agencies/employment/open-jobs) — `jobs`  
-  - _Explore and apply for jobs with the Commonwealth of Pennsylvania. Find open positions, special programs for skilled workers and students, and connect with ..._
+- [Jobs in the food industry](https://www.mapleleaffoods.com/careers/job-search/) — `careers`  
+  - _Search Maple Leaf Foods Jobs. We're looking for passionate, hard-working people who love challenges. Come join our team and be part of something big!_
+
+### www.nestle.com — 1 result(s)
+
+- [Search for jobs](https://www.nestle.com/jobs/search-jobs) — `jobs`  
+  - _We have hundreds of jobs at Nestlé worldwide. Search our current opportunities to find the one that's right for you._
+
+### www.progress.com — 1 result(s)
+
+- [Explore Job Opportunities - Progress Careers](https://www.progress.com/company/careers) — `careers`  
+  - _Progress people provide the foundation for digital transformation in a fun collaborative atmosphere. Explore our job openings and join us!_
+
+### www.scribd.com — 1 result(s)
+
+- [Dork Pentakil Team | PDF | Word Press | Computer Security](https://www.scribd.com/document/799850993/Dork-Pentakil-Team)  
+  - _Dork Pentakil Team - Free download as Text File (.txt), PDF File (.pdf) or read online for free._
 
 ### www.search-inc.org — 1 result(s)
 
 - [Jobs - Search Inc.](https://www.search-inc.org/jobs) — `jobs`  
   - _Search offers a range of full time (40 hours) and part time employment opportunities in our Supported Living, Employment and Adult Learning programs._
+
+### www.ubs.com — 1 result(s)
+
+- [Search jobs | UBS Global](https://www.ubs.com/global/en/careers/search-jobs.html) — `careers`  
+  - _Looking for a change? Explore your next big move and search our global job board._
+
+### www.workbc.ca — 1 result(s)
+
+- [Find Jobs](https://www.workbc.ca/search-and-prepare-job/find-jobs) — `jobs`  
+  - _Search for and apply to jobs in British Columbia using the WorkBC Job Board._
