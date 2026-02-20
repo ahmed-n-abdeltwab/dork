@@ -1,212 +1,222 @@
 # Job results for: `(inurl:careers OR inurl:jobs) (inurl:open OR inurl:positions OR inurl:listings OR inurl:vacancies OR inurl:search)`
 
-_Engine: serpapi  |  Generated: 2026-02-19T02:00:09.730472+00:00  |  Results: 41_
+_Engine: serpapi  |  Generated: 2026-02-20T01:56:06.446621+00:00  |  Results: 43_
 
 **Search metadata**:
 - source: serpapi
 - fetched: 50
-- deduped: 41
+- deduped: 43
 
 ## Results grouped by domain
 
-### www.pa.gov — 2 result(s)
+### github.com — 2 result(s)
 
-- [Open Jobs](https://www.pa.gov/agencies/employment/open-jobs) — `jobs`  
-  - _Explore and apply for jobs with the Commonwealth of Pennsylvania. Find open positions, special programs for skilled workers and students, and connect with ..._
-- [Commonwealth of PA - Opportunities for All Job Seekers](https://www.pa.gov/agencies/employment/open-jobs/open-to-public) — `open`  
-  - _If you are looking for a challenging, rewarding career and possess excellent communication skills, apply today! Liquor Enforcement Officers ..._
-
-### bhsg.com — 1 result(s)
-
-- [Job Search | Temp & Permanent Placement](https://bhsg.com/jobs/job-search/) — `jobs`  
-  - _Search our jobs today. Beacon Hill Staffing are specialists in Staffing and Executive Search. We are Located in Boston, MA._
+- [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet)  
+  - _Contains a list of OSINT tools, OSINT tips, datasets, Maltego transform and others. There are free and paid tools you can use and owner is not responsible._
+- [OSINT CHEAT SHEET - List OSINT Tools](https://github.com/zelsaddr/OSINT-Cheat-sheet-)  
+  - _inurl: Search for specific urls or paths; intext: Search for specific words or contects; filetype: Search for files; site: Search from a specified target ..._
 
 ### careers.alaska.edu — 1 result(s)
 
-- [Search - Jobs near me - Careers - University of Alaska System](https://careers.alaska.edu/jobs/search) — `jobs`  
+- [Careers Search - University of Alaska System](https://careers.alaska.edu/jobs/search) — `jobs`  
   - _Search by job title, location, department, category, etc. Search Jobs near me. Filter jobs._
 
-### careers.blackrock.com — 1 result(s)
+### careers.choa.org — 1 result(s)
 
-- [Search our Job Opportunities at BlackRock](https://careers.blackrock.com/search-jobs) — `jobs`  
-  - _524 jobs found. Filter results · Analyst/Associate, Corporate Actions - · Analyst, Accounts Payable & Receivable - GIP · Associate, Financial Institutions ..._
+- [Search results | Find available job openings at Children's ...](https://careers.choa.org/us/en/search-results) — `search`  
+  - _Search results. Find available job openings at Children's Healthcare of Atlanta._
 
-### careers.jamescitycountyva.gov — 1 result(s)
+### careers.msu.edu — 1 result(s)
 
-- [Search Page](https://careers.jamescitycountyva.gov/jobs/search) — `jobs`  
-  - _$20 - $36 / hour DOQ (Depending on Qualifications). On-Call positions available (up to 28 hours / week) James City County's Parks & Recreation Department seeks ..._
+- [Search Page - MSU Careers - Michigan State University](https://careers.msu.edu/jobs/search) — `jobs`  
+  - _Search by job title, location, department, category, etc. Michigan State University Navigation._
 
-### careers.mainlinehealth.org — 1 result(s)
+### careers.nyp.org — 1 result(s)
 
-- [Search Job Opportunities - Careers - Main Line Health](https://careers.mainlinehealth.org/job-search/)  
-  - _Explore open positions at Main Line Health. Search by keyword, location, or category to find the right opportunity for you. Start your career journey with ..._
+- [Search our Job Opportunities at NewYork-Presbyterian](https://careers.nyp.org/search-jobs) — `jobs`  
+  - _We found 346 results · Per Diem Registered Nurse - 7am to 7:30pm - 3 North - Medical Surgical Telemetry - NYP Queens · Unit Clerk - 2 North - Med Surg- ..._
 
-### careers.nmsu.edu — 1 result(s)
+### careers.ohio.gov — 1 result(s)
 
-- [NMSU Jobs - New Mexico State University](https://careers.nmsu.edu/jobs/search) — `jobs`  
-  - _This site is currently an active testing environment. If you are a NMSU applicant on this page, please visit https://jobs.nmsu.edu/ to view our open ..._
+- [Search - Careers - Ohio.gov](https://careers.ohio.gov/search) — `search`  
+  - _Search results for: Careers, Applicant Support, Boards and Commissions, Our State Government, Employee Only Jobs Portal, State Agencies._
+
+### careers.tbr.edu — 1 result(s)
+
+- [TBR | The College System of Tennessee - Tennessee Board ...](https://careers.tbr.edu/jobs/search) — `jobs`  
+  - _The TBR system includes 13 community colleges and 24 colleges of applied technology, providing programs to students across the state, country and world._
 
 ### careers.ua.edu — 1 result(s)
 
 - [UA Staff Employment - Tuscaloosa](https://careers.ua.edu/jobs/search) — `jobs`  
   - _UA Staff Employment ; Administrative Assistant II - Department Only Search - 528606, 528606. Administrative / Professional ; Library Public Services Assistant - ..._
 
-### careers.uh.edu — 1 result(s)
-
-- [UH Central Postings](https://careers.uh.edu/jobs/search/uh-postings) — `jobs`  
-  - _Search by job title, location, department, category, etc. Search Jobs near me. Filter jobs._
-
 ### careers.umich.edu — 1 result(s)
 
-- [Search Jobs | U-M Careers - University of Michigan](https://careers.umich.edu/search-jobs?career_interest=650&work_location=4&position=F&keyword=) — `jobs`  
-  - _All Career Interests Academic & Student Services Academic/Administrative Ungraded Administration Athletics Billing/Medical Coding Clinical Intern/Fieldwork ..._
+- [Search Jobs | U-M Careers - University of Michigan](https://careers.umich.edu/search-jobs) — `jobs`  
+  - _Browse Jobs · Career Interests · Work Locations · Full/Part-Time Positions · Departments · Regular/Temporary._
 
-### careers.upmc.com — 1 result(s)
+### careers.untsystem.edu — 1 result(s)
 
-- [UPMC Job Search Results](https://careers.upmc.com/job-search-results/)  
-  - _Life Changing Medicine starts with you. Browse our open job positions to start your career with UPMC. Apply today._
+- [Search Page - All System Jobs - UNTS Careers](https://careers.untsystem.edu/jobs/search) — `jobs`  
+  - _The College of Pharmacy was established in 2011 and is part of the University of North Texas Health Science Center in Fort Worth (UNTHSC). Other colleges at ..._
 
-### careers.upstate.edu — 1 result(s)
+### careers.utrgv.edu — 1 result(s)
 
-- [Search Page - Upstate Careers](https://careers.upstate.edu/jobs/search) — `jobs`  
-  - _Filter jobs &nbsp; -Categories- Administrative, Secretarial & Clerical Allied Health Information Management & Technology Management & Professional Nurse ..._
+- [The University of Texas Rio Grande Valley Job Site](https://careers.utrgv.edu/postings/search) — `search`  
+  - _To view open positions, please enter your search criteria below. You may view all open positions by not specifying any search criteria and clicking the Search ..._
 
-### holtca.com — 1 result(s)
+### careersourcerc.com — 1 result(s)
 
-- [Open Job Positions At Holt of California | Holt Careers](https://holtca.com/company/careers/open-positions/) — `careers`  
-  - _We are always on the lookout for talented and passionate individuals to join our teams at Holt of California. View our open job positions and apply online!_
+- [Search For Jobs](https://careersourcerc.com/job-seekers/services-for-job-seekers/search-for-jobs/) — `search`  
+  - _Complete an Employ Florida registration and build a resume. Getting started is easy if you follow the steps set out below._
 
-### hr.northeastern.edu — 1 result(s)
+### fr.scribd.com — 1 result(s)
 
-- [Job Listings - Human Resources - Northeastern University](https://hr.northeastern.edu/careers/job-listings/) — `careers`  
-  - _At Northeastern, we don't just provide jobs; we foster a thriving, innovative, global community of the industry's brightest minds. We are open-minded, friendly, ..._
+- [300 Best Boolean Strings: One Page Tip Sheet](https://fr.scribd.com/document/515343369/one-page-tip-sheet-boolean-google-irina-shamaeva)  
+  - _inurl: Search for keywords or phrases in page URL's (shown as green text in Google search results): [inurl:careers] the word “careers” must appear in the URL_
 
-### hr.psu.edu — 1 result(s)
+### hr.mit.edu — 1 result(s)
 
-- [Browse Positions](https://hr.psu.edu/careers/browse-positions) — `careers`  
-  - _Penn State ranks among the Nation's Top Employers for recent graduates in Forbes Survey. Penn State also is the highest-rated higher education employer._
+- [Search Jobs](https://hr.mit.edu/jobs/search) — `jobs`  
+  - _Discover a wide range of career opportunities at MIT and become a part of our innovative and collaborative community by exploring our current job openings ..._
+
+### inboundblogging.com — 1 result(s)
+
+- [Google Search Operators Full List](https://inboundblogging.com/google-search-operators-full-list/)  
+  - _In this guide, I'll share my experience and walk you through the full list of Google search operators to help you take control of your searches._
+
+### jobs.apple.com — 1 result(s)
+
+- [Search Jobs - United States - Jobs - Careers at Apple](https://jobs.apple.com/en-us/search?location=united-states-USA) — `search`  
+  - _Search Results · US - Specialist: Full-Time, Part-Time, and Part-Time Temporary · Production Strategy & Planning Analyst, Apple TV · Product Designer, App Store._
 
 ### jobs.citi.com — 1 result(s)
 
 - [Job Search | Citi Careers](https://jobs.citi.com/search-jobs) — `jobs`  
   - _Search for jobs at Citi. Filter by location, function and keyword to help find a role that may be ideal for you. Apply online today._
 
-### jobs.hr.txstate.edu — 1 result(s)
+### jobs.colostate.edu — 1 result(s)
 
-- [Search Jobs - Texas State University Applicant Portal](https://jobs.hr.txstate.edu/postings/search) — `search`  
-  - _View all open Postings below, or enter search criteria to narrow your search. Keywords. Posted Within. Any time ..._
+- [Search Jobs](https://jobs.colostate.edu/postings/search) — `search`  
+  - _View all open Postings below, or enter search criteria to narrow your search. Keywords. Posted Within. Any time period, Last Day, Last Week, Last Month._
 
-### jobs.northside.com — 1 result(s)
+### jobs.macslist.org — 1 result(s)
 
-- [Northside Hospital Careers | Job Search Results](https://jobs.northside.com/job-search-results/)  
-  - _Northside Hospital is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race,color,religion, ..._
+- [Search Oregon and Washington Jobs | Full Time and Part ...](https://jobs.macslist.org/search) — `search`  
+  - _Mac's List is your source for the best jobs, internships, volunteer opportunities, and event in Oregon and beyond. View all the open jobs on Mac's List or ..._
 
-### jobs.pge.com — 1 result(s)
+### jobs.nyulangone.org — 1 result(s)
 
-- [Search our Job Opportunities at Pacific Gas and Electric ...](https://jobs.pge.com/search-jobs) — `jobs`  
-  - _Search our Job Opportunities at Pacific Gas and Electric Company._
-
-### jobs.purchase.edu — 1 result(s)
-
-- [Purchase College Portal | Search Jobs](https://jobs.purchase.edu/postings/search) — `search`  
-  - _View all open Postings below, or enter search criteria to narrow your search. Keywords. Posted Within. Any time ..._
-
-### jobs.spectrum.com — 1 result(s)
-
-- [Search Spectrum Jobs | Explore Careers by Location & ...](https://jobs.spectrum.com/search-jobs) — `jobs`  
-  - _Search our Job Opportunities at SPECTRUM._
+- [Find the Right Career Fit For You - NYU Langone Health](https://jobs.nyulangone.org/job-search-results/)  
+  - _We have a range of exciting career opportunities, all supported by our unwavering commitment to helping all our faculty and staff reach their full potential._
 
 ### jobs.ucf.edu — 1 result(s)
 
 - [Search Jobs at UCF](https://jobs.ucf.edu/jobs/search) — `jobs`  
   - _Your next career move starts here, where possibilities meet potential – explore UCF's job opportunities._
 
-### jobs.villanova.edu — 1 result(s)
+### jobs.utsouthwestern.edu — 1 result(s)
 
-- [Search Jobs - Villanova University Employment Site](https://jobs.villanova.edu/postings/search?400=2&commit=Search&page=1&query_organizational_tier_3_id=any&utf8=%E2%9C%93) — `search`  
-  - _Search Postings (41) All Jobs Atom Feed ... View all open Postings below, or enter search criteria to narrow your search. Keywords._
-
-### jobs.wisc.edu — 1 result(s)
-
-- [Search Job Openings - Jobs at UW–Madison](https://jobs.wisc.edu/jobs/search) — `jobs`  
-  - _Find job opportunities at the University of Wisconsin–Madison. Job vacancies include Faculty, Staff, Full-Time, and Part-Time positions._
+- [Job Search Results](https://jobs.utsouthwestern.edu/job-search-results/)  
+  - _Search and apply for jobs at UT Southwestern Medical Center, the #1 Best Hospital in Dallas-Fort Worth and world-renowned research institution._
 
 ### liveworkmaryland.com — 1 result(s)
 
 - [Maryland Jobs - Quick Search](https://liveworkmaryland.com/work/search-jobs/) — `search`  
   - _Use this quick search tool to find opportunities by keyword, company or title. Search By: Title. Keyword._
 
-### lucidmotors.com — 1 result(s)
+### musc.career-pages.com — 1 result(s)
 
-- [Search for Jobs | Careers](https://lucidmotors.com/en-sa/careers/search) — `careers`  
-  - _Work alongside some of the most accomplished minds in the automotive and technology industries. Search for job openings and apply today._
+- [Search Jobs at the Medical University of South Carolina | MUSC](https://musc.career-pages.com/jobs/search) — `jobs`  
+  - _Make tomorrow better. Find your ideal job in nursing, education, research, or patient care with us. New RN grads welcome. Search current MUSC job openings._
 
-### masshirespringfield.org — 1 result(s)
+### pdfcoffee.com — 1 result(s)
 
-- [Job Postings For Greater Springfield & Across Massachusetts](https://masshirespringfield.org/search-jobs/) — `search`  
-  - _Thousands Of Job Openings Are Available For Your Review. Our JobQuest Search Engine Has Many Ways For You To Find Your Next Career Move._
+- [300 Best Boolean Strings](https://pdfcoffee.com/download/300-best-boolean-strings-5-pdf-free.html)  
+  - _inurl: Search for keywords or phrases in page URL's (shown as green text in Google search results):. [inurl:careers] the word careers must appear in the URL._
 
-### publicrecords.thecountyoffice.com — 1 result(s)
+### s3-eu-west-1.amazonaws.com — 1 result(s)
 
-- [Human Resources](https://publicrecords.thecountyoffice.com/government-jobs-and-employment-listings-search/california/san-diego-county/source-78167/)  
-  - _The County of San Diego Department of Human Resources provides information on employee benefits, retirement information, County personnel policies, ..._
+- [ERESOURCES.docx](https://s3-eu-west-1.amazonaws.com/s3-euw1-ap-pe-ws4-cws-documents.ri-prod/9780367567392/ERESOURCES.docx)  
+  - _inurl: Search for keywords or phrases in page URLs: • inurl:careers – the word "careers" must appear in the URL. • inurl:directory faculty earth ..._
 
 ### stanford.io — 1 result(s)
 
 - [Stanford University Careers - Jobs](https://stanford.io/search-jobs) — `jobs`  
   - _At Stanford, every employee plays a part in our mission for a better tomorrow—from researchers to operations and from food services to educators._
 
+### t.me — 1 result(s)
+
+- [Boolean Search Hacks](https://t.me/s/booleansearch?before=238) — `search`  
+  - _... inurl:careers -jobs -vacancies -vacancy. А какие идеи увидите вы? Го ... inurl:vacancies -"не ищу работу" P.S. будет два опроса ‍♂️ #site #or ..._
+
+### thesearchauthority.weebly.com — 1 result(s)
+
+- [The Start](http://thesearchauthority.weebly.com/uploads/1/4/7/6/14768720/strings_major.xlsx)  
+  - _... inurl:jobs -inurl:job -intitle:jobs -intitle:job -intitle:sample -intitle ... inurl:search "United States". 4, site:Naymz.com java -directory, site ..._
+
+### www.adworks.org — 1 result(s)
+
+- [Search For Jobs](https://www.adworks.org/job-seekers/search-for-jobs/) — `search`  
+  - _Search the thousands of jobs listed on this statewide database of positions. Local Job Search Sites Connecting Colorado Colorado Non Profit Association Job ..._
+
+### www.att.jobs — 1 result(s)
+
+- [Search our Job Opportunities at AT&T](https://www.att.jobs/search-jobs) — `jobs`  
+  - _We found 1989 jobs · Associate Director-Business Operations · Retail Sales Consultant · Retail Store Manager · Lead Project/Program Mgmt · Integrated Sales ..._
+
 ### www.azstatejobs.gov — 1 result(s)
 
 - [Search Page](https://www.azstatejobs.gov/jobs/search) — `jobs`  
   - _As a State of Arizona employee, you can choose from more than 1,700 types of career opportunities, all with the same employer, making job mobility and career ..._
 
+### www.careers.peraton.com — 1 result(s)
+
+- [Careers at Peraton | Search Jobs](https://www.careers.peraton.com/search-jobs) — `jobs`  
+  - _Explore career opportunities at Peraton and help tackle critical national security challenges. Join our team to shape the future through innovation, ..._
+
 ### www.careersatmainehealth.org — 1 result(s)
 
-- [Job Search Results - MaineHealth Careers](https://www.careersatmainehealth.org/jobs/search) — `jobs`  
-  - _Search 1245 Careers available at MaineHealth._
+- [Job Search Results - MaineHealth Careers](https://www.careersatmainehealth.org/search/jobs) — `jobs`  
+  - _Interested in working for MaineHealth? Join our Talent Network so we can keep you updated about upcoming events, system updates, and jobs ..._
 
-### www.cnyworks.com — 1 result(s)
+### www.clemson.edu — 1 result(s)
 
-- [CNY Open Positions - Job Search](http://www.cnyworks.com/jobs/cny-open-positions) — `jobs`  
-  - _CNY Open Positions · Bluefors - Open Positions - Posted on 10/14/25 · Community Options - Home Care Support - Posted on 08/14/25 · Bugs Bee Gone - Pest Control ..._
+- [Search Jobs](https://www.clemson.edu/human-resources/careers/search-jobs/) — `careers`  
+  - _Search jobs. Find your dream job. Explore our open positions today! Staff Positions (External Applicants- Screen Reader Mode) Internal Applicants Search Staff ..._
 
-### www.gpo.gov — 1 result(s)
+### www.indeed.com — 1 result(s)
 
-- [Search - USAJOBS](https://www.gpo.gov/who-we-are/careers/open-positions) — `careers`  
-  - _Once you add a resume to your profile, make it searchable. Agency recruiters can view your profile and resume when it's searchable. They may reach out to ..._
+- [Open Jobs, Employment in Chicago, IL](https://www.indeed.com/q-open-l-chicago,-il-jobs.html)  
+  - _Delivery Driver - Palatine - Full-Time & Part-Time Jobs Available!*. Open Positions: FT & PT - Drive 2, 3, or 4 days per week! Flexible Shifts: 10-hr/day shifts ..._
+
+### www.instagram.com — 1 result(s)
+
+- [Блог про рекрутинг та пошук роботи (@spin.hire.career)](https://www.instagram.com/spin.hire.career/)  
+  - _Як шукачам роботи не просто вижити, а й потрапити в компанію мрії? Існує один лайфхак в #linkedin , про який небагато хто знає, але він здатен суттєво підвищити ..._
 
 ### www.justice.gov — 1 result(s)
 
 - [Search Opportunities | United States Department of Justice](https://www.justice.gov/careers/search-opportunities) — `careers`  
   - _You can search for openings by location, keyword, or within a specific Department of Justice agency; post and create a resume; apply for Federal Government jobs ..._
 
-### www.kaiserpermanentejobs.org — 1 result(s)
-
-- [Search our Job Opportunities at Kaiser Permanente](https://www.kaiserpermanentejobs.org/search-jobs) — `jobs`  
-  - _3069 Job Results Jobs · Licensed Masters Mental Health Professional DBT Team · Operations Specialist IV · Nurse Practitioner II- TEMP · Nurse Practitioner II- TEMP._
-
 ### www.linkedin.com — 1 result(s)
 
-- [3869000+ Jobs in United States (294292 new)](https://www.linkedin.com/jobs/search) — `jobs`  
-  - _Today's 3869000+ jobs in United States. Leverage your professional network, and get hired. New United States jobs added daily._
+- [4192000+ Jobs in United States (103400 new)](https://www.linkedin.com/jobs/search) — `jobs`  
+  - _Today's 4192000+ jobs in United States. Leverage your professional network, and get hired. New United States jobs added daily._
 
 ### www.lockheedmartinjobs.com — 1 result(s)
 
 - [Search our Job Opportunities at Lockheed Martin Corporation](https://www.lockheedmartinjobs.com/search-jobs) — `jobs`  
   - _Search for available job openings at Lockheed Martin Corporation._
 
-### www.nytco.com — 1 result(s)
+### www.scribd.com — 1 result(s)
 
-- [Job Listings](https://www.nytco.com/careers/job-listings/) — `careers`  
-  - _If you find our mission and vision inspiring, we invite you to apply for any of our open positions. And if you are a current Times employee, please apply on our ..._
+- [Web Crawlers & SEO Enthusiasts | PDF | Computer Network](https://www.scribd.com/document/461932690/2k-de-dorks-bestiales-mix)  
+  - _This document contains a list of search strings targeting parameters in URLs that may indicate vulnerabilities on websites. Some examples include "index.php ..._
 
-### www.theladders.com — 1 result(s)
+### www.tn.gov — 1 result(s)
 
-- [Find the Highest Paying Available Jobs - $100K Job Search](https://www.theladders.com/jobs/search-jobs) — `jobs`  
-  - _Ladders will help you Advance your career and find your next career opportunity with Ladder's job search featuring 240000 jobs that pay over 100K near you._
-
-### www.ziprecruiter.com — 1 result(s)
-
-- [Job Search - Jobs Hiring Near You - Feb 18, 2026](https://www.ziprecruiter.com/Search-Jobs-Near-Me) — `search`  
-  - _Explore a variety of JOBS NEAR YOU (full-time, part-time, or remote). Browse the most comprehensive job listings and one click apply!_
+- [Job Search](https://www.tn.gov/workforce/jobs-and-education/job-search.html) — `jobs`  
+  - _Jobs4TN.gov gives you an unprecedented number of jobs to search, averaging 400,000 every day, and also helps you build a resume and discover labor market ..._
