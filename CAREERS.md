@@ -1,154 +1,121 @@
 # Job results for: `(inurl:careers OR inurl:jobs) (inurl:open OR inurl:positions OR inurl:listings OR inurl:vacancies OR inurl:search)`
 
-_Engine: serpapi  |  Generated: 2026-03-04T01:53:30.966447+00:00  |  Results: 30_
+_Engine: serpapi  |  Generated: 2026-03-05T01:56:29.649433+00:00  |  Results: 24_
 
 **Search metadata**:
 - source: serpapi
-- fetched: 30
-- deduped: 30
+- fetched: 25
+- deduped: 24
 
 ## Results grouped by domain
 
-### www.google.com — 2 result(s)
+### www.scribd.com — 3 result(s)
 
-- [Search Jobs - Careers](https://www.google.com/about/careers/jobs) — `careers`  
-  - _Find your next job at Google — Careers at Google. Search by location, role, skills, and more._
-- [Search for your career at Google.](https://www.google.com/about/careers/applications/) — `careers`  
-  - _Join Google Careers and build what's next, today. Explore career opportunities in engineering, design, sales, hardware, and more. Make a global impact with ..._
+- [Google Boolean Search Operators Guide | PDF](https://www.scribd.com/document/515343369/one-page-tip-sheet-boolean-google-irina-shamaeva)  
+  - _inurl: Search for keywords or phrases in page URL's (shown as green text in Google search results): [inurl:careers] the word “careers” must appear in the URL_
+- [1 - Dorks | PDF | Login | World Wide Web](https://www.scribd.com/document/472367010/1-Dorks)  
+  - _The document contains a list of search queries related to finding administrative interfaces and login pages on websites. Many queries look for pages ..._
+- [IrinaShamaeva, DavidMichaelGalley CustomSearch ...](https://www.scribd.com/document/883666438/IrinaShamaeva-DavidMichaelGalley-CustomSearch-DiscoverMore-ACompleteGuidetoGoogleProgrammableSearchEngines-CRCPress-2021)  
+  - _inurl: Search for keywords or phrases in page URLs: • inurl:careers – the word "careers" must appear in the URL. • inurl:directory faculty earth ..._
 
 ### www.indeed.com — 2 result(s)
 
-- [Indeed: Job Search](https://www.indeed.com/)  
-  - _With Indeed, you can search millions of jobs online to find the next step in your career. With tools for job search, resumes, company reviews and more, ..._
-- [Job Openings jobs in San Jose, Ca](https://www.indeed.com/q-job-openings-l-san-jose,-ca-jobs.html)  
-  - _7058 Job Openings jobs available in San Jose, CA on Indeed.com. Apply to Stocker, Customer Service Representative, Technician and more!_
-
-### arizonaatwork.com — 1 result(s)
-
-- [Search Jobs | ARIZONA@WORK](https://arizonaatwork.com/find-jobs/search-jobs) — `jobs`  
-  - _Arizona Job Connection (AJC) is a no-cost jobs database for our state's public workforce system. We offer job matching, job vacancy listings, and current labor ..._
-
-### careers.msu.edu — 1 result(s)
-
-- [Search Page - MSU Careers](https://careers.msu.edu/jobs/search) — `jobs`  
-  - _Search by job title, location, department, category, etc. Michigan State University Navigation._
-
-### careers.ua.edu — 1 result(s)
-
-- [Search Page - Careers at UA - The University of Alabama](https://careers.ua.edu/jobs/search) — `jobs`  
-  - _UA Staff Employment ; Benefits Specialist II - 528748, 528748. Human Resources ; Administrative Assistant II - 528747, 528747. Administrative / Professional._
+- [Search Jobs, Employment in Los Angeles, CA](https://www.indeed.com/q-search-l-los-angeles,-ca-jobs.html)  
+  - _5725 Search jobs available in Los Angeles, CA on Indeed.com. Apply to Stage Hand, Pretrial Services Officer, Community Service Officer and more!_
+- [Open Jobs, Employment in Chicago, IL](https://www.indeed.com/q-open-l-chicago,-il-jobs.html)  
+  - _27066 Open jobs available in Chicago, IL on Indeed.com. Apply to Stocker, Dishwasher, Certified Medical Assistant and more!_
 
 ### careers.umich.edu — 1 result(s)
 
 - [Search Jobs | U-M Careers - University of Michigan](https://careers.umich.edu/search-jobs) — `jobs`  
   - _Browse Jobs · Career Interests · Work Locations · Full/Part-Time Positions · Departments · Regular/Temporary._
 
-### careers.zoom.us — 1 result(s)
+### euraxess.ec.europa.eu — 1 result(s)
 
-- [Search Page](https://careers.zoom.us/jobs/search) — `jobs`  
-  - _We're Hiring! Zoom offers a structured hybrid working environment for our employees. Open roles in Engineering, Marketing, Legal, IT, Agentic AI._
+- [EURAXESS Jobs - European Union](https://euraxess.ec.europa.eu/jobs/search) — `jobs`  
+  - _No information is available for this page._
 
-### dev.to — 1 result(s)
+### jobs.apple.com — 1 result(s)
 
-- [️‍♂️ Unlock Hidden Job Opportunities with Google Dorking](https://dev.to/nish2005karsh/unlock-hidden-job-opportunities-with-google-dorking-the-job-hunters-secret-weapon-part-1-37pp)  
-  - _Google Dorking, also known as Google hacking, is the use of advanced search operators to uncover hidden or hard-to-find content on the web._
+- [Search Jobs - United States](https://jobs.apple.com/en-us/search?location=united-states-USA) — `search`  
+  - _Explore all United States jobs at Apple. Create a profile and apply today._
 
-### dol.ny.gov — 1 result(s)
+### jobs.mitalent.org — 1 result(s)
 
-- [Jobs and Careers | Department of Labor](https://dol.ny.gov/jobs-and-careers) — `careers`  
-  - _Get the resources and help you need to find a job, explore career options and learn about the variety of programs offered._
+- [Jobs in Michigan](https://jobs.mitalent.org/job-search) — `search`  
+  - _Use our job search function to identify open positions in your area and industry._
 
-### inova-search-drupal.com — 1 result(s)
+### jobs.northwell.edu — 1 result(s)
 
-- [Search Jobs - Inova Careers - Sign in](https://inova-search-drupal.com/careers/results) — `careers`  
-  - _Register for the Inova Talent Community. Receive new job notifications, recruiting news, and stay up-to-date on hiring events near you._
+- [Job Search Results](https://jobs.northwell.edu/job-search-results/)  
+  - _Job search. Careers Well Cared For. Search Jobs. Job ID, Keywords or MOS Code. Begin typing to find suggestions. Profession._
 
-### jobs.citi.com — 1 result(s)
+### jobs.ohiomeansjobs.monster.com — 1 result(s)
 
-- [Job Search | Citi Careers](https://jobs.citi.com/search-jobs) — `jobs`  
-  - _Search for jobs at Citi. Filter by location, function and keyword to help find a role that may be ideal for you. Apply online today._
+- [Job Search](https://jobs.ohiomeansjobs.monster.com/Search.aspx?pg=1&sid=68&rad=20&rad_units=miles) — `search`  
+  - _Find a job on OhioMeansJobs today. Use our job search engine to find and apply for the job of your dreams in OH. Jobs in Ohio, Employment, ..._
 
-### jobs.ebayinc.com — 1 result(s)
+### jobs.uncw.edu — 1 result(s)
 
-- [Search for Jobs - Careers - eBay Inc.](https://jobs.ebayinc.com/us/en/search-results) — `search`  
-  - _Search for job openings at eBay._
+- [Search Jobs](https://jobs.uncw.edu/postings/search) — `search`  
+  - _Search Postings (90) All Jobs Atom Feed ... View all open Postings below, or enter search criteria to narrow your search. Keywords._
 
-### jobs.ksl.com — 1 result(s)
+### mn.gov — 1 result(s)
 
-- [Jobs Search | Find A Job](https://jobs.ksl.com/search) — `search`  
-  - _Looking for a job? With KSL Jobs, you can search millions of jobs online to find the next step in your career. Find your dream job now!_
+- [Search Jobs / Careers in the State of Minnesota - MN.gov](https://mn.gov/mmb/careers/search-for-jobs/) — `careers`  
+  - _Offers a job search tool for the State of Minnesota, information about student worker and intern opportunities, links to other state employers, ..._
 
-### jobs.oregonstate.edu — 1 result(s)
+### neemiaspereira.blogspot.com — 1 result(s)
 
-- [Oregon State University Jobs Portal | Search Jobs](https://jobs.oregonstate.edu/postings/search) — `search`  
-  - _Search Postings (317) All Jobs Atom Feed ... View all open Postings below, or enter search criteria to narrow your search. Keywords._
+- [Neemias Pereira: 2014](http://neemiaspereira.blogspot.com/2014/)  
+  - _inurl:”jobs.php?id=” inurl:”out.php?id=” inurl:”creator.php?id=” inurl:”calevent.php?id=” inurl:”program.php?id=” inurl:/club.php?cid ..._
 
-### jobs.universityofcalifornia.edu — 1 result(s)
+### oag.ca.gov — 1 result(s)
 
-- [Advanced search - Jobs - University of California](https://jobs.universityofcalifornia.edu/search?multiple_locations=1) — `search`  
-  - _Use the form to search for jobs and career opportunities. University of California, Human Resources. If you need assistance with this website, please contact ..._
+- [Job Vacancies | State of California - Department of Justice](https://oag.ca.gov/careers/job-vacancies) — `careers`  
+  - _Job vacancies are available only to individuals who have eligibility based on either: Successful completion of a competitive State civil service examination; or ..._
 
-### usccareers.usc.edu — 1 result(s)
+### pdfcoffee.com — 1 result(s)
 
-- [Search our Job Opportunities at University of ... - USC Careers](https://usccareers.usc.edu/search-jobs) — `jobs`  
-  - _University of Southern California offers meaningful careers with growth and impact. Search USC jobs by keyword, location, category and more and apply here._
+- [Пособие It Рекрутера](https://pdfcoffee.com/-it--4-pdf-free.html)  
+  - _Поэтому лучшим способом сорсинга кандидатов на StackOverflow через Boolean запросы. Примеры Boolean запросов: ○ site:careers.stackoverflow.com -inurl:jobs - ..._
 
-### www.altres.com — 1 result(s)
+### publicrecords.thecountyoffice.com — 1 result(s)
 
-- [Hawaii Job Search, Employment Services](https://www.altres.com/jobs/search) — `jobs`  
-  - _Hawaii's top job search for full-time, part-time and project-based employment on Oahu, Maui and the Big Island. Browse hundreds of jobs ..._
+- [Open-Competitive Job Opportunities](https://publicrecords.thecountyoffice.com/government-jobs-and-employment-listings-search/california/santa-clara-county/source-78194/)  
+  - _Associate Civil Engineer · San Jose Metropolitan Area, CA · Full-Time - $138,415.68 - $168,247.04 Annually · Category: Engineering · Department: ..._
 
 ### www.azstatejobs.gov — 1 result(s)
 
 - [Search Page](https://www.azstatejobs.gov/jobs/search) — `jobs`  
   - _As a State of Arizona employee, you can choose from more than 1,700 types of career opportunities, all with the same employer, making job mobility and career ..._
 
-### www.brunswick.com — 1 result(s)
+### www.instagram.com — 1 result(s)
 
-- [Search Jobs :: Brunswick Corporation (BC)](https://www.brunswick.com/careers/search-jobs) — `careers`  
-  - _Are you ready to make some waves and join our crew? Check out our latest job opportunities and apply today - new jobs are being added every day._
+- [Блог про рекрутинг та пошук роботи (@spin.hire.career)](https://www.instagram.com/spin.hire.career/)  
+  - _Як шукачам роботи не просто вижити, а й потрапити в компанію мрії? Існує один лайфхак в #linkedin , про який небагато хто знає, але він здатен суттєво підвищити ..._
 
-### www.capitalonecareers.com — 1 result(s)
+### www.iowaworkforcedevelopment.gov — 1 result(s)
 
-- [Search our Job Opportunities at Capital One](https://www.capitalonecareers.com/search-jobs) — `jobs`  
-  - _1505 Jobs · Senior Director of Learning & Development – Capital One Auto Sales · Senior Software Engineer (Full Stack) - Intelligent Foundations and Experiences ( ..._
-
-### www.careers.peraton.com — 1 result(s)
-
-- [Search Jobs](https://www.careers.peraton.com/search-jobs) — `jobs`  
-  - _Explore career opportunities at Peraton and help tackle critical national security challenges. Join our team to shape the future through innovation, ..._
-
-### www.chicago.gov — 1 result(s)
-
-- [City of Chicago :: Jobs Now](https://www.chicago.gov/city/en/narr/misc/jobs/jobsnow.html) — `jobs`  
-  - _This page contains information on where residents can find job opportunities in the public, private, and nonprofit sectors._
-
-### www.fbin.com — 1 result(s)
-
-- [Search Careers](https://www.fbin.com/careers/search-careers/) — `careers`  
-  - _We have a wide range of open roles across our companies. Explore opportunities in North America by clicking locations on the map, or via the search tool below._
-
-### www.illinois.gov — 1 result(s)
-
-- [Find Jobs](https://www.illinois.gov/employment/find-jobs.html)  
-  - _Job Openings in Illinois. Use the Illinois workNet JobFinder to find recent job listings that best fit your skills and interests._
-
-### www.jobradar.app — 1 result(s)
-
-- [Master Google Search Operators to Find Hidden Job ...](https://www.jobradar.app/blog/google-search-operators-for-jobs) — `jobs`  
-  - _Learn advanced Google search operators (dorks) to uncover job listings that most job seekers never see. Find opportunities before they hit job ..._
+- [Find Your Next Great Career in Iowa](https://www.iowaworkforcedevelopment.gov/search-jobs) — `jobs`  
+  - _Iowa's largest jobs bank is the best source for finding your next career. Nearly 50,000 job openings in any industry you can imagine._
 
 ### www.jointheportauthority.com — 1 result(s)
 
 - [The Port Authority of New York and New Jersey - Careers](https://www.jointheportauthority.com/jobs/search) — `jobs`  
   - _Welcome! A search can be performed by typing in a keyword or by selecting a field from the form. Click “Search” to view the results and click on the job title ..._
 
-### www.schools.nyc.gov — 1 result(s)
+### www.justice.gov — 1 result(s)
 
-- [Current Career Openings - NYC DOE](https://www.schools.nyc.gov/careers/administration-and-central-offices/search-openings) — `careers`  
-  - _Please click the plus "+" sign next to each Division office to view current vacancies. Thank you for your interest in job opportunities at one of the Department ..._
+- [Careers | Search Opportunities | United States ...](https://www.justice.gov/careers/search-opportunities) — `careers`  
+  - _You can search for openings by location, keyword, or within a specific Department of Justice agency; post and create a resume; apply for Federal Government jobs ..._
 
-### www.usajobs.gov — 1 result(s)
+### www.kaiserpermanentejobs.org — 1 result(s)
 
-- [USAJOBS - The Federal Government's official employment site](https://www.usajobs.gov/)  
-  - _Search and apply for federal jobs. Learn about unique hiring paths for veterans, students and graduates, individuals with a disability, and more._
+- [Search our Job Opportunities at Kaiser Permanente](https://www.kaiserpermanentejobs.org/search-jobs) — `jobs`  
+  - _3103 Job Results · Staff Nurse II - Emergency Department Various Shifts and Schedules- Fremont Area · Reporting & Analytics Master's Intern · Senior Manager, ..._
+
+### www.pa.gov — 1 result(s)
+
+- [Open Jobs](https://www.pa.gov/agencies/employment/open-jobs) — `jobs`  
+  - _Explore and apply for jobs with the Commonwealth of Pennsylvania. Find open positions, special programs for skilled workers and students, and connect with ..._
