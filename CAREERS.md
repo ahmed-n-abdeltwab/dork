@@ -1,216 +1,152 @@
 # Job results for: `(inurl:careers OR inurl:jobs) (inurl:open OR inurl:positions OR inurl:listings OR inurl:vacancies OR inurl:search)`
 
-_Engine: serpapi  |  Generated: 2026-03-08T01:58:08.789338+00:00  |  Results: 43_
+_Engine: serpapi  |  Generated: 2026-03-09T01:58:53.283941+00:00  |  Results: 29_
 
 **Search metadata**:
 - source: serpapi
-- fetched: 50
-- deduped: 43
+- fetched: 29
+- deduped: 29
 
 ## Results grouped by domain
 
-### www.ziprecruiter.com — 3 result(s)
-
-- [Search Jobs in Memphis, TN (NOW HIRING)](https://www.ziprecruiter.com/Jobs/Search/-in-Memphis,TN) — `jobs`  
-  - _Browse 60 MEMPHIS, TN SEARCH jobs from companies (hiring now) with openings. Find job postings near you and 1-click apply to your next ..._
-- [$67k-$600k Search Jobs in Jacksonville, FL (NOW HIRING)](https://www.ziprecruiter.com/Jobs/Search/-in-Jacksonville,FL) — `jobs`  
-  - _Browse 60 JACKSONVILLE, FL SEARCH jobs from companies (hiring now) with openings. Find job opportunities near you and apply!_
-- [Search Jobs in San Antonio, TX (NOW HIRING)](https://www.ziprecruiter.com/Jobs/Search/-in-San-Antonio,TX) — `jobs`  
-  - _Browse 60 SAN ANTONIO, TX SEARCH jobs from companies (hiring now) with openings. Find job opportunities near you and apply!_
-
 ### www.indeed.com — 2 result(s)
 
-- [Job Search jobs in Atlanta, Ga](https://www.indeed.com/q-job-search-l-atlanta,-ga-jobs.html)  
-  - _3914 Job Search jobs available in Atlanta, GA on Indeed.com. Apply to Warehouse Associate, Security Guard, Security Officer and more!_
 - [Open Jobs, Employment in Chicago, IL](https://www.indeed.com/q-open-l-chicago,-il-jobs.html)  
   - _27181 Open jobs available in Chicago, IL on Indeed.com. Apply to Stocker, Dishwasher, Warehouse Worker and more!_
+- [Job Search jobs in Worcester, Ma](https://www.indeed.com/q-job-search-l-worcester,-ma-jobs.html)  
+  - _We are hiring immediately for full time and part time FOOD SERVICE WORKER positions. Schedule: Full time and part time; Days and hours may vary. Requirement: ..._
 
-### ca.indeed.com — 1 result(s)
+### careers.amnh.org — 1 result(s)
 
-- [Indeed: Job Search Canada](https://ca.indeed.com/)  
-  - _Job Search by Indeed. The #1 job site in Canada. Search millions of jobs from thousands of job boards, newspapers, classifieds and company websites on ..._
+- [American Museum of Natural History Portal | Search Jobs](https://careers.amnh.org/postings/search) — `search`  
+  - _Search Postings (39) All Jobs Atom Feed ... View all open Postings below, or enter search criteria to narrow your search. Keywords._
 
-### ca.linkedin.com — 1 result(s)
+### careers.jamescitycountyva.gov — 1 result(s)
 
-- [22000+ Jobs in Vancouver, British Columbia, Canada ...](https://ca.linkedin.com/jobs/jobs-in-vancouver-bc) — `jobs`  
-  - _Vancouver Cabin Crew Opportunities (Dubai Based, Relocation Provided). Emirates. Vancouver, British Columbia, Canada. Actively Hiring. 2 weeks ago._
-
-### careers-peelregion.icims.com — 1 result(s)
-
-- [Current job listings - Peelregion.ca](https://careers-peelregion.icims.com/jobs/search?mobile=false&width=1116&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) — `jobs`  
-  - _Accessibility · Connect to Peel email signup · Holiday hours · Municipal information (311) · Programs and services._
-
-### careers.brownsvilletx.gov — 1 result(s)
-
-- [We're Hiring!](https://careers.brownsvilletx.gov/jobs/search) — `jobs`  
-  - _We're Hiring! ; 417 - Equipment Operator III. Labor/Operations. Street Maintenance. Full Time. Brownsville, Texas, United States ; 510 - Administrative Supervisor._
+- [Apply for a Career with James City County](https://careers.jamescitycountyva.gov/jobs/search) — `jobs`  
+  - _Search by job title, location, department, category, etc. Search. Filter jobs. &nbsp;. -Employment Types ..._
 
 ### careers.msu.edu — 1 result(s)
 
-- [Search Page - MSU Careers - Michigan State University](https://careers.msu.edu/jobs/search) — `jobs`  
-  - _The Career Services Network is looking for an energetic, experienced, career professional to join our team to serve as the College of Arts & Letters ..._
+- [Search Page - MSU Careers](https://careers.msu.edu/jobs/search) — `jobs`  
+  - _Michigan State University's Veterinary Medical Center (VMC) is seeking candidates for 10 full-time veterinary assistant positions. VMC is an emergency & ..._
 
-### careers.ua.edu — 1 result(s)
+### careers.mta.org — 1 result(s)
 
-- [Search Page - Careers at UA - The University of Alabama](https://careers.ua.edu/jobs/search) — `jobs`  
-  - _UA Staff Employment ; Administrative Assistant II - CCHS Rural Programs - 528731, 528731. Administrative / Professional; Office/Clerical Support ; Associate Dean ..._
+- [Open positions at the MTA - New York Careers](https://careers.mta.org/search/jobs/in/ny-new-york) — `jobs`  
+  - _Search 286 New York Careers available at Metropolitan Transportation Authority._
 
-### careers.upstate.edu — 1 result(s)
+### careers.newschool.edu — 1 result(s)
 
-- [Search Page - Careers at Upstate](https://careers.upstate.edu/jobs/search) — `jobs`  
-  - _Filter jobs &nbsp; -Categories- Administrative, Secretarial & Clerical Allied Health Information Management & Technology Management & Professional Nurse ..._
-
-### careersourcerc.com — 1 result(s)
-
-- [Search For Jobs](https://careersourcerc.com/job-seekers/services-for-job-seekers/search-for-jobs/) — `search`  
-  - _Search for the right job for you through the CareerSource Research Coast page. Visit our website today to get started._
-
-### dhrm.utah.gov — 1 result(s)
-
-- [Search Jobs | Division of Human Resource Management](https://dhrm.utah.gov/search-jobs/) — `search`  
-  - _Search active job descriptions found within Utah state government. Find features of a job such as the minimum requirements._
-
-### github.com — 1 result(s)
-
-- [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet)  
-  - _OSINT cheat sheet, list OSINT tools, wiki, dataset, article, book , red team OSINT for hackers and OSINT tips and OSINT branch. This repository will grow ..._
-
-### inboundblogging.com — 1 result(s)
-
-- [Google Search Operators Full List](https://inboundblogging.com/google-search-operators-full-list/)  
-  - _site:linkedin.com intitle:”blogging” inurl:”jobs”. Google will ... site intitle inurl search operator._
-
-### jobs.cityofchesapeake.net — 1 result(s)
-
-- [City of Chesapeake Portal | Search Jobs](https://jobs.cityofchesapeake.net/postings/search) — `search`  
-  - _Search Postings (48) All Jobs Atom Feed ... View all open Postings below, or enter search criteria to narrow your search. Keywords._
+- [The New School Job Site | Search Jobs](https://careers.newschool.edu/postings/search) — `search`  
+  - _To view open positions, please enter your search criteria below. You may view all open positions by not specifying any search criteria and clicking the Search ..._
 
 ### jobs.ksl.com — 1 result(s)
 
 - [Jobs Search | Find A Job](https://jobs.ksl.com/search) — `search`  
   - _Looking for a job? With KSL Jobs, you can search millions of jobs online to find the next step in your career. Find your dream job now!_
 
-### jobs.mississauga.ca — 1 result(s)
-
-- [Jobs at City of Mississauga](https://jobs.mississauga.ca/)  
-  - _Are you a current City of Mississauga employee? Login to your candidate profile to view and apply for internal job postings._
-
 ### jobs.mitalent.org — 1 result(s)
 
 - [Jobs in Michigan](https://jobs.mitalent.org/job-search) — `search`  
   - _Use our job search function to identify open positions in your area and industry._
 
-### jobs.nyulangone.org — 1 result(s)
+### jobs.nm.org — 1 result(s)
 
-- [Find the Right Career Fit For You](https://jobs.nyulangone.org/job-search-results/)  
-  - _We have a range of exciting career opportunities, all supported by our unwavering commitment to helping all our faculty and staff reach their full potential._
+- [Search our Job Opportunities at Northwestern Medicine](https://jobs.nm.org/search-jobs?fl=6252001,1000000000100) — `jobs`  
+  - _Sign up for Job Alerts ... Areas of Interest. Select a job category from the list of options. Search for a location and select one from the list of suggestions._
 
 ### jobs.ohiomeansjobs.monster.com — 1 result(s)
 
-- [Search jobs on OhioMeansJobs - Monster](https://jobs.ohiomeansjobs.monster.com/search.aspx?sid=68) — `search`  
+- [Search jobs on OhioMeansJobs](https://jobs.ohiomeansjobs.monster.com/search.aspx?sid=68) — `search`  
   - _Find a job on OhioMeansJobs today. Use our job search engine to find and apply for the job of your dreams in OH. Jobs in Ohio, Employment, ..._
 
-### jobs.rutgers.edu — 1 result(s)
+### jobs.virginia.edu — 1 result(s)
 
-- [Rutgers University Employment Opportunities | Search Jobs](https://jobs.rutgers.edu/postings/search) — `search`  
-  - _To view open positions, please enter your search criteria below. You may view all open positions by not specifying any search criteria and clicking the Search ..._
+- [Search results | Find available job openings at University of ...](https://jobs.virginia.edu/us/en/search-results) — `search`  
+  - _Your search results for the jobs at University of Virginia.Find the available job openings and apply for the job which matches your ..._
 
 ### jobs.wisc.edu — 1 result(s)
 
 - [Search Job Openings - Jobs at UW–Madison](https://jobs.wisc.edu/jobs/search) — `jobs`  
   - _Find job opportunities at the University of Wisconsin–Madison. Job vacancies include Faculty, Staff, Full-Time, and Part-Time positions._
 
-### jobsourceusa.com — 1 result(s)
+### liveworkmaryland.com — 1 result(s)
 
-- [Current Job Openings in Omaha - Find your next job ...](https://jobsourceusa.com/search-jobs/) — `search`  
-  - _Search Jobs ; Office / Admin · $18–$20/hour ; Lead Carpet Cleaning Technician · $18-$20/hour ; Maintenance Mechanics · $26.14–$28.70/hour ; Class A Driver · $24–$26/ ..._
+- [Maryland Jobs - Quick Search](https://liveworkmaryland.com/work/search-jobs/) — `search`  
+  - _Use this quick search tool to find opportunities by keyword, company or title. Search By: Title. Keyword._
 
-### lucidmotors.com — 1 result(s)
+### opportunities.columbia.edu — 1 result(s)
 
-- [Search for Jobs | Careers](https://lucidmotors.com/en-sa/careers/search) — `careers`  
-  - _Work alongside some of the most accomplished minds in the automotive and technology industries. Search for job openings and apply today._
+- [Search Staff Jobs](https://opportunities.columbia.edu/jobs/search?page=2) — `jobs`  
+  - _Title, Category, Department, Employment Type, Location, Grade. Student Academic Support Worker (SHPEP/MedPrep Preceptor). Stdnt Affairs/Educational Admn._
 
-### mn.gov — 1 result(s)
+### publicrecords.thecountyoffice.com — 1 result(s)
 
-- [Search Jobs / Careers in the State of Minnesota - MN.gov](https://mn.gov/mmb/careers/search-for-jobs/) — `careers`  
-  - _Offers a job search tool for the State of Minnesota, information about student worker and intern opportunities, links to other state employers, ..._
+- [Job Opportunities | Sorted by Job Title ascending | .](https://publicrecords.thecountyoffice.com/government-jobs-and-employment-listings-search/california/contra-costa-county/source-78007/)  
+  - _You must submit a separate online application for each recruitment. If our current openings do not include jobs you are interested in at this ..._
 
-### usccareers.usc.edu — 1 result(s)
+### trialcourtjobs.mass.gov — 1 result(s)
 
-- [Search our Job Opportunities at University of Southern ...](https://usccareers.usc.edu/search-jobs) — `jobs`  
-  - _University of Southern California offers meaningful careers with growth and impact. Search USC jobs by keyword, location, category and more and apply here._
+- [Search Page - Massachusetts Trial Court Jobs - Mass.gov](https://trialcourtjobs.mass.gov/jobs/search) — `jobs`  
+  - _Jobs with the Court System._
 
-### www.adeccousa.com — 1 result(s)
+### www.amazon.jobs — 1 result(s)
 
-- [Search for jobs at Adecco across the country](https://www.adeccousa.com/jobs/job-search/cat-medical-science-s-new-jersey-c-princeton/?jobCategories=ADUS-3300%7C&countrysubdivisionfacet=MARYLAND%7CHAWAII%7CFLORIDA%7CDELAWARE%7C) — `jobs`  
-  - _Beware of fraudulent messages from scammers impersonating Adecco US recruiters. We never ask for payment during the recruitment process. Please verify ..._
+- [Job search | Amazon.jobs](https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&job_type=Full-Time&cities[]=New%20York%2C%20New%20York%2C%20USA&distanceType=Mi&radius=24km&latitude=40.71455&longitude=-74.00714&loc_group_id=&loc_query=New%20York%2C%20New%20York%2C%20United%20States&base_query=&city=New%20York&country=USA&region=New%20York&county=New%20York&query_options=&) — `search`  
+  - _Explore corporate jobs and career programs at Amazon, from full-time roles to internships. Join our global teams and create a better future for our ..._
 
-### www.adworks.org — 1 result(s)
+### www.careers.luc.edu — 1 result(s)
 
-- [Search For Jobs](https://www.adworks.org/job-seekers/search-for-jobs/) — `search`  
-  - _Search the thousands of jobs listed on this statewide database of positions. Local Job Search Sites Connecting Colorado Colorado Non Profit Association Job ..._
+- [Search Jobs - Loyola University Chicago Career Site](https://www.careers.luc.edu/postings/search) — `search`  
+  - _Search Postings (92) All Jobs Atom Feed ... View all open Postings below, or enter search criteria to narrow your search. Keywords._
 
-### www.altres.com — 1 result(s)
+### www.cdwjobs.com — 1 result(s)
 
-- [Hawaii Job Search, Employment Services](https://www.altres.com/jobs/search) — `jobs`  
-  - _Hawaii's top job search for full-time, part-time and project-based employment on Oahu, Maui and the Big Island. Browse hundreds of jobs ..._
+- [Chicago Careers - CDW](https://www.cdwjobs.com/search/jobs/in/chicago) — `jobs`  
+  - _Job Search Results · Palo Alto Networks Solution Specialist · 2026 Sales Internship Program - Sales Contact Center - Chicago · Sr. Partner Investment Specialist._
 
-### www.careerforcemn.com — 1 result(s)
+### www.cnyworks.com — 1 result(s)
 
-- [Job Search - CareerForce - MN.gov](https://www.careerforcemn.com/job-search?location%5Btext%5D=&op=Search%20jobs&title=office%20managers&page=24) — `search`  
-  - _No information is available for this page._
+- [CNY Open Positions - Job Search](http://www.cnyworks.com/jobs/cny-open-positions) — `jobs`  
+  - _TTM Technologies has multiple openings. You can view all positions at www.ttmtech.jobs. Assembler Job Description.docx · Inspector Job Description.docx ..._
 
 ### www.dol.gov — 1 result(s)
 
 - [DOL Job Opportunities | U.S. Department of Labor](https://www.dol.gov/general/jobs/search-job-postings) — `jobs`  
   - _The Department of Labor posts all job opportunities on USAJOBS, the job board for the federal government. Scroll to Top._
 
-### www.facebook.com — 1 result(s)
+### www.eastchicago.com — 1 result(s)
 
-- [Mastering google search with advanced operators](https://www.facebook.com/groups/aiubcybersecurityandprogrammingsociety/posts/728223156968312/)  
-  - _Google Dorks — A Beginner's Notebook** Unlock the hidden power of Google Search! ✨ This handbook transforms you from a casual searcher into ..._
+- [Jobs • Full Time Positions](https://www.eastchicago.com/jobs.aspx?CommunityJobs=False&CatID=Full-Time-Positions-100) — `jobs`  
+  - _Use the Government Jobs tab to search through your municipality's employment opportunities. Subscribe to job posting notifications._
 
-### www.google.com — 1 result(s)
+### www.iowaworkforcedevelopment.gov — 1 result(s)
 
-- [Jobs search](https://www.google.com/about/careers/applications/jobs/results/112767981531865798-staff-software-engineer-search?A&page=70) — `careers`  
-  - _Equal Opportunity. Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is ..._
-
-### www.jobbank.gc.ca — 1 result(s)
-
-- [Available jobs near Kitchener (ON) - Search](https://www.jobbank.gc.ca/jobsearch/jobsearch?d=50&mid=39076&sort=M) — `jobs`  
-  - _View 1077 job postings near various occupations on Job Bank, Canada's one-stop job board._
-
-### www.jointheportauthority.com — 1 result(s)
-
-- [The Port Authority of New York and New Jersey - Careers](https://www.jointheportauthority.com/jobs/search) — `jobs`  
-  - _Search 13 Careers available. The Port Authority of New York and New Jersey Careers._
+- [Find Your Next Great Career in Iowa](https://www.iowaworkforcedevelopment.gov/search-jobs) — `jobs`  
+  - _Nearly 50,000 job openings in any industry you can imagine. Explore thousands of jobs and find your next opportunity. IowaWORKS also includes a network of one- ..._
 
 ### www.linkedin.com — 1 result(s)
 
-- [3908000+ Jobs in United States (184460 new)](https://www.linkedin.com/jobs/search) — `jobs`  
-  - _Today's 3908000+ jobs in United States. Leverage your professional network, and get hired. New United States jobs added daily._
+- [4296000+ Jobs in United States (84918 new)](https://www.linkedin.com/jobs/search) — `jobs`  
+  - _4,296,000+ Jobs in United States (84,918 new) · Talent Partner · Executive Assistant · Event Coordinator · Chief Operating Officer (COO) · Architectural Designer I._
 
 ### www.lockheedmartinjobs.com — 1 result(s)
 
 - [Search our Job Opportunities at Lockheed Martin Corporation](https://www.lockheedmartinjobs.com/search-jobs) — `jobs`  
   - _Search for available job openings at Lockheed Martin Corporation._
 
-### www.nbjobs.ca — 1 result(s)
+### www.nytco.com — 1 result(s)
 
-- [Jobs](https://www.nbjobs.ca/jobs) — `jobs`  
-  - _The following links to potential employment opportunities are collected from hundreds of job boards. NBjobs.ca is not responsible for the content or ..._
+- [Job Listings](https://www.nytco.com/careers/job-listings/) — `careers`  
+  - _Job Listings · Analyst, Cybersecurity, Tech Compliance · Analyst, Data & Insights, Storytelling Analytics · Analyst, Technical Education · Analytics Engineer II, ..._
 
 ### www.pa.gov — 1 result(s)
 
 - [Open Jobs](https://www.pa.gov/agencies/employment/open-jobs) — `jobs`  
   - _Explore and apply for jobs with the Commonwealth of Pennsylvania. Find open positions, special programs for skilled workers and students, and connect with ..._
 
-### www.slideshare.net — 1 result(s)
+### www.ziprecruiter.com — 1 result(s)
 
-- [One page-tip-sheet-boolean-google-irina-shamaeva | PDF](https://www.slideshare.net/slideshow/one-pagetipsheetbooleangoogleirinashamaeva/57302673)  
-  - _... inurl: Search for keywords or phrases in page URL's (shown as green text in Google search results): [inurl:careers] the word “careers” must appear in the ..._
-
-### www.tn.gov — 1 result(s)
-
-- [Job Search](https://www.tn.gov/workforce/jobs-and-education/job-search.html) — `jobs`  
-  - _Jobs4TN.gov gives you an unprecedented number of jobs to search, averaging 400,000 every day, and also helps you build a resume and discover labor market ..._
+- [Job Search - Jobs Hiring Near You](https://www.ziprecruiter.com/Search-Jobs-Near-Me) — `search`  
+  - _Explore a variety of JOBS NEAR YOU (full-time, part-time, or remote). Browse the most comprehensive job listings and one click apply!_
