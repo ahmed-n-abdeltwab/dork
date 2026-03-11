@@ -1,142 +1,96 @@
 # Job results for: `(inurl:careers OR inurl:jobs) (inurl:open OR inurl:positions OR inurl:listings OR inurl:vacancies OR inurl:search)`
 
-_Engine: serpapi  |  Generated: 2026-03-10T01:51:35.501451+00:00  |  Results: 27_
+_Engine: serpapi  |  Generated: 2026-03-11T01:51:27.640009+00:00  |  Results: 22_
 
 **Search metadata**:
 - source: serpapi
 - fetched: 29
-- deduped: 27
+- deduped: 22
 
 ## Results grouped by domain
 
-### www.indeed.com — 2 result(s)
+### www.scribd.com — 4 result(s)
 
-- [Job Search jobs in Brooklyn, Ny](https://www.indeed.com/q-job-search-l-brooklyn,-ny-jobs.html)  
-  - _11899 Job Search jobs available in Brooklyn, NY on Indeed.com. Apply to Security Officer, Front Desk Agent, Stocker and more!_
-- [Open Jobs, Employment in New York, NY](https://www.indeed.com/q-open-l-new-york,-ny-jobs.html)  
-  - _49809 Open jobs available in New York, NY on Indeed.com. Apply to Janitor, Plasterer, Crew Member and more!_
+- [Strings Major | PDF | Programmer | Ajax (Programming)](https://www.scribd.com/document/440515387/strings-major)  
+  - _The document provides search strings and keywords for finding resumes and profiles online. It includes strings for searching by job titles, skills, ..._
+- [1 - Dorks | PDF | Login | World Wide Web](https://www.scribd.com/document/472367010/1-Dorks)  
+  - _The document contains a list of search queries related to finding administrative interfaces and login pages on websites. Many queries look for pages ..._
+- [Google Boolean Search Operators Guide | PDF](https://www.scribd.com/document/515343369/one-page-tip-sheet-boolean-google-irina-shamaeva)  
+  - _inurl: Search for keywords or phrases in page URL's (shown as green text in Google search results): [inurl:careers] the word “careers” must appear in the URL_
+- [IrinaShamaeva, DavidMichaelGalley CustomSearch ...](https://www.scribd.com/document/883666438/IrinaShamaeva-DavidMichaelGalley-CustomSearch-DiscoverMore-ACompleteGuidetoGoogleProgrammableSearchEngines-CRCPress-2021)  
+  - _IrinaShamaeva,DavidMichaelGalley CustomSearch DiscoverMore ACompleteGuidetoGoogleProgrammableSearchEngines CRCPress(2021) - Free download as PDF File (.pdf) ..._
 
-### arizonaatwork.com — 1 result(s)
+### pdfcoffee.com — 3 result(s)
 
-- [Search Jobs | ARIZONA@WORK](https://arizonaatwork.com/find-jobs/search-jobs) — `jobs`  
-  - _Arizona Job Connection (AJC) is a no-cost jobs database for our state's public workforce system. We offer job matching, job vacancy listings, and current labor ..._
+- [300 Best Boolean Strings](https://pdfcoffee.com/300-best-boolean-strings-5-pdf-free.html)  
+  - _inurl: Search for keywords or phrases in page URL's (shown as green text in Google search results): [inurl:careers] the word careers must appear in the URL ..._
+- [300 Best Boolean Strings](https://pdfcoffee.com/download/300-best-boolean-strings-5-pdf-free.html)  
+  - _inurl: Search for keywords or phrases in page URL's (shown as green text in Google search results):. [inurl:careers] the word careers must appear in the URL._
+- [Пособие It Рекрутера](https://pdfcoffee.com/-it--4-pdf-free.html)  
+  - _Примеры Boolean запросов: ○ site:careers.stackoverflow.com -inurl:jobs ... inurl:vacancies -inurl:resumes Habr • site:habr.com/ru/users/ "Состоит в хабах ..._
 
-### bhsg.com — 1 result(s)
+### www.linkedin.com — 3 result(s)
 
-- [Job Search | Temp & Permanent Placement](https://bhsg.com/jobs/job-search/) — `jobs`  
-  - _Search our jobs today. Beacon Hill Staffing are specialists in Staffing and Executive Search. We are Located in Boston, MA._
+- [3898000+ Jobs in United States (224954 new)](https://www.linkedin.com/jobs/search) — `jobs`  
+  - _Today's 3898000+ jobs in United States. Leverage your professional network, and get hired. New United States jobs added daily._
+- [Jainam Basra's Post](https://www.linkedin.com/posts/jainam-basra_jobsearch-techcareers-cybersecurity-activity-7250204938738298880-3nwk)  
+  - _... inurl: Search URLs for specific keywords (e.g., inurl:careers) ... inurl:jobs.lever.co. Using these methods, you can uncover hidden job ..._
+- [Допис учасника Anastasiia Mheladze](https://www.linkedin.com/posts/anastasiia-mheladze_booleansearch-jobsearch-candidates-activity-7186695903896915969-wwLK)  
+  - _Скажу чесно, я гадки не маю, чому про це відкрито не говорять ❓ Чи знали ви, шукачі роботи, що найновіші і найсвіжіші вакансії легко ..._
 
-### careers.amnh.org — 1 result(s)
+### github.com — 2 result(s)
 
-- [American Museum of Natural History Portal | Search Jobs](https://careers.amnh.org/postings/search) — `search`  
-  - _Search Postings (39) All Jobs Atom Feed ... View all open Postings below, or enter search criteria to narrow your search. Keywords._
+- [at main · Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet?search=1&l9hxlNsBxs=z3dLgD4w2Dho) — `search`  
+  - _inurl: Search for specific urls or paths; intext: Search for specific words or contects; filetype: Search for files; site: Search from a specified target ..._
+- [OSINT CHEAT SHEET - List OSINT Tools](https://github.com/zelsaddr/OSINT-Cheat-sheet-)  
+  - _inurl: Search for specific urls or paths; intext: Search for specific words or contects; filetype: Search for files; site: Search from a specified target ..._
 
-### careers.bankofamerica.com — 1 result(s)
+### dev.to — 1 result(s)
 
-- [Jobs in New York](https://careers.bankofamerica.com/en-us/job-search/united-states/s-new-york)  
-  - _Browse through all Bank of America jobs available in New York. You can apply for any of the New York positions right from the Bank of America ..._
+- [️‍♂️ Unlock Hidden Job Opportunities with Google Dorking](https://dev.to/nish2005karsh/unlock-hidden-job-opportunities-with-google-dorking-the-job-hunters-secret-weapon-part-1-37pp)  
+  - _Google Dorking, also known as Google hacking, is the use of advanced search operators to uncover hidden or hard-to-find content on the web._
 
-### careers.jamescitycountyva.gov — 1 result(s)
+### inboundblogging.com — 1 result(s)
 
-- [Apply for a Career with James City County](https://careers.jamescitycountyva.gov/jobs/search) — `jobs`  
-  - _$16.89 - $25.94 / hour DOQ; On-call positions available. James City County Parks & Recreation seeks enthusiastic individuals to perform responsible work ..._
+- [Google Search Operators Full List](https://inboundblogging.com/google-search-operators-full-list/)  
+  - _In this guide, I'll share my experience and walk you through the full list of Google search operators to help you take control of your searches._
 
-### careers.mta.org — 1 result(s)
+### neemiaspereira.blogspot.com — 1 result(s)
 
-- [Open positions at the MTA - New York Careers](https://careers.mta.org/search/jobs/in/ny-new-york) — `jobs`  
-  - _Search 283 New York Careers available at Metropolitan Transportation Authority._
+- [Neemias Pereira: 2014](http://neemiaspereira.blogspot.com/2014/)  
+  - _sqlmap.py -h ./sqlmap.py --url "http://testphp.vulnweb.com/listproducts.php?cat=1" -b ._
 
-### careers.newschool.edu — 1 result(s)
+### s3-eu-west-1.amazonaws.com — 1 result(s)
 
-- [The New School Job Site | Search Jobs](https://careers.newschool.edu/postings/search) — `search`  
-  - _To view open positions, please enter your search criteria below. You may view all open positions by not specifying any search criteria and clicking the Search ..._
+- [ERESOURCES.docx](https://s3-eu-west-1.amazonaws.com/s3-euw1-ap-pe-ws4-cws-documents.ri-prod/9780367567392/ERESOURCES.docx)  
+  - _inurl: Search for keywords or phrases in page URLs: • inurl:careers – the word "careers" must appear in the URL. • inurl:directory faculty earth ..._
 
-### careers.zoom.us — 1 result(s)
+### t.me — 1 result(s)
 
-- [We're Hiring!](https://careers.zoom.us/jobs/search) — `jobs`  
-  - _We're Hiring! Zoom offers a structured hybrid working environment for our employees. Open roles in Engineering, Marketing, Legal, IT, Agentic AI._
+- [Boolean Search Hacks](https://t.me/s/booleansearch?before=238) — `search`  
+  - _... inurl:careers -jobs -vacancies -vacancy. А какие идеи увидите вы? Го ... inurl:vacancies -"не ищу работу" P.S. будет два опроса ‍♂️ #site #or ..._
 
-### careersourcerc.com — 1 result(s)
+### www.google.com — 1 result(s)
 
-- [Search For Jobs](https://careersourcerc.com/job-seekers/services-for-job-seekers/search-for-jobs/) — `search`  
-  - _Search for the right job for you through the CareerSource Research Coast page. Visit our website today to get started._
+- [Search Jobs — Google Careers](https://www.google.com/about/careers/jobs) — `careers`  
+  - _Find your next job at Google — Careers at Google. Search by location, role, skills, and more._
 
-### euraxess.ec.europa.eu — 1 result(s)
+### www.indeed.com — 1 result(s)
 
-- [EURAXESS Jobs - European Union](https://euraxess.ec.europa.eu/jobs/search) — `jobs`  
-  - _No information is available for this page._
+- [Indeed: Job Search](https://www.indeed.com/)  
+  - _With Indeed, you can search millions of jobs online to find the next step in your career. With tools for job search, resumes, company reviews and more, ..._
 
-### jobs.apple.com — 1 result(s)
+### www.instagram.com — 1 result(s)
 
-- [Search Jobs - United States - Jobs - Careers at Apple](https://jobs.apple.com/en-us/search?location=united-states-USA) — `search`  
-  - _Explore all United States jobs at Apple. Create a profile and apply today._
+- [Блог про рекрутинг та пошук роботи (@spin.hire.career)](https://www.instagram.com/spin.hire.career/)  
+  - _Як шукачам роботи не просто вижити, а й потрапити в компанію мрії? Існує один лайфхак в #linkedin , про який небагато хто знає, але він здатен суттєво підвищити ..._
 
-### jobs.ksl.com — 1 result(s)
+### www.jobradar.app — 1 result(s)
 
-- [Jobs Search | Find A Job](https://jobs.ksl.com/search) — `search`  
-  - _Looking for a job? With KSL Jobs, you can search millions of jobs online to find the next step in your career. Find your dream job now!_
+- [Master Google Search Operators to Find Hidden Job ...](https://www.jobradar.app/blog/google-search-operators-for-jobs) — `jobs`  
+  - _Learn advanced Google search operators (dorks) to uncover job listings that most job seekers never see. Find opportunities before they hit job ..._
 
-### jobs.nyulangone.org — 1 result(s)
+### www.slideshare.net — 1 result(s)
 
-- [Find the Right Career Fit For You](https://jobs.nyulangone.org/job-search-results/)  
-  - _We have a range of exciting career opportunities, all supported by our unwavering commitment to helping all our faculty and staff reach their full potential._
-
-### jobs.uri.edu — 1 result(s)
-
-- [University Of Rhode Island Applicant Portal | Search Jobs](https://jobs.uri.edu/postings/search) — `search`  
-  - _To view open positions, please enter your search criteria below. You may view all open positions by not specifying any search criteria and clicking the Search ..._
-
-### jobs.wisc.edu — 1 result(s)
-
-- [Search Job Openings - Jobs at UW–Madison](https://jobs.wisc.edu/jobs/search) — `jobs`  
-  - _Find job opportunities at the University of Wisconsin–Madison. Job vacancies include Faculty, Staff, Full-Time, and Part-Time positions._
-
-### opportunities.columbia.edu — 1 result(s)
-
-- [Search Staff Jobs](https://opportunities.columbia.edu/jobs/search?page=2) — `jobs`  
-  - _Title, Category, Department, Employment Type, Location, Grade. Student Academic Support Worker (SHPEP/MedPrep Preceptor). Stdnt Affairs/Educational Admn._
-
-### www.azstatejobs.gov — 1 result(s)
-
-- [Search Page](https://www.azstatejobs.gov/jobs/search) — `jobs`  
-  - _As a State of Arizona employee, you can choose from more than 1,700 types of career opportunities, all with the same employer, making job mobility and career ..._
-
-### www.careersatmainehealth.org — 1 result(s)
-
-- [Job Search Results - MaineHealth Careers](https://www.careersatmainehealth.org/search/jobs) — `jobs`  
-  - _Search 1212 Careers available at MaineHealth._
-
-### www.dol.gov — 1 result(s)
-
-- [DOL Job Opportunities | U.S. Department of Labor](https://www.dol.gov/general/jobs/search-job-postings) — `jobs`  
-  - _The Department of Labor posts all job opportunities on USAJOBS, the job board for the federal government. Scroll to Top._
-
-### www.hitachienergy.com — 1 result(s)
-
-- [Open Jobs](https://www.hitachienergy.com/careers/open-jobs) — `careers`  
-  - _Open Jobs · Administration, Facilities & Secretarial · Communications & Corporate Affairs · Construction · Creative & Design · Customer Service & Contact Center ..._
-
-### www.jointheportauthority.com — 1 result(s)
-
-- [The Port Authority of New York and New Jersey - Careers](https://www.jointheportauthority.com/jobs/search) — `jobs`  
-  - _Welcome! A search can be performed by typing in a keyword or by selecting a field from the form. Click “Search” to view the results and click on the job title ..._
-
-### www.linkedin.com — 1 result(s)
-
-- [4120000+ Jobs in United States (73049 new)](https://www.linkedin.com/jobs/search/) — `jobs`  
-  - _4,120,000+ Jobs in United States (73,049 new) · Talent Relations Coordinator · Records Clerk · Recruiter · Executive Assistant (U.S.A. Remote) · Associate Product ..._
-
-### www.lockheedmartinjobs.com — 1 result(s)
-
-- [Search our Job Opportunities at Lockheed Martin Corporation](https://www.lockheedmartinjobs.com/search-jobs) — `jobs`  
-  - _Search for available job openings at Lockheed Martin Corporation._
-
-### www.pa.gov — 1 result(s)
-
-- [Open Jobs](https://www.pa.gov/agencies/employment/open-jobs) — `jobs`  
-  - _Explore and apply for jobs with the Commonwealth of Pennsylvania. Find open positions, special programs for skilled workers and students, and connect with ..._
-
-### www.ziprecruiter.com — 1 result(s)
-
-- [Job Search - Jobs Hiring Near You - Mar 09, 2026](https://www.ziprecruiter.com/Search-Jobs-Near-Me) — `search`  
-  - _Explore a variety of JOBS NEAR YOU (full-time, part-time, or remote). Browse the most comprehensive job listings and one click apply!_
+- [One page-tip-sheet-boolean-google-irina-shamaeva | PDF](https://www.slideshare.net/slideshow/one-pagetipsheetbooleangoogleirinashamaeva/57302673)  
+  - _... inurl: Search for keywords or phrases in page URL's (shown as green text in Google search results): [inurl:careers] the word “careers” must appear in the ..._
