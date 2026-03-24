@@ -1,22 +1,13 @@
 # Job results for: `(inurl:careers OR inurl:jobs) (inurl:open OR inurl:positions OR inurl:listings OR inurl:vacancies OR inurl:search)`
 
-_Engine: serpapi  |  Generated: 2026-03-23T02:04:08.151941+00:00  |  Results: 29_
+_Engine: serpapi  |  Generated: 2026-03-24T01:55:55.666176+00:00  |  Results: 33_
 
 **Search metadata**:
 - source: serpapi
-- fetched: 30
-- deduped: 29
+- fetched: 35
+- deduped: 33
 
 ## Results grouped by domain
-
-### www.linkedin.com — 3 result(s)
-
-- [3963000+ jobs in United States](https://www.linkedin.com/jobs/search) — `jobs`  
-  - _Today's top 3963000+ jobs in United States. Leverage your professional network, and get hired. New United States jobs added daily._
-- [Jainam Basra's Post](https://www.linkedin.com/posts/jainam-basra_jobsearch-techcareers-cybersecurity-activity-7250204938738298880-3nwk)  
-  - _... inurl: Search URLs for specific keywords (e.g., inurl:careers) ... inurl:jobs.lever.co. Using these methods, you can uncover hidden job ..._
-- [Допис учасника Anastasiia Mheladze](https://www.linkedin.com/posts/anastasiia-mheladze_booleansearch-jobsearch-candidates-activity-7186695903896915969-wwLK)  
-  - _Скажу чесно, я гадки не маю, чому про це відкрито не говорять ❓ Чи знали ви, шукачі роботи, що найновіші і найсвіжіші вакансії легко ..._
 
 ### www.scribd.com — 3 result(s)
 
@@ -27,6 +18,13 @@ _Engine: serpapi  |  Generated: 2026-03-23T02:04:08.151941+00:00  |  Results: 29
 - [IrinaShamaeva, DavidMichaelGalley CustomSearch ...](https://www.scribd.com/document/883666438/IrinaShamaeva-DavidMichaelGalley-CustomSearch-DiscoverMore-ACompleteGuidetoGoogleProgrammableSearchEngines-CRCPress-2021)  
   - _inurl: Search for keywords or phrases in page URLs: • inurl:careers – the word "careers" must appear in the URL. • inurl:directory faculty earth ..._
 
+### github.com — 2 result(s)
+
+- [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet)  
+  - _Contains a list of OSINT tools, OSINT tips, datasets, Maltego transform and others. There are free and paid tools you can use and owner is not responsible._
+- [OSINT CHEAT SHEET - List OSINT Tools](https://github.com/zelsaddr/OSINT-Cheat-sheet-)  
+  - _inurl: Search for specific urls or paths; intext: Search for specific words or contects; filetype: Search for files; site: Search from a specified target ..._
+
 ### pdfcoffee.com — 2 result(s)
 
 - [300 Best Boolean Strings](https://pdfcoffee.com/300-best-boolean-strings-5-pdf-free.html)  
@@ -34,72 +32,62 @@ _Engine: serpapi  |  Generated: 2026-03-23T02:04:08.151941+00:00  |  Results: 29
 - [Пособие It Рекрутера](https://pdfcoffee.com/-it--4-pdf-free.html)  
   - _Поэтому лучшим способом сорсинга кандидатов на StackOverflow через Boolean запросы. Примеры Boolean запросов: ○ site:careers.stackoverflow.com -inurl:jobs - ..._
 
-### www.indeed.com — 2 result(s)
+### www.linkedin.com — 2 result(s)
 
-- [Indeed: Job Search](https://www.indeed.com/)  
-  - _With Indeed, you can search millions of jobs online to find the next step in your career. With tools for job search, resumes, company reviews and more, ..._
-- [Job Search jobs in Philadelphia, Pa](https://www.indeed.com/q-job-search-l-philadelphia,-pa-jobs.html)  
-  - _3004 Job Search jobs available in Philadelphia, PA on Indeed.com. Apply to Sales Representative, Recovery Specialist, Pest Control Technician and more!_
+- [4120000+ jobs in United States](https://www.linkedin.com/jobs/search) — `jobs`  
+  - _Today's top 4120000+ jobs in United States. Leverage your professional network, and get hired. New United States jobs added daily._
+- [Jainam Basra's Post](https://www.linkedin.com/posts/jainam-basra_jobsearch-techcareers-cybersecurity-activity-7250204938738298880-3nwk)  
+  - _... inurl: Search URLs for specific keywords (e.g., inurl:careers) ... inurl:jobs.lever.co. Using these methods, you can uncover hidden job ..._
+
+### ca.linkedin.com — 1 result(s)
+
+- [202 Linkedin Search jobs in Toronto](https://ca.linkedin.com/jobs/linkedin-search-jobs-toronto-on) — `jobs`  
+  - _Today's top 202 Linkedin Search jobs in Toronto. Leverage your professional network, and get hired. New Linkedin Search jobs added daily._
+
+### careers.dnv.org — 1 result(s)
+
+- [Search Jobs - District of North Vancouver Portal | Careers Home](https://careers.dnv.org/postings/search) — `search`  
+  - _View Results (12 ) · Project Manager, Facilities · Water Conservation Officer · Planning Assistant 2 · Planning Assistant 4 (Climate Action) · Accounting Officer 2._
 
 ### careers.google.com — 1 result(s)
 
 - [Search Jobs — Google Careers](https://careers.google.com/jobs#!t=jo&jid=127025001&) — `jobs`  
   - _Find your next job at Google — Careers at Google. Search by location, role, skills, and more._
 
-### careers.nyp.org — 1 result(s)
-
-- [Search our Job Opportunities at NewYork-Presbyterian](https://careers.nyp.org/search-jobs) — `jobs`  
-  - _We found 375 results · Unit Clerk - Labor & Delivery - Part Time Evening + Weekends & Holidays · Speech Language Pathologist | Full-Time, Days · Patient ..._
-
-### careers.upstate.edu — 1 result(s)
-
-- [Search Page - Upstate Careers](https://careers.upstate.edu/jobs/search) — `jobs`  
-  - _Filter jobs &nbsp; -Categories- Administrative, Secretarial & Clerical Allied Health Information Management & Technology Management & Professional Nurse ..._
-
 ### dev.to — 1 result(s)
 
 - [️‍♂️ Unlock Hidden Job Opportunities with Google Dorking](https://dev.to/nish2005karsh/unlock-hidden-job-opportunities-with-google-dorking-the-job-hunters-secret-weapon-part-1-37pp)  
   - _Google Dorking, also known as Google hacking, is the use of advanced search operators to uncover hidden or hard-to-find content on the web._
 
-### fr.scribd.com — 1 result(s)
+### inboundblogging.com — 1 result(s)
 
-- [300 Best Boolean Strings: One Page Tip Sheet](https://fr.scribd.com/document/515343369/one-page-tip-sheet-boolean-google-irina-shamaeva)  
-  - _inurl: Search for keywords or phrases in page URL's (shown as green text in Google search results): [inurl:careers] the word “careers” must appear in the URL_
+- [Google Search Operators Full List](https://inboundblogging.com/google-search-operators-full-list/)  
+  - _In this guide, I'll share my experience and walk you through the full list of Google search operators to help you take control of your searches._
 
-### github.com — 1 result(s)
+### jobs.apple.com — 1 result(s)
 
-- [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet)  
-  - _Contains a list of OSINT tools, OSINT tips, datasets, Maltego transform and others. There are free and paid tools you can use and owner is not responsible._
-
-### hr.princeton.edu — 1 result(s)
-
-- [Search Opportunities - Human Resources - Princeton University](https://hr.princeton.edu/careers/search-opportunities) — `careers`  
-  - _We offer many different types of jobs. Visit any of our career centers to search and apply for positions, join our Talent Network, and log in through the ..._
+- [Search Jobs - Toronto - Jobs at Apple (CA)](https://jobs.apple.com/en-ca/search?location=toronto-TOR) — `search`  
+  - _Search Results · CA-Specialist: Full-Time, Part-Time, and Part-Time Temporary · Channel Field Marketing Lead · CA-Manager · Bilingual Editor, Apple News Canada._
 
 ### jobs.google.com — 1 result(s)
 
 - [Get Your Job Postings on Google Today](https://jobs.google.com/about/)  
   - _Google brings together job postings from across the web. Have your job postings found by millions of job seekers who search on Google every day._
 
-### jobs.hackensackmeridianhealth.org — 1 result(s)
-
-- [Search our Job Opportunities at Hackensack Meridian Health](https://jobs.hackensackmeridianhealth.org/search-jobs) — `jobs`  
-  - _Search our Job Opportunities at Hackensack Meridian Health · Surgical Coordinator - Physician Practice · X-Ray Technologist - Per Diem · Clinical Nurse Specialist ..._
-
 ### jobs.insightglobal.com — 1 result(s)
 
 - [Find a Job Using Insight Global's Staffing Services, Start Your ...](https://jobs.insightglobal.com/)  
   - _Start your job search now. We work with job seekers to find the IT, Accounting & Finance, Engineering and Government jobs that match their skills and goals._
 
-### jobs.ohiomeansjobs.monster.com — 1 result(s)
+### jobs.ledcor.com — 1 result(s)
 
-- [Search jobs on OhioMeansJobs](https://jobs.ohiomeansjobs.monster.com/search.aspx?sid=68) — `search`  
-  - _Find a job on OhioMeansJobs today. Use our job search engine to find and apply for the job of your dreams in OH. Jobs in Ohio, Employment, ..._
+- [Job Search Results](https://jobs.ledcor.com/search/jobs/in/on-ontario) — `jobs`  
+  - _Search 141 Ontario Careers available at Ledcor Industries Inc._
 
-### jobs.workable.com — 1 result(s)
+### lucidmotors.com — 1 result(s)
 
-- [Jobs By Workable](https://jobs.workable.com/)  
-  - _Search thousands of job openings from global companies hiring right now. Remote or office-based, your perfect job could be waiting for you!_
+- [Search for Jobs | Careers](https://lucidmotors.com/en-sa/careers/search) — `careers`  
+  - _Work alongside some of the most accomplished minds in the automotive and technology industries. Search for job openings and apply today._
 
 ### neemiaspereira.blogspot.com — 1 result(s)
 
@@ -111,6 +99,41 @@ _Engine: serpapi  |  Generated: 2026-03-23T02:04:08.151941+00:00  |  Results: 29
 - [ERESOURCES.docx](https://s3-eu-west-1.amazonaws.com/s3-euw1-ap-pe-ws4-cws-documents.ri-prod/9780367567392/ERESOURCES.docx)  
   - _inurl: Search for keywords or phrases in page URLs: • inurl:careers – the word "careers" must appear in the URL. • inurl:directory faculty earth ..._
 
+### t.me — 1 result(s)
+
+- [Boolean Search Hacks](https://t.me/s/booleansearch?before=238) — `search`  
+  - _... inurl:careers -jobs -vacancies -vacancy. А какие идеи увидите вы? Го ... inurl:vacancies -"не ищу работу" P.S. будет два опроса ‍♂️ #site #or ..._
+
+### www.careerbeacon.com — 1 result(s)
+
+- [Jobs in New Brunswick](https://www.careerbeacon.com/en/search/jobs-in-new-brunswick) — `jobs`  
+  - _Explore the best jobs on CareerBeacon.com! Start your search for amazing companies in New Brunswick and find better work, today._
+
+### www.epcor.com — 1 result(s)
+
+- [Search Jobs | EPCOR Canada](https://www.epcor.com/ca/en/careers/jobs/search-jobs.html) — `careers`  
+  - _Ready to take the next step in your career? We're always recruiting. Below is a list of EPCOR job postings we are looking to fill. And if there is nothing there ..._
+
+### www.facebook.com — 1 result(s)
+
+- [📘 Google Dorks Notebook](https://www.facebook.com/groups/aiubcybersecurityandprogrammingsociety/posts/728223156968312/)  
+  - _Google Dorks Notebook Hey everyone! just finished my Google Dorks notebook and wanted to share it with the community. it's pretty long but ..._
+
+### www.finning.com — 1 result(s)
+
+- [Our Open Jobs](https://www.finning.com/en_CA/company/careers/our-open-jobs.html) — `careers`  
+  - _External career opportunities · Click the View Opportunities button and select the job you would like to apply for. · Click Apply, create a profile in Workday and ..._
+
+### www.hitachienergy.com — 1 result(s)
+
+- [Open Jobs](https://www.hitachienergy.com/careers/open-jobs) — `careers`  
+  - _Open Jobs · Administration, Facilities & Secretarial · Communications & Corporate Affairs · Construction · Consumer & Commercial Banking · Creative & ..._
+
+### www.indeed.com — 1 result(s)
+
+- [Indeed: Job Search](https://www.indeed.com/)  
+  - _With Indeed, you can search millions of jobs online to find the next step in your career. With tools for job search, resumes, company reviews and more, ..._
+
 ### www.instagram.com — 1 result(s)
 
 - [Блог про рекрутинг та пошук роботи (@spin.hire.career)](https://www.instagram.com/spin.hire.career/)  
@@ -121,17 +144,17 @@ _Engine: serpapi  |  Generated: 2026-03-23T02:04:08.151941+00:00  |  Results: 29
 - [Master Google Search Operators to Find Hidden Job ...](https://www.jobradar.app/blog/google-search-operators-for-jobs) — `jobs`  
   - _Learn advanced Google search operators (dorks) to uncover job listings that most job seekers never see. Find opportunities before they hit job ..._
 
-### www.nytco.com — 1 result(s)
+### www.slideshare.net — 1 result(s)
 
-- [Job Listings](https://www.nytco.com/careers/job-listings/) — `careers`  
-  - _If you find our mission and vision inspiring, we invite you to apply for any of our open positions. And if you are a current Times employee, please apply on our ..._
+- [One page-tip-sheet-boolean-google-irina-shamaeva | PDF](https://www.slideshare.net/slideshow/one-pagetipsheetbooleangoogleirinashamaeva/57302673)  
+  - _... inurl: Search for keywords or phrases in page URL's (shown as green text in Google search results): [inurl:careers] the word “careers” must appear in the ..._
 
-### www.pa.gov — 1 result(s)
+### www.twc.texas.gov — 1 result(s)
 
-- [Open Jobs - Employment](https://www.pa.gov/agencies/employment/open-jobs) — `jobs`  
-  - _Explore and apply for jobs with the Commonwealth of Pennsylvania. Find open positions, special programs for skilled workers and students, and connect with ..._
+- [Find a Job - Texas Workforce Commission](https://www.twc.texas.gov/services/job-search) — `search`  
+  - _Find a career by using the following resources. WorkInTexas.com. Create a WorkInTexas.com account to search and apply for Texas jobs that fit your needs._
 
-### www.ziprecruiter.com — 1 result(s)
+### www.workbc.ca — 1 result(s)
 
-- [$58k-$101k Search Jobs in Philadelphia, PA (NOW HIRING)](https://www.ziprecruiter.com/Jobs/Search/-in-Philadelphia,PA) — `jobs`  
-  - _Browse 60+ PHILADELPHIA, PA SEARCH jobs ($58k-$101k) from companies hiring now. New openings posted daily—find postings near you & 1-click ..._
+- [Find Jobs](https://www.workbc.ca/search-and-prepare-job/find-jobs) — `jobs`  
+  - _Search for and apply to jobs in British Columbia using the WorkBC Job Board._
