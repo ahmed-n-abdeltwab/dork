@@ -1,29 +1,13 @@
 # Job results for: `(inurl:careers OR inurl:jobs) (inurl:open OR inurl:positions OR inurl:listings OR inurl:vacancies OR inurl:search)`
 
-_Engine: serpapi  |  Generated: 2026-03-24T01:55:55.666176+00:00  |  Results: 33_
+_Engine: serpapi  |  Generated: 2026-03-25T02:01:39.157281+00:00  |  Results: 35_
 
 **Search metadata**:
 - source: serpapi
-- fetched: 35
-- deduped: 33
+- fetched: 36
+- deduped: 35
 
 ## Results grouped by domain
-
-### www.scribd.com — 3 result(s)
-
-- [Strings Major | PDF](https://www.scribd.com/document/450258774/strings-major-xlsx)  
-  - _The document provides information on search strings and techniques for finding resumes and profiles online._
-- [1 - Dorks | PDF | Login | World Wide Web](https://www.scribd.com/document/472367010/1-Dorks)  
-  - _The document contains a list of search queries related to finding administrative interfaces and login pages on websites. Many queries look for pages ..._
-- [IrinaShamaeva, DavidMichaelGalley CustomSearch ...](https://www.scribd.com/document/883666438/IrinaShamaeva-DavidMichaelGalley-CustomSearch-DiscoverMore-ACompleteGuidetoGoogleProgrammableSearchEngines-CRCPress-2021)  
-  - _inurl: Search for keywords or phrases in page URLs: • inurl:careers – the word "careers" must appear in the URL. • inurl:directory faculty earth ..._
-
-### github.com — 2 result(s)
-
-- [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet)  
-  - _Contains a list of OSINT tools, OSINT tips, datasets, Maltego transform and others. There are free and paid tools you can use and owner is not responsible._
-- [OSINT CHEAT SHEET - List OSINT Tools](https://github.com/zelsaddr/OSINT-Cheat-sheet-)  
-  - _inurl: Search for specific urls or paths; intext: Search for specific words or contects; filetype: Search for files; site: Search from a specified target ..._
 
 ### pdfcoffee.com — 2 result(s)
 
@@ -34,127 +18,158 @@ _Engine: serpapi  |  Generated: 2026-03-24T01:55:55.666176+00:00  |  Results: 33
 
 ### www.linkedin.com — 2 result(s)
 
-- [4120000+ jobs in United States](https://www.linkedin.com/jobs/search) — `jobs`  
-  - _Today's top 4120000+ jobs in United States. Leverage your professional network, and get hired. New United States jobs added daily._
-- [Jainam Basra's Post](https://www.linkedin.com/posts/jainam-basra_jobsearch-techcareers-cybersecurity-activity-7250204938738298880-3nwk)  
-  - _... inurl: Search URLs for specific keywords (e.g., inurl:careers) ... inurl:jobs.lever.co. Using these methods, you can uncover hidden job ..._
+- [4006000+ jobs in United States](https://www.linkedin.com/jobs/search) — `jobs`  
+  - _Today's top 4006000+ jobs in United States. Leverage your professional network, and get hired. New United States jobs added daily._
+- [Допис учасника Anastasiia Mheladze](https://www.linkedin.com/posts/anastasiia-mheladze_booleansearch-jobsearch-candidates-activity-7186695903896915969-wwLK)  
+  - _Скажу чесно, я гадки не маю, чому про це відкрито не говорять ❓ Чи знали ви, шукачі роботи, що найновіші і найсвіжіші вакансії легко ..._
 
-### ca.linkedin.com — 1 result(s)
+### www.scribd.com — 2 result(s)
 
-- [202 Linkedin Search jobs in Toronto](https://ca.linkedin.com/jobs/linkedin-search-jobs-toronto-on) — `jobs`  
-  - _Today's top 202 Linkedin Search jobs in Toronto. Leverage your professional network, and get hired. New Linkedin Search jobs added daily._
+- [1 - Dorks | PDF | Login | World Wide Web](https://www.scribd.com/document/472367010/1-Dorks)  
+  - _The document contains a list of search queries related to finding administrative interfaces and login pages on websites. Many queries look for pages ..._
+- [IrinaShamaeva, DavidMichaelGalley CustomSearch ...](https://www.scribd.com/document/883666438/IrinaShamaeva-DavidMichaelGalley-CustomSearch-DiscoverMore-ACompleteGuidetoGoogleProgrammableSearchEngines-CRCPress-2021)  
+  - _inurl: Search for keywords or phrases in page URLs: • inurl:careers – the word "careers" must appear in the URL. • inurl:directory faculty earth ..._
 
-### careers.dnv.org — 1 result(s)
+### careers.k-state.edu — 1 result(s)
 
-- [Search Jobs - District of North Vancouver Portal | Careers Home](https://careers.dnv.org/postings/search) — `search`  
-  - _View Results (12 ) · Project Manager, Facilities · Water Conservation Officer · Planning Assistant 2 · Planning Assistant 4 (Climate Action) · Accounting Officer 2._
+- [Search Page - K-State Careers](https://careers.k-state.edu/jobs/search) — `jobs`  
+  - _Find a future in purple · Administrative / Professional · Business / Accounting / Finance · Veterinary Medicine._
 
-### careers.google.com — 1 result(s)
+### careers.nyp.org — 1 result(s)
 
-- [Search Jobs — Google Careers](https://careers.google.com/jobs#!t=jo&jid=127025001&) — `jobs`  
-  - _Find your next job at Google — Careers at Google. Search by location, role, skills, and more._
+- [Search our Job Opportunities at NewYork-Presbyterian](https://careers.nyp.org/search-jobs) — `jobs`  
+  - _We found 385 results · Specialty and Retail Pharmacist | Per Diem · Lab Technologist - Transfusion Services | Full-Time, Nights · Speech Language ..._
 
-### dev.to — 1 result(s)
+### careers.smartrecruiters.com — 1 result(s)
 
-- [️‍♂️ Unlock Hidden Job Opportunities with Google Dorking](https://dev.to/nish2005karsh/unlock-hidden-job-opportunities-with-google-dorking-the-job-hunters-secret-weapon-part-1-37pp)  
-  - _Google Dorking, also known as Google hacking, is the use of advanced search operators to uncover hidden or hard-to-find content on the web._
+- [NYC Government Jobs | Explore Careers | City of New York](https://careers.smartrecruiters.com/CityOfNewYork?search=&page=0&location=Flushing%2C%20NY%2C%20US) — `search`  
+  - _Search careers at 80+ NYC agencies, see upcoming recruitment events, and learn about civil service exams._
 
-### inboundblogging.com — 1 result(s)
+### careers.ua.edu — 1 result(s)
 
-- [Google Search Operators Full List](https://inboundblogging.com/google-search-operators-full-list/)  
-  - _In this guide, I'll share my experience and walk you through the full list of Google search operators to help you take control of your searches._
+- [Search Page - UA Careers - The University of Alabama](https://careers.ua.edu/jobs/search) — `jobs`  
+  - _UA Staff Employment · Faculty Administrative Positions · Arts and Sciences · Regular Full-time (Benefits eligible) · Tuscaloosa._
+
+### careers.uh.edu — 1 result(s)
+
+- [UH Central Postings](https://careers.uh.edu/jobs/search/uh-postings) — `jobs`  
+  - _Search by job title, location, department, category, etc. Search Jobs near me. Filter jobs._
+
+### careers.zoom.us — 1 result(s)
+
+- [Remote Jobs](https://careers.zoom.us/jobs/search) — `jobs`  
+  - _We're Hiring! Zoom offers a structured hybrid working environment for our employees. Open roles in Engineering, Marketing, Legal, IT, Agentic AI._
+
+### fr.scribd.com — 1 result(s)
+
+- [300 Best Boolean Strings: One Page Tip Sheet](https://fr.scribd.com/document/515343369/one-page-tip-sheet-boolean-google-irina-shamaeva)  
+  - _inurl: Search for keywords or phrases in page URL's (shown as green text in Google search results): [inurl:careers] the word “careers” must appear in the URL_
 
 ### jobs.apple.com — 1 result(s)
 
-- [Search Jobs - Toronto - Jobs at Apple (CA)](https://jobs.apple.com/en-ca/search?location=toronto-TOR) — `search`  
-  - _Search Results · CA-Specialist: Full-Time, Part-Time, and Part-Time Temporary · Channel Field Marketing Lead · CA-Manager · Bilingual Editor, Apple News Canada._
+- [Search Jobs - United States - Jobs - Careers at Apple](https://jobs.apple.com/en-us/search?location=united-states-USA) — `search`  
+  - _Explore all United States jobs at Apple. Create a profile and apply today._
 
-### jobs.google.com — 1 result(s)
+### jobs.ccp.edu — 1 result(s)
 
-- [Get Your Job Postings on Google Today](https://jobs.google.com/about/)  
-  - _Google brings together job postings from across the web. Have your job postings found by millions of job seekers who search on Google every day._
+- [Search Jobs - Community College of Philadelphia](https://jobs.ccp.edu/postings/search) — `search`  
+  - _Search Postings (85) All Jobs Atom Feed ... View all open Postings below, or enter search criteria to narrow your search. Keywords._
 
-### jobs.insightglobal.com — 1 result(s)
+### jobs.nyulangone.org — 1 result(s)
 
-- [Find a Job Using Insight Global's Staffing Services, Start Your ...](https://jobs.insightglobal.com/)  
-  - _Start your job search now. We work with job seekers to find the IT, Accounting & Finance, Engineering and Government jobs that match their skills and goals._
+- [Find the Right Career Fit For You](https://jobs.nyulangone.org/job-search-results/)  
+  - _We have a range of exciting career opportunities, all supported by our unwavering commitment to helping all our faculty and staff reach their full potential._
 
-### jobs.ledcor.com — 1 result(s)
+### jobs.ohiomeansjobs.monster.com — 1 result(s)
 
-- [Job Search Results](https://jobs.ledcor.com/search/jobs/in/on-ontario) — `jobs`  
-  - _Search 141 Ontario Careers available at Ledcor Industries Inc._
+- [Search jobs on OhioMeansJobs](https://jobs.ohiomeansjobs.monster.com/search.aspx?sid=68) — `search`  
+  - _Find a job on OhioMeansJobs today. Use our job search engine to find and apply for the job of your dreams in OH. Jobs in Ohio, Employment, ..._
 
-### lucidmotors.com — 1 result(s)
+### jobs.oregonstate.edu — 1 result(s)
 
-- [Search for Jobs | Careers](https://lucidmotors.com/en-sa/careers/search) — `careers`  
-  - _Work alongside some of the most accomplished minds in the automotive and technology industries. Search for job openings and apply today._
+- [Oregon State University Jobs Portal | Search Jobs](https://jobs.oregonstate.edu/postings/search) — `search`  
+  - _Search Postings (380) All Jobs Atom Feed ... View all open Postings below, or enter search criteria to narrow your search. Keywords._
+
+### jobs.wisc.edu — 1 result(s)
+
+- [Search Job Openings - Jobs at UW–Madison](https://jobs.wisc.edu/jobs/search) — `jobs`  
+  - _Find job opportunities at the University of Wisconsin–Madison. Job vacancies include Faculty, Staff, Full-Time, and Part-Time positions._
+
+### liveworkmaryland.com — 1 result(s)
+
+- [Maryland Jobs - Quick Search](https://liveworkmaryland.com/work/search-jobs/) — `search`  
+  - _Use this quick search tool to find opportunities by keyword, company or title. Search By: Title. Keyword._
 
 ### neemiaspereira.blogspot.com — 1 result(s)
 
 - [Neemias Pereira: 2014](http://neemiaspereira.blogspot.com/2014/)  
   - _inurl:”jobs.php?id=” inurl:”out.php?id=” inurl:”creator.php?id=” inurl:”calevent.php?id=” inurl:”program.php?id=” inurl:/club.php?cid ..._
 
-### s3-eu-west-1.amazonaws.com — 1 result(s)
+### search-careers.gm.com — 1 result(s)
 
-- [ERESOURCES.docx](https://s3-eu-west-1.amazonaws.com/s3-euw1-ap-pe-ws4-cws-documents.ri-prod/9780367567392/ERESOURCES.docx)  
-  - _inurl: Search for keywords or phrases in page URLs: • inurl:careers – the word "careers" must appear in the URL. • inurl:directory faculty earth ..._
+- [Jobs | Find the right role for you](https://search-careers.gm.com/en/jobs/) — `jobs`  
+  - _Our diverse team brings their collective passion for innovation. Find a role that's right for you and discover your career purpose at General Motors._
 
-### t.me — 1 result(s)
+### usccareers.usc.edu — 1 result(s)
 
-- [Boolean Search Hacks](https://t.me/s/booleansearch?before=238) — `search`  
-  - _... inurl:careers -jobs -vacancies -vacancy. А какие идеи увидите вы? Го ... inurl:vacancies -"не ищу работу" P.S. будет два опроса ‍♂️ #site #or ..._
+- [Search our Job Opportunities at University of ... - USC Careers](https://usccareers.usc.edu/search-jobs) — `jobs`  
+  - _University of Southern California offers meaningful careers with growth and impact. Search USC jobs by keyword, location, category and more and apply here._
 
-### www.careerbeacon.com — 1 result(s)
+### www.careerforcemn.com — 1 result(s)
 
-- [Jobs in New Brunswick](https://www.careerbeacon.com/en/search/jobs-in-new-brunswick) — `jobs`  
-  - _Explore the best jobs on CareerBeacon.com! Start your search for amazing companies in New Brunswick and find better work, today._
+- [Job Search - CareerForce - MN.gov](https://www.careerforcemn.com/job-search?title=Physician%20Assistant&location%5Btext%5D=Hibbing%2C+MN%2C+USA&op=Search+jobs) — `search`  
+  - _No information is available for this page._
 
-### www.epcor.com — 1 result(s)
+### www.careers.peraton.com — 1 result(s)
 
-- [Search Jobs | EPCOR Canada](https://www.epcor.com/ca/en/careers/jobs/search-jobs.html) — `careers`  
-  - _Ready to take the next step in your career? We're always recruiting. Below is a list of EPCOR job postings we are looking to fill. And if there is nothing there ..._
+- [Careers at Peraton | Search Jobs](https://www.careers.peraton.com/search-jobs) — `jobs`  
+  - _Explore career opportunities at Peraton and help tackle critical national security challenges. Join our team to shape the future through innovation, ..._
 
-### www.facebook.com — 1 result(s)
+### www.careersatmainehealth.org — 1 result(s)
 
-- [📘 Google Dorks Notebook](https://www.facebook.com/groups/aiubcybersecurityandprogrammingsociety/posts/728223156968312/)  
-  - _Google Dorks Notebook Hey everyone! just finished my Google Dorks notebook and wanted to share it with the community. it's pretty long but ..._
+- [Job Search Results - MaineHealth Careers](https://www.careersatmainehealth.org/search/jobs) — `jobs`  
+  - _Search 1180 Careers available at MaineHealth._
 
-### www.finning.com — 1 result(s)
+### www.dol.gov — 1 result(s)
 
-- [Our Open Jobs](https://www.finning.com/en_CA/company/careers/our-open-jobs.html) — `careers`  
-  - _External career opportunities · Click the View Opportunities button and select the job you would like to apply for. · Click Apply, create a profile in Workday and ..._
+- [DOL Job Opportunities | U.S. Department of Labor](https://www.dol.gov/general/jobs/search-job-postings) — `jobs`  
+  - _The Department of Labor posts all job opportunities on USAJOBS, the job board for the federal government. Scroll to Top._
 
-### www.hitachienergy.com — 1 result(s)
+### www.gwu.jobs — 1 result(s)
 
-- [Open Jobs](https://www.hitachienergy.com/careers/open-jobs) — `careers`  
-  - _Open Jobs · Administration, Facilities & Secretarial · Communications & Corporate Affairs · Construction · Consumer & Commercial Banking · Creative & ..._
+- [George Washington Employment Site | Search Jobs](https://www.gwu.jobs/postings/search) — `search`  
+  - _Search Postings (104) All Jobs Atom Feed ... View all open Postings below, or enter search criteria to narrow your search. Keywords._
 
-### www.indeed.com — 1 result(s)
+### www.justice.gov — 1 result(s)
 
-- [Indeed: Job Search](https://www.indeed.com/)  
-  - _With Indeed, you can search millions of jobs online to find the next step in your career. With tools for job search, resumes, company reviews and more, ..._
+- [Careers | Search Opportunities | United States ...](https://www.justice.gov/careers/search-opportunities) — `careers`  
+  - _You can search for openings by location, keyword, or within a specific Department of Justice agency; post and create a resume; apply for Federal Government jobs ..._
 
-### www.instagram.com — 1 result(s)
+### www.lockheedmartinjobs.com — 1 result(s)
 
-- [Блог про рекрутинг та пошук роботи (@spin.hire.career)](https://www.instagram.com/spin.hire.career/)  
-  - _Як шукачам роботи не просто вижити, а й потрапити в компанію мрії? Існує один лайфхак в #linkedin , про який небагато хто знає, але він здатен суттєво підвищити ..._
+- [Search our Job Opportunities at Lockheed Martin Corporation](https://www.lockheedmartinjobs.com/search-jobs) — `jobs`  
+  - _Search for available job openings at Lockheed Martin Corporation._
 
-### www.jobradar.app — 1 result(s)
+### www.nytco.com — 1 result(s)
 
-- [Master Google Search Operators to Find Hidden Job ...](https://www.jobradar.app/blog/google-search-operators-for-jobs) — `jobs`  
-  - _Learn advanced Google search operators (dorks) to uncover job listings that most job seekers never see. Find opportunities before they hit job ..._
+- [Job Listings](https://www.nytco.com/careers/job-listings/) — `careers`  
+  - _If you find our mission and vision inspiring, we invite you to apply for any of our open positions. And if you are a current Times employee, please apply on our ..._
 
-### www.slideshare.net — 1 result(s)
+### www.okc.gov — 1 result(s)
 
-- [One page-tip-sheet-boolean-google-irina-shamaeva | PDF](https://www.slideshare.net/slideshow/one-pagetipsheetbooleangoogleirinashamaeva/57302673)  
-  - _... inurl: Search for keywords or phrases in page URL's (shown as green text in Google search results): [inurl:careers] the word “careers” must appear in the ..._
+- [OKC Career Site - oracle](https://www.okc.gov/Government/Employment/Careers-Open-to-the-Public) — `careers`  
 
-### www.twc.texas.gov — 1 result(s)
+### www.pa.gov — 1 result(s)
 
-- [Find a Job - Texas Workforce Commission](https://www.twc.texas.gov/services/job-search) — `search`  
-  - _Find a career by using the following resources. WorkInTexas.com. Create a WorkInTexas.com account to search and apply for Texas jobs that fit your needs._
+- [Open Jobs - Employment](https://www.pa.gov/agencies/employment/open-jobs) — `jobs`  
+  - _Explore and apply for jobs with the Commonwealth of Pennsylvania. Find open positions, special programs for skilled workers and students, and connect with ..._
 
-### www.workbc.ca — 1 result(s)
+### www.tn.gov — 1 result(s)
 
-- [Find Jobs](https://www.workbc.ca/search-and-prepare-job/find-jobs) — `jobs`  
-  - _Search for and apply to jobs in British Columbia using the WorkBC Job Board._
+- [Job Search](https://www.tn.gov/workforce/jobs-and-education/job-search.html) — `jobs`  
+  - _Jobs4TN.gov gives you an unprecedented number of jobs to search, averaging 400,000 every day, and also helps you build a resume and discover labor market ..._
+
+### www.ziprecruiter.com — 1 result(s)
+
+- [Job Search - Jobs Hiring Near You - Mar 24, 2026](https://www.ziprecruiter.com/Search-Jobs-Near-Me) — `search`  
+  - _Explore a variety of JOBS NEAR YOU (full-time, part-time, or remote). Browse the most comprehensive job listings and one click apply!_
