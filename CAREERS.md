@@ -1,18 +1,27 @@
 # Job results for: `(inurl:careers OR inurl:jobs) (inurl:open OR inurl:positions OR inurl:listings OR inurl:vacancies OR inurl:search)`
 
-_Engine: serpapi  |  Generated: 2026-04-27T02:35:51.243881+00:00  |  Results: 39_
+_Engine: serpapi  |  Generated: 2026-04-28T02:43:25.106357+00:00  |  Results: 44_
 
 **Search metadata**:
 - source: serpapi
 - fetched: 50
-- deduped: 39
+- deduped: 44
 
 ## Results grouped by domain
 
-### 8yhdemmdqh.be5869cde785f498140e5287ea244b7c.careersite.pageuppeople.com — 1 result(s)
+### www.indeed.com — 2 result(s)
 
-- [Careers at Columbia University: Search Staff Jobs](https://8yhdemmdqh.be5869cde785f498140e5287ea244b7c.careersite.pageuppeople.com/jobs/search) — `jobs`  
-  - _Search all jobs; Featured Career Areas. Alumni Relations & Development · Facilities and Operations · Healthcare · Information technology._
+- [Search Jobs, Employment in San Jose, CA](https://www.indeed.com/q-search-l-san-jose,-ca-jobs.html)  
+  - _3040 Search jobs available in San Jose, CA on Indeed.com. Apply to Physical Therapist Assistant, Certified Occupational Therapy Assistant, Speech Language ..._
+- [Search Jobs, Employment in Baltimore, MD](https://www.indeed.com/q-search-l-baltimore,-md-jobs.html)  
+  - _2358 Search jobs available in Baltimore, MD on Indeed.com. Apply to X-ray Technician, HVAC Technician, Warehouse Associate and more!_
+
+### www.ziprecruiter.com — 2 result(s)
+
+- [Job Search - Jobs Hiring Near You - Apr 27, 2026](https://www.ziprecruiter.com/Search-Jobs-Near-Me) — `search`  
+  - _Explore a variety of JOBS NEAR YOU (full-time, part-time, or remote). Browse the most comprehensive job listings and one click apply!_
+- [Search Jobs in Richmond, VA (NOW HIRING)](https://www.ziprecruiter.com/Jobs/Search/-in-Richmond,VA) — `jobs`  
+  - _Browse 1000+ RICHMOND, VA SEARCH jobs ($62k-$390k) from companies hiring now. New openings posted daily—find postings near you & 1-click ..._
 
 ### arizonaatwork.com — 1 result(s)
 
@@ -22,22 +31,17 @@ _Engine: serpapi  |  Generated: 2026-04-27T02:35:51.243881+00:00  |  Results: 39
 ### careers.aldi.us — 1 result(s)
 
 - [Search our Job Opportunities at ALDI](https://careers.aldi.us/search-jobs) — `jobs`  
-  - _Our outstanding support for you. Sign Up for Job Alerts. When new ALDI career opportunities open, you'll be among the first to know._
+  - _Open jobs at ALDI. Jobs For You. Part-Time Store Cashier/Stocker. Massena, New York. View Job ..._
 
-### careers.bankofamerica.com — 1 result(s)
+### careers.brownsvilletx.gov — 1 result(s)
 
-- [Bank of America Jobs: Search & Apply for ...](https://careers.bankofamerica.com/en-us/job-search) — `search`  
-  - _Search and apply for jobs directly at the Bank of America Careers site. Search available job openings by location, career area, or keywords._
+- [Jobs near me](https://careers.brownsvilletx.gov/jobs/search) — `jobs`  
+  - _Architecture, Building, Plant, Tree, Outdoors, Cityscape, Urban, Person, City We're Hiring! Search Jobs near me_
 
-### careers.cerner.com — 1 result(s)
+### careers.k-state.edu — 1 result(s)
 
-- [Oracle Careers—Create the future with us](https://careers.cerner.com/search?T=1686132103744&keyword=%E5%9C%A8%E7%BA%BF%E7%9C%8Bqqxxb.com%E6%9C%80%E5%85%A82026%E5%90%88%E9%9B%86%E7%B1%B3%E8%83%A1%E6%A1%83%E6%9B%B4%E6%96%B011174%E7%A7%92%E4%BC%A0%F0%9F%92%AF72552) — `search`  
-  - _Explore open roles and find the future of your career. Search jobs at Oracle. Oracle Talent Network. Get career insights ..._
-
-### careers.kimberly-clark.com — 1 result(s)
-
-- [Find Jobs at Kimberly-Clark](https://careers.kimberly-clark.com/en/job-search) — `search`  
-  - _Your next role could start with a single search. Let's find the role that fits you best. It Starts HERE. View all jobs._
+- [Search Page - K-State Careers](https://careers.k-state.edu/jobs/search) — `jobs`  
+  - _We are hiring! Find a future in purple. Search by job title, location, department, category, etc. Search Filter jobs_
 
 ### careers.msu.edu — 1 result(s)
 
@@ -46,160 +50,175 @@ _Engine: serpapi  |  Generated: 2026-04-27T02:35:51.243881+00:00  |  Results: 39
 
 ### careers.peraton.com — 1 result(s)
 
-- [Careers at Peraton | Search Jobs](https://careers.peraton.com/search-jobs?search=architect&&utm_source=levels.fyi&iis=Job+Board&iisn=levels.fyi000&utm_source=levels.fyi&iis=Job+Board&iisn=levels.fyi000) — `jobs`  
+- [Search Jobs](https://careers.peraton.com/search-jobs?search=data%20scientist&&iis=businessanalyst.com&iis=businessanalyst.com) — `jobs`  
   - _Explore career opportunities at Peraton and help tackle critical national security challenges. Join our team to shape the future through innovation, ..._
 
-### careers.wtwco.com — 1 result(s)
+### careers.progressive.com — 1 result(s)
 
-- [Search Jobs - WTW career](https://careers.wtwco.com/jobs/search) — `jobs`  
-  - _Search jobs ; Healthcare Financial/Actuarial Analyst. Chicago, Illinois, United States ; Early Careers: 2026 Central Team Administrative Services - Intern Program ..._
+- [Job Search Results | Progressive Careers](https://careers.progressive.com/search/jobs/) — `jobs`  
+  - _Search 227 Careers available at Progressive._
 
-### careersourceclm.com — 1 result(s)
+### careers.umich.edu — 1 result(s)
 
-- [Search For Jobs](https://careersourceclm.com/candidates/job-search/search-for-jobs) — `jobs`  
-  - _Browse the latest career opportunities around Marion, Levy, and Citrus Counties. Plus, catch up on last week's offerings._
+- [Search Jobs - U-M Careers](https://careers.umich.edu/search-jobs) — `jobs`  
+  - _Browse Jobs · Career Interests · Work Locations · Full/Part-Time Positions · Departments · Regular/Temporary._
+
+### careers.untsystem.edu — 1 result(s)
+
+- [Search Page - All System Jobs - UNTS Careers - UNT System](https://careers.untsystem.edu/jobs/search?page=13) — `jobs`  
+  - _Search by job title, location, department, category, etc. Search. Filter jobs. &nbsp;. -Categories- ..._
+
+### careersourcesuncoast.com — 1 result(s)
+
+- [Search for Jobs](https://careersourcesuncoast.com/search-for-jobs/) — `search`  
+  - _It's the State of Florida's official job search website, used to connect thousands of employers with qualified career seekers._
 
 ### euraxess.ec.europa.eu — 1 result(s)
 
 - [EURAXESS Jobs Search - European Union](https://euraxess.ec.europa.eu/jobs/search) — `jobs`  
   - _No information is available for this page._
 
-### jobs.apple.com — 1 result(s)
+### jobs.cityofchesapeake.net — 1 result(s)
 
-- [Search Jobs - United States - Jobs - Careers at Apple](https://jobs.apple.com/en-us/search?location=united-states-USA) — `search`  
-  - _Explore all United States jobs at Apple. Create a profile and apply today._
+- [City of Chesapeake Portal | Search Jobs](https://jobs.cityofchesapeake.net/postings/search) — `search`  
+  - _Search Postings (49) All Jobs Atom Feed ... View all open Postings below, or enter search criteria to narrow your search. Keywords._
 
-### jobs.citi.com — 1 result(s)
+### jobs.elon.edu — 1 result(s)
 
-- [Job Search | Citi Careers](https://jobs.citi.com/search-jobs) — `jobs`  
-  - _Search for jobs at Citi. Filter by location, function and keyword to help find a role that may be ideal for you. Apply online today._
+- [Search Page - Elon University](https://jobs.elon.edu/jobs/search) — `jobs`  
+  - _Job Search Page. Search and filter all available opportunities. ; Gardener. Facilities. Facilities Management. Staff Full-Time ; Program Assistant. Student ..._
 
-### jobs.comcast.com — 1 result(s)
+### jobs.expresspros.com — 1 result(s)
 
-- [Search Jobs - Comcast Careers](https://jobs.comcast.com/search-jobs) — `jobs`  
-  - _Search our Job Opportunities at Comcast Corporation._
-
-### jobs.ebayinc.com — 1 result(s)
-
-- [Search for Jobs: eBay Careers](https://jobs.ebayinc.com/us/en/search-results) — `search`  
-  - _eBay Inc. is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, ..._
+- [Search - Express Employment Professionals](https://jobs.expresspros.com/search) — `search`  
+  - _Job Search. Start your job search by entering keywords and a location in the fields below. Then narrow or expand your results by changing the mile radius._
 
 ### jobs.ksl.com — 1 result(s)
 
 - [Jobs Search | Find A Job | KSL.com](https://jobs.ksl.com/search) — `search`  
   - _Looking for a job? With KSL Jobs, you can search millions of jobs online to find the next step in your career. Find your dream job now!_
 
+### jobs.ncsu.edu — 1 result(s)
+
+- [NCSU Employment Site | Search Jobs](https://jobs.ncsu.edu/postings/search) — `search`  
+  - _Search Postings (440) All Jobs Atom Feed ... View all open Postings below, or enter search criteria to narrow your search. Keywords._
+
 ### jobs.ohiomeansjobs.monster.com — 1 result(s)
 
 - [Search jobs on OhioMeansJobs](https://jobs.ohiomeansjobs.monster.com/Search.aspx?rad=20&rad_units=miles&sid=68&pg=1) — `search`  
   - _Find a job on OhioMeansJobs today. Use our job search engine to find and apply for the job of your dreams in OH. Jobs in Ohio, Employment, ..._
 
+### jobs.pge.com — 1 result(s)
+
+- [Search our Job Opportunities at Pacific Gas and Electric ...](https://jobs.pge.com/search-jobs) — `jobs`  
+  - _Search our Job Opportunities at Pacific Gas and Electric Company._
+
+### jobs.rutgers.edu — 1 result(s)
+
+- [Rutgers University Employment Opportunities | Search Jobs](https://jobs.rutgers.edu/postings/search) — `search`  
+  - _To view open positions, please enter your search criteria below. You may view all open positions by not specifying any search criteria and clicking the Search ..._
+
+### jobs.sutterhealth.org — 1 result(s)
+
+- [job openings at Sutter Health](https://jobs.sutterhealth.org/us/en/search-results) — `search`  
+  - _Director (42)jobs · Individual Contributor (1068)jobs · Manager (38)jobs · Supervisor (27)jobs · Vice President (10)jobs · signed (1)job._
+
 ### jobs.tenethealth.com — 1 result(s)
 
-- [Search our Job Opportunities at TENET - Tenet Healthcare](https://jobs.tenethealth.com/search-jobs) — `jobs`  
-  - _3017 Results · Chief Executive Officer - DMC Huron Valley · DMC 2026 Hiring Events · GRADUATE REGISTERED NURSE DMC · Patient Sitter · Registered Nurse (RN) - Float ..._
-
-### jobs.tjx.com — 1 result(s)
-
-- [Search results | Find available job openings at TJX Companies](https://jobs.tjx.com/global/en/search-results) — `search`  
-  - _MarshallsAt TJX Companies, every day brings new opportunities for growth, exploration, and achievement. You'll be part of our vibrant team ..._
+- [Search our Job Opportunities at TENET](https://jobs.tenethealth.com/search-jobs) — `jobs`  
+  - _3030 Results. Filter Results. Nursing Assistant - PCU. Northeast Baptist Hospital San Antonio, TX Job Type: Full Time Shift: Night Save ..._
 
 ### jobs.universityofcalifornia.edu — 1 result(s)
 
 - [Advanced Search](https://jobs.universityofcalifornia.edu/search?multiple_locations=1) — `search`  
   - _Use the form to search for jobs and career opportunities. University of California, Human Resources. If you need assistance with this website, please contact ..._
 
-### lifebridgehealth.hctsportals.com — 1 result(s)
+### jobs.utdallas.edu — 1 result(s)
 
-- [LifeBridge Health Career Site - Jobs in Randallstown, MD](https://lifebridgehealth.hctsportals.com/jobs/search) — `jobs`  
-  - _LifeBridge Health is a leading regional health care system serving communities in northwest Baltimore City, Baltimore County and Carroll County, Maryland._
+- [Search Jobs - UT Dallas – Employment Opportunities](https://jobs.utdallas.edu/postings/search) — `search`  
+  - _Search Postings (157) All Jobs Atom Feed ... View all open Postings below, or enter search criteria to narrow your search. Keywords._
+
+### jobs.wisc.edu — 1 result(s)
+
+- [Search Job Openings - Jobs at UW–Madison](https://jobs.wisc.edu/jobs/search) — `jobs`  
+  - _Find job opportunities at the University of Wisconsin–Madison. Job vacancies include Faculty, Staff, Full-Time, and Part-Time positions._
+
+### lucidmotors.com — 1 result(s)
+
+- [Search for Jobs | Careers](https://lucidmotors.com/en-sa/careers/search) — `careers`  
+  - _Work alongside some of the most accomplished minds in the automotive and technology industries. Search for job openings and apply today._
 
 ### masshirespringfield.org — 1 result(s)
 
 - [Job Postings For Greater Springfield & Across Massachusetts](https://masshirespringfield.org/search-jobs/) — `search`  
   - _Thousands Of Job Openings Are Available For Your Review. Our JobQuest Search Engine Has Many Ways For You To Find Your Next Career Move._
 
-### wmchealthjobs.org — 1 result(s)
+### musc.career-pages.com — 1 result(s)
 
-- [Search Jobs at WMCHealth Network](https://wmchealthjobs.org/search-jobs/) — `search`  
-  - _WMCHealth Network is the pre-eminent provider of integrated healthcare in the Hudson Valley. We're hiring for a variety of clinical and non-clinical jobs ..._
+- [Search Jobs at the Medical University of South Carolina | MUSC](https://musc.career-pages.com/jobs/search) — `jobs`  
+  - _Make tomorrow better. Find your ideal job in nursing, education, research, or patient care with us. New RN grads welcome. Search current MUSC job openings._
 
-### www.att.jobs — 1 result(s)
+### oag.ca.gov — 1 result(s)
 
-- [Search our Job Opportunities at AT&T](https://www.att.jobs/search-jobs) — `jobs`  
-  - _We found 1912 jobs · Associate Director-Product Marketing · Retail Sales Consultant · Lead Client Solutions Executive 4 CNV · Lead Client Solutions ..._
+- [Job Vacancies | State of California - Department of Justice](https://oag.ca.gov/careers/job-vacancies) — `careers`  
+  - _Job vacancies are available only to individuals who have eligibility based on either: Successful completion of a competitive State civil service examination; or ..._
 
-### www.azstatejobs.gov — 1 result(s)
+### www.aep.com — 1 result(s)
 
-- [Search Page](https://www.azstatejobs.gov/jobs/search) — `jobs`  
-  - _As a State of Arizona employee, you can choose from more than 1,700 types of career opportunities, all with the same employer, making job mobility and career ..._
-
-### www.careersatmainehealth.org — 1 result(s)
-
-- [Job Search Results - MaineHealth Careers](https://www.careersatmainehealth.org/search/jobs) — `jobs`  
-  - _Search 1102 Careers available at MaineHealth._
-
-### www.cdss.ca.gov — 1 result(s)
-
-- [CDSS Job Vacancies - CA.gov](https://www.cdss.ca.gov/careers-with-cdss/cdss-job-vacancies) — `careers`  
-  - _Current job vacancies at the California Department of Social Services are listed below. To see a listing of all vacancies with California Department of Social ..._
+- [Open Jobs](https://www.aep.com/careers/positions/?&location=shreveport&pageNumber=1) — `careers`  
+  - _Search Open Jobs ; Station Electrician C-A · Location. Shreveport, LA. Category. Transmission Field Services - Station - Craft ; Region Forestry Supervisor._
 
 ### www.disneycareers.com — 1 result(s)
 
 - [Search our Job Opportunities at DISNEY](https://www.disneycareers.com/en/search-jobs) — `jobs`  
-  - _Explore opportunities. Whether you're looking to create magic in our Parks and Resorts, support business growth and development, work behind-the-scenes on your ..._
+  - _Get the latest job opportunities as they become available. Sign Up. Close. Watch Our Jobs._
 
 ### www.dol.gov — 1 result(s)
 
 - [DOL Job Opportunities | U.S. Department of Labor](https://www.dol.gov/general/jobs/search-job-postings) — `jobs`  
   - _The Department of Labor posts all job opportunities on USAJOBS, the job board for the federal government. Scroll to Top._
 
-### www.indeed.com — 1 result(s)
+### www.google.com — 1 result(s)
 
-- [Search Jobs, Employment in Phoenix, AZ](https://www.indeed.com/q-search-l-phoenix,-az-jobs.html)  
-  - _2421 Search jobs available in Phoenix, AZ on Indeed.com. Apply to Behavior Technician, Certified Pharmacy Technician, HVAC Technician and more!_
+- [Jobs search](https://www.google.com/about/careers/applications/jobs/results/83118298446602950-staff-ml-software-engineer-generative-ai-search-ads?q=engineer&page=55) — `careers`  
+  - _Equal Opportunity. Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is ..._
+
+### www.hitachienergy.com — 1 result(s)
+
+- [Open Jobs](https://www.hitachienergy.com/careers/open-jobs) — `careers`  
+  - _What are you looking for? Search. Top Searches. Transformers EconiQ ..._
+
+### www.jobs.virginia.gov — 1 result(s)
+
+- [Search Page](https://www.jobs.virginia.gov/jobs/search) — `jobs`  
+  - _Search by job title, location, department, category, etc. Search Jobs near me. Filter jobs._
 
 ### www.jointheportauthority.com — 1 result(s)
 
 - [The Port Authority of New York and New Jersey - Careers](https://www.jointheportauthority.com/jobs/search) — `jobs`  
-  - _Search 12 Careers available. The Port Authority of New York and New Jersey Careers._
+  - _Search 13 Careers available. The Port Authority of New York and New Jersey Careers._
 
-### www.jpl.jobs — 1 result(s)
+### www.kaiserpermanentejobs.org — 1 result(s)
 
-- [Search results | Available job openings at JPL](https://www.jpl.jobs/search-results) — `search`  
-  - _JPL is the leading center for robotic space exploration of our solar system. A place where our employees redefine what's possible, ..._
+- [Search our Job Opportunities at Kaiser Permanente](https://www.kaiserpermanentejobs.org/search-jobs) — `jobs`  
+  - _2822 Job Results · Assistant Director Diagnostic Imaging Services · Diagnostic Imaging Technologist-Sonographer · Diagnostic Imaging Technologist-Sonography._
+
+### www.lego.com — 1 result(s)
+
+- [Careers Search](https://www.lego.com/en-us/careers/search) — `careers`  
+  - _Careers · Who we are · Why Join Us · How to apply & support · Life Behind the Bricks · Candidate Login. Careers Search. Search Jobs. Keyword._
 
 ### www.linkedin.com — 1 result(s)
 
-- [4118000+ jobs in United States](https://www.linkedin.com/jobs/search) — `jobs`  
-  - _Today's top 4118000+ jobs in United States. Leverage your professional network, and get hired. New United States jobs added daily._
-
-### www.lockheedmartinjobs.com — 1 result(s)
-
-- [Search our Job Opportunities at Lockheed Martin Corporation](https://www.lockheedmartinjobs.com/search-jobs) — `jobs`  
-  - _Search for available job openings at Lockheed Martin Corporation._
+- [4130000+ jobs in United States](https://www.linkedin.com/jobs/search) — `jobs`  
+  - _Today's top 4130000+ jobs in United States. Leverage your professional network, and get hired. New United States jobs added daily._
 
 ### www.novartis.com — 1 result(s)
 
 - [Career Search](https://www.novartis.com/careers/career-search) — `careers`  
-  - _Information for journalists including press releases, statements, stories, multimedia resources and more. ... Novartis is hiring! Find open positions, ..._
-
-### www.nytco.com — 1 result(s)
-
-- [Job Listings | The New York Times ...](https://www.nytco.com/careers/job-listings/) — `careers`  
-  - _If you find our mission and vision inspiring, we invite you to apply for any of our open positions. And if you are a current Times employee, please apply on our ..._
-
-### www.okc.gov — 1 result(s)
-
-- [Search Jobs - OKC Career Site Careers - oracle](https://www.okc.gov/Government/Employment/Careers-Open-to-the-Public) — `careers`  
-  - _Search Jobs - OKC Career Site Careers · Legal Secretary I - City · Crew Chief - City · Administrative Technician (Part-Time/Year-Round) - City · Construction ..._
+  - _All our current job openings are displayed here. If you have encountered a job posting or been approached with a job offer that you suspect may be ..._
 
 ### www.westmiworks.org — 1 result(s)
 
 - [Weekly Hot Jobs | Jobs In West Michigan](https://www.westmiworks.org/job-seekers/job-search/weekly-hot-jobs/)  
-  - _Browse hundreds of full-time, part-time, permanent, and temporary jobs in West Michigan listed in our weekly hot jobs tables._
-
-### www.ziprecruiter.com — 1 result(s)
-
-- [Job Search - Jobs Hiring Near You - Apr 26, 2026](https://www.ziprecruiter.com/Search-Jobs-Near-Me) — `search`  
-  - _Explore a variety of JOBS NEAR YOU (full-time, part-time, or remote). Browse the most comprehensive job listings and one click apply!_
+  - _highlights the area's most rapidly expanding and sought-after job openings through its Weekly Hot Jobs list. This resource provides over 16,000 job seekers and ..._
