@@ -1,85 +1,131 @@
 # Job results for: `(inurl:careers OR inurl:jobs) (inurl:open OR inurl:positions OR inurl:listings OR inurl:vacancies OR inurl:search)`
 
-_Engine: serpapi  |  Generated: 2026-05-15T02:55:17.650150+00:00  |  Results: 45_
+_Engine: serpapi  |  Generated: 2026-05-16T02:43:23.577497+00:00  |  Results: 48_
 
 **Search metadata**:
 - source: serpapi
 - fetched: 50
-- deduped: 45
+- deduped: 48
 
 ## Results grouped by domain
 
-### github.com — 2 result(s)
+### in.linkedin.com — 9 result(s)
 
-- [OSINT CHEAT SHEET - List OSINT Tools](https://github.com/zelsaddr/OSINT-Cheat-sheet-)  
-  - _inurl: Search for specific urls or paths; intext: Search for specific words or contects; filetype: Search for files; site: Search from a specified target ..._
-- [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet)  
-  - _inurl: Search for specific urls or paths; intext: Search for specific words ... Jobs: site:myspace.com inurl:jobs. Videos: site:myspace.com 'TARGET NAME ..._
+- [Ravi Kiran - allsoftlink1@gmail.com](https://in.linkedin.com/in/ravi-kiran-0a03b2362)  
+  - _Allsoftlink is a forward-thinking digital education and software solutions company led by… · Experience: allsoftlink1@gmail.com · Education: USMANI DEGREE ..._
+- [Saroj Kanvadiya - NANGIA TRADERS PRIVATE LIMITED](https://in.linkedin.com/in/saroj-kanvadiya-5692a116b)  
+  - _Experience: NANGIA TRADERS PRIVATE LIMITED · Education: Arya College of Engineering & Research Center,Jaipur · Location: Jaipur · 122 connections on ..._
+- [Deepanshu Suryavanshi - EZ Marketing Agency](https://in.linkedin.com/in/deepanshu-suryavanshi-4a4409107)  
+  - _Driving success through effective leadership and strategic vision I am an… · Experience: EZ Marketing Agency · Education: NIT Jalandhar · Location: Delhi ..._
+- [Sachin Nelwade - Sales coordinator](https://in.linkedin.com/in/sachin-nelwade-314394123)  
+  - _Sales coordinator · Hi · Education: Gulbarga University · Location: Karnataka · 57 connections on LinkedIn. View Sachin Nelwade's profile on LinkedIn, ..._
+- [garima garg - Shiv Shakti Jwel & Craft](https://in.linkedin.com/in/garima-garg-412395113)  
+  - _Shiv Shakti Jwel & Craft · Education: ABES Engineering College · Location: Ghaziabad · 11 connections on LinkedIn. View garima garg's profile on LinkedIn, ..._
+- [Viraj Panwar - Madhur Vihar](https://in.linkedin.com/in/viraj1panwar)  
+  - _I have experience of working in a team i like to take initiative and find solutions in… · Experience: Madhur Vihar · Education: CHANDIGARH UNIVERSITY ..._
+- [Biswajit Nayak - Founder | Product Engineer](https://in.linkedin.com/in/biswajitnk)  
+  - _Founder | Product Engineer | iOS & Android Specialist | Engineering the Future of HealthTech & SaaS | Digital Growth Expert · I Am Very Fond of The Internet ..._
+- [raghav giri - UI/UX & Product Designer](https://in.linkedin.com/in/raghav-giri-48139422b)  
+  - _UI/UX & Product Designer | Crafting clean, user-focused designs for web & mobile | Blending creativity with tech to build better digital experiences._
+- [Rajan J - Chennai](https://in.linkedin.com/in/rajan-j-2a1b00221)  
+  - _Chennai · Front end developer upgraded with New gen technologies. · Experience: Great Learning · Education: Anna University · Location: Tiruvallur · 8 ..._
+
+### www.indeed.com — 3 result(s)
+
+- [Search Jobs, Employment in Los Angeles, CA](https://www.indeed.com/q-search-l-los-angeles,-ca-jobs.html)  
+  - _3332 Search jobs available in Los Angeles, CA on Indeed.com. Apply to Physical Therapist, Paramedic, Registered Nurse - Critical Care and more!_
+- [Indeed: Job Search](https://www.indeed.com/)  
+  - _With Indeed, you can search millions of jobs online to find the next step in your career. With tools for job search, resumes, company reviews and more, ..._
+- [Search Jobs, Employment in Indianapolis, IN](https://www.indeed.com/q-search-l-indianapolis,-in-jobs.html)  
+  - _1650 Search jobs available in Indianapolis, IN on Indeed.com. Apply to Mechanical Project Manager, Truck Driver, Business Analyst and more!_
+
+### www.linkedin.com — 3 result(s)
+
+- [4078000+ jobs in United States](https://www.linkedin.com/jobs/search) — `jobs`  
+  - _Today's top 4078000+ jobs in United States. Leverage your professional network, and get hired. New United States jobs added daily._
+- [Find US Jobs, Internships, Jobs Near Me](https://www.linkedin.com/jobs) — `jobs`  
+  - _Find the right job or internship for you · Engineering · Business Development · Finance · Administrative Assistant · Retail Associate · Customer Service · Operations ..._
+- [Himanshu Gandotra - Student at BMS Institute of ...](https://www.linkedin.com/in/himanshu-gandotra-741934136)  
+  - _Student at BMS Institute of Technology and Management · Education: BMS Institute of Technology and Management · Location: Jammu & Kashmir · 190 connections ..._
+
+### www.amazon.jobs — 2 result(s)
+
+- [Job search | Amazon.jobs](https://www.amazon.jobs/en/search?base_query=&loc_query=Chicago%2C+IL%2C+United+States&latitude=41.88425&longitude=-87.63245&loc_group_id=&invalid_location=false&country=USA&city=Chicago) — `search`  
+  - _Explore corporate jobs and career programs at Amazon, from full-time roles to internships. Join our global teams and create a better future for our ..._
+- [Job search | Amazon.jobs](https://www.amazon.jobs/search) — `search`  
+  - _Explore corporate jobs and career programs at Amazon, from full-time roles to internships. Join our global teams and create a better future for our ..._
+
+### www.ziprecruiter.com — 2 result(s)
+
+- [Job Search - Jobs Hiring Near You - May 15, 2026](https://www.ziprecruiter.com/Search-Jobs-Near-Me) — `search`  
+  - _Explore a variety of JOBS NEAR YOU (full-time, part-time, or remote). Browse the most comprehensive job listings and one click apply!_
+- [Search Jobs in Las Vegas, NV (NOW HIRING)](https://www.ziprecruiter.com/Jobs/Search/-in-Las-Vegas,NV) — `jobs`  
+  - _This role oversees both traditional SEO (Google, Bing, YouTube, local listings, etc.) and GEO strategies to ensure our brand and content surface ..._
+
+### adol.alabama.gov — 1 result(s)
+
+- [Job Seeker - Find a job - Alabama Department of Labor](https://adol.alabama.gov/job-seeker/)  
+  - _Search The Alabama Department of Labor's job postings to find a position by job title, company, occupation, military code, and other criteria._
+
+### careers.browardhealth.org — 1 result(s)
+
+- [Job Search Results](https://careers.browardhealth.org/job-search-results/)  
+  - _Search Broward Health careers—nursing, allied health, corporate, and support services roles with growth and great benefits._
 
 ### careers.msu.edu — 1 result(s)
 
 - [Search Page - MSU Careers - Michigan State University](https://careers.msu.edu/jobs/search) — `jobs`  
-  - _The Division of Human Anatomy invites applicants for a part-time Prosection Assistant position at the MSU College of Human Medicine's Grand Rapids campus._
+  - _Search by job title, location, department, category, etc. Michigan State University Navigation._
+
+### careers.nyp.org — 1 result(s)
+
+- [Search our Job Opportunities at NewYork-Presbyterian](https://careers.nyp.org/search-jobs) — `jobs`  
+  - _We found 394 results. Refine Results. Per Diem Physician Assistant | Internal Medicine (Queens Campus). Flushing, NY Save ..._
 
 ### careers.ua.edu — 1 result(s)
 
 - [Search Page - UA Careers - The University of Alabama](https://careers.ua.edu/jobs/search) — `jobs`  
   - _UA Staff Employment · Administrative / Professional · Information Systems/Technology Support · Research/Scientific._
 
-### dbm.maryland.gov — 1 result(s)
+### careers.umich.edu — 1 result(s)
 
-- [Maryland State Jobs - Immediate Openings! - DBM](https://dbm.maryland.gov/jobseekers/pages/jobseekershome.aspx) — `jobs`  
-  - _View Job Postings​; Existing Users View Your Current Applications; For immediate assistance - contact us at 410-767-4850 (8:00 a.m. to 4:00 p.m. daily, ..._
+- [Search Jobs | U-M Careers - University of Michigan](https://careers.umich.edu/search-jobs) — `jobs`  
+  - _Browse Jobs · Career Interests · Work Locations · Full/Part-Time Positions · Departments · Regular/Temporary._
 
-### dev.to — 1 result(s)
+### careersourcebroward.com — 1 result(s)
 
-- [️‍♂️ Unlock Hidden Job Opportunities with Google Dorking](https://dev.to/nish2005karsh/unlock-hidden-job-opportunities-with-google-dorking-the-job-hunters-secret-weapon-part-1-37pp)  
-  - _inurl : – Search for specific words in the URL. inurl:"careers". filetype : – Find specific file formats like PDFs or DOCX. filetype:pdf "job ..._
+- [Find a job | Broward County, Florida](https://careersourcebroward.com/career-seekers/find-a-job)  
+  - _Through the online portal, you can apply for jobs, set up automatic job posting notifications, upload your résumé, research training and education opportunities ..._
 
-### en.ryte.com — 1 result(s)
+### jobs.apple.com — 1 result(s)
 
-- [inURL Explained & How to use Search Operators](https://en.ryte.com/wiki/InURL_Search) — `search`  
-  - _The Google Search Operator inurl search query allows users to filter the Google search results to find URLs that contain particular keywords._
-
-### georgia.gov — 1 result(s)
-
-- [Find Jobs in Georgia](https://georgia.gov/find-jobs-georgia)  
-  - _Find Job Openings · You can find job opportunities in Georgia by using government resources, community job boards, company websites, job fairs, and networking._
-
-### help.ahrefs.com — 1 result(s)
-
-- [How to use inurl: and In URL dropdown or both in Content ...](https://help.ahrefs.com/en/articles/2459712-how-to-use-inurl-and-in-url-dropdown-or-both-in-content-explorer)  
-  - _Using inurl: or selecting the In URL dropdown in Content Explorer tool will search for a string within the URL. Here are some examples of usage that you might ..._
-
-### in.linkedin.com — 1 result(s)
-
-- [Raj Jani - Freelance | Self-Employed](https://in.linkedin.com/in/raj-jani-b8647638a)  
-  - _Experience: Freelance | Self-Employed · Location: 380001 · 196 connections on LinkedIn. View Raj Jani's profile on LinkedIn, a professional community of 1 ..._
-
-### inboundblogging.com — 1 result(s)
-
-- [Google Search Operators Full List](https://inboundblogging.com/google-search-operators-full-list/)  
-  - _site:linkedin.com intitle:”blogging” inurl:”jobs”. Google will ... site intitle inurl search operator._
+- [Search Jobs - United States - Jobs - Careers at Apple](https://jobs.apple.com/en-us/search?location=united-states-USA) — `search`  
+  - _Explore all United States jobs at Apple. Create a profile and apply today._
 
 ### jobs.citi.com — 1 result(s)
 
 - [Job Search | Citi Careers](https://jobs.citi.com/search-jobs) — `jobs`  
   - _Search for jobs at Citi. Filter by location, function and keyword to help find a role that may be ideal for you. Apply online today._
 
-### jobs.ebayinc.com — 1 result(s)
+### jobs.comcast.com — 1 result(s)
 
-- [Search for Jobs: eBay Careers](https://jobs.ebayinc.com/us/en/search-results) — `search`  
-  - _Search for job openings at eBay._
+- [Search Jobs - Comcast Careers](https://jobs.comcast.com/search-jobs) — `jobs`  
+  - _Search our Job Opportunities at Comcast Corporation._
+
+### jobs.la.gov — 1 result(s)
+
+- [Louisiana Jobs - Home](https://jobs.la.gov/)  
+  - _Search jobs. Louisiana State Government represents a wide range of career options and offers an outstanding opportunity to make a difference._
 
 ### jobs.mo.gov — 1 result(s)
 
 - [Job Seekers | JobsMoGov - Missouri Job Center](https://jobs.mo.gov/jobseeker) — `jobs`  
   - _Learn more about Missouri's thriving job market and find the job growth rate, total job openings, and average wages compared to other occupations in the state._
 
-### jobs.tjx.com — 1 result(s)
+### jobs.universalparks.com — 1 result(s)
 
-- [Search results | Find available job openings at TJX ...](https://jobs.tjx.com/global/en/search-results) — `search`  
-  - _MarshallsAt TJX Companies, every day brings new opportunities for growth, exploration, and achievement. You'll be part of our vibrant team ..._
+- [Job Search Results - - Careers at Universal Parks & Resorts](https://jobs.universalparks.com/job-search-results)  
+  - _Search jobs at Universal Parks & Resorts, Universal Orlando, Universal Studios Hollywood, or Universal Creative. Apply today!_
 
 ### jobs.wisc.edu — 1 result(s)
 
@@ -89,144 +135,74 @@ _Engine: serpapi  |  Generated: 2026-05-15T02:55:17.650150+00:00  |  Results: 45
 ### liveworkmaryland.com — 1 result(s)
 
 - [Maryland Jobs - Quick Search](https://liveworkmaryland.com/work/search-jobs/) — `search`  
-  - _Professionals in tech, life sciences, engineering and life sciences, and more are in high demand in Maryland. Find the right job for you in Maryland._
-
-### medium.com — 1 result(s)
-
-- [Google's Advanced Search Operators: intext vs. allintext & ...](https://medium.com/serpapi/googles-advanced-search-operators-intext-allintext-vs-inurl-allinurl-9982f3d57f3)  
-  - _The inurl: advanced search operator made a bigger difference in the initial search for a particular keyword. This deems itself a powerful tool ..._
+  - _Use this quick search tool to find opportunities by keyword, company or title. Search By: Title. Keyword._
 
 ### mn.gov — 1 result(s)
 
 - [Search Jobs / Careers in the State of Minnesota - MN.gov](https://mn.gov/mmb/careers/search-for-jobs/) — `careers`  
   - _Offers a job search tool for the State of Minnesota, information about student worker and intern opportunities, links to other state employers, ..._
 
-### pdfcoffee.com — 1 result(s)
+### musc.career-pages.com — 1 result(s)
 
-- [300 Best Boolean Strings](https://pdfcoffee.com/300-best-boolean-strings-5-pdf-free.html)  
-  - _inurl: Search for keywords or phrases in page URL's (shown as green text in Google search results): [inurl:careers] ... inurl:jobs] [site:careers ..._
+- [Search Jobs at the Medical University of South Carolina | MUSC](https://musc.career-pages.com/jobs/search) — `jobs`  
+  - _Make tomorrow better. Find your ideal job in nursing, education, research, or patient care with us. New RN grads welcome. Search current MUSC job openings._
 
-### researchbuzz.me — 1 result(s)
+### usccareers.usc.edu — 1 result(s)
 
-- [In Praise of Inurl: – ResearchBuzz](https://researchbuzz.me/2018/07/10/in-praise-of-inurl/)  
-  - _Inurl allows you to similarly limit your search, but you can use it to filter any part of an URL. inurl:com would certainly work, but it'll find more search ..._
+- [Search our Job Opportunities at University of ... - USC Careers](https://usccareers.usc.edu/search-jobs) — `jobs`  
+  - _University of Southern California offers meaningful careers with growth and impact. Search USC jobs by keyword, location, category and more and apply here._
 
-### s3-eu-west-1.amazonaws.com — 1 result(s)
+### www.arjoblink.arkansas.gov — 1 result(s)
 
-- [ERESOURCES.docx](https://s3-eu-west-1.amazonaws.com/s3-euw1-ap-pe-ws4-cws-documents.ri-prod/9780367567392/ERESOURCES.docx)  
-  - _inurl: Search for keywords or phrases in page URLs: • inurl:careers – the word "careers" must appear in the URL. • inurl:directory faculty earth ..._
+- [Arkansas JobLink - Arkansas JobLink](https://www.arjoblink.arkansas.gov/)  
+  - _Explore Jobs. Use filters to find your dream job and save your search or apply right away. · Create Resumes. Upload your resume or make a new one from scratch ..._
 
-### scworks.org — 1 result(s)
+### www.att.jobs — 1 result(s)
 
-- [Find a Job](https://scworks.org/jobseeker/find-job) — `jobs`  
-  - _Providing services such as career guidance, job referrals, and testing and training to meet the needs of employers, jobseekers and those looking to further ..._
+- [Search our Job Opportunities at AT&T](https://www.att.jobs/search-jobs) — `jobs`  
+  - _We found 1777 jobs. Filter results · AT&T Logo. Assistant Store Manager. Topeka, KS · AT&T Logo. Assistant Store Manager · AT&T Logo. Retail Store Manager._
 
-### thesearchauthority.weebly.com — 1 result(s)
+### www.careers.luc.edu — 1 result(s)
 
-- [The Start](http://thesearchauthority.weebly.com/uploads/1/4/7/6/14768720/strings_major.xlsx)  
-  - _... inurl:jobs -inurl:job -intitle:jobs -intitle:job -intitle:sample -intitle:samples -site:linkedin.com. 14, (“intitle:(resume OR cv OR vitae OR bio OR profile) ..._
+- [Search Jobs - Loyola University Chicago Career Site](https://www.careers.luc.edu/postings/search) — `search`  
+  - _Search Postings (94) All Jobs Atom Feed ... View all open Postings below, or enter search criteria to narrow your search. Keywords._
 
-### workforindiana.in.gov — 1 result(s)
+### www.cdwjobs.com — 1 result(s)
 
-- [Work for Indiana - Careers at the State of Indiana](https://workforindiana.in.gov/)  
-  - _We're hiring across the entirety of the Hoosier State! Check out our careers by location to see where you can Work for Indiana._
+- [Chicago Careers - careers at CDW](https://www.cdwjobs.com/search/jobs/in/chicago) — `jobs`  
+  - _Job Search Results · Partner Investment Specialist · Sales Incentives Specialist · Executive Assistant, Human Resources · Revenue Enablement Instructor · IBM Sr._
 
-### www.arimetrics.com — 1 result(s)
+### www.chicago.gov — 1 result(s)
 
-- [What is inURL - Definition, meaning and examples](https://www.arimetrics.com/en/digital-glossary/inurl-search-command)  
-  - _The inURL command is an advanced Google search tool designed to filter results in SERPs (search engine results pages) based on keywords contained in URLs._
+- [Jobs Now](https://www.chicago.gov/city/en/narr/misc/jobs/jobsnow.html) — `jobs`  
+  - _This page contains information on where residents can find job opportunities in the public, private, and nonprofit sectors._
 
-### www.azstatejobs.gov — 1 result(s)
+### www.kaiserpermanentejobs.org — 1 result(s)
 
-- [Search Page](https://www.azstatejobs.gov/jobs/search) — `jobs`  
-  - _As a State of Arizona employee, you can choose from more than 1,700 types of career opportunities, all with the same employer, making job mobility and career ..._
+- [Search our Job Opportunities at Kaiser Permanente](https://www.kaiserpermanentejobs.org/search-jobs) — `jobs`  
+  - _2568 Job Results · Audiology Specialist II · Licensed Masters Mental Health Professional Short Hour · Occupational Therapist · Physical Therapist-Per Diem · Physical ..._
 
-### www.careerbuilder.com — 1 result(s)
+### www.lockheedmartinjobs.com — 1 result(s)
 
-- [CareerBuilder® - Search Jobs Hiring Now](https://www.careerbuilder.com/)  
-  - _Find your next job with CareerBuilder. Browse millions of recent job listings, upload your resume, get job alerts & let employers find you today._
-
-### www.careersatmainehealth.org — 1 result(s)
-
-- [Job Search Results - MaineHealth Careers](https://www.careersatmainehealth.org/search/jobs) — `jobs`  
-  - _Search 1048 Careers available at MaineHealth._
-
-### www.disneycareers.com — 1 result(s)
-
-- [Search our Job Opportunities at DISNEY](https://www.disneycareers.com/en/search-jobs) — `jobs`  
-  - _Explore opportunities. Whether you're looking to create magic in our Parks and Resorts, support business growth and development, work behind-the-scenes on your ..._
-
-### www.eventbritecareers.com — 1 result(s)
-
-- [Search Jobs](https://www.eventbritecareers.com/jobs/search) — `jobs`  
-  - _Search jobs. Search by job title, location, department, category, etc. Search Jobs Near Me. Filter jobs._
-
-### www.facebook.com — 1 result(s)
-
-- [📘 Google Dorks Notebook](https://www.facebook.com/groups/aiubcybersecurityandprogrammingsociety/posts/728223156968312/)  
-  - _Google hacking, also known as Google dorking, is an information gathering technique used by attackers to leverage advanced Google searching ..._
-
-### www.greaterlouisville.com — 1 result(s)
-
-- [Find a Job – One Louisville](https://www.greaterlouisville.com/talent-old/find-a-job/)  
-  - _Careers at GLI. Largest Employers. UPS, Ford, GE Appliances, Humana, Norton Healthcare, KentuckyOne Health, Yum! Brands, Papa John's International._
-
-### www.indeed.com — 1 result(s)
-
-- [132000 Jobs, Employment in Atlanta, GA May 14, 2026](https://www.indeed.com/l-atlanta,-ga-jobs.html)  
-  - _132678 jobs available in Atlanta, GA on Indeed.com. Apply to Truck Driver, Licensed Professional Counselor, Owner Operator Driver and more!_
-
-### www.instagram.com — 1 result(s)
-
-- [Блог про рекрутинг та пошук роботи (@spin.hire.career)](https://www.instagram.com/spin.hire.career/)  
-  - _85 followers · 5 following · 20 posts · @spin.hire.career: “ ‍ На звʼязку @a.mheladze ⭐️ Приватні уроки для рекрутерів та сорсерів ⭐️ Закриття вакансій під ..._
-
-### www.jobapscloud.com — 1 result(s)
-
-- [State of Maryland Job Openings](https://www.jobapscloud.com/md/)  
-  - _Welcome to the Maryland State Online Employment Center! We appreciate that you are considering opportunities to serve your community and the State._
-
-### www.link-assistant.com — 1 result(s)
-
-- [InURL Search Explained](https://www.link-assistant.com/seo-wiki/inurl-search/)  
-  - _InURL search is a query technique used to find web pages with specific words or phrases in their URLs with the help of the inurl: operator._
-
-### www.linkedin.com — 1 result(s)
-
-- [4129000+ jobs in United States](https://www.linkedin.com/jobs/search) — `jobs`  
-  - _Today's top 4129000+ jobs in United States. Leverage your professional network, and get hired. New United States jobs added daily._
+- [Search our Job Opportunities at Lockheed Martin Corporation](https://www.lockheedmartinjobs.com/search-jobs) — `jobs`  
+  - _Search for available job openings at Lockheed Martin Corporation._
 
 ### www.maryland.gov — 1 result(s)
 
 - [Job and Career Support](https://www.maryland.gov/business-and-work/job-and-career-support)  
   - _Explore job and career resources in Maryland. Find help with a job search, apprenticeships, adult education, and see programs for youth, veterans, ..._
 
-### www.oreilly.com — 1 result(s)
+### www.monster.ca — 1 result(s)
 
-- [inurl: Versus site: - Google Hacks [Book]](https://www.oreilly.com/library/view/google-hacks/0596004478/ch01s20.html)  
-  - _Use inurl: syntax to search site subdirectories. The site: special syntax is perfect for those situations in which you want to restrict your search to a certain ..._
+- [Monster Jobs Search - Find Jobs Near Me | Monster.com](https://www.monster.ca/jobs/search/) — `jobs`  
+  - _Search millions of job openings, build your resume, and apply in minutes to connect with employers hiring now. Find your next job at Monster.com._
 
-### www.quora.com — 1 result(s)
+### www.schwabjobs.com — 1 result(s)
 
-- [How to use 'inurl:~' in Google search](https://www.quora.com/How-do-I-use-inurl-in-Google-search) — `search`  
-  - _How do I use "inurl:~" in Google search?_
+- [Search our Job Opportunities at Charles Schwab](https://www.schwabjobs.com/search-jobs) — `jobs`  
+  - _About Us · Career Areas · Life at Schwab · Early Careers · Joining Schwab · Search Jobs · We can help you find your fit, so your career can fit your goals._
 
-### www.reddit.com — 1 result(s)
+### www.tn.gov — 1 result(s)
 
-- [Did Google quietly disable inurl: + intext: operators in SERP?](https://www.reddit.com/r/SEO/comments/1ree7qn/did_google_quietly_disable_inurl_intext_operators/)  
-  - _Instead of filtering properly, I'm getting generic results and even a “Missing: inurl: intext:” message at the bottom, like the operators are ..._
-
-### www.scribd.com — 1 result(s)
-
-- [Google Search Engine Insights | PDF | Websites](https://www.scribd.com/document/660149566/ERESOURCES)  
-  - _inurl: Search for keywords or phrases in page URLs: • inurl:careers – the word "careers" must appear in the URL. • inurl:directory faculty earth ..._
-
-### www.slideshare.net — 1 result(s)
-
-- [One page-tip-sheet-boolean-google-irina-shamaeva | PDF](https://www.slideshare.net/slideshow/one-pagetipsheetbooleangoogleirinashamaeva/57302673)  
-  - _... inurl: Search for keywords or phrases in page URL's (shown as green text in Google search results): [inurl:careers] the word “careers” must appear in the ..._
-
-### www.ziprecruiter.com — 1 result(s)
-
-- [Job Search: Millions of US Jobs (HIRING NOW) Near You ...](https://www.ziprecruiter.com/)  
-  - _Job Search: Millions of US Jobs (HIRING NOW) Near You - ZipRecruiter._
+- [Job Search](https://www.tn.gov/workforce/jobs-and-education/job-search.html) — `jobs`  
+  - _Jobs4TN.gov gives you an unprecedented number of jobs to search, averaging 400,000 every day, and also helps you build a resume and discover labor market ..._
