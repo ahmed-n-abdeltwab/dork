@@ -1,6 +1,6 @@
 # Job results for: `(inurl:careers OR inurl:jobs) (inurl:open OR inurl:positions OR inurl:listings OR inurl:vacancies OR inurl:search)`
 
-_Engine: serpapi  |  Generated: 2026-05-18T03:30:02.069560+00:00  |  Results: 49_
+_Engine: serpapi  |  Generated: 2026-05-19T02:58:16.853365+00:00  |  Results: 49_
 
 **Search metadata**:
 - source: serpapi
@@ -9,208 +9,184 @@ _Engine: serpapi  |  Generated: 2026-05-18T03:30:02.069560+00:00  |  Results: 49
 
 ## Results grouped by domain
 
-### in.linkedin.com — 9 result(s)
+### in.linkedin.com — 18 result(s)
 
 - [Raj Jani - Freelance | Self-Employed](https://in.linkedin.com/in/raj-jani-b8647638a)  
   - _Experience: Freelance | Self-Employed · Location: 380001 · 196 connections on LinkedIn. View Raj Jani's profile on LinkedIn, a professional community of 1 ..._
+- [Arpit Khandelwal - Technical Support Engineer @ Mittsure ...](https://in.linkedin.com/in/arpit-khandelwal-8ba1191b0)  
+  - _At Mittsure Technologies LLP, I provide technical support and solutions to clients and users of various software products and systems._
+- [Subhamay Bhattacharjee - Net-Com Service](https://in.linkedin.com/in/subhamay-bhattacharjee-5b81ba100)  
+  - _Experience: Net-Com Service · Education: ILEAD INSTITUTE OF LEADERSHIP ENTREPRENEURSHIP AND DEVELOPMENT 289 · Location: Kolkata · 69 connections on LinkedIn ..._
+- [Ravi Kiran - allsoftlink1@gmail.com](https://in.linkedin.com/in/ravi-kiran-0a03b2362)  
+  - _Allsoftlink is a forward-thinking digital education and software solutions company led by… · Experience: allsoftlink1@gmail.com · Education: USMANI DEGREE ..._
+- [Ashutosh Srivastav - Innovantes IT Solutions LLP](https://in.linkedin.com/in/ashutosh-srivastav-6347771b4)  
+  - _I'm a Computer Engineer and passionate about new technology like generative ai java… · Experience: Innovantes IT Solutions LLP · Education: Gautam Buddha ..._
 - [Aun Rizvi - Data Engineer at IBM | Web Developer](https://in.linkedin.com/in/aunrizvi)  
   - _I'm a Data Engineer at IBM with hands-on experience in building scalable data pipelines, optimizing ETL workflows, and working with cloud and big data ..._
-- [raghav giri - UI/UX & Product Designer](https://in.linkedin.com/in/raghav-giri-48139422b)  
-  - _UI/UX & Product Designer | Crafting clean, user-focused designs for web & mobile | Blending creativity with tech to build better digital experiences._
+- [Biju Roy - Self Employed](https://in.linkedin.com/in/biju-roy-3071a7178)  
+  - _I am a hard-working individual seeking for a organization to expand and utilize my… · Experience: Self Employed · Education: Central Institute of Technology ..._
+- [Saroj Kanvadiya - NANGIA TRADERS PRIVATE LIMITED](https://in.linkedin.com/in/saroj-kanvadiya-5692a116b)  
+  - _Experience: NANGIA TRADERS PRIVATE LIMITED · Education: Arya College of Engineering & Research Center,Jaipur · Location: Jaipur · 122 connections on ..._
+- [Deepak Sharma - Web Developer](https://in.linkedin.com/in/deepak-sharma-21hqih02)  
+  - _Web Developer · . · Experience: Self-employed · Location: Jharkhand · 500+ connections on LinkedIn. View Deepak Sharma's profile on LinkedIn, a professional ..._
+- [garima garg - Shiv Shakti Jwel & Craft](https://in.linkedin.com/in/garima-garg-412395113)  
+  - _Shiv Shakti Jwel & Craft · Education: ABES Engineering College · Location: Ghaziabad · 11 connections on LinkedIn. View garima garg's profile on LinkedIn, ..._
 - [Drishti Chawla - Delhi, India | Professional Profile](https://in.linkedin.com/in/drishti-chawla-b28062365)  
-  - _I am a dedicated and enthusiastic individual with strong technical and creative skills… · Education: Jagan Institute Of Management Studies(JIMS Rohini) ..._
-- [Rajan J - Chennai](https://in.linkedin.com/in/rajan-j-2a1b00221)  
-  - _Chennai · Front end developer upgraded with New gen technologies. · Experience: Great Learning · Education: Anna University · Location: Tiruvallur · 8 ..._
-- [Kapil Saran - Student at Himachal Pradesh University ...](https://in.linkedin.com/in/kapil-saran-27b09914b)  
-  - _Student at Himachal Pradesh University , Shimla · Experience: Self-employed · Education: Himachal Pradesh University , Shimla · Location: Rajgarh · 14 ..._
+  - _Currently pursuing BCA (IT) at Jagannath Community College. Active member of IT Innovation Club and Writing Club. Participated in debates, class ..._
 - [Mintukan Rabha - Dispur, Assam, India | Professional Profile](https://in.linkedin.com/in/mintukan-rabha-2a3a46115)  
   - _Education: Central Institute of Technology, Kokrajhar · Location: Dispur · 30 connections on LinkedIn. View Mintukan Rabha's profile on LinkedIn, ..._
+- [Sachin Nelwade - Sales coordinator](https://in.linkedin.com/in/sachin-nelwade-314394123)  
+  - _Sales coordinator · Hi · Education: Gulbarga University · Location: Karnataka · 57 connections on LinkedIn. View Sachin Nelwade's profile on LinkedIn, ..._
+- [Kapil Saran - Student at Himachal Pradesh University ...](https://in.linkedin.com/in/kapil-saran-27b09914b)  
+  - _Student at Himachal Pradesh University , Shimla · Experience: Self-employed · Education: Himachal Pradesh University , Shimla · Location: Rajgarh · 14 ..._
 - [Adyasha das - Scalable Systems](https://in.linkedin.com/in/adyasha-das-18a00713b)  
   - _Doing research on machine learning and artificial intelligence. Skillsets-Java, python… · Experience: Scalable Systems · Education: Institute of technical ..._
 - [Rohit Patil - IP Websoft](https://in.linkedin.com/in/rohitspatil07)  
   - _Front-End & WordPress Developer with hands-on experience delivering high-performance… · Experience: IP Websoft · Education: Shivaji University, ..._
+- [raghav giri - UI/UX & Product Designer](https://in.linkedin.com/in/raghav-giri-48139422b)  
+  - _UI/UX & Product Designer | Crafting clean, user-focused designs for web & mobile | Blending creativity with tech to build better digital experiences._
+- [Rajan J - Chennai](https://in.linkedin.com/in/rajan-j-2a1b00221)  
+  - _Chennai · Front end developer upgraded with New gen technologies. · Experience: Great Learning · Education: Anna University · Location: Tiruvallur · 8 ..._
 
-### www.linkedin.com — 3 result(s)
+### github.com — 3 result(s)
 
-- [3955000+ jobs in United States](https://www.linkedin.com/jobs/search) — `jobs`  
-  - _Today's top 3955000+ jobs in United States. Leverage your professional network, and get hired. New United States jobs added daily._
-- [Harneet Kaur - Content Writer | Copywriter](https://www.linkedin.com/in/harneet-kaur-vibe)  
-  - _Content Writer | Copywriter | Software Developer | SocialMedia | Storyteller · Experience: Freelance · Location: Hisar · 218 connections on LinkedIn._
-- [Find US Jobs, Internships, Jobs Near Me](https://www.linkedin.com/jobs) — `jobs`  
-  - _Find the right job or internship for you · Engineering · Business Development · Finance · Administrative Assistant · Retail Associate · Customer Service · Operations ..._
+- [CAREERS.md - ahmed-n-abdeltwab/dork](https://github.com/ahmed-n-abdeltwab/dork/blob/main/CAREERS.md) — `careers`  
+  - _The sites listed below should help you discover all the jobs, wherever they are posted. These are the best 33 job search websites for job seekers to use. jobs._
+- [OSINT CHEAT SHEET - List OSINT Tools](https://github.com/zelsaddr/OSINT-Cheat-sheet-)  
+  - _inurl: Search for specific urls or paths; intext: Search for specific words or contects; filetype: Search for files; site: Search from a specified target ..._
+- [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet)  
+  - _Contains a list of OSINT tools, OSINT tips, datasets, Maltego transform and others. There are free and paid tools you can use and owner is not responsible._
 
-### www.indeed.com — 2 result(s)
+### www.scribd.com — 3 result(s)
 
-- [Search Jobs, Employment in Indianapolis, IN](https://www.indeed.com/q-search-l-indianapolis,-in-jobs.html)  
-  - _1034 Search jobs available in Indianapolis, IN on Indeed.com. Apply to Mechanical Project Manager, Truck Driver, Senior Manufacturing Engineer and more!_
-- [Indeed: Job Search](https://www.indeed.com/)  
-  - _With Indeed, you can search millions of jobs online to find the next step in your career. With tools for job search, resumes, company reviews and more, ..._
-
-### www.scribd.com — 2 result(s)
-
-- [Resume Search Strategies for Engineers | PDF | Programmer](https://www.scribd.com/document/440515387/strings-major)  
-  - _The document provides search strings and keywords for finding resumes and profiles online. It includes strings for searching by job titles, skills, ..._
 - [Google Search Engine Insights | PDF | Websites](https://www.scribd.com/document/660149566/ERESOURCES)  
   - _inurl: Search for keywords or phrases in page URLs: • inurl:careers – the word "careers" must appear in the URL. • inurl:directory faculty earth ..._
+- [Resume Search Strategies for Engineers | PDF | Programmer](https://www.scribd.com/document/440515387/strings-major)  
+  - _The document provides search strings and keywords for finding resumes and profiles online. It includes strings for searching by job titles, skills, ..._
+- [стратегія пошуку роботи | PDF](https://www.scribd.com/document/1023504125/%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D1%96%D1%8F-%D0%BF%D0%BE%D1%88%D1%83%D0%BA%D1%83-%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8)  
+  - _Як написати резюме та заповнити свій LinkedIn, тут вже є працюючі поради від “команди понеділків“. Happy Monday. Крім статтей різних авторів на своєму на ..._
 
-### www.ziprecruiter.com — 2 result(s)
+### careers.bankofamerica.com — 1 result(s)
 
-- [Job Search - Jobs Hiring Near You - May 17, 2026](https://www.ziprecruiter.com/Search-Jobs-Near-Me) — `search`  
-  - _Explore a variety of JOBS NEAR YOU (full-time, part-time, or remote). Browse the most comprehensive job listings and one click apply!_
-- [Search Jobs in Pittsburgh, PA (NOW HIRING)](https://www.ziprecruiter.com/Jobs/Search/-in-Pittsburgh,PA) — `jobs`  
-  - _Browse 1000+ PITTSBURGH, PA SEARCH jobs ($61k-$67k) from companies hiring now. New openings posted daily—find postings near you & 1-click ..._
+- [Bank of America Jobs: Search & Apply for ...](https://careers.bankofamerica.com/en-us/job-search) — `search`  
+  - _Search and apply for jobs directly at the Bank of America Careers site. Search available job openings by location, career area, or keywords._
 
-### careers.aldi.us — 1 result(s)
+### careers.choa.org — 1 result(s)
 
-- [Search our Job Opportunities at ALDI](https://careers.aldi.us/search-jobs) — `jobs`  
-  - _Skip to main content Skip to Search Results Skip to Search Filters. AlDI. Job Alerts; Saved Jobs · FAQs. Sign Up For Job Alerts. Keep up on all the latest ..._
-
-### careers.brownsvilletx.gov — 1 result(s)
-
-- [We're Hiring!](https://careers.brownsvilletx.gov/jobs/search) — `jobs`  
-  - _We're Hiring! ; 522 - Sign Technician. Labor/Operations. Graphics Signs/Markings. Full Time. Brownsville, Texas, United States ; 301 - Customer Service Specialist ..._
-
-### careers.nmsu.edu — 1 result(s)
-
-- [NMSU Jobs - New Mexico State University](https://careers.nmsu.edu/jobs/search) — `jobs`  
-  - _This site is currently an active testing environment. If you are a NMSU applicant on this page, please visit https://jobs.nmsu.edu/ to view our open positions._
-
-### careers.questdiagnostics.com — 1 result(s)
-
-- [Search our Job Opportunities at Quest Diagnostics](https://careers.questdiagnostics.com/search-jobs) — `jobs`  
-  - _Alert: Scammers may offer fake Quest jobs using LinkedIn and other platforms. Click here to learn more. Skip to main content. Quest Diagnostics. ;._
+- [Search results | Find available job openings at Children's ...](https://careers.choa.org/us/en/search-results) — `search`  
+  - _Search results. Find available job openings at Children's Healthcare of Atlanta._
 
 ### careers.toasttab.com — 1 result(s)
 
 - [Current Openings](https://careers.toasttab.com/jobs/search) — `jobs`  
-  - _By submitting this form, you are agreeing to be part of Toast's talent community and acknowledge that any information submitted will be processed in ..._
+  - _Senior GTM Engineer, AI Innovation · Territory Account Executive - Sandusky, OH · (Miami) Senior Customer Success Manager I, RMM · Account Executive - Sydney · API ..._
 
-### careers.ua.edu — 1 result(s)
+### careers.zoom.us — 1 result(s)
 
-- [Search Page - UA Careers - The University of Alabama](https://careers.ua.edu/jobs/search) — `jobs`  
-  - _UA Staff Employment ; College Experiential Learning Coordinator - 528495, 528495. Mentoring/Academic Support; Program Coordination ; Administrative Assistant I - ..._
+- [Remote Jobs](https://careers.zoom.us/jobs/search) — `jobs`  
+  - _We're Hiring! Zoom offers a structured hybrid working environment for our employees. Open roles in Engineering, Marketing, Legal, IT, Agentic AI._
 
-### cawfny.com — 1 result(s)
+### careersourcesuncoast.com — 1 result(s)
 
-- [Search for Jobs](https://cawfny.com/job-seekers/search-for-jobs/) — `search`  
-  - _Search for jobs. For personal assistance in finding a job, please feel free to visit a One Stop Center for job referrals in addition to the websites below._
+- [Search for Jobs](https://careersourcesuncoast.com/search-for-jobs/) — `search`  
+  - _It's the State of Florida's official job search website, used to connect thousands of employers with qualified career seekers._
 
-### eresponse.gdol.ga.gov — 1 result(s)
+### dev.to — 1 result(s)
 
-- [Job Openings in Georgia | Job Seekers](https://eresponse.gdol.ga.gov/js/job_info_system.htm)  
-  - _To search the Georgia Department of Labor's job listings by a specific job number, please enter the number below and select the "Start Search" button._
+- [️‍♂️ Unlock Hidden Job Opportunities with Google Dorking](https://dev.to/nish2005karsh/unlock-hidden-job-opportunities-with-google-dorking-the-job-hunters-secret-weapon-part-1-37pp)  
+  - _Google Dorking, also known as Google hacking, is the use of advanced search operators to uncover hidden or hard-to-find content on the web._
 
-### github.com — 1 result(s)
+### georgia.gov — 1 result(s)
 
-- [OSINT CHEAT SHEET - List OSINT Tools](https://github.com/zelsaddr/OSINT-Cheat-sheet-)  
-  - _inurl: Search for specific urls or paths; intext: Search for specific words or contects; filetype: Search for files; site: Search from a specified target ..._
+- [Find Jobs in Georgia](https://georgia.gov/find-jobs-georgia)  
+  - _Find Job Openings · You can find job opportunities in Georgia by using government resources, community job boards, company websites, job fairs, and networking._
 
 ### inboundblogging.com — 1 result(s)
 
 - [Google Search Operators Full List](https://inboundblogging.com/google-search-operators-full-list/)  
   - _In this guide, I'll share my experience and walk you through the full list of Google search operators to help you take control of your searches._
 
-### jobs.apple.com — 1 result(s)
+### jobs.ccsf.edu — 1 result(s)
 
-- [Search Jobs - United States - Jobs - Careers at Apple](https://jobs.apple.com/en-us/search?location=united-states-USA) — `search`  
-  - _Explore all United States jobs at Apple. Create a profile and apply today._
+- [City College of San Francisco Portal | Search Jobs](https://jobs.ccsf.edu/postings/search) — `search`  
+  - _View all open Postings below, or enter search criteria to narrow your search. Keywords. Posted Within. Any time ..._
 
-### jobs.la.gov — 1 result(s)
+### jobs.uncw.edu — 1 result(s)
 
-- [Louisiana Jobs - Home](https://jobs.la.gov/)  
-  - _Search jobs. Louisiana State Government represents a wide range of career options and offers an outstanding opportunity to make a difference._
-
-### jobs.miamidade.gov — 1 result(s)
-
-- [Careers - Miami-Dade County](https://jobs.miamidade.gov/)  
-  - _If you created an applicant profile before June 15, 2022, please register and create a new profile to apply for available positions. Miami Dade County ..._
-
-### jobs.rutgers.edu — 1 result(s)
-
-- [Rutgers University Employment Opportunities | Search Jobs](https://jobs.rutgers.edu/postings/search) — `search`  
-  - _To view open positions, please enter your search criteria below. You may view all open positions by not specifying any search criteria and clicking the Search ..._
-
-### jobs.wisc.edu — 1 result(s)
-
-- [Search Job Openings - Jobs at UW–Madison](https://jobs.wisc.edu/jobs/search) — `jobs`  
-  - _Find job opportunities at the University of Wisconsin–Madison. Job vacancies include Faculty, Staff, Full-Time, and Part-Time positions._
+- [Search Jobs](https://jobs.uncw.edu/postings/search) — `search`  
+  - _Search Postings (79) All Jobs Atom Feed ... View all open Postings below, or enter search criteria to narrow your search. Keywords._
 
 ### liveworkmaryland.com — 1 result(s)
 
 - [Maryland Jobs - Quick Search](https://liveworkmaryland.com/work/search-jobs/) — `search`  
   - _Use this quick search tool to find opportunities by keyword, company or title. Search By: Title. Keyword._
 
-### masshirespringfield.org — 1 result(s)
+### planning.org — 1 result(s)
 
-- [Job Postings For Greater Springfield & Across Massachusetts](https://masshirespringfield.org/search-jobs/) — `search`  
-  - _Thousands Of Job Openings Are Available For Your Review. Our JobQuest Search Engine Has Many Ways For You To Find Your Next Career Move._
+- [Jobs Search](https://planning.org/jobs/search/) — `jobs`  
+  - _Search for your perfect position — from internship to director — and keep track of the positions you're pursuing._
 
 ### s3-eu-west-1.amazonaws.com — 1 result(s)
 
 - [ERESOURCES.docx](https://s3-eu-west-1.amazonaws.com/s3-euw1-ap-pe-ws4-cws-documents.ri-prod/9780367567392/ERESOURCES.docx)  
   - _inurl: Search for keywords or phrases in page URLs: • inurl:careers – the word "careers" must appear in the URL. • inurl:directory faculty earth ..._
 
-### workforindiana.in.gov — 1 result(s)
+### www.abbott.com — 1 result(s)
 
-- [Careers by Location - Work for Indiana](https://workforindiana.in.gov/content/location/?locale=en_US)  
-  - _Careers by Location: Administrative & Clerical, Architecture & Engineering, Arts, Design, & Communication, Biological & Scientific, Business & Financial ..._
+- [Abbott Jobs | Apply Now | Abbott Careers](https://www.abbott.com/en-us/careers/search-jobs) — `careers`  
+  - _Join our talent community and we will notify you about relevant positions, and keep you in mind when we have interesting opportunities. START NOW._
 
-### www.altres.com — 1 result(s)
+### www.careeronestop.org — 1 result(s)
 
-- [Hawaii Job Search, Employment Services](https://www.altres.com/jobs/search) — `jobs`  
-  - _Hawaii's top job search for full-time, part-time and project-based employment on Oahu, Maui and the Big Island. Browse hundreds of jobs ..._
+- [Job Search](https://www.careeronestop.org/JobSearch/job-search.aspx) — `jobs`  
+  - _Need help with your job search? CareerOneStop has information to help you._
 
-### www.amazon.jobs — 1 result(s)
+### www.careers.peraton.com — 1 result(s)
 
-- [Job search | Amazon.jobs](https://www.amazon.jobs/en/search?base_query=&loc_query=Ohio%2C+United+States&region=Ohio&country=USA) — `search`  
-  - _Explore corporate jobs and career programs at Amazon, from full-time roles to internships. Join our global teams and create a better future for our ..._
-
-### www.arjoblink.arkansas.gov — 1 result(s)
-
-- [Arkansas JobLink - Arkansas JobLink](https://www.arjoblink.arkansas.gov/)  
-  - _Explore Jobs. Use filters to find your dream job and save your search or apply right away. · Create Resumes. Upload your resume or make a new one from scratch ..._
-
-### www.azstatejobs.gov — 1 result(s)
-
-- [Search Page](https://www.azstatejobs.gov/jobs/search) — `jobs`  
-  - _CAREERS. Virtually everything Arizona state employees do affects the quality of life for our residents and guests. As a State of Arizona employee, ..._
+- [Search Jobs](https://www.careers.peraton.com/search-jobs) — `jobs`  
+  - _Search Jobs · Administrative 2 · Administrative & Facilities Services 5 · Audit 2 · Aviation Systems 13 · Business Controls 9 · Communications 12 · Consulting 4._
 
 ### www.google.com — 1 result(s)
 
-- [Search for your career at Google.](https://www.google.com/about/careers/applications/) — `careers`  
-  - _Join Google Careers and build what's next, today. Explore career opportunities in engineering, design, sales, hardware, and more. Make a global impact with ..._
+- [New York - Google Careers](https://www.google.com/about/careers/applications/locations/new-york/) — `careers`  
+  - _Tapping into the energy and diversity of New York City, Google's second largest office (spanning two campuses in Chelsea and Hudson Square) is a focal point ..._
 
 ### www.greaterlouisville.com — 1 result(s)
 
 - [Find a Job – One Louisville](https://www.greaterlouisville.com/talent-old/find-a-job/)  
   - _Careers at GLI. Largest Employers. UPS, Ford, GE Appliances, Humana, Norton Healthcare, KentuckyOne Health, Yum! Brands, Papa John's International._
 
-### www.jobs.virginia.gov — 1 result(s)
+### www.indeed.com — 1 result(s)
 
-- [Search Page](https://www.jobs.virginia.gov/jobs/search) — `jobs`  
-  - _Search by job title, location, department, category, etc. Search Jobs near me. Filter jobs._
+- [Indeed: Job Search](https://www.indeed.com/)  
+  - _With Indeed, you can search millions of jobs online to find the next step in your career. With tools for job search, resumes, company reviews and more, ..._
 
-### www.lockheedmartinjobs.com — 1 result(s)
+### www.jobapscloud.com — 1 result(s)
 
-- [Search our Job Opportunities at Lockheed Martin Corporation](https://www.lockheedmartinjobs.com/search-jobs) — `jobs`  
-  - _Search for available job openings at Lockheed Martin Corporation._
+- [State of Maryland Job Openings](https://www.jobapscloud.com/md/)  
+  - _Welcome to the Maryland State Online Employment Center! We appreciate that you are considering opportunities to serve your community and the State._
 
-### www.maryland.gov — 1 result(s)
+### www.jobradar.app — 1 result(s)
 
-- [Job and Career Support](https://www.maryland.gov/business-and-work/job-and-career-support)  
-  - _Explore job and career resources in Maryland. Find help with a job search, apprenticeships, adult education, and see programs for youth, veterans, ..._
+- [Master Google Search Operators to Find Hidden Job ...](https://www.jobradar.app/blog/google-search-operators-for-jobs) — `jobs`  
+  - _Learn advanced Google search operators (dorks) to uncover job listings that most job seekers never see. Find opportunities before they hit job ..._
 
-### www.personnel.alabama.gov — 1 result(s)
+### www.jointheportauthority.com — 1 result(s)
 
-- [Job Opportunities - SPD - State of Alabama Personnel ...](https://www.personnel.alabama.gov/jobs) — `jobs`  
-  - _Job Opportunities. You must submit an official application for each job class. Applications are accepted throughout the year to ensure an up-to-date ..._
+- [The Port Authority of New York and New Jersey - Careers](https://www.jointheportauthority.com/jobs/search) — `jobs`  
+  - _Welcome! A search can be performed by typing in a keyword or by selecting a field from the form. Click “Search” to view the results and click on the job title ..._
+
+### www.linkedin.com — 1 result(s)
+
+- [Допис учасника Anastasiia Mheladze](https://www.linkedin.com/posts/anastasiia-mheladze_booleansearch-jobsearch-candidates-activity-7186695903896915969-wwLK)  
+  - _Допис учасника Anastasiia Mheladze ; VolodymyR Zhukov, зображення. VolodymyR Zhukov. Software Engineer · пані ви просто молодець. дуже професійний ..._
+
+### www.pacareerlink.pa.gov — 1 result(s)
+
+- [PA CareerLink® - Job Search - Commonwealth of Pennsylvania](https://www.pacareerlink.pa.gov/jponline/JobSeeker/SearchJobs) — `jobs`  
+  - _No information is available for this page._
 
 ### www.slideshare.net — 1 result(s)
 
 - [One page-tip-sheet-boolean-google-irina-shamaeva | PDF](https://www.slideshare.net/slideshow/one-pagetipsheetbooleangoogleirinashamaeva/57302673)  
   - _... inurl: Search for keywords or phrases in page URL's (shown as green text in Google search results): [inurl:careers] the word “careers” must appear in the ..._
-
-### www.westmiworks.org — 1 result(s)
-
-- [Weekly Hot Jobs | Jobs In West Michigan](https://www.westmiworks.org/job-seekers/job-search/weekly-hot-jobs/)  
-  - _Browse hundreds of full-time, part-time, permanent, and temporary jobs in West Michigan listed in our weekly hot jobs tables._
