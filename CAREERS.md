@@ -1,36 +1,34 @@
 # Job results for: `(inurl:careers OR inurl:jobs) (inurl:open OR inurl:positions OR inurl:listings OR inurl:vacancies OR inurl:search)`
 
-_Engine: serpapi  |  Generated: 2026-05-19T02:58:16.853365+00:00  |  Results: 49_
+_Engine: serpapi  |  Generated: 2026-05-20T02:58:30.741184+00:00  |  Results: 45_
 
 **Search metadata**:
 - source: serpapi
-- fetched: 50
-- deduped: 49
+- fetched: 47
+- deduped: 45
 
 ## Results grouped by domain
 
-### in.linkedin.com — 18 result(s)
+### in.linkedin.com — 16 result(s)
 
 - [Raj Jani - Freelance | Self-Employed](https://in.linkedin.com/in/raj-jani-b8647638a)  
   - _Experience: Freelance | Self-Employed · Location: 380001 · 196 connections on LinkedIn. View Raj Jani's profile on LinkedIn, a professional community of 1 ..._
 - [Arpit Khandelwal - Technical Support Engineer @ Mittsure ...](https://in.linkedin.com/in/arpit-khandelwal-8ba1191b0)  
   - _At Mittsure Technologies LLP, I provide technical support and solutions to clients and users of various software products and systems._
-- [Subhamay Bhattacharjee - Net-Com Service](https://in.linkedin.com/in/subhamay-bhattacharjee-5b81ba100)  
-  - _Experience: Net-Com Service · Education: ILEAD INSTITUTE OF LEADERSHIP ENTREPRENEURSHIP AND DEVELOPMENT 289 · Location: Kolkata · 69 connections on LinkedIn ..._
-- [Ravi Kiran - allsoftlink1@gmail.com](https://in.linkedin.com/in/ravi-kiran-0a03b2362)  
-  - _Allsoftlink is a forward-thinking digital education and software solutions company led by… · Experience: allsoftlink1@gmail.com · Education: USMANI DEGREE ..._
-- [Ashutosh Srivastav - Innovantes IT Solutions LLP](https://in.linkedin.com/in/ashutosh-srivastav-6347771b4)  
-  - _I'm a Computer Engineer and passionate about new technology like generative ai java… · Experience: Innovantes IT Solutions LLP · Education: Gautam Buddha ..._
-- [Aun Rizvi - Data Engineer at IBM | Web Developer](https://in.linkedin.com/in/aunrizvi)  
-  - _I'm a Data Engineer at IBM with hands-on experience in building scalable data pipelines, optimizing ETL workflows, and working with cloud and big data ..._
-- [Biju Roy - Self Employed](https://in.linkedin.com/in/biju-roy-3071a7178)  
-  - _I am a hard-working individual seeking for a organization to expand and utilize my… · Experience: Self Employed · Education: Central Institute of Technology ..._
-- [Saroj Kanvadiya - NANGIA TRADERS PRIVATE LIMITED](https://in.linkedin.com/in/saroj-kanvadiya-5692a116b)  
-  - _Experience: NANGIA TRADERS PRIVATE LIMITED · Education: Arya College of Engineering & Research Center,Jaipur · Location: Jaipur · 122 connections on ..._
-- [Deepak Sharma - Web Developer](https://in.linkedin.com/in/deepak-sharma-21hqih02)  
-  - _Web Developer · . · Experience: Self-employed · Location: Jharkhand · 500+ connections on LinkedIn. View Deepak Sharma's profile on LinkedIn, a professional ..._
-- [garima garg - Shiv Shakti Jwel & Craft](https://in.linkedin.com/in/garima-garg-412395113)  
-  - _Shiv Shakti Jwel & Craft · Education: ABES Engineering College · Location: Ghaziabad · 11 connections on LinkedIn. View garima garg's profile on LinkedIn, ..._
+- [Tirth Raval - Full Stack Developer | Building Scalable Web ...](https://in.linkedin.com/in/tirth244)  
+  - _Full Stack Developer | Building Scalable Web Applications with React, Node.js & MongoDB · Education: LDRP Institute of Technology & Research, ..._
+- [Biswajit Nayak - Founder | Product Engineer](https://in.linkedin.com/in/biswajitnk)  
+  - _Founder | Product Engineer | iOS & Android Specialist | Engineering the Future of HealthTech & SaaS | Digital Growth Expert · I Am Very Fond of The Internet ..._
+- [Deepanshu Suryavanshi - EZ Marketing Agency](https://in.linkedin.com/in/deepanshu-suryavanshi-4a4409107)  
+  - _Driving success through effective leadership and strategic vision I am an… · Experience: EZ Marketing Agency · Education: NIT Jalandhar · Location: Delhi ..._
+- [Punam Naik - MIS EXECUTIVE](https://in.linkedin.com/in/punam-naik-822313104)  
+  - _MIS Executive with a degree in B.Tech Computer Science, skilled in data management, reporting, and system management. Experienced in using Google sheets, ..._
+- [Ankit Gupta - Bachelor of Engineering in Information ...](https://in.linkedin.com/in/ankit-gupta-998025112)  
+  - _Bachelor of Engineering in Information Technology · Education: Technocrats Institute of Technology,Bhopal · Location: Bhopal · 84 connections on LinkedIn._
+- [Viraj Panwar - Madhur Vihar](https://in.linkedin.com/in/viraj1panwar)  
+  - _I have experience of working in a team i like to take initiative and find solutions in… · Experience: Madhur Vihar · Education: CHANDIGARH UNIVERSITY ..._
+- [Vaibhav Khandelwal - Research Analyst at Simplilearn](https://in.linkedin.com/in/vaibhav-khandelwal-b300a0148)  
+  - _Experience · Simplilearn Graphic. Research Analyst. Simplilearn. Feb 2021 - Sep 2023 2 years 8 months. Bengaluru, Karnataka, India · Jhankaar - The Beat of LPU. 2 ..._
 - [Drishti Chawla - Delhi, India | Professional Profile](https://in.linkedin.com/in/drishti-chawla-b28062365)  
   - _Currently pursuing BCA (IT) at Jagannath Community College. Active member of IT Innovation Club and Writing Club. Participated in debates, class ..._
 - [Mintukan Rabha - Dispur, Assam, India | Professional Profile](https://in.linkedin.com/in/mintukan-rabha-2a3a46115)  
@@ -39,23 +37,21 @@ _Engine: serpapi  |  Generated: 2026-05-19T02:58:16.853365+00:00  |  Results: 49
   - _Sales coordinator · Hi · Education: Gulbarga University · Location: Karnataka · 57 connections on LinkedIn. View Sachin Nelwade's profile on LinkedIn, ..._
 - [Kapil Saran - Student at Himachal Pradesh University ...](https://in.linkedin.com/in/kapil-saran-27b09914b)  
   - _Student at Himachal Pradesh University , Shimla · Experience: Self-employed · Education: Himachal Pradesh University , Shimla · Location: Rajgarh · 14 ..._
-- [Adyasha das - Scalable Systems](https://in.linkedin.com/in/adyasha-das-18a00713b)  
-  - _Doing research on machine learning and artificial intelligence. Skillsets-Java, python… · Experience: Scalable Systems · Education: Institute of technical ..._
 - [Rohit Patil - IP Websoft](https://in.linkedin.com/in/rohitspatil07)  
   - _Front-End & WordPress Developer with hands-on experience delivering high-performance… · Experience: IP Websoft · Education: Shivaji University, ..._
+- [Adyasha das - Scalable Systems](https://in.linkedin.com/in/adyasha-das-18a00713b)  
+  - _Doing research on machine learning and artificial intelligence. Skillsets-Java, python… · Experience: Scalable Systems · Education: Institute of technical ..._
 - [raghav giri - UI/UX & Product Designer](https://in.linkedin.com/in/raghav-giri-48139422b)  
   - _UI/UX & Product Designer | Crafting clean, user-focused designs for web & mobile | Blending creativity with tech to build better digital experiences._
-- [Rajan J - Chennai](https://in.linkedin.com/in/rajan-j-2a1b00221)  
-  - _Chennai · Front end developer upgraded with New gen technologies. · Experience: Great Learning · Education: Anna University · Location: Tiruvallur · 8 ..._
 
-### github.com — 3 result(s)
+### www.linkedin.com — 3 result(s)
 
-- [CAREERS.md - ahmed-n-abdeltwab/dork](https://github.com/ahmed-n-abdeltwab/dork/blob/main/CAREERS.md) — `careers`  
-  - _The sites listed below should help you discover all the jobs, wherever they are posted. These are the best 33 job search websites for job seekers to use. jobs._
-- [OSINT CHEAT SHEET - List OSINT Tools](https://github.com/zelsaddr/OSINT-Cheat-sheet-)  
-  - _inurl: Search for specific urls or paths; intext: Search for specific words or contects; filetype: Search for files; site: Search from a specified target ..._
-- [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet)  
-  - _Contains a list of OSINT tools, OSINT tips, datasets, Maltego transform and others. There are free and paid tools you can use and owner is not responsible._
+- [Допис учасника Anastasiia Mheladze](https://www.linkedin.com/posts/anastasiia-mheladze_booleansearch-jobsearch-candidates-activity-7186695903896915969-wwLK)  
+  - _Допис учасника Anastasiia Mheladze ; VolodymyR Zhukov, зображення. VolodymyR Zhukov. Software Engineer · пані ви просто молодець. дуже професійний ..._
+- [Harneet Kaur - Content Writer | Copywriter](https://www.linkedin.com/in/harneet-kaur-vibe)  
+  - _Content Writer | Copywriter | Software Developer | SocialMedia | Storyteller · Experience: Freelance · Location: Hisar · 218 connections on LinkedIn._
+- [Himanshu Gandotra - Student at BMS Institute of ...](https://www.linkedin.com/in/himanshu-gandotra-741934136)  
+  - _Student at BMS Institute of Technology and Management · Education: BMS Institute of Technology and Management · Location: Jammu & Kashmir · 190 connections ..._
 
 ### www.scribd.com — 3 result(s)
 
@@ -66,35 +62,32 @@ _Engine: serpapi  |  Generated: 2026-05-19T02:58:16.853365+00:00  |  Results: 49
 - [стратегія пошуку роботи | PDF](https://www.scribd.com/document/1023504125/%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D1%96%D1%8F-%D0%BF%D0%BE%D1%88%D1%83%D0%BA%D1%83-%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8)  
   - _Як написати резюме та заповнити свій LinkedIn, тут вже є працюючі поради від “команди понеділків“. Happy Monday. Крім статтей різних авторів на своєму на ..._
 
+### github.com — 2 result(s)
+
+- [CAREERS.md - ahmed-n-abdeltwab/dork](https://github.com/ahmed-n-abdeltwab/dork/blob/main/CAREERS.md) — `careers`  
+  - _The sites listed below should help you discover all the jobs, wherever they are posted. These are the best 33 job search websites for job seekers to use. jobs._
+- [OSINT CHEAT SHEET - List OSINT Tools](https://github.com/zelsaddr/OSINT-Cheat-sheet-)  
+  - _inurl: Search for specific urls or paths; intext: Search for specific words or contects; filetype: Search for files; site: Search from a specified target ..._
+
+### arizonaatwork.com — 1 result(s)
+
+- [Search Jobs | ARIZONA@WORK](https://arizonaatwork.com/find-jobs/search-jobs) — `jobs`  
+  - _Arizona Job Connection (AJC) is a no-cost jobs database for our state's public workforce system. We offer job matching, job vacancy listings, and current labor ..._
+
+### careerforce.mn.gov — 1 result(s)
+
+- [Job Search - CareerForce - MN.gov](https://careerforce.mn.gov/job-search) — `search`  
+  - _No information is available for this page._
+
 ### careers.bankofamerica.com — 1 result(s)
 
 - [Bank of America Jobs: Search & Apply for ...](https://careers.bankofamerica.com/en-us/job-search) — `search`  
   - _Search and apply for jobs directly at the Bank of America Careers site. Search available job openings by location, career area, or keywords._
 
-### careers.choa.org — 1 result(s)
-
-- [Search results | Find available job openings at Children's ...](https://careers.choa.org/us/en/search-results) — `search`  
-  - _Search results. Find available job openings at Children's Healthcare of Atlanta._
-
-### careers.toasttab.com — 1 result(s)
-
-- [Current Openings](https://careers.toasttab.com/jobs/search) — `jobs`  
-  - _Senior GTM Engineer, AI Innovation · Territory Account Executive - Sandusky, OH · (Miami) Senior Customer Success Manager I, RMM · Account Executive - Sydney · API ..._
-
 ### careers.zoom.us — 1 result(s)
 
 - [Remote Jobs](https://careers.zoom.us/jobs/search) — `jobs`  
   - _We're Hiring! Zoom offers a structured hybrid working environment for our employees. Open roles in Engineering, Marketing, Legal, IT, Agentic AI._
-
-### careersourcesuncoast.com — 1 result(s)
-
-- [Search for Jobs](https://careersourcesuncoast.com/search-for-jobs/) — `search`  
-  - _It's the State of Florida's official job search website, used to connect thousands of employers with qualified career seekers._
-
-### dev.to — 1 result(s)
-
-- [️‍♂️ Unlock Hidden Job Opportunities with Google Dorking](https://dev.to/nish2005karsh/unlock-hidden-job-opportunities-with-google-dorking-the-job-hunters-secret-weapon-part-1-37pp)  
-  - _Google Dorking, also known as Google hacking, is the use of advanced search operators to uncover hidden or hard-to-find content on the web._
 
 ### georgia.gov — 1 result(s)
 
@@ -106,25 +99,25 @@ _Engine: serpapi  |  Generated: 2026-05-19T02:58:16.853365+00:00  |  Results: 49
 - [Google Search Operators Full List](https://inboundblogging.com/google-search-operators-full-list/)  
   - _In this guide, I'll share my experience and walk you through the full list of Google search operators to help you take control of your searches._
 
-### jobs.ccsf.edu — 1 result(s)
+### jobs.ebayinc.com — 1 result(s)
 
-- [City College of San Francisco Portal | Search Jobs](https://jobs.ccsf.edu/postings/search) — `search`  
-  - _View all open Postings below, or enter search criteria to narrow your search. Keywords. Posted Within. Any time ..._
+- [Search for Jobs: eBay Careers](https://jobs.ebayinc.com/us/en/search-results) — `search`  
+  - _Search for job openings at eBay._
 
-### jobs.uncw.edu — 1 result(s)
+### jobs.merck.com — 1 result(s)
 
-- [Search Jobs](https://jobs.uncw.edu/postings/search) — `search`  
-  - _Search Postings (79) All Jobs Atom Feed ... View all open Postings below, or enter search criteria to narrow your search. Keywords._
+- [Your job search results](https://jobs.merck.com/us/en/search-results) — `search`  
+  - _Join our team as a Maintenance Technician, where you will leverage your mechanical aptitude and technical skills to ensure compliance with ..._
 
-### liveworkmaryland.com — 1 result(s)
+### jobs.spectrum.com — 1 result(s)
 
-- [Maryland Jobs - Quick Search](https://liveworkmaryland.com/work/search-jobs/) — `search`  
-  - _Use this quick search tool to find opportunities by keyword, company or title. Search By: Title. Keyword._
+- [Search Spectrum Jobs | Explore Careers by Location & ...](https://jobs.spectrum.com/search-jobs) — `jobs`  
+  - _1347 results found · Principal Engineer I (Multiple Openings) · Business Account Executive · Manager, Vertical Market Sales, Hospitality, Spectrum ..._
 
-### planning.org — 1 result(s)
+### jobs.workable.com — 1 result(s)
 
-- [Jobs Search](https://planning.org/jobs/search/) — `jobs`  
-  - _Search for your perfect position — from internship to director — and keep track of the positions you're pursuing._
+- [Jobs By Workable](https://jobs.workable.com/)  
+  - _Search thousands of job openings from global companies hiring right now. Remote or office-based, your perfect job could be waiting for you!_
 
 ### s3-eu-west-1.amazonaws.com — 1 result(s)
 
@@ -136,10 +129,10 @@ _Engine: serpapi  |  Generated: 2026-05-19T02:58:16.853365+00:00  |  Results: 49
 - [Abbott Jobs | Apply Now | Abbott Careers](https://www.abbott.com/en-us/careers/search-jobs) — `careers`  
   - _Join our talent community and we will notify you about relevant positions, and keep you in mind when we have interesting opportunities. START NOW._
 
-### www.careeronestop.org — 1 result(s)
+### www.aep.com — 1 result(s)
 
-- [Job Search](https://www.careeronestop.org/JobSearch/job-search.aspx) — `jobs`  
-  - _Need help with your job search? CareerOneStop has information to help you._
+- [Open Jobs](https://www.aep.com/careers/positions/?location=New+Albany&pageNumber=1) — `careers`  
+  - _We do not respond to general emails about openings. We provide all openings online and offer search tools to help you find the right job._
 
 ### www.careers.peraton.com — 1 result(s)
 
@@ -148,38 +141,28 @@ _Engine: serpapi  |  Generated: 2026-05-19T02:58:16.853365+00:00  |  Results: 49
 
 ### www.google.com — 1 result(s)
 
-- [New York - Google Careers](https://www.google.com/about/careers/applications/locations/new-york/) — `careers`  
-  - _Tapping into the energy and diversity of New York City, Google's second largest office (spanning two campuses in Chelsea and Hudson Square) is a focal point ..._
+- [Atlanta - Google Careers](https://www.google.com/about/careers/applications/locations/atlanta/) — `careers`  
+  - _Each one of our locations has its own flavor of Googleyness, featuring unique architecture and design, office traditions, and of course, snacks._
 
-### www.greaterlouisville.com — 1 result(s)
+### www.illinois.gov — 1 result(s)
 
-- [Find a Job – One Louisville](https://www.greaterlouisville.com/talent-old/find-a-job/)  
-  - _Careers at GLI. Largest Employers. UPS, Ford, GE Appliances, Humana, Norton Healthcare, KentuckyOne Health, Yum! Brands, Papa John's International._
+- [Find Jobs](https://www.illinois.gov/employment/find-jobs.html)  
+  - _Job Openings in Illinois. Use the Illinois workNet JobFinder to find recent job listings that best fit your skills and interests._
 
 ### www.indeed.com — 1 result(s)
 
 - [Indeed: Job Search](https://www.indeed.com/)  
   - _With Indeed, you can search millions of jobs online to find the next step in your career. With tools for job search, resumes, company reviews and more, ..._
 
-### www.jobapscloud.com — 1 result(s)
-
-- [State of Maryland Job Openings](https://www.jobapscloud.com/md/)  
-  - _Welcome to the Maryland State Online Employment Center! We appreciate that you are considering opportunities to serve your community and the State._
-
 ### www.jobradar.app — 1 result(s)
 
 - [Master Google Search Operators to Find Hidden Job ...](https://www.jobradar.app/blog/google-search-operators-for-jobs) — `jobs`  
   - _Learn advanced Google search operators (dorks) to uncover job listings that most job seekers never see. Find opportunities before they hit job ..._
 
-### www.jointheportauthority.com — 1 result(s)
+### www.lego.com — 1 result(s)
 
-- [The Port Authority of New York and New Jersey - Careers](https://www.jointheportauthority.com/jobs/search) — `jobs`  
-  - _Welcome! A search can be performed by typing in a keyword or by selecting a field from the form. Click “Search” to view the results and click on the job title ..._
-
-### www.linkedin.com — 1 result(s)
-
-- [Допис учасника Anastasiia Mheladze](https://www.linkedin.com/posts/anastasiia-mheladze_booleansearch-jobsearch-candidates-activity-7186695903896915969-wwLK)  
-  - _Допис учасника Anastasiia Mheladze ; VolodymyR Zhukov, зображення. VolodymyR Zhukov. Software Engineer · пані ви просто молодець. дуже професійний ..._
+- [Careers Search - Careers - LEGO.com](https://www.lego.com/en-us/careers/search) — `careers`  
+  - _Careers · Who we are · Why Join Us · How to apply & support · Life Behind the Bricks · Candidate Login. Careers Search. Search Jobs. Keyword._
 
 ### www.pacareerlink.pa.gov — 1 result(s)
 
