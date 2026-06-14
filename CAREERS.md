@@ -1,32 +1,41 @@
 # Job results for: `(inurl:careers OR inurl:jobs) (inurl:open OR inurl:positions OR inurl:listings OR inurl:vacancies OR inurl:search)`
 
-_Engine: serpapi  |  Generated: 2026-06-13T03:31:05.924437+00:00  |  Results: 45_
+_Engine: serpapi  |  Generated: 2026-06-14T03:51:03.564757+00:00  |  Results: 46_
 
 **Search metadata**:
 - source: serpapi
 - fetched: 50
-- deduped: 45
+- deduped: 46
 
 ## Results grouped by domain
 
-### www.ziprecruiter.com — 3 result(s)
+### www.careerbuilder.com — 2 result(s)
 
-- [Job Link Jobs in Buffalo, NY (NOW HIRING) Jun 26](https://www.ziprecruiter.com/Jobs/Job-Link/-in-Buffalo,NY) — `jobs`  
-  - _Browse 1000+ BUFFALO, NY JOB LINK jobs from companies hiring now. New openings posted daily. Apply early, be seen first & 1-click apply today!_
+- [3150+ Jobs in New Britain, CT](https://www.careerbuilder.com/jobs-in-new-britain,ct) — `jobs`  
+  - _Browse 3150+ jobs in New Britain, CT hiring now at CareerBuilder®. $20–$24 Per Hour. Licensed Property & Casualty Insurance Agent $19–$20.25 Per Hour_
+- [CareerBuilder® - Search Jobs Hiring Now](https://www.careerbuilder.com/)  
+  - _Find your next job with CareerBuilder. Browse millions of recent job listings, upload your resume, get job alerts & let employers find you today._
+
+### www.glassdoor.com — 2 result(s)
+
+- [Jobs hiring immediately in Kansas City, MO](https://www.glassdoor.com/Job/kansas-city-jobs-hiring-immediately-jobs-SRCH_IL.0,11_IC1131040_KO12,35.htm)  
+  - _Search Jobs hiring immediately jobs in Kansas City, MO with company ratings & salaries. 1567 open jobs for Jobs hiring immediately in Kansas City._
+- [Recommended Jobs For You | Glassdoor Job Search](https://www.glassdoor.com/Job/index.htm)  
+  - _Search millions of open jobs with Glassdoor job search. Research company ratings, reviews and salaries. Glassdoor helps you find a job you love._
+
+### www.jobapscloud.com — 2 result(s)
+
+- [Job Openings - Department of Administrative Services](https://www.jobapscloud.com/ct/)  
+  - _Welcome to the Online Employment Center, where you can discover a broad spectrum of opportunities to develop your skills in healthcare, engineering, ..._
+- [State of Maryland Job Openings](https://www.jobapscloud.com/md/)  
+  - _Welcome to the Maryland State Online Employment Center! We appreciate that you are considering opportunities to serve your community and the State._
+
+### www.ziprecruiter.com — 2 result(s)
+
+- [$62k-$145k Search Jobs in New Britain, CT (NOW HIRING)](https://www.ziprecruiter.com/Jobs/Search/-in-New-Britain,CT) — `jobs`  
+  - _Browse 1000+ NEW BRITAIN, CT SEARCH jobs ($62k-$145k) hiring now. New openings posted daily. On-site $17 - $22/hr $250K - $300K/yr_
 - [Job Search: Millions of US Jobs (HIRING NOW) Near You ...](https://www.ziprecruiter.com/)  
   - _Job Search: Millions of US Jobs (HIRING NOW) Near You - ZipRecruiter._
-- [$20-$18/hr Jobs in Calgary, AB (NOW HIRING) Jun 2026](https://www.ziprecruiter.com/Jobs/-in-Calgary,AB) — `jobs`  
-  - _1000+ CALGARY, AB CANADA jobs ($20-$18/hr) from companies with openings that are hiring now. Find job listings near you & 1-click apply._
-
-### atlworks.org — 1 result(s)
-
-- [Find a Job Now - WorkSource - ATLWorks.Org](https://atlworks.org/job-seekers/)  
-  - _We've helped find meaningful jobs for a wide range of people with many different backgrounds. We'll match your skills and interests to real companies ready to ..._
-
-### beinbuffalo.com — 1 result(s)
-
-- [Job Search Resources](https://beinbuffalo.com/work/job-search-resources)  
-  - _Enlist experts in your search for your dream job in Buffalo NY. These local talent acquisition and recruitment firms can help you find a next-level career._
 
 ### builtin.com — 1 result(s)
 
@@ -35,123 +44,98 @@ _Engine: serpapi  |  Generated: 2026-06-13T03:31:05.924437+00:00  |  Results: 45
 
 ### ca.jooble.org — 1 result(s)
 
-- [Jooble: Jobs in Canada - 230.000+ current vacancies](https://ca.jooble.org/)  
-  - _Explore all the current vacancies from all the top employers and the leading job boards in Canada and abroad. 230.000+ new current vacancies._
+- [Jooble: Jobs in Canada - 225.000+ current vacancies](https://ca.jooble.org/)  
+  - _Explore all the current vacancies from all the top employers and the leading job boards in Canada and abroad. 225.000+ new current vacancies._
 
 ### ca.talent.com — 1 result(s)
 
 - [Talent.com: Job Search | Find Jobs Hiring Near You](https://ca.talent.com/)  
   - _Your job search starts here. Search from over 40 million jobs, save the ones you love, and apply in seconds._
 
-### careersourcerc.com — 1 result(s)
+### canadianvisa.org — 1 result(s)
 
-- [Search For Jobs](https://careersourcerc.com/job-seekers/services-for-job-seekers/search-for-jobs/) — `search`  
-  - _Complete an Employ Florida registration and build a resume. Getting started is easy if you follow the steps set out below._
+- [Canada's Top Industry-Specific Job Listing Websites](https://canadianvisa.org/life-in-canada/employment/industry-job-websites)  
+  - _Looking for a job in Canada ? Here are some of the top industry-specific job listing websites you need to work in Canada in no time at all._
 
-### eresponse.gdol.ga.gov — 1 result(s)
+### careers.illinois.gov — 1 result(s)
 
-- [Job Openings in Georgia | Job Seekers](https://eresponse.gdol.ga.gov/js/job_info_system.htm)  
-  - _To search the Georgia Department of Labor's job listings, choose the job location, job category, and job type. Select the "Start Search" button to begin your ..._
+- [State of Illinois Employment Opportunities](https://careers.illinois.gov/)  
+  - _The State of Illinois has fulfilling career opportunities in a variety of public service sectors including but not limited to: Public Safety, Human Services, ..._
+
+### careersourcetampabay.com — 1 result(s)
+
+- [Job Boards](https://careersourcetampabay.com/job-boards/)  
+  - _Click below to be directed to Employ Florida to view available job openings and to create an automated job search. Employ Florida provides the following ..._
+
+### collections.biblioottawalibrary.ca — 1 result(s)
+
+- [Online Job Boards](https://collections.biblioottawalibrary.ca/en/online-job-boards)  
+  - _An Ottawa-based boutique job search service that tracks organization, corporate, educational, government and recruiter career pages._
 
 ### github.com — 1 result(s)
 
 - [CAREERS.md - ahmed-n-abdeltwab/dork](https://github.com/ahmed-n-abdeltwab/dork/blob/main/CAREERS.md) — `careers`  
   - _The sites listed below should help you discover all the jobs, wherever they are posted. These are the best 33 job search websites for job seekers to use. jobs._
 
+### hidden-jobs.com — 1 result(s)
+
+- [Hidden Jobs — Real Remote Roles Companies Don't Post ...](https://hidden-jobs.com/)  
+  - _Discover hidden jobs pulled directly from company career pages. Updated daily. Find remote roles in tech, marketing, operations, and customer support._
+
+### idahoworks.gov — 1 result(s)
+
+- [Welcome, Job Seeker!](https://idahoworks.gov/job_seeker)  
+  - _With a job seeker account you can: Perform and save advanced searches to find the job that's perfect for you. Create and post an unlimited number of resumes ..._
+
+### jobs.google.com — 1 result(s)
+
+- [Job Search on Google - Get Your Job Postings on Google Today](https://jobs.google.com/about/)  
+  - _Google brings together job postings from across the web. Have your job postings found by millions of job seekers who search on Google every day._
+
 ### jobs.insightglobal.com — 1 result(s)
 
 - [Find a Job Using Insight Global's Staffing Services, Start Your ...](https://jobs.insightglobal.com/)  
   - _Start your job search now. We work with job seekers to find the IT, Accounting & Finance, Engineering and Government jobs that match their skills and goals._
 
-### jobs.miamidade.gov — 1 result(s)
+### jooble.org — 1 result(s)
 
-- [Search Jobs](https://jobs.miamidade.gov/psc/JOBS/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_SCHJOB_FL&Action=U) — `jobs`  
-  - _Account Clerk – Civil Court Department (Clerk of the Court and Comptroller). Job ID. 101171. Location. Downtown. Department. TAX DEED OPERATIONS._
+- [Jooble — 3.577.000+ current vacancies — Jobs in USA](https://jooble.org/)  
+  - _Explore all the current vacancies from all the top employers and the leading job boards in USA and abroad. 3.577.000+ new current vacancies._
 
-### jobs.mo.gov — 1 result(s)
+### kcc.ky.gov — 1 result(s)
 
-- [Job Seekers | JobsMoGov - Missouri Job Center](https://jobs.mo.gov/jobseeker) — `jobs`  
-  - _Learn more about Missouri's thriving job market and find the job growth rate, total job openings, and average wages compared to other occupations in the state._
-
-### jobs.workable.com — 1 result(s)
-
-- [Jobs By Workable](https://jobs.workable.com/)  
-  - _Search thousands of job openings from global companies hiring right now. Remote or office-based, your perfect job could be waiting for you!_
-
-### kootenay.jobs — 1 result(s)
-
-- [search all job postings](https://kootenay.jobs/search-all-jobs-new/) — `search`  
-  - _SEARCH ALL JOB POSTINGS · Kootenay Career Development Society · Registered Nurse · Physiotherapist · RECYCLING WASTE EDUCATOR – CRESTON – RDCK._
-
-### manitobastart.com — 1 result(s)
-
-- [Employment Opportunities | Manitoba ...](https://manitobastart.com/job-postings/)  
-  - _Employment Opportunities. Manitoba Start partners with Manitoba employers to identify opportunities in many fields and industries._
+- [Resume and Job Search - Kentucky Career Center](https://kcc.ky.gov/career/employment-assistance/Pages/Resume-and-Job-Search.aspx)  
+  - _The Kentucky Career Center offers job seekers the ability to search for jobs by location on the Kentucky Career Portal._
 
 ### mn.gov — 1 result(s)
 
 - [Search Jobs / Careers in the State of Minnesota - MN.gov](https://mn.gov/mmb/careers/search-for-jobs/) — `careers`  
   - _Offers a job search tool for the State of Minnesota, information about student worker and intern opportunities, links to other state employers, ..._
 
-### sci-bc.ca — 1 result(s)
+### resources.finalsite.net — 1 result(s)
 
-- [List of Job Search Websites Overview](https://sci-bc.ca/wp-content/uploads/2011/09/list-of-job-search-websites.pdf)  
-  - _Overview: This document contains a listing of useful job search websites that will help you find out what's available, understand the qualifications needed._
+- [The following Websites post job openings and in some ...](https://resources.finalsite.net/images/v1593547960/vvuhsdorg/tijtfccro7q3tjpuvzun/JOBSEARCH.pdf) — `jobs`  
+  - _The following Websites post job openings and in some cases allow you to post your resume for businesses to see: 1. monster.com. 2. hotjobs.com._
 
-### scionstaffing.com — 1 result(s)
+### worknola.com — 1 result(s)
 
-- [12 Top Job Boards and Job Search Engines in the U.S.](https://scionstaffing.com/the-most-popular-job-board-websites/)  
-  - _We've compiled a list of the 20 top online job boards and job search engines, along with valuable insights into their unique features and benefits._
+- [WorkNOLA: Home](https://worknola.com/)  
+  - _WorkNOLA is the leading website for professional employment listings in the Greater New Orleans region. This project strives to increase the economic strength ..._
 
-### scworks.org — 1 result(s)
+### www.alberta.ca — 1 result(s)
 
-- [Find a Job](https://scworks.org/jobseeker/find-job) — `jobs`  
-  - _Providing services such as career guidance, job referrals, and testing and training to meet the needs of employers, jobseekers and those looking to further ..._
+- [Find a job | Alberta.ca](https://www.alberta.ca/find-a-job)  
+  - _Find work in the Alberta Public Service, search for jobs across the province, or get help planning the next step in your career._
 
-### www.arjoblink.arkansas.gov — 1 result(s)
+### www.careeronestop.org — 1 result(s)
 
-- [Arkansas JobLink - Arkansas JobLink](https://www.arjoblink.arkansas.gov/)  
-  - _Use filters to find your dream job and save your search or apply right away. ... Upload your resume or make a new one from scratch with our resume wizard._
+- [Job Search](https://www.careeronestop.org/JobSearch/job-search.aspx) — `jobs`  
+  - _Plan your job search. Create a job search plan · Gather your documents · Your knowledge, skills, and abilities (KSAs) · Research employers._
 
-### www.bcjobs.ca — 1 result(s)
+### www.greaterlouisville.com — 1 result(s)
 
-- [BCjobs.ca](https://www.bcjobs.ca/)  
-  - _BCjobs.ca is the largest job board in Western Canada. Start your job search now, sign up for job alerts, and get connected with the best employers._
-
-### www.careerbuilder.com — 1 result(s)
-
-- [CareerBuilder® - Search Jobs Hiring Now](https://www.careerbuilder.com/)  
-  - _Find your next job with CareerBuilder. Browse millions of recent job listings, upload your resume, get job alerts & let employers find you today._
-
-### www.careersite.com — 1 result(s)
-
-- [CareerSite.com - thousands of new jobs posted every day!](http://www.careersite.com/)  
-  - _Welcome to CareerSite.com, with thousands of new jobs posted every day and thousands of employers searching for candidates just like you._
-
-### www.chicago.gov — 1 result(s)
-
-- [Jobs Now](https://www.chicago.gov/city/en/narr/misc/jobs/jobsnow.html) — `jobs`  
-  - _This page contains information on where residents can find job opportunities in the public, private, and nonprofit sectors._
-
-### www.cybsearch.com — 1 result(s)
-
-- [Jobs in Dallas - Apply Now](https://www.cybsearch.com/jobs-in-dallas/) — `jobs`  
-  - _Cybersearch has a wide range of Jobs in Dallas listed below. Search the latest jobs in Dallas today. Remember you can always sign up for job alerts._
-
-### www.davron.net — 1 result(s)
-
-- [Top 10 Job Posting Sites for Employers](https://www.davron.net/top-10-job-posting-sites-for-employers/)  
-  - _Here is a list of the top 10 job posting sites for employers in 2021. Indeed is usually the first place people go when looking for a free resource to post and ..._
-
-### www.employflorida.com — 1 result(s)
-
-- [Employ Florida](https://www.employflorida.com/)  
-  - _Employ Florida - Complete set of employment tools for job seekers in Florida. Job seekers and employers access jobs, résumés, education, training, ..._
-
-### www.facebook.com — 1 result(s)
-
-- [Louise Dorolek Bergman use Google](https://www.facebook.com/groups/vanishedchicago/posts/4339254359474623/)  
-  - _UGH, I will never forget the field trip from the Reck by Manor Pool going there. I was thirsty, it didn't have homogenized milk, ..._
+- [Find a Job – One Louisville](https://www.greaterlouisville.com/talent-old/find-a-job/)  
+  - _Careers at GLI. Largest Employers. UPS, Ford, GE Appliances, Humana, Norton Healthcare, KentuckyOne Health, Yum! Brands, Papa John's International._
 
 ### www.illinoisworknet.com — 1 result(s)
 
@@ -160,69 +144,85 @@ _Engine: serpapi  |  Generated: 2026-06-13T03:31:05.924437+00:00  |  Results: 45
 
 ### www.indeed.com — 1 result(s)
 
-- [Current Listing jobs in Buffalo, Ny](https://www.indeed.com/q-current-listing-l-buffalo,-ny-jobs.html)  
-  - _53 Current Listing jobs available in Buffalo, NY on Indeed.com. Apply to Chef, Partnership Manager, Line Cook and more! Health insurance 401(k) matching Paid ..._
+- [Indeed: Job Search](https://www.indeed.com/)  
+  - _With Indeed, you can search millions of jobs online to find the next step in your career. With tools for job search, resumes, company reviews and more, ..._
 
-### www.indianacareerconnect.com — 1 result(s)
+### www.jobcase.com — 1 result(s)
 
-- [Indiana Career Connect](https://www.indianacareerconnect.com/)  
-  - _Indiana Career Connect - Complete set of employment tools for job seekers in Indiana. Search jobs, create résumés, find education and training._
+- [Jobcase | Job Search, Job Seeker Community, & Hiring ...](https://www.jobcase.com/)  
+  - _Join Jobcase, the online community where millions of workers connect to find opportunities together. Connect with other workers to find jobs, get help, ..._
 
 ### www.joblist.com — 1 result(s)
 
-- [Joblist: Find Jobs Anywhere with the Best Job Search Site](https://www.joblist.com/)  
-  - _Your job search is about to end. Joblist is the best place to find a job, aggregating, and personalizing every listing near you so your dream job becomes a ..._
+- [Jobs in Toronto, ON](https://www.joblist.com/ca/search) — `search`  
+  - _Find new job opportunities in Toronto at Joblist. Search across 9669 listings and easily apply today!_
 
 ### www.jobradar.app — 1 result(s)
 
 - [Master Google Search Operators to Find Hidden Job ...](https://www.jobradar.app/blog/google-search-operators-for-jobs) — `jobs`  
   - _Learn advanced Google search operators (dorks) to uncover job listings that most job seekers never see. hit job boards. inurl: - Search URLs_
 
-### www.lifeincalgary.ca — 1 result(s)
+### www.kantanhq.com — 1 result(s)
 
-- [Work in Calgary | Opportunity lives here | Life in ...](https://www.lifeincalgary.ca/work-here/)  
-  - _Build a career in Calgary · Here, there are limitless opportunities for any career path. · Careers in the new economy · Resources to build your dream career._
+- [Find The Newest Company Job Listings By Industry - Kantan](https://www.kantanhq.com/post/the-google-job-search-guide-find-the-newest-company-job-listings-by-industry)  
+  - _Every company posts new openings on their own hiring website first, usually through systems like Greenhouse, Lever, or Workday (called ..._
 
 ### www.linkedin.com — 1 result(s)
 
 - [designers use X. They post their work, share… | Alex Gray](https://www.linkedin.com/posts/alexanderkgray_after-4-years-of-learning-how-to-source-on-activity-7463642361382862848-9AgY)  
   - _We were hiring a Designer and one thing became obvious quickly: designers use X. They post their work, share their process, build an audience._
 
+### www.liveinlou.com — 1 result(s)
+
+- [Employment Opportunities in Louisville KY, Job Openings](https://www.liveinlou.com/work/)  
+  - _Explore our Greater Louisville job board to search for careers in Louisville, KY, including full-time, part-time, temporary, startup jobs, and internships._
+
+### www.mometrix.com — 1 result(s)
+
+- [Top 37 Job Search Websites](https://www.mometrix.com/blog/top-37-job-search-websites/)  
+  - _We've compiled the top 37 job search sites based on website analytics to make your search for a new job easier._
+
+### www.nbjobs.ca — 1 result(s)
+
+- [Jobs](https://www.nbjobs.ca/jobs) — `jobs`  
+  - _The following links to potential employment opportunities are collected from hundreds of job boards._
+
 ### www.onwardsearch.com — 1 result(s)
 
 - [Job Search](https://www.onwardsearch.com/jobs/) — `jobs`  
-  - _Showing. 116. Job Results ; Pharma Labeling Proofreader (Supply Chain / Regulatory). Somerville, New Jersey. $80 - $90 per hour ; Senior Copywriter. Hawthorne, ..._
+  - _Showing. 117. Job Results ; Software Engineer III. Los Angeles, California. $127 - $132 per hour ; Senior QA Analyst. Los Angeles, California. $95 - $98 per hour._
+
+### www.personnel.alabama.gov — 1 result(s)
+
+- [Job Opportunities - SPD - State of Alabama ...](https://www.personnel.alabama.gov/jobs) — `jobs`  
+  - _Job Opportunities. You must submit an official application for each job class. Applications are accepted throughout the year to ensure an up-to-date ..._
+
+### www.reddit.com — 1 result(s)
+
+- [I created a search engine for jobs that come directly from ...](https://www.reddit.com/r/Career_Advice/comments/1hy0jm3/i_created_a_search_engine_for_jobs_that_come/)  
+  - _I created a central place where job listings from company's career pages are kept and updated. Click on a job you like and it brings you straight to the ..._
+
+### www.redeemer.ca — 1 result(s)
+
+- [Online Job Search Sites](https://www.redeemer.ca/wp-content/uploads/Online-Job-Search-Sites.pdf)  
+  - _HireRedeemer - This site should be your first stop in the job search as a. Redeemer student! This is Redeemer's very own internal job board._
 
 ### www.roberthalf.com — 1 result(s)
 
 - [14+ Best Job Search Sites Canada-Based Professionals ...](https://www.roberthalf.com/ca/en/insights/research/best-job-sites-in-canada)  
   - _There are hundreds of online resources that professionals in Canada can choose from that help make applying to jobs as easy as possible._
 
-### www.shu.edu — 1 result(s)
+### www.thewaterbury.com — 1 result(s)
 
-- [More job search websites](https://www.shu.edu/documents/Industry-Websites.xlsx)  
-
-### www.thecareerowl.ca — 1 result(s)
-
-- [CareerOwl™ | Canada's Trusted Job Board](https://www.thecareerowl.ca/)  
-  - _Find Canadian jobs and connect with verified employers on CareerOwl™. Canada's trusted job board for job seekers, employers and recruiters._
+- [Job Opportunities - The Waterbury](https://www.thewaterbury.com/working-in-waterbury-ct/job-opportunities)  
+  - _Search current job opportunities in manufacturing, financial services, healthcare, education and other top industries. You can search jobs, create résumés, ..._
 
 ### www.tn.gov — 1 result(s)
 
 - [Job Search](https://www.tn.gov/workforce/jobs-and-education/job-search.html) — `jobs`  
   - _Jobs4TN.gov gives you an unprecedented number of jobs to search, averaging 400,000 every day, and also helps you build a resume and discover labor market ..._
 
-### www.twc.texas.gov — 1 result(s)
+### www.youtube.com — 1 result(s)
 
-- [Find a Job - Texas Workforce Commission](https://www.twc.texas.gov/services/job-search) — `search`  
-  - _Find a career by using the following resources. WorkInTexas.com. Create a WorkInTexas.com account to search and apply for Texas jobs that fit your needs._
-
-### www.wnyjobs.com — 1 result(s)
-
-- [WNY Jobs – Buffalo, NY Jobs and Employment Ads](https://www.wnyjobs.com/)  
-  - _Job posts for Greater Buffalo, NY - Search Manufacturing, Nursing & Healthcare jobs, Human services jobs, Construction jobs in Buffalo._
-
-### www3.erie.gov — 1 result(s)
-
-- [Job Opportunities | Civil Service Opportunities](https://www3.erie.gov/employment/job-opportunities)  
-  - _Notices of vacancies available in departments are posted on this page. Visit our Job Openings in the Community page for more information. Phone: (716) 858-8484 ..._
+- [8 Job Search Engines to Land Your Next Role](https://www.youtube.com/watch?v=4FP4Dj6a0fs&vl=en)  
+  - _Looking for a smarter way to land your next role? This video breaks down eight of the most popular job search engines, covering how each ..._
