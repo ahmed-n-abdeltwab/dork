@@ -1,85 +1,40 @@
 # Job results for: `(inurl:careers OR inurl:jobs) (inurl:open OR inurl:positions OR inurl:listings OR inurl:vacancies OR inurl:search)`
 
-_Engine: serpapi  |  Generated: 2026-06-27T02:53:07.368021+00:00  |  Results: 49_
+_Engine: serpapi  |  Generated: 2026-06-28T03:35:47.202144+00:00  |  Results: 40_
 
 **Search metadata**:
 - source: serpapi
 - fetched: 50
-- deduped: 49
+- deduped: 40
 
 ## Results grouped by domain
 
-### www.indeed.com — 3 result(s)
+### www.indeed.com — 2 result(s)
 
-- [Indeed: Job Search](https://www.indeed.com/)  
-  - _With Indeed, you can search millions of jobs online to find the next step in your career. With tools for job search, resumes, company reviews and more, ..._
+- [jobs in New York, NY](https://www.indeed.com/l-new-york,-ny-jobs.html)  
+  - _278858 jobs available in New York, NY on Indeed.com. Apply to Ct Technologist, Certified Peer Specialist, Auto Estimator and more!_
 - [Where To Look for a Job: 11 Places and Processes](https://www.indeed.com/career-advice/finding-a-job/where-to-look-for-a-job)  
-  - _11 places to look for jobs · Job fairs · Networking · Referrals · Job boards · Company websites · Association websites · Recruiting agencies · Temporary ..._
-- [39000 Jobs, Employment in Mississippi June 26, 2026](https://www.indeed.com/l-mississippi-jobs.html)  
-  - _39933 jobs available in Mississippi on Indeed.com. Apply to Addiction Counselor, Licensed Practical Nurse, Registered Nurse and more!_
+  - _The internet and professional networking opportunities have made job openings more accessible and easier for applicants to find._
 
-### www.facebook.com — 2 result(s)
+### applyre.com — 1 result(s)
 
-- [Adding "careers" to a company name in Google search can ...](https://www.facebook.com/groups/954896916055035/posts/1202830427928348/)  
-  - _REMINDER When searching for a company on Google, add “Careers” after the company name to increase the chances of finding its official website._
-- [Boost your googling skills with advanced search tips](https://www.facebook.com/groups/aofirs/posts/2478529482294761/)  
-  - _How can you boost your googling skills? Start with these "10 Advanced Google Search Tips to Find Credible Sources of Information"..._
+- [Top 200 Job Sites in the US](https://applyre.com/insights/top-200-job-sites-in-the-usa/)  
+  - _CareerBuilder is another long-standing job search platform that offers a vast database of job listings, as well as career advice and resources for job seekers._
 
-### www.linkedin.com — 2 result(s)
+### builtin.com — 1 result(s)
 
-- [Alex Gray posted this](https://www.linkedin.com/posts/alexanderkgray_after-4-years-of-learning-how-to-source-on-activity-7463642361382862848-9AgY)  
-  - _We were hiring a Designer and one thing became obvious quickly: designers use X. They post their work, share their process, build an audience._
-- [Допис учасника Anastasiia Mheladze](https://www.linkedin.com/posts/anastasiia-mheladze_booleansearch-jobsearch-candidates-activity-7186695903896915969-wwLK)  
-  - _... (inurl:"vacancies" OR inurl:"jobs" OR inurl:"job" OR inurl:"career") "frontend" ukraine after:2024-04-01 before:2024-04-18 де inurl - ключові ..._
-
-### www.simplyhired.com — 2 result(s)
-
-- [SimplyHired: Job Search Engine](https://www.simplyhired.com/)  
-  - _Browse SimplyHired for jobs, view local and national salary information, discover companies, and learn about the job market in a specific city._
-- [Top 39957 Jobs in Indianapolis, In](https://www.simplyhired.com/search?l=indianapolis%2C+in) — `search`  
-  - _39957 jobs available in Indianapolis, In. See salaries, compare reviews, easily apply, and get hired. New careers in Indianapolis, In are added daily on ..._
-
-### www.ziprecruiter.com — 2 result(s)
-
-- [$23-$47/hr Jobs in Rhode Island (NOW HIRING) Jun 2026](https://www.ziprecruiter.com/Jobs/--in-Rhode-Island) — `jobs`  
-  - _Browse 1000+ jobs ($23-$47/hr) from companies in RHODE ISLAND hiring now. Earn between $80K and $105K plus a $15,000 Sign-On Bonus_
-- [Best Ways To Find Jobs in Spring Hill, TN (NOW HIRING)](https://www.ziprecruiter.com/Jobs/Best-Ways-To-Find/-in-Spring-Hill,TN) — `jobs`  
-  - _Browse 1000+ SPRING HILL, TN BEST WAYS TO FIND jobs from companies hiring now. New openings posted daily. Apply early, get seen first ..._
-
-### alabamaworks.workforce.alabama.gov — 1 result(s)
-
-- [alabamaworks.workforce.alabama.gov - Job Search Options](https://alabamaworks.workforce.alabama.gov/vosnet/JobBanks/JobSearchCriteriaQuick.aspx) — `jobs`  
-  - _To create an automated job search (virtual recruiter), select criteria below, perform the search and then save your search at the bottom of the results screen._
-
-### atlworks.org — 1 result(s)
-
-- [Find a Job Now - WorkSource - ATLWorks.Org](https://atlworks.org/job-seekers/)  
-  - _We've helped find meaningful jobs for a wide range of people with many different backgrounds. We'll match your skills and interests to real companies ready to ..._
-
-### business.nh.gov — 1 result(s)
-
-- [Job Search NH | Find Jobs & Employers in NH | NHES](https://business.nh.gov/nhesjobsearch/)  
-  - _New Hampshire Job Search Portal · Accounting · Administration · Agriculture · Aide · Aide-LNA · Assistant · Assistant/Support · Automotive_
-
-### careersourcebroward.com — 1 result(s)
-
-- [Find a job | Broward County, Florida](https://careersourcebroward.com/career-seekers/find-a-job)  
-  - _Through the online portal, you can apply for jobs, set up automatic job posting notifications, upload your résumé, research training and education opportunities ..._
+- [Built In: Job Search & Company Research](https://builtin.com/)  
+  - _Built In is a top destination for highly skilled professionals around the world. Our platform features real-time job listings and company profiles with rich ..._
 
 ### careersourcetampabay.com — 1 result(s)
 
 - [Job Boards](https://careersourcetampabay.com/job-boards/)  
-  - _Looking for a new job or next step in your career? Based on your education, skills, experience and goals, we guide you through every step of the process._
+  - _Click below to be directed to Employ Florida to view available job openings and to create an automated job search. Employ Florida provides the following ..._
 
-### dbm.maryland.gov — 1 result(s)
+### dol.ny.gov — 1 result(s)
 
-- [Maryland State Jobs - Immediate Openings!](https://dbm.maryland.gov/jobseekers/pages/jobseekershome.aspx) — `jobs`  
-  - _View Job Postings​; Existing Users View Your Current Applications; For immediate assistance - contact us at 410-767-4850 (8:00 a.m. to 4:00 p.m. daily, ..._
-
-### georgia.gov — 1 result(s)
-
-- [Find Jobs in Georgia](https://georgia.gov/find-jobs-georgia)  
-  - _Find Job Openings · You can find job opportunities in Georgia by using government resources, community job boards, company websites, job fairs, and networking._
+- [Find a Job | Department of Labor - NY.Gov](https://dol.ny.gov/find-job-0)  
+  - _Using New York's Job Bank you can search open job opportunities, post your resume so employers can find you and sign up to receive e-mails about new job ..._
 
 ### github.com — 1 result(s)
 
@@ -91,129 +46,134 @@ _Engine: serpapi  |  Generated: 2026-06-27T02:53:07.368021+00:00  |  Results: 49
 - [Hidden Jobs — Real Remote Roles Companies Don't Post ...](https://hidden-jobs.com/)  
   - _Discover hidden jobs pulled directly from company career pages. Updated daily. Find remote roles in tech, marketing, operations, and customer support._
 
-### jobapscloud.com — 1 result(s)
+### jobs.nytimes.com — 1 result(s)
 
-- [State of Maryland Job Openings](https://jobapscloud.com/MD/)  
-  - _The job opportunities below provide vital support to Maryland residents, including critical services such as public safety, health care, and education._
+- [NYTimes.com | Find Your Next Job With NYTimes](https://jobs.nytimes.com/)  
+  - _Looking for a job? Search over 2 millions of jobs with NYTimes. With tools for job search, resumes and more, we'll help you take the next step in your ..._
 
-### jobs.google.com — 1 result(s)
+### jobsourceusa.com — 1 result(s)
 
-- [Job Search on Google - Get Your Job Postings on Google Today](https://jobs.google.com/about/)  
-  - _Google brings together job postings from across the web. Have your job postings found by millions of job seekers who search on Google every day._
+- [Current Job Openings in Omaha - Find your next job ...](https://jobsourceusa.com/search-jobs/) — `search`  
+  - _Now Hiring: banquets/serving, food service, general & skilled labor, light industrial, maintenance & service techs, manufacturing/warehouse, ..._
 
-### jobs.scworks.org — 1 result(s)
+### libguides.njstatelib.org — 1 result(s)
 
-- [SC Works Online Services](https://jobs.scworks.org/)  
-  - _SC Works Online Services - Complete set of employment tools for job seekers in South Carolina. Job seekers and employers access jobs, résumés, education, ..._
-
-### jobs.workable.com — 1 result(s)
-
-- [Jobs By Workable](https://jobs.workable.com/)  
-  - _Search thousands of job openings from global companies hiring right now. Remote or office-based, your perfect job could be waiting for you!_
-
-### liveworkmaryland.com — 1 result(s)
-
-- [Maryland Jobs - Quick Search](https://liveworkmaryland.com/work/search-jobs/) — `search`  
-  - _Professionals in tech, life sciences, engineering and life sciences, and more are in high demand in Maryland. Find the right job for you in Maryland._
-
-### mn.gov — 1 result(s)
-
-- [Search Jobs / Careers in the State of Minnesota - MN.gov](https://mn.gov/mmb/careers/search-for-jobs/) — `careers`  
-  - _Offers a job search tool for the State of Minnesota, information about student worker and intern opportunities, links to other state employers, ..._
+- [Job Search Sites - Careers and Employment](https://libguides.njstatelib.org/business/careers/jobs) — `careers`  
+  - _Resources to help professionals in researching information about employment, career choices, career and employment counseling, resume writing, and interviewing ..._
 
 ### newsletter.jobsearch.guide — 1 result(s)
 
 - [Discover Hidden Job Opportunities with Boolean Searches](https://newsletter.jobsearch.guide/p/discover-hidden-job-opportunities)  
-  - _For instance, using inurl:careers will yield pages where the URL contains the word 'careers,' which is common in job listing pages. Example._
+  - _URL Keywords: Sometimes, URLs contain keywords that can help in refining your search. For instance, using inurl:careers will yield pages where ..._
 
-### pdfcoffee.com — 1 result(s)
+### scionstaffing.com — 1 result(s)
 
-- [300 Best Boolean Strings](https://pdfcoffee.com/download/300-best-boolean-strings-5-pdf-free.html)  
-  - _inurl: Search for keywords or phrases in page URL's (shown as green text in Google search results):. [inurl:careers] the word careers must appear in the URL._
+- [12 Top Job Boards and Job Search Engines in the U.S.](https://scionstaffing.com/the-most-popular-job-board-websites/)  
+  - _We've compiled a list of the 20 top online job boards and job search engines, along with valuable insights into their unique features and benefits._
 
-### workforindiana.in.gov — 1 result(s)
+### support.google.com — 1 result(s)
 
-- [View all jobs -](https://workforindiana.in.gov/viewalljobs/)  
-  - _Search by Category · Executive Leadership · Customer Service · Hospitality · Administrative & Clerical · Architecture & Engineering · Arts, Design, & Communication ..._
+- [Google jobs listing links to another company](https://support.google.com/websearch/thread/306113105/google-jobs-listing-links-to-another-company?hl=en)  
+  - _One of our listings displayed on Google Jobs has one link to our vacancy and other two buttons taking people to completely different listing displayed by ..._
+
+### theirstack.com — 1 result(s)
+
+- [All job postings in one place](https://theirstack.com/en/job-lookup)  
+  - _Search hundreds of job boards and websites for recruitment market insights. Recruitment analytics and insights to help you grow more quickly and profitably._
+
+### theundercoverrecruiter.com — 1 result(s)
+
+- [How to Find Hidden Jobs with an Easy Google Search](https://theundercoverrecruiter.com/find-hidden-jobs-google/)  
+  - _Find unadvertised jobs online by using a clever Google search technique. Search corporate Applicant Tracking Systems for jobs with this simple 'hack'._
 
 ### worknola.com — 1 result(s)
 
-- [Find a Job](https://worknola.com/jobs) — `jobs`  
-  - _WorkNOLA is the leading website for professional employment listings in the Greater New Orleans region. This project strives to increase the economic ..._
+- [WorkNOLA: Home](https://worknola.com/)  
+  - _WorkNOLA is the leading website for professional employment listings in the Greater New Orleans region. Now powered by Greater New Orleans, Inc., ..._
 
-### www.aarp.org — 1 result(s)
+### www.al.com — 1 result(s)
 
-- [Google Now Lets You Search for Job Openings](https://www.aarp.org/work/job-search/google-adds-job-postings-in-search/)  
-  - _The search engine giant will now include job postings and information right from its main search engine portal. Type in a phrase like "jobs near ..._
+- [Alabama Job Search and Employment Opportunities](https://www.al.com/jobs/) — `jobs`  
+  - _Search the latest local job and employment postings in Alabama including full-time and part-time work and find your new career today using AL.com._
+
+### www.career.com — 1 result(s)
+
+- [Jobs and Careers - Find Jobs Near You - Career.com](https://www.career.com/)  
+  - _Find your next job on career.com - Search jobs and research careers by title, company, skills, salaries, industry, and career path._
+
+### www.careerbuilder.com — 1 result(s)
+
+- [CareerBuilder® - Search Jobs Hiring Now](https://www.careerbuilder.com/)  
+  - _Find your next job with CareerBuilder. Browse millions of recent job listings, upload your resume, get job alerts & let employers find you today._
 
 ### www.careersite.com — 1 result(s)
 
 - [Career Site](https://www.careersite.com/)  
+
+### www.davron.net — 1 result(s)
+
+- [Top 10 Job Posting Sites for Employers](https://www.davron.net/top-10-job-posting-sites-for-employers/)  
+  - _Here is a list of the top 10 job posting sites for employers in 2021. Indeed is usually the first place people go when looking for a free resource to post and ..._
 
 ### www.firstfind.org — 1 result(s)
 
 - [Where's the Best Place to Go on the Internet to Find Jobs?](https://www.firstfind.org/wp-content/uploads/2021/03/JobSearch-FIN_FirstFind_Chapter-8.pdf) — `jobs`  
   - _Searching for jobs online can be a good idea, but it should only be one part of your job search. Since applying for jobs online is so easy, every posting ..._
 
-### www.glassdoor.com — 1 result(s)
+### www.frontlinesourcegroup.com — 1 result(s)
 
-- [64964 Indianapolis, IN jobs](https://www.glassdoor.com/Job/indianapolis-jobs-SRCH_IL.0,12_IC1145013.htm)  
-  - _Are you open to new opportunities? Upload your resume to increase your chances of getting noticed. Upload resume ..._
+- [Which jobs hiring website is best for your job search?](https://www.frontlinesourcegroup.com/blog-your-guide-to-the-best-jobs-hiring-website-options.html)  
+  - _Compare the best jobs hiring website options, from job boards to a staffing agency like Frontline Source Group, for a smarter job search._
 
 ### www.google.com — 1 result(s)
 
-- [Search for your career at Google.](https://www.google.com/about/careers/applications/) — `careers`  
-  - _Join Google Careers and build what's next, today. Explore career opportunities in engineering, design, sales, hardware, and more. Make a global impact with ..._
-
-### www.governmentjobs.com — 1 result(s)
-
-- [State of Rhode Island Career Pages](https://www.governmentjobs.com/careers/rhodeisland) — `careers`  
-  - _State of Rhode Island Career Pages. No jobs at this time. Check back later! research on social, economic, and sectoral employment and hiring trends._
-
-### www.instagram.com — 1 result(s)
-
-- [Шановні рекрутери і сорсери, чи фіксуєте ви якось ...](https://www.instagram.com/p/C6GnVk8KfoK/)  
-  - _⭐️ 27 березня мені написав кандидат, Frontend Developer: «Привіт! Вже кілька років не заходив в LinkedIn, бо не було такої потреби і нічого не ..._
-
-### www.joblist.com — 1 result(s)
-
-- [Joblist: Find Jobs Anywhere with the Best Job Search Site](https://www.joblist.com/)  
-  - _Your job search is about to end. Joblist is the best place to find a job, aggregating, and personalizing every listing near you so your dream job becomes a ..._
+- [New York - Google Careers](https://www.google.com/about/careers/applications/locations/new-york/) — `careers`  
+  - _Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce_
 
 ### www.jobradar.app — 1 result(s)
 
 - [Master Google Search Operators to Find Hidden ... - Job](https://www.jobradar.app/blog/google-search-operators-for-jobs) — `jobs`  
-  - _Learn advanced Google search operators (dorks) to uncover job listings that most job seekers never see. inurl: - Search URLs_
+  - _Learn advanced Google search operators (dorks) to uncover job listings that most job seekers never see. directly on company websites inurl: - ..._
 
-### www.jobspider.com — 1 result(s)
+### www.jobtarget.com — 1 result(s)
 
-- [JobSpider | Free Job Posting in the US and Canada](https://www.jobspider.com/)  
-  - _Post unlimited job openings for free across the United States and Canada. JobSpider is the 100% free job board for employers to hire local talent and job ..._
+- [JobTarget Makes Hiring Happen](https://www.jobtarget.com/)  
+  - _JobTarget is a comprehensive recruitment platform that connects employers to candidates through advanced job advertising technology._
 
-### www.larimer.gov — 1 result(s)
+### www.learnhowtobecome.org — 1 result(s)
 
-- [Job Search & Finding Open Positions](https://www.larimer.gov/ewd/young-adults/careerrise/careerrise-job-search-tool-kit/job-search-finding-open-positions) — `positions`  
-  - _Search and apply for jobs that match your skills, experience, and goals; Explore career planning tools to help guide your job search; Discover training ..._
+- [15 Best Job Search Sites Tailored For Your Career Goals](https://www.learnhowtobecome.org/career-resource-center/15-best-job-search-sites/)  
+  - _Seeking a job? These career sites are a great way to search through positions that can help with everything from entry-level work to career advancement._
 
-### www.liveinlou.com — 1 result(s)
+### www.linkedin.com — 1 result(s)
 
-- [Places Hiring in Louisville KY, Jobs, Career Opportunities](https://www.liveinlou.com/jobs-list/) — `jobs`  
-  - _With more than 16,000 open jobs across every industry, the Greater Louisville region is the perfect place to start, grow, or change your career._
+- [213000+ jobs in New York](https://www.linkedin.com/jobs/jobs-in-new-york) — `jobs`  
+  - _213,000+ Jobs in New York · Executive Assistant · TikTok Creative Lead · Public Relations Coordinator · Executive Recruiter · Fashion Assistant · Freelance Style ..._
+
+### www.monster.com — 1 result(s)
+
+- [Browse Job Openings Hiring Now | Monster.com](https://www.monster.com/jobs) — `jobs`  
+  - _Browse millions of job openings by job title, category, company, or location at Monster.com._
+
+### www.nyc.gov — 1 result(s)
+
+- [Find Jobs, Training, and Career Resources in New York City](https://www.nyc.gov/employment)  
+  - _Explore Jobs NYC for career opportunities, programs, and services designed to support job seekers and employers across New York City._
+
+### www.nyit.edu — 1 result(s)
+
+- [Job Search Engines | New York Tech](https://www.nyit.edu/academics/academic-success/career-success-and-experiential-education/career-resources/job-search-engines/)  
+  - _We've compiled a large list of job sites, from general to area-specific, that might be helpful in your search. Search for jobs by keyword and location, and ..._
 
 ### www.onetonline.org — 1 result(s)
 
-- [Numerous Job Openings Bright Outlook Occupations](https://www.onetonline.org/find/bright?b=2)  
-  - _Bright Outlook occupations are expected to grow rapidly in the next several years, will have large numbers of job openings, or are new and emerging occupations._
+- [See All Occupations](https://www.onetonline.org/find/all)  
+  - _See All Occupations Save Table: XLSX CSV ; 5, 25-2059.01, Adapted Physical Education Specialists ; 1-2, 51-9191.00, Adhesive Bonding Machine Operators and Tenders._
 
-### www.pacareerlink.pa.gov — 1 result(s)
+### www.reddit.com — 1 result(s)
 
-- [Search Jobs - PA CareerLink - Commonwealth of Pennsylvania](https://www.pacareerlink.pa.gov/jponline/jobseeker/searchjobs) — `jobs`  
-  - _No information is available for this page._
-
-### www.scribd.com — 1 result(s)
-
-- [Google Boolean Search Operators Guide | PDF](https://www.scribd.com/document/515343369/one-page-tip-sheet-boolean-google-irina-shamaeva)  
-  - _inurl: Search for keywords or phrases in page URL's (shown as green text in Google search results): [inurl:careers] the word “careers” must appear in the URL_
+- [I created a search engine for jobs that come directly from ...](https://www.reddit.com/r/Career_Advice/comments/1hy0jm3/i_created_a_search_engine_for_jobs_that_come/)  
+  - _I created a central place where job listings from company's career pages are kept and updated. Click on a job you like and it brings you straight to the ..._
 
 ### www.stanislaus.courts.ca.gov — 1 result(s)
 
@@ -229,6 +189,16 @@ _Engine: serpapi  |  Generated: 2026-06-27T02:53:07.368021+00:00  |  Results: 49
 
 - [20 Job Portals Starting From Ours - Find Your Next Career ...](https://www.vdart.com/what-we-do/blog/20-job-portals-starting-from-ours/)  
   - _You can upload your resume, apply for permanent or contract roles, and sign up for job alerts to receive updates on the latest opportunities._
+
+### www.welcometothejungle.com — 1 result(s)
+
+- [Jobs in New York, NY - browse job listings](https://www.welcometothejungle.com/en/pages/jobs-new-york-us) — `jobs`  
+  - _Browse and find all Jobs in New York, US with Welcome to the Jungle. Opportunities in software development, tech startups, cybersecurity, and tech innovation ..._
+
+### www.yellowpages.com — 1 result(s)
+
+- [Employment opportunities in Los Angeles, CA](https://www.yellowpages.com/los-angeles-ca/employment-opportunities)  
+  - _Los Angeles based opportunities for hospital medicine professionals seeking full or part time employment in hospitals across CA._
 
 ### www.youtube.com — 1 result(s)
 
