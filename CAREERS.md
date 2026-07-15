@@ -1,34 +1,41 @@
 # Job results for: `(inurl:careers OR inurl:jobs) (inurl:open OR inurl:positions OR inurl:listings OR inurl:vacancies OR inurl:search)`
 
-_Engine: serpapi  |  Generated: 2026-07-14T02:13:52.460390+00:00  |  Results: 39_
+_Engine: serpapi  |  Generated: 2026-07-15T02:11:49.205064+00:00  |  Results: 42_
 
 **Search metadata**:
 - source: serpapi
-- fetched: 50
-- deduped: 39
+- fetched: 49
+- deduped: 42
 
 ## Results grouped by domain
 
-### support.google.com — 2 result(s)
+### www.indeed.com — 2 result(s)
 
-- [inurl keyword not giving right results](https://support.google.com/websearch/thread/390185115/inurl-keyword-not-giving-right-results?hl=en)  
-  - _I often use inurl keyword to search in specific reddit forums. but from today, it does not work regularly, like, if i search "日本 ..._
-- [Google jobs listing links to another company](https://support.google.com/websearch/thread/306113105/google-jobs-listing-links-to-another-company?hl=en)  
-  - _One of our listings displayed on Google Jobs has one link to our vacancy and other two buttons taking people to completely different listing displayed by ..._
+- [140000 Jobs, Employment in Indiana July 14, 2026](https://www.indeed.com/l-indiana-jobs.html)  
+  - _140661 jobs available in Indiana on Indeed.com. Apply to Truck Driver, Fulfillment Associate, Driver and more! Health insurance Paid time off Vision insurance ..._
+- [How To Search for Jobs | Indeed.com](https://www.indeed.com/career-advice/finding-a-job/how-to-search-for-jobs) — `jobs`  
+  - _Your resume will introduce you to potential employers, inform them of your qualifications and provide contact information. Resumes consist of ..._
 
-### www.reddit.com — 2 result(s)
+### www.linkedin.com — 2 result(s)
 
-- [inurl dont work more 06 05 2026 : r/SEO](https://www.reddit.com/r/SEO/comments/1t58nwz/inurl_dont_work_more_06_05_2026/)  
-  - _Yesterday inurl: was working fine for me. Today the same queries no longer behave like a URL filter at all. It looks like Google now treats ..._
-- ["inurl:" search operator still doesn't work : r/duckduckgo](https://www.reddit.com/r/duckduckgo/comments/8b2jo9/inurl_search_operator_still_doesnt_work/)  
-  - _Hi there, first of all let me say that I LOVE duckduckgo. However, I still use google. The main reason is the lack of the "inurl" search_
+- [1000+ Jobs jobs in United States](https://www.linkedin.com/jobs/search) — `jobs`  
+  - _1,000+ Jobs in United States ; QB Corporation. Salmon, ID ; LJ Inc. Swartz Creek, MI ; Road Ranger. Amarillo, TX ; Bedrock Robotics. Lockhart, TX ; Property Meld._
+- [43000+ jobs in Indianapolis](https://www.linkedin.com/jobs/jobs-in-indianapolis-in) — `jobs`  
+  - _43,000+ Jobs in Indianapolis · HOME CARE HELPER - WALK IN INTERVIEW (MONDAY-SATURDAY FROM 12:00 NOON TO 04:00PM) · HR People Partner · Film Festival Social Media / ..._
 
-### www.whatishumanresource.com — 2 result(s)
+### www.simplyhired.com — 2 result(s)
 
-- [List of job search websites to find job vacancies in India](https://www.whatishumanresource.com/Best-job-search-websites-in-India)  
-  - _QuikrJobs one of the best Job search websites in India. offers the largest platform for job seekers. You can search for relevant jobs in your city and locality._
-- [Free job posting sites in the USA - List of job search ...](https://www.whatishumanresource.com/usa-job-sites)  
-  - _Monster is one of the free job posting sites in the USA. Upload your CV to be found by hundred of recruiters , and apply for jobs in just a few clicks._
+- [SimplyHired: Job Search Engine](https://www.simplyhired.com/)  
+  - _Search for job opportunities across the United States on SimplyHired. Browse by job category, city, state, employer and more._
+- [Top 192 Job opening oahu Jobs in Oahu Island, Hi](https://www.simplyhired.com/search?q=job+opening+oahu&l=oahu+island%2C+hi) — `search`  
+  - _192 Job opening oahu jobs available in Oahu Island, Hi. See salaries, compare reviews, easily apply, and get hired. New Job opening oahu careers in Oahu ..._
+
+### www.ziprecruiter.com — 2 result(s)
+
+- [$22-$30/hr Jobs in Indianapolis, IN (NOW HIRING) Jul 26](https://www.ziprecruiter.com/Jobs/-in-Indianapolis,IN) — `jobs`  
+  - _Browse 1000+ INDIANAPOLIS, IN jobs ($22-$30/hr) from companies hiring now. New openings posted daily. Apply early, be seen first & 1-click ..._
+- [$24-$43/hr Jobs in Los Angeles, CA (NOW HIRING) Jul 26](https://www.ziprecruiter.com/Jobs/-in-Los-Angeles,CA) — `jobs`  
+  - _Browse 1000+ LOS ANGELES, CA jobs ($24-$43/hr) from companies hiring now. New openings posted daily. Apply early, be seen first & 1-click ..._
 
 ### alabamaworks.workforce.alabama.gov — 1 result(s)
 
@@ -40,115 +47,115 @@ _Engine: serpapi  |  Generated: 2026-07-14T02:13:52.460390+00:00  |  Results: 39
 - [Top 200 Job Sites in the US](https://applyre.com/insights/top-200-job-sites-in-the-usa/)  
   - _CareerBuilder is another long-standing job search platform that offers a vast database of job listings, as well as career advice and resources for job seekers._
 
-### careerforce.mn.gov — 1 result(s)
+### builtin.com — 1 result(s)
 
-- [Job Search - CareerForce - Minnesota.gov](https://careerforce.mn.gov/job-search) — `search`  
-  - _No information is available for this page._
-
-### careers.illinois.gov — 1 result(s)
-
-- [Current Job Postings - State of Illinois Employment Opportunities](https://careers.illinois.gov/current-job-openings.html)  
-  - _Current Job Postings. External Applicants · Internal Applicants. Footer. Back to top. Helpful Links. Job Opportunities · Benefits · Central Management ..._
+- [Built In: Job Search & Company Research](https://builtin.com/)  
+  - _Built In is a top destination for highly skilled professionals around the world. Our platform features real-time job listings and company profiles with rich ..._
 
 ### careersourcebroward.com — 1 result(s)
 
 - [Find a job | Broward County, Florida](https://careersourcebroward.com/career-seekers/find-a-job)  
   - _Through the online portal, you can apply for jobs, set up automatic job posting notifications, upload your résumé, research training and education opportunities ..._
 
-### help.ahrefs.com — 1 result(s)
+### careersourcerc.com — 1 result(s)
 
-- [How to use inurl: and In URL dropdown or both in Content ...](https://help.ahrefs.com/en/articles/2459712-how-to-use-inurl-and-in-url-dropdown-or-both-in-content-explorer)  
-  - _Using inurl: or selecting the In URL dropdown in Content Explorer tool will search for a string within the URL. Here are some examples of usage that you might ..._
+- [Search For Jobs](https://careersourcerc.com/job-seekers/services-for-job-seekers/search-for-jobs/) — `search`  
+  - _Search for the right job for you through the CareerSource Research Coast page. Visit our website today to get started._
 
-### internshala.com — 1 result(s)
+### jobs.google.com — 1 result(s)
 
-- [Jobs: 8022 Job Vacancies & Openings in India](https://internshala.com/jobs/) — `jobs`  
-  - _Apply to 8022 Jobs in India. Internshala offers the latest job vacancies & opportunities to help you get hired by top companies. Register now and search for ..._
+- [Job Search on Google - Get Your Job Postings on Google Today](https://jobs.google.com/about/)  
+  - _Google brings together job postings from across the web. Have your job postings found by millions of job seekers who search on Google every day._
 
-### jobanya.com — 1 result(s)
+### jobs.insightglobal.com — 1 result(s)
 
-- [Jobanya | India's Biggest Job Portal in Chennai, Tamil Nadu](https://jobanya.com/)  
-  - _Jobanya is the go-to job portal for freshers in Tamilnadu, offering the best opportunities for entry-level candidates. Explore a wide range of job openings._
+- [17](https://jobs.insightglobal.com/find_a_job/17/?miles=False&rd=100&remote=False&zip=Los+Angeles,+California)  
+  - _No information is available for this page._
 
-### jobringer.com — 1 result(s)
+### jobsourceusa.com — 1 result(s)
 
-- [Jobs | Job Search | India's Job Portal - Jobringer.com](https://jobringer.com/)  
-  - _At JobRinger, search million of jobs online in IT, Non-IT, Pharma, Engineering, Medical, HR, CA, MBA, Government, PSU, Sarkari Jobs, Digital, Accounts, ..._
+- [Current Job Openings in Omaha](https://jobsourceusa.com/search-jobs/) — `search`  
+  - _Now Hiring: banquets/serving, food service, general & skilled labor, light industrial, maintenance & service techs, manufacturing/warehouse, ..._
 
-### medium.com — 1 result(s)
+### liveworkmaryland.com — 1 result(s)
 
-- [Google's Advanced Search Operators: intext vs. allintext & ...](https://medium.com/serpapi/googles-advanced-search-operators-intext-allintext-vs-inurl-allinurl-9982f3d57f3)  
-  - _The inurl: advanced search operator made a bigger difference in the initial search for a particular keyword. This deems itself a powerful tool ..._
+- [Maryland Jobs - Quick Search](https://liveworkmaryland.com/work/search-jobs/) — `search`  
+  - _Professionals in tech, life sciences, engineering and life sciences, and more are in high demand in Maryland. Find the right job for you in Maryland._
 
-### moz.com — 1 result(s)
+### support.google.com — 1 result(s)
 
-- [25 Killer Combos for Google's Site: Operator (6 with "inurl")](https://moz.com/blog/25-killer-combos-for-googles-site-operator)  
-  - _The "inurl:" operator searches for specific text in the indexed URLs. You can pair “site:” with “inurl:” to find the sub-domain in the full URL._
+- [Search for jobs on Google](https://support.google.com/websearch/answer/7498276?hl=en)  
+  - _You can find job opportunities on Google. For example, you can search for: jobs near me or entry-level jobs in finance._
 
-### theirstack.com — 1 result(s)
+### worknola.com — 1 result(s)
 
-- [All job postings in one place](https://theirstack.com/en/job-lookup)  
-  - _Search hundreds of job boards and websites for recruitment market insights. Recruitment analytics and insights to help you grow more quickly and profitably._
-
-### theundercoverrecruiter.com — 1 result(s)
-
-- [How to Find Hidden Jobs with an Easy Google Search](https://theundercoverrecruiter.com/find-hidden-jobs-google/)  
-  - _Find unadvertised jobs online by using a clever Google search technique. Search corporate Applicant Tracking Systems for jobs with this simple 'hack'._
-
-### unstop.com — 1 result(s)
-
-- [77709+ Freshers & Work from Home Job Vacancies](https://unstop.com/job)  
-  - _Search & apply for freshers, work from home and entry-level job vacancies in India. · Marketing and Sales Manager · Sales Executive · Social Media Executive._
-
-### www.182aw.ang.af.mil — 1 result(s)
-
-- [List of websites that will help you in your job search http:// ...](https://www.182aw.ang.af.mil/Portals/81/documents/AFRC/Job%20Websites.pdf)  
-  - _Steeped in data science, Bright eliminates the noise in the hiring process by efficiently connecting job seekers to their best opportunities, and employers ..._
-
-### www.arimetrics.com — 1 result(s)
-
-- [What is inURL - Definition, meaning and examples](https://www.arimetrics.com/en/digital-glossary/inurl-search-command)  
-  - _The inURL command is an advanced Google search tool designed to filter results in SERPs (search engine results pages) based on keywords contained in URLs._
+- [Find a Job](https://worknola.com/jobs) — `jobs`  
+  - _WorkNOLA is the leading website for professional employment listings in the Greater New Orleans region. This project strives to increase the economic ..._
 
 ### www.careerbuilder.com — 1 result(s)
 
 - [CareerBuilder® - Search Jobs Hiring Now](https://www.careerbuilder.com/)  
   - _Find your next job with CareerBuilder. Browse millions of recent job listings, upload your resume, get job alerts & let employers find you today._
 
-### www.foundit.in — 1 result(s)
+### www.careeronestop.org — 1 result(s)
 
-- [25984 Latest Job Vacancies in Chennai 13 July 2026](https://www.foundit.in/search/jobs-in-chennai) — `jobs`  
-  - _Find 25984 jobs in Chennai at foundit.in. Apply to top companies hiring now. Explore job vacancies with higher salaries and opportunities in ..._
+- [Job Search - Career OneStop](https://www.careeronestop.org/JobSearch/job-search.aspx) — `jobs`  
+  - _JavaScript is disabled. In order to continue, we need to verify that you're not a robot. This requires JavaScript. Enable JavaScript and then reload the page._
 
-### www.hireclap.com — 1 result(s)
+### www.chicago.gov — 1 result(s)
 
-- [Hireclap.com: Search jobs online | Upload Video Resume](https://www.hireclap.com/)  
-  - _Find jobs. Stand out with your #visume. Search thousands of fresher, IT, and government openings — then impress recruiters with your 2-minute video profile._
+- [Jobs Now](https://www.chicago.gov/city/en/narr/misc/jobs/jobsnow.html) — `jobs`  
+  - _This page contains information on where residents can find job opportunities in the public, private, and nonprofit sectors._
 
-### www.inc.com — 1 result(s)
+### www.davron.net — 1 result(s)
 
-- [The 16 Best Job Search Engines in 2019 - Inc. Magazine](https://www.inc.com/larry-kim/the-16-best-job-search-engines-in-2019.html)  
-  - _There are quite a few job search engines to help you make your next career move. You can take advantage of Google for Jobs, Facebook Job Search, and so many ..._
+- [Top 10 Job Posting Sites for Employers](https://www.davron.net/top-10-job-posting-sites-for-employers/)  
+  - _Here is a list of the top 10 job posting sites for employers in 2021. Indeed is usually the first place people go when looking for a free resource to post and ..._
 
-### www.indeed.com — 1 result(s)
+### www.enetemployer.com — 1 result(s)
 
-- [Hiring Jobs, Employment in Yakima, WA](https://www.indeed.com/q-hiring-l-yakima,-wa-jobs.html)  
-  - _4697 Hiring jobs available in Yakima, WA on Indeed.com. Apply to Dishwasher, Cashier, Barista and more!_
+- [Link a job posting to your website or an online location](https://www.enetemployer.com/help/topics/recruitment/link-a-job-posting-online/index.html)  
+  - _Each job you create is assigned a unique hyperlink that can be added to your company's website, Facebook page or to an email._
 
-### www.instahyre.com — 1 result(s)
+### www.facebook.com — 1 result(s)
 
-- [Apply to 7170 job openings in Bangalore](https://www.instahyre.com/jobs-in-bangalore/) — `jobs`  
-  - _Apply to 7170 jobs in Bangalore. Find the highest paying jobs in Bangalore for IT, software, sales, marketing, and operations at top companies!_
+- [Tarun - Becoming intelligent in web searching means ...](https://www.facebook.com/taruntkaran/photos/becoming-intelligent-in-web-searching-means-using-smart-techniques-to-get-accura/23891775697115280/)  
+  - _Becoming intelligent in web searching means using smart techniques to get accurate, relevant, and reliable results quickly._
+
+### www.frontlinesourcegroup.com — 1 result(s)
+
+- [Which jobs hiring website is best for your job search?](https://www.frontlinesourcegroup.com/blog-your-guide-to-the-best-jobs-hiring-website-options.html)  
+  - _Compare the best jobs hiring website options, from job boards to a staffing agency like Frontline Source Group, for a smarter job search._
+
+### www.google.com — 1 result(s)
+
+- [Search for your career at Google.](https://www.google.com/about/careers/applications/) — `careers`  
+  - _Join Google Careers and build what's next, today. Explore career opportunities in engineering, design, sales, hardware, and more. Make a global impact with ..._
+
+### www.illinoisworknet.com — 1 result(s)
+
+- [Job Openings & Recruiting Illinois workNet JobFinder](https://www.illinoisworknet.com/jobfinder)  
+  - _The Illinois workNet Center System, an American Job Center, is an equal opportunity employer/program. Auxiliary aids and services are available upon request to ..._
+
+### www.instagram.com — 1 result(s)
+
+- [Job Search & Career tips on Instagram: "If you're job hunting ...](https://www.instagram.com/reel/DZ8z_BzAkbP/)  
+  - _It's a free, community-driven database of tech companies that are actively hiring and gets refreshed regularly with hiring signals and open ..._
 
 ### www.joblist.com — 1 result(s)
 
 - [List of all Job Titles in United States with Open Positions](https://www.joblist.com/b/all-jobs) — `jobs`  
   - _Browse All Job Titles. Home>By Job Title. Search for jobs here. Browse by Industry. Accounting & Finance · Animal Services · Arts, Entertainment & Gaming ..._
 
-### www.jobspider.com — 1 result(s)
+### www.laborfinders.com — 1 result(s)
 
-- [JobSpider | Free Job Posting in the US and Canada](https://www.jobspider.com/)  
-  - _Post unlimited job openings for free across the United States and Canada. JobSpider is the 100% free job board for employers to hire local talent and job ..._
+- [Jobs in Los Angeles, California - Now Hiring](https://www.laborfinders.com/browse-jobs/ca/los-angeles/)  
+  - _Applying for Los Angeles jobs has never been easier with Labor Finders. Simply check the job listings below, click on a job title that interests you and hit ..._
+
+### www.link-assistant.com — 1 result(s)
+
+- [InURL Search Explained](https://www.link-assistant.com/seo-wiki/inurl-search/)  
+  - _InURL search is a query technique used to find web pages with specific words or phrases in their URLs with the help of the inurl: operator._
 
 ### www.liveinlou.com — 1 result(s)
 
@@ -160,37 +167,42 @@ _Engine: serpapi  |  Generated: 2026-07-14T02:13:52.460390+00:00  |  Results: 39
 - [Understanding the Power of the Google inURL](https://www.marketingminer.com/en/blog/inurl-search-operator)  
   - _In this blog post, we discuss the Google InURL search operator, how it works, and why it's a useful tool for SEO marketers. inurl search ..._
 
-### www.oreilly.com — 1 result(s)
-
-- [Google Hacks - inurl: Versus site](https://www.oreilly.com/library/view/google-hacks/0596004478/ch01s20.html)  
-  - _Use inurl: syntax to search site subdirectories. , a Google special syntax [Section 1.5] for specifying a string to be found in a resultant URL._
-
 ### www.pacareerlink.pa.gov — 1 result(s)
 
 - [Search Jobs - PA CareerLink - Commonwealth of Pennsylvania](https://www.pacareerlink.pa.gov/jponline/jobseeker/searchjobs) — `jobs`  
   - _No information is available for this page._
 
-### www.quora.com — 1 result(s)
+### www.reddit.com — 1 result(s)
 
-- [How to use 'inurl:~' in Google search](https://www.quora.com/How-do-I-use-inurl-in-Google-search) — `search`  
-  - _How do I use "inurl:~" in Google search?_
+- ["inurl:" search operator still doesn't work : r/duckduckgo](https://www.reddit.com/r/duckduckgo/comments/8b2jo9/inurl_search_operator_still_doesnt_work/)  
+  - _Hi there, first of all let me say that I LOVE duckduckgo. However, I still use google. The main reason is the lack of the "inurl" search_
 
 ### www.slideshare.net — 1 result(s)
 
 - [Company List For Url And Recruiting Websites | DOC](https://www.slideshare.net/slideshow/company-list-for-url-and-recruiting-websites-4490511/4490511)  
   - _The document provides a comprehensive list of companies along with their websites and email addresses, primarily for job search and resume submission ..._
 
-### www.welcometothejungle.com — 1 result(s)
+### www.talent.com — 1 result(s)
 
-- [Jobs in New York, NY - browse job listings - the Jungle](https://www.welcometothejungle.com/en/pages/jobs-new-york-us) — `jobs`  
-  - _Browse and find all Jobs in New York, US with Welcome to the Jungle._
+- [Talent.com](https://www.talent.com/)  
+  - _Your job search starts here. Search from over 40 million jobs, save the ones you love, and apply in seconds._
+
+### www.tn.gov — 1 result(s)
+
+- [Jobs4TN](https://www.tn.gov/workforce/jobs-and-education/job-search1/jobs4tn.html) — `jobs`  
+  - _Jobs4TN.gov's database provides easy access to the largest number of unduplicated online job opportunities currently available in one location with tens of ..._
+
+### www.vdart.com — 1 result(s)
+
+- [20 Job Portals Starting From Ours - Find Your Next Career ...](https://www.vdart.com/what-we-do/blog/20-job-portals-starting-from-ours/)  
+  - _You can upload your resume, apply for permanent or contract roles, and sign up for job alerts to receive updates on the latest opportunities._
+
+### www.workonward.com — 1 result(s)
+
+- [WorkOnward: Local Jobs Near You | Map-Based Job Search](https://www.workonward.com/en)  
+  - _Find jobs near you in minutes — right on the map. Get matched with local jobs in minutes — or hire qualified neighbors within 48 hours._
 
 ### www.youtube.com — 1 result(s)
 
-- [Best Job Portals For Job Seekers | How To Find A Job In 2025 ...](https://www.youtube.com/watch?v=LDld38ROG9U)  
-  - _I will share top job portals in India for both freshers and experienced candidates and a powerful method to find companies that are actively hiring._
-
-### www.ziprecruiter.com — 1 result(s)
-
-- [Job Search: Millions of US Jobs (HIRING NOW) Near You ...](https://www.ziprecruiter.com/)  
-  - _Job Search: Millions of US Jobs (HIRING NOW) Near You - ZipRecruiter._
+- [8 Job Search Engines to Land Your Next Role](https://www.youtube.com/watch?v=4FP4Dj6a0fs&vl=en)  
+  - _Looking for a smarter way to land your next role? This video breaks down eight of the most popular job search engines, covering how each ..._
