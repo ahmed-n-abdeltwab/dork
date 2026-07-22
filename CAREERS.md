@@ -1,88 +1,111 @@
 # Job results for: `(inurl:careers OR inurl:jobs) (inurl:open OR inurl:positions OR inurl:listings OR inurl:vacancies OR inurl:search)`
 
-_Engine: serpapi  |  Generated: 2026-07-21T02:27:57.150043+00:00  |  Results: 39_
+_Engine: serpapi  |  Generated: 2026-07-22T02:26:55.604576+00:00  |  Results: 48_
 
 **Search metadata**:
 - source: serpapi
 - fetched: 50
-- deduped: 39
+- deduped: 48
 
 ## Results grouped by domain
+
+### medium.com — 2 result(s)
+
+- [Google's Advanced Search Operators: intext vs. allintext & ...](https://medium.com/serpapi/googles-advanced-search-operators-intext-allintext-vs-inurl-allinurl-9982f3d57f3)  
+  - _The inurl: advanced search operator made a bigger difference in the initial search for a particular keyword. This deems itself a powerful tool ..._
+- [The 16 Best Job Search Engines in 2019 | by Larry Kim](https://medium.com/the-mission/the-16-best-job-search-engines-in-2019-257e4fbcffbc)  
+  - _LinkedIn doesn't only let people create their own profiles and search for jobs. It also lets those companies reach out to candidates and recruit ..._
+
+### support.google.com — 2 result(s)
+
+- [inurl keyword not giving right results](https://support.google.com/websearch/thread/390185115/inurl-keyword-not-giving-right-results?hl=en)  
+  - _I often use inurl keyword to search in specific reddit forums. but from today, it does not work regularly, like, if i search "日本 ..._
+- [Google jobs listing links to another company](https://support.google.com/websearch/thread/306113105/google-jobs-listing-links-to-another-company?hl=en)  
+  - _One of our listings displayed on Google Jobs has one link to our vacancy and other two buttons taking people to completely different listing displayed by ..._
 
 ### alabamaworks.workforce.alabama.gov — 1 result(s)
 
 - [alabamaworks.workforce.alabama.gov - Job Search Options](https://alabamaworks.workforce.alabama.gov/vosnet/JobBanks/JobSearchCriteriaQuick.aspx) — `jobs`  
   - _To create an automated job search (virtual recruiter), select criteria below, perform the search and then save your search at the bottom of the results screen._
 
-### applyre.com — 1 result(s)
+### atlworks.org — 1 result(s)
 
-- [Top 200 Job Sites in the US](https://applyre.com/insights/top-200-job-sites-in-the-usa/)  
-  - _CareerBuilder is another long-standing job search platform that offers a vast database of job listings, as well as career advice and resources for job seekers._
+- [Find a Job Now - WorkSource - ATLWorks.Org](https://atlworks.org/job-seekers/)  
+  - _We've helped find meaningful jobs for a wide range of people with many different backgrounds. We'll match your skills and interests to real companies ready to ..._
 
-### builtin.com — 1 result(s)
+### careersourcebroward.com — 1 result(s)
 
-- [Built In: Job Search & Company Research](https://builtin.com/)  
-  - _Built In is a top destination for highly skilled professionals around the world. Our platform features real-time job listings and company profiles_
+- [Find a job | Broward County, Florida](https://careersourcebroward.com/career-seekers/find-a-job)  
+  - _Through the online portal, you can apply for jobs, set up automatic job posting notifications, upload your résumé, research training and education opportunities ..._
 
-### careersourceheartland.com — 1 result(s)
+### careersourcetampabay.com — 1 result(s)
 
-- [How to Use the Internet in Your Job Search](https://careersourceheartland.com/wp-content/uploads/Using_the_Internet_in_your_Job_Search.pdf)  
-  - _During the past seven years the Internet has become an important resource for the job seeker. Many public and private organizations and companies both large ..._
+- [Job Boards](https://careersourcetampabay.com/job-boards/)  
+  - _Looking for a new job or next step in your career? Based on your education, skills, experience and goals, we guide you through every step of the process._
 
-### detoxify-ten.vercel.app — 1 result(s)
+### help.ahrefs.com — 1 result(s)
 
-- [Company Career Pages: The Smartest Way to Find Real Job ...](https://detoxify-ten.vercel.app/blog/company_career_pages)  
-  - _Company career pages are the smartest way to find real job openings in 2025. Learn how applying directly reduces ghost jobs, lowers competition, ..._
-
-### directlyapply.com — 1 result(s)
-
-- [DirectlyApply: Job Search](https://directlyapply.com/)  
-  - _Search for jobs with your resume. Let AI match you to your perfect job. No keywords, no filters - just describe your ideal role and find jobs instantly._
-
-### georgia.gov — 1 result(s)
-
-- [Find Jobs in Georgia](https://georgia.gov/find-jobs-georgia)  
-  - _Find job opportunities and employment resources across Georgia. WorkSource Georgia, local career centers, and other partners can help you search for jobs, ..._
-
-### jobs.allsearchinc.com — 1 result(s)
-
-- [AllSearch Recruiting](https://jobs.allsearchinc.com/)  
-  - _Send us your resume, and we'll find the jobs that are the best match for you. Submit Your Resume._
+- [How to use inurl: and In URL dropdown or both in Content ...](https://help.ahrefs.com/en/articles/2459712-how-to-use-inurl-and-in-url-dropdown-or-both-in-content-explorer)  
+  - _Using inurl: or selecting the In URL dropdown in Content Explorer tool will search for a string within the URL. Here are some examples of usage that you might ..._
 
 ### jobs.google.com — 1 result(s)
 
 - [Job Search on Google - Get Your Job Postings on Google Today](https://jobs.google.com/about/)  
   - _Google brings together job postings from across the web. Have your job postings found by millions of job seekers who search on Google every day._
 
-### resources.workable.com — 1 result(s)
+### jobs.irelaunch.com — 1 result(s)
 
-- [11+ job sites in the USA - Recruiting Resources - Workable](https://resources.workable.com/tutorial/job-sites-in-usa)  
-  - _Which are the best job sites in the USA? Here's a list with 10 major job boards and many more specialized job sites to post job ads and get good candidates._
+- [Employer Information | iRelaunch Job Board](https://jobs.irelaunch.com/employer/info)  
+  - _Our job board is entirely focused on professionals who have taken a career break of at least one year and the organizations looking to hire them._
+
+### jobs.workable.com — 1 result(s)
+
+- [Jobs By Workable](https://jobs.workable.com/)  
+  - _Search thousands of job openings from global companies hiring right now. Remote or office-based, your perfect job could be waiting for you!_
+
+### liveworkmaryland.com — 1 result(s)
+
+- [Maryland Jobs - Quick Search](https://liveworkmaryland.com/work/search-jobs/) — `search`  
+  - _Professionals in tech, life sciences, engineering and life sciences, and more are in high demand in Maryland. Find the right job for you in Maryland._
+
+### moz.com — 1 result(s)
+
+- [25 Killer Combos for Google's Site: Operator (6 with "inurl")](https://moz.com/blog/25-killer-combos-for-googles-site-operator)  
+  - _The "inurl:" operator searches for specific text in the indexed URLs. You can pair “site:” with “inurl:” to find the sub-domain in the full URL._
 
 ### scionstaffing.com — 1 result(s)
 
 - [12 Top Job Boards and Job Search Engines in the U.S.](https://scionstaffing.com/the-most-popular-job-board-websites/)  
   - _We've compiled a list of the 20 top online job boards and job search engines, along with valuable insights into their unique features and benefits._
 
-### support.google.com — 1 result(s)
+### theirstack.com — 1 result(s)
 
-- [Search for jobs on Google](https://support.google.com/websearch/answer/7498276?hl=en)  
-  - _You can find job opportunities on Google. For example, you can search for: jobs near me or entry-level jobs in finance._
+- [All job postings in one place](https://theirstack.com/en/job-lookup)  
+  - _Search hundreds of job boards and websites for recruitment market insights. Recruitment analytics and insights to help you grow more quickly and profitably._
 
-### worknola.com — 1 result(s)
+### theundercoverrecruiter.com — 1 result(s)
 
-- [WorkNOLA: Home](https://worknola.com/)  
-  - _WorkNOLA is the leading website for professional employment listings in the Greater New Orleans region. Now powered by Greater New Orleans, Inc., ..._
+- [How to Find Hidden Jobs with an Easy Google Search](https://theundercoverrecruiter.com/find-hidden-jobs-google/)  
+  - _Find unadvertised jobs online by using a clever Google search technique. Search corporate Applicant Tracking Systems for jobs with this simple 'hack'._
 
-### www.182aw.ang.af.mil — 1 result(s)
+### thriveagency.com — 1 result(s)
 
-- [List of websites that will help you in your job search http:// ...](https://www.182aw.ang.af.mil/Portals/81/documents/AFRC/Job%20Websites.pdf)  
-  - _Steeped in data science, Bright eliminates the noise in the hiring process by efficiently connecting job seekers to their best opportunities, and employers ..._
+- [How to Get Your Job Listings to Show on Google](https://thriveagency.com/news/how-to-get-your-job-listings-to-show-on-google/)  
+  - _Follow this guide to ensure your jobs are picked up by Google's search results. We will show you how to set up jobs schema and more._
 
 ### www.careerbuilder.com — 1 result(s)
 
 - [CareerBuilder® - Search Jobs Hiring Now](https://www.careerbuilder.com/)  
   - _Find your next job with CareerBuilder. Browse millions of recent job listings, upload your resume, get job alerts & let employers find you today._
+
+### www.careersite.com — 1 result(s)
+
+- [Career Site](https://www.careersite.com/)  
+
+### www.cloudhire.ai — 1 result(s)
+
+- [How to Search Company Websites for Job Openings](https://www.cloudhire.ai/blog/how-to-search-company-websites-for-job-openings)  
+  - _TL;DR: Company websites post jobs before job boards do. By going directly to the source, you can apply earlier, face less competition, and get a better read ..._
 
 ### www.coursera.org — 1 result(s)
 
@@ -97,37 +120,27 @@ _Engine: serpapi  |  Generated: 2026-07-21T02:27:57.150043+00:00  |  Results: 39
 ### www.edvisors.com — 1 result(s)
 
 - [Best Job Search Sites March 2026](https://www.edvisors.com/plan-for-college/careers/best-job-search-sites/) — `careers`  
-  - _If you're on the hunt for your first job, search engines make this task easier and give you the ability to quickly sift through countless jobs in your area._
-
-### www.facebook.com — 1 result(s)
-
-- [Tip: Go to google or any browser and search "simply-jobs" ...](https://www.facebook.com/groups/1594714787554791/posts/2286565515036378/)  
-  - _Tip: Go to google or any browser and search "simply-jobs" and see which vacancies are open for you to apply for. Job search tip and resource ..._
-
-### www.firstfind.org — 1 result(s)
-
-- [Where's the Best Place to Go on the Internet to Find Jobs?](https://www.firstfind.org/wp-content/uploads/2021/03/JobSearch-FIN_FirstFind_Chapter-8.pdf) — `jobs`  
-  - _Searching for jobs online can be a good idea, but it should only be one part of your job search. Since applying for jobs online is so easy, every posting ..._
+  - _Search for jobs according to your interests, location, and ideal wage; Use the “Save Job” function for jobs that you want to apply to later; Upload your resume ..._
 
 ### www.google.com — 1 result(s)
 
 - [Search for your career at Google.](https://www.google.com/about/careers/applications/) — `careers`  
   - _Join Google Careers and build what's next, today. Explore career opportunities in engineering, design, sales, hardware, and more. Make a global impact with ..._
 
+### www.hello-performance.com — 1 result(s)
+
+- [InURL Query](https://www.hello-performance.com/en/seo-wiki/inurl-query/)  
+  - _As a Google search operator, the InURL query is part of the so-called site query. Here, certain keywords can be found within a URL._
+
+### www.illinoisworknet.com — 1 result(s)
+
+- [Job Openings & Recruiting Illinois workNet JobFinder](https://www.illinoisworknet.com/Jobs/Pages/JobFinder.aspx) — `jobs`  
+  - _The Illinois workNet Center System, an American Job Center, is an equal opportunity employer/program. Auxiliary aids and services are available upon request._
+
 ### www.indeed.com — 1 result(s)
 
-- [Indeed: Job Search](https://www.indeed.com/)  
-  - _With Indeed, you can search millions of jobs online to find the next step in your career. With tools for job search, resumes, company reviews and more, ..._
-
-### www.instagram.com — 1 result(s)
-
-- [Comment below list to get a complete list of 20+ job search ...](https://www.instagram.com/reel/DZBf6WzA6n5/)  
-  - _Start with Chrome extensions. These are honestly the smartest way to do this, because instead of visiting yet another job site, they just sit on ..._
-
-### www.joblist.com — 1 result(s)
-
-- [Joblist: Find Jobs Anywhere with the Best Job Search Site](https://www.joblist.com/)  
-  - _Joblist is the best place to find a job, aggregating, and personalizing every listing near you. Joblist is fast, easy, and customizable to your needs. We can ..._
+- [Where to Look for a Job: 11 Places and Processes](https://www.indeed.com/career-advice/finding-a-job/where-to-look-for-a-job)  
+  - _The internet and professional networking opportunities have made job openings more accessible and easier for applicants to find._
 
 ### www.jobspider.com — 1 result(s)
 
@@ -141,33 +154,38 @@ _Engine: serpapi  |  Generated: 2026-07-21T02:27:57.150043+00:00  |  Results: 39
 
 ### www.linkedin.com — 1 result(s)
 
-- [Find US Jobs, Internships, Jobs Near Me](https://www.linkedin.com/jobs) — `jobs`  
-  - _Find the right job or internship for you Engineering Business Development Finance Administrative Assistant. Find a career coach near you._
-
-### www.linkup.com — 1 result(s)
-
-- [LinkUp: Job Market Data](https://www.linkup.com/)  
-  - _LinkUp is the leading provider of accurate and real-time job market data. We source millions of job openings directly from employer websites around the globe, ..._
+- [Alex Gray posted this](https://www.linkedin.com/posts/alexanderkgray_after-4-years-of-learning-how-to-source-on-activity-7463642361382862848-9AgY)  
+  - _We were hiring a Designer and one thing became obvious quickly: designers use X. They post their work, share their process, build an audience._
 
 ### www.marketingminer.com — 1 result(s)
 
 - [Understanding the Power of the Google inURL](https://www.marketingminer.com/en/blog/inurl-search-operator)  
-  - _In this blog post, we discuss the Google InURL search operator, how it works, and why it's a useful tool for SEO marketers. inurl search ..._
+  - _The "inurl" search operator is a nifty tool. You can use it in Google search to find pages containing a specific word or phrase in the URL._
 
-### www.mometrix.com — 1 result(s)
+### www.michaelpage.com — 1 result(s)
 
-- [Top 37 Job Search Websites](https://www.mometrix.com/blog/top-37-job-search-websites/)  
-  - _Learn about the top 37 job websites and job search engines. What you need to know about each job search site and tips to get your best job!_
+- [Job Search](https://www.michaelpage.com/job-search) — `search`  
+  - _Search jobs by Jobs by Location. Set up personalised job alerts: Be the first to know about new job opportunities. Only see the jobs you're interested in._
 
-### www.monster.com — 1 result(s)
+### www.oreilly.com — 1 result(s)
 
-- [Browse Job Openings Hiring Now | Monster.com](https://www.monster.com/jobs) — `jobs`  
-  - _Browse millions of job openings by job title, category, company, or location at Monster.com._
+- [Google Hacks - inurl: Versus site](https://www.oreilly.com/library/view/google-hacks/0596004478/ch01s20.html)  
+  - _Use inurl: syntax to search site subdirectories. , a Google special syntax [Section 1.5] for specifying a string to be found in a resultant URL._
 
-### www.onetonline.org — 1 result(s)
+### www.pacareerlink.pa.gov — 1 result(s)
 
-- [See All Occupations](https://www.onetonline.org/find/all)  
-  - _See All Occupations Save Table: XLSX CSV ; 5, 25-2059.01, Adapted Physical Education Specialists ; 1-2, 51-9191.00, Adhesive Bonding Machine Operators and Tenders._
+- [Search Jobs - PA CareerLink - Commonwealth of Pennsylvania](https://www.pacareerlink.pa.gov/jponline/jobseeker/searchjobs) — `jobs`  
+  - _No information is available for this page._
+
+### www.quora.com — 1 result(s)
+
+- [How to use 'inurl:~' in Google search](https://www.quora.com/How-do-I-use-inurl-in-Google-search) — `search`  
+  - _How do I use "inurl:~" in Google search?_
+
+### www.reddit.com — 1 result(s)
+
+- [Please check our company jobs page for open positions...](https://www.reddit.com/r/recruitinghell/comments/16lal8l/please_check_our_company_jobs_page_for_open/)  
+  - _24 votes, 22 comments. This is the response I typically get when I reach out with recruiters to network for career opportunities._
 
 ### www.roberthalf.com — 1 result(s)
 
@@ -178,15 +196,35 @@ _Engine: serpapi  |  Generated: 2026-07-21T02:27:57.150043+00:00  |  Results: 39
 
 - [More job search websites](https://www.shu.edu/documents/Industry-Websites.xlsx)  
 
+### www.simplyhired.com — 1 result(s)
+
+- [SimplyHired: Job Search Engine](https://www.simplyhired.com/)  
+  - _Browse SimplyHired for jobs, view local and national salary information, discover companies, and learn about the job market in a specific city._
+
 ### www.stanislaus.courts.ca.gov — 1 result(s)
 
 - [job search web sites](https://www.stanislaus.courts.ca.gov/system/files/job-search-websites.pdf)  
   - _We naturally first think of looking for jobs online at the big job boards, like the top three: Monster,. (www.monster.com), HotJobs, (www.hotjobs.com) and ..._
 
-### www.vdart.com — 1 result(s)
+### www.tesu.edu — 1 result(s)
 
-- [20 Job Portals Starting From Ours - Find Your Next Career ...](https://www.vdart.com/what-we-do/blog/20-job-portals-starting-from-ours/)  
-  - _You can upload your resume, apply for permanent or contract roles, and sign up for job alerts to receive updates on the latest opportunities._
+- [11 General and Industry-Specific Career Sites to Kick-Start ...](https://www.tesu.edu/about/blog/2022/career-sites-to-kick-start-your-job-search.php)  
+  - _Discover 11 essential job search sites, both general and industry-specific, to enhance your job search and land your dream position effectively._
+
+### www.tn.gov — 1 result(s)
+
+- [Job Search](https://www.tn.gov/workforce/jobs-and-education/job-search.html) — `jobs`  
+  - _Jobs4TN.gov gives you an unprecedented number of jobs to search, averaging 400,000 every day, and also helps you build a resume and discover labor market ..._
+
+### www.vermontjoblink.com — 1 result(s)
+
+- [Vermont JobLink - Vermont JobLink](https://www.vermontjoblink.com/)  
+  - _Use filters to find your dream job and save your search or apply right away. Create Resumes. Upload your resume or make a new one from scratch with our resume ..._
+
+### www.whatishumanresource.com — 1 result(s)
+
+- [Free job posting sites in the USA - List of job search ...](https://www.whatishumanresource.com/usa-job-sites)  
+  - _Upload your CV to be found by hundred of recruiters , and apply for jobs in just a few clicks. Plus you can get daily job alerts and helpful career advice ..._
 
 ### www.workonward.com — 1 result(s)
 
@@ -195,10 +233,10 @@ _Engine: serpapi  |  Generated: 2026-07-21T02:27:57.150043+00:00  |  Results: 39
 
 ### www.youtube.com — 1 result(s)
 
-- [How to Search for Jobs Online](https://www.youtube.com/watch?v=bBt-jaxKLQ4)  
-  - _How to Search for Jobs Online · Comments._
+- [Google Advanced Search with inurl: & allinurl: Vol. 6 | Web ...](https://www.youtube.com/watch?v=xNpn2HDPX3E)  
+  - _This video covers the search operator inurl: and allinurl: - You are watching Vol. 6 Unit 3 of three parts learning series on “Web Search ..._
 
 ### www.ziprecruiter.com — 1 result(s)
 
 - [Job Search: Millions of US Jobs (HIRING NOW) Near You ...](https://www.ziprecruiter.com/)  
-  - _Millions of US Jobs (HIRING NOW) Near You. Rated #1 job site in the U.S. These jobs let you add a short note to your application. Seekers Small & Medium ..._
+  - _Job Search: Millions of US Jobs (HIRING NOW) Near You - ZipRecruiter._
