@@ -1,137 +1,137 @@
 # Job results for: `(inurl:careers OR inurl:jobs) (inurl:open OR inurl:positions OR inurl:listings OR inurl:vacancies OR inurl:search)`
 
-_Engine: serpapi  |  Generated: 2026-07-26T02:33:21.054115+00:00  |  Results: 28_
+_Engine: serpapi  |  Generated: 2026-07-27T02:41:15.937683+00:00  |  Results: 29_
 
 **Search metadata**:
 - source: serpapi
 - fetched: 29
-- deduped: 28
+- deduped: 29
 
 ## Results grouped by domain
 
-### github.com — 2 result(s)
+### www.ziprecruiter.com — 4 result(s)
 
-- [kenzolv/OSINT-Cheat-sheet](https://github.com/kenzolv/OSINT-Cheat-sheet-)  
-  - _inurl: Search for specific urls or paths; intext: Search for specific words or contects; filetype: Search for files; site: Search from a specified target ..._
-- [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet)  
-  - _Contains a list of OSINT tools, OSINT tips, datasets, Maltego transform and others. There are free and paid tools you can use and owner is not responsible._
+- [Find Jobs Hiring Now - Browse Millions of Jobs by Title](https://www.ziprecruiter.com/browse)  
+  - _Find job openings hiring now - browse millions of jobs by Title hiring now on ZipRecruiter._
+- [$22-$45/hr Jobs in Indianapolis, IN (NOW HIRING) Jul 26](https://www.ziprecruiter.com/Jobs/-in-Indianapolis,IN) — `jobs`  
+  - _Browse 1000+ INDIANAPOLIS, IN jobs ($22-$45/hr) from companies hiring now. New openings posted daily. Apply early, be seen first & 1-click ..._
+- [$26-$50/hr Jobs in Atlanta, GA (NOW HIRING) Jul 2026](https://www.ziprecruiter.com/Jobs/-in-Atlanta,GA) — `jobs`  
+  - _Browse 1000+ ATLANTA, GA jobs ($26-$50/hr) from companies hiring now. New openings posted daily. Apply early, be seen first & 1-click apply ..._
+- [$18-$40/hr Jobs in Indiana (NOW HIRING) Jul 2026](https://www.ziprecruiter.com/Jobs/--in-Indiana) — `jobs`  
+  - _Browse 1000+ jobs ($18-$40/hr) from companies in INDIANA hiring now. New openings posted daily. Apply early, be seen first & 1-click apply ..._
 
-### www.instagram.com — 2 result(s)
+### www.linkedin.com — 3 result(s)
 
-- [Шановні рекрутери і сорсери, чи фіксуєте ви якось ...](https://www.instagram.com/p/C6GnVk8KfoK/)  
-  - _Шановні рекрутери і сорсери, чи фіксуєте ви якось інформацію про кандидатів, які вам зараз самостійно пишуть? Я - завжди!_
-- [Comment below list to get a complete list of 20+ job search ...](https://www.instagram.com/reel/DZBf6WzA6n5/)  
-  - _Start with Chrome extensions. These are honestly the smartest way to do this, because instead of visiting yet another job site, they just sit on ..._
+- [23000+ jobs in United Arab Emirates - Dubai](https://www.linkedin.com/jobs/jobs-in-united-arab-emirates/) — `jobs`  
+  - _23,000+ Jobs in United Arab Emirates · Cabin Crew Opportunities · Role in True Slice -F&B (VAJ) · General Assistant · Staff Nurse · Stock Assistant · Customer ..._
+- [1000+ Jobs in United States](https://www.linkedin.com/jobs/search) — `jobs`  
+  - _Today's top 1000+ Jobs jobs in United States. Leverage your professional network, and get hired. New Jobs jobs added daily._
+- [40000+ jobs in Indianapolis](https://www.linkedin.com/jobs/jobs-in-indianapolis-in) — `jobs`  
+  - _Today's top 40000+ jobs in Indianapolis. Leverage your professional network, and get hired. New Indianapolis jobs added daily._
 
-### www.linkedin.com — 2 result(s)
+### www.indeed.com — 2 result(s)
 
-- [Find US Jobs, Internships, Jobs Near Me](https://www.linkedin.com/jobs) — `jobs`  
-  - _Find the right job or internship for you Engineering Business Development Finance Administrative Assistant Retail Associate. Find a career coach near you._
-- [Love Boolean search options for switching up your job ...](https://www.linkedin.com/posts/kelseyjohnson_love-boolean-search-options-for-switching-activity-7151545794276335616-phuy)  
-  - _Step 1: Copy paste the following boolean searches into Google inurl:careers -inurl:linkedin -inurl:zippia -inurl:indeed -inurl ..._
+- [142000 Jobs, Employment in Indiana July 26, 2026](https://www.indeed.com/l-indiana-jobs.html)  
+  - _142443 jobs available in Indiana on Indeed.com. Apply to Meat Cutter, Landscape Laborer, Skilled Laborer and more!_
+- [44000 Jobs, Employment in Indianapolis, IN July 26, 2026](https://www.indeed.com/l-indianapolis,-in-jobs.html)  
+  - _44877 jobs available in Indianapolis, IN on Indeed.com. Apply to Warehouse Associate, Line Operator, Inventory Associate and more!_
 
-### www.scribd.com — 2 result(s)
+### ae.indeed.com — 1 result(s)
 
-- [Google Boolean Search Operators Guide | PDF](https://www.scribd.com/document/515343369/one-page-tip-sheet-boolean-google-irina-shamaeva)  
-  - _inurl: Search for keywords or phrases in page URL's (shown as green text in Google search results): [inurl:careers] the word “careers” must appear in the URL_
-- [Google Programmable Search Engine Guide | PDF](https://www.scribd.com/document/883666438/IrinaShamaeva-DavidMichaelGalley-CustomSearch-DiscoverMore-ACompleteGuidetoGoogleProgrammableSearchEngines-CRCPress-2021)  
-  - _inurl: Search for keywords or phrases in page URLs: • inurl:careers – the word "careers" must appear in the URL. • inurl:directory faculty earth ..._
+- [Indeed: Job Search](https://ae.indeed.com/)  
+  - _With Indeed, you can search millions of jobs online to find the next step in your career. With tools for job search, resumes, company reviews and more, ..._
 
-### applyre.com — 1 result(s)
+### atlworks.org — 1 result(s)
 
-- [Top 10 Job Sites in the US](https://applyre.com/blog/en/top-10-job-sites-in-usa/)  
-  - _CareerBuilder offers a vast database of job listings along with resume-building tools and career advice. It is ideal for job seekers looking for a wide range of ..._
+- [Find a Job Now - WorkSource - ATLWorks.Org](https://atlworks.org/job-seekers/)  
+  - _We've helped find meaningful jobs for a wide range of people with many different backgrounds. We'll match your skills and interests to real companies ready to ..._
 
 ### builtin.com — 1 result(s)
 
 - [Built In: Job Search & Company Research](https://builtin.com/)  
-  - _Built In is a top destination for highly skilled professionals around the world. Our platform features real-time job listings and company profiles_
+  - _Built In is a top destination for highly skilled professionals around the world. Our platform features real-time job listings and company profiles with rich ..._
 
-### h3brasil.wordpress.com — 1 result(s)
+### calprod.zapbase.com — 1 result(s)
 
-- [Comandos para encontrar vulnerabilidades de SQL em SITES](https://h3brasil.wordpress.com/2015/04/09/comandos-para-encontrar-vulnerabilidades-de-sql-em-sites/)  
-  - _Olá Mundo,aqui vai uns comandos para “encontrar” possíveis falhas de SQL. Lembrando que quando estiver no site,coloque aspas simples ..._
+- [Top Job Search Websites / Job Portals in UAE - 2024](https://calprod.zapbase.com/top-job-search-websites-in-uae-2024/)  
+  - _Explore the top job search websites in the GCC region with our comprehensive guide. From regional powerhouses to global giants._
 
-### jobs.google.com — 1 result(s)
+### detoxify-ten.vercel.app — 1 result(s)
 
-- [Job Search on Google - Get Your Job Postings on Google Today](https://jobs.google.com/about/)  
-  - _Google brings together job postings from across the web. Have your job postings found by millions of job seekers who search on Google every day._
+- [Company Career Pages: The Smartest Way to Find Real Job ...](https://detoxify-ten.vercel.app/blog/company_career_pages)  
+  - _Company career pages are the smartest way to find real job openings in 2025. Learn how applying directly reduces ghost jobs, lowers competition, ..._
+
+### dubai.dubizzle.com — 1 result(s)
+
+- [Jobs in Dubai](https://dubai.dubizzle.com/jobs/) — `jobs`  
+  - _Looking for jobs in Dubai? Find the latest vacancies & careers on Dubizzle.com, full and part time job openings in top companies. Apply for FREE._
+
+### georgia.gov — 1 result(s)
+
+- [Find Jobs in Georgia](https://georgia.gov/find-jobs-georgia)  
+  - _You can search for jobs in Georgia through state and federal resources, local career centers, company websites, community job boards, job fairs, and ..._
 
 ### liveworkmaryland.com — 1 result(s)
 
 - [Maryland Jobs - Quick Search](https://liveworkmaryland.com/work/search-jobs/) — `search`  
   - _Professionals in tech, life sciences, engineering and life sciences, and more are in high demand in Maryland. Find the right job for you in Maryland._
 
-### pdfcoffee.com — 1 result(s)
+### u.ae — 1 result(s)
 
-- [300 Best Boolean Strings](https://pdfcoffee.com/download/300-best-boolean-strings-5-pdf-free.html)  
-  - _inurl: Search for keywords or phrases in page URL's (shown as green text in Google search results):. [inurl:careers] the word careers must appear in the URL._
-
-### play.google.com — 1 result(s)
-
-- [Publish Jobs Search - Apps en Google Play](https://play.google.com/store/apps/details?id=com.publishjobs.jobsearchapp&hl=es_EC) — `jobs`  
-  - _Publicar trabajos: buscar trabajos, crear su perfil y ser contratado. Comience su búsqueda de empleo con confianza utilizando la aplicación Publish Jobs, ..._
-
-### s3-eu-west-1.amazonaws.com — 1 result(s)
-
-- [ERESOURCES.docx](https://s3-eu-west-1.amazonaws.com/s3-euw1-ap-pe-ws4-cws-documents.ri-prod/9780367567392/ERESOURCES.docx)  
-  - _inurl: Search for keywords or phrases in page URLs: • inurl:careers – the word "careers" must appear in the URL. • inurl:directory faculty earth ..._
-
-### www.careerbuilder.com — 1 result(s)
-
-- [CareerBuilder® - Search Jobs Hiring Now](https://www.careerbuilder.com/)  
-  - _Find your next job with CareerBuilder. Browse millions of recent job listings, upload your resume, get job alerts & let employers find you today._
-
-### www.facebook.com — 1 result(s)
-
-- [You can do some crazy hacking with google 😁😁](https://www.facebook.com/groups/0xc8h/posts/1175652116213002/)  
-  - _Google hacking, also known as Google dorking, is an information gathering technique used by attackers to leverage advanced Google searching ..._
+- [Searching for a job | The Official Platform of the UAE ...](https://u.ae/en/information-and-services/jobs/searching-for-a-job) — `jobs`  
+  - _You can search for a job by registering on job portals, attending online job fairs, looking through classifieds and signing up with recruitment agencies._
 
 ### www.google.com — 1 result(s)
 
 - [Search for your career at Google.](https://www.google.com/about/careers/applications/) — `careers`  
   - _Join Google Careers and build what's next, today. Explore career opportunities in engineering, design, sales, hardware, and more. Make a global impact with ..._
 
-### www.indeed.com — 1 result(s)
+### www.gulftalent.com — 1 result(s)
 
-- [Indeed: Job Search](https://www.indeed.com/)  
-  - _With Indeed, you can search millions of jobs online to find the next step in your career. With tools for job search, resumes, company reviews and more, ..._
+- [GulfTalent: Jobs in Dubai and Middle East](https://www.gulftalent.com/)  
+  - _GulfTalent is the leading job site for professionals in the Middle East. Apply now to latest jobs in Dubai, UAE, Saudi, Qatar and other Gulf countries._
+
+### www.insearchrecruiting.com — 1 result(s)
+
+- [Job Listings - Omaha](https://www.insearchrecruiting.com/job-listings/)  
+  - _Browse current job opportunities in Omaha. Professional positions in accounting, finance, HR and administration. Apply today with InSearch Recruiting._
+
+### www.instagram.com — 1 result(s)
+
+- [Comment below list to get a complete list of 20+ job search ...](https://www.instagram.com/reel/DZBf6WzA6n5/)  
+  - _Start with Chrome extensions. These are honestly the smartest way to do this, because instead of visiting yet another job site, they just sit on ..._
 
 ### www.joblist.com — 1 result(s)
 
 - [Joblist: Find Jobs Anywhere with the Best Job Search Site](https://www.joblist.com/)  
   - _Your job search is about to end. Joblist is the best place to find a job, aggregating, and personalizing every listing near you so your dream job becomes a ..._
 
-### www.mercadolibre.cl — 1 result(s)
+### www.michaelpage.ae — 1 result(s)
 
-- [https://www.mercadolibre.cl/navigation/addresses-h...](https://www.mercadolibre.cl/navigation/addresses-hub?go=https%3A%2F%2Fwww.mercadolibre.cl%2Fthe-alphabetized-job-search%2Fup%2FMLCU3738542088) — `search`  
-  - _No information is available for this page._
+- [Job Search](https://www.michaelpage.ae/job-search) — `search`  
+  - _Catering to mid-level professionals and senior level professionals in the Middle East, our job search platform helps you find employment opportunities._
+
+### www.mometrix.com — 1 result(s)
+
+- [Top 37 Job Search Websites](https://www.mometrix.com/blog/top-37-job-search-websites/)  
+  - _Learn about the top 37 job websites and job search engines. What you need to know about each job search site and tips to get your best job!_
 
 ### www.monster.com — 1 result(s)
 
 - [Browse Job Openings Hiring Now | Monster.com](https://www.monster.com/jobs) — `jobs`  
   - _Browse millions of job openings by job title, category, company, or location at Monster.com._
 
-### www.pacareerlink.pa.gov — 1 result(s)
+### www.reddit.com — 1 result(s)
 
-- [Search Jobs - PA CareerLink - Commonwealth of Pennsylvania](https://www.pacareerlink.pa.gov/jponline/jobseeker/searchjobs) — `jobs`  
-  - _No information is available for this page._
-
-### www.shu.edu — 1 result(s)
-
-- [More job search websites](https://www.shu.edu/documents/Industry-Websites.xlsx)  
-
-### www.slideshare.net — 1 result(s)
-
-- [Company List For Url And Recruiting Websites | DOC](https://www.slideshare.net/slideshow/company-list-for-url-and-recruiting-websites-4490511/4490511)  
-  - _The document provides a comprehensive list of companies along with their websites and email addresses, primarily for job search and resume_
+- [What websites to check out for job listings? Value of ...](https://www.reddit.com/r/ITCareerQuestions/comments/ok2big/what_websites_to_check_out_for_job_listings_value/)  
+  - _I realize that knowing a person in a company is the best way ‘in’ to any job really. That said, sometimes you don’t have that option for a variety ..._
 
 ### www.vdart.com — 1 result(s)
 
 - [20 Job Portals Starting From Ours - Find Your Next Career ...](https://www.vdart.com/what-we-do/blog/20-job-portals-starting-from-ours/)  
   - _You can upload your resume, apply for permanent or contract roles, and sign up for job alerts to receive updates on the latest opportunities._
 
-### www.welcometothejungle.com — 1 result(s)
+### www.yellowpages.ae — 1 result(s)
 
-- [Jobs in New York, NY - Welcome to the Jungle](https://www.welcometothejungle.com/en/pages/jobs-new-york-us) — `jobs`  
-  - _As one of the world's leading financial, cultural, and technological hubs, New York offers a wide range of career opportunities across various sectors._
+- [Apply Online for Jobs in Dubai UAE](https://www.yellowpages.ae/jobs) — `jobs`  
+  - _Looking for Jobs in Dubai UAE? Find & apply for the latest job vacancies in UAE with yellowpages.ae, UAE #1 job site for Freshers & Professionals job ..._
