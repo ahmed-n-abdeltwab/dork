@@ -1,185 +1,171 @@
 # Job results for: `(inurl:careers OR inurl:jobs) (inurl:open OR inurl:positions OR inurl:listings OR inurl:vacancies OR inurl:search)`
 
-_Engine: serpapi  |  Generated: 2026-07-30T02:07:35.197015+00:00  |  Results: 37_
+_Engine: serpapi  |  Generated: 2026-07-31T02:35:14.320392+00:00  |  Results: 36_
 
 **Search metadata**:
 - source: serpapi
-- fetched: 38
-- deduped: 37
+- fetched: 39
+- deduped: 36
 
 ## Results grouped by domain
 
-### ua.linkedin.com — 3 result(s)
+### github.com — 3 result(s)
 
-- [Bohdan Hordiienko – Senior iOS Engineer](https://ua.linkedin.com/in/bohdan-hordiienko-75318a148)  
-  - _Досвід ; Senior iOS Engineer. NDA. бер 2023 р. ; Senior iOS Engineer. Tango Me. лют 2022 р. ; iOS Developer. EPAM Systems. кві 2017 р._
-- [Олексій Касумов – Системний інженер/DevOps, маю ...](https://ua.linkedin.com/in/oleksii-kasumov-277a65137/uk)  
-  - _Олексій Касумов · Системний інженер/DevOps, маю досвід з Windows та Linux, хмарними сервісами та інформаційною безпекою. Щасливо працевлаштований. За нав' ..._
-- [Ольга Кадубенко – 💎 Менеджер з кадрового ...](https://ua.linkedin.com/in/%D0%BE%D0%BB%D1%8C%D0%B3%D0%B0-%D0%BA%D0%B0%D0%B4%D1%83%D0%B1%D0%B5%D0%BD%D0%BA%D0%BE-a695b2284)  
-  - _Менеджер з кадрового адміністрування · Досвід: ТОВ "Електросвіт" · Освіта: Прикарпатський національний університет імені Василя Стефаника · Регіон: ..._
+- [dork/CAREERS.md at main · ahmed-n-abdeltwab/dork](https://github.com/ahmed-n-abdeltwab/dork/blob/main/CAREERS.md) — `careers`  
+  - _CareerBuilder is another long-standing job search platform that offers a vast database of job listings, as well as career advice and resources for job seekers._
+- [kenzolv/OSINT-Cheat-sheet](https://github.com/kenzolv/OSINT-Cheat-sheet-)  
+  - _inurl: Search for specific urls or paths; intext: Search for specific words or contects; filetype: Search for files; site: Search from a specified target ..._
+- [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet)  
+  - _Contains a list of OSINT tools, OSINT tips, datasets, Maltego transform and others. There are free and paid tools you can use and owner is not responsible._
+
+### www.instagram.com — 2 result(s)
+
+- [Шановні рекрутери і сорсери, чи фіксуєте ви якось ...](https://www.instagram.com/p/C6GnVk8KfoK/)  
+  - _Шановні рекрутери і сорсери, чи фіксуєте ви якось інформацію про кандидатів, які вам зараз самостійно пишуть? Я - завжди!_
+- [Comment below list to get a complete list of 20+ job search ...](https://www.instagram.com/reel/DZBf6WzA6n5/)  
+  - _Start with Chrome extensions. These are honestly the smartest way to do this, because instead of visiting yet another job site, they just sit on ..._
+
+### www.linkedin.com — 2 result(s)
+
+- [Alex Gray posted this](https://www.linkedin.com/posts/alexanderkgray_after-4-years-of-learning-how-to-source-on-activity-7463642361382862848-9AgY)  
+  - _We were hiring a Designer and one thing became obvious quickly: designers use X. They post their work, share their process, build an audience._
+- [Love Boolean search options for switching up your job ...](https://www.linkedin.com/posts/kelseyjohnson_love-boolean-search-options-for-switching-activity-7151545794276335616-phuy)  
+  - _Step 1: Copy paste the following boolean searches into Google inurl:careers -inurl:linkedin -inurl:zippia -inurl:indeed -inurl ..._
 
 ### www.scribd.com — 2 result(s)
 
-- [SEO Strategies for Online Retail Sites | PDF](https://www.scribd.com/document/978299081/10k-Shopping-Dorks-CrackerzHub)  
-  - _The document contains a series of search queries combining various keywords and site-specific parameters, likely intended for web scraping or data ..._
-- [1 - Dorks | PDF | Login | World Wide Web](https://www.scribd.com/document/472367010/1-Dorks)  
-  - _The document contains a list of search queries related to finding administrative interfaces and login pages on websites. Many queries look for pages ..._
+- [Google Boolean Search Operators Guide | PDF](https://www.scribd.com/document/515343369/one-page-tip-sheet-boolean-google-irina-shamaeva)  
+  - _inurl: Search for keywords or phrases in page URL's (shown as green text in Google search results): [inurl:careers] the word “careers” must appear in the URL_
+- [Google Programmable Search Engine Guide | PDF](https://www.scribd.com/document/883666438/IrinaShamaeva-DavidMichaelGalley-CustomSearch-DiscoverMore-ACompleteGuidetoGoogleProgrammableSearchEngines-CRCPress-2021)  
+  - _inurl: Search for keywords or phrases in page URLs: • inurl:careers – the word "careers" must appear in the URL. • inurl:directory faculty earth ..._
 
-### alabamaworks.workforce.alabama.gov — 1 result(s)
+### www.ziprecruiter.com — 2 result(s)
 
-- [alabamaworks.workforce.alabama.gov - Job Search Options](https://alabamaworks.workforce.alabama.gov/vosnet/JobBanks/JobSearchCriteriaQuick.aspx) — `jobs`  
-  - _To create an automated job search (virtual recruiter), select criteria below, perform the search and then save your search at the bottom of the results screen._
+- [$23-$31/hr 1 Click Apply Jobs Bellingham, WA Hiring Now](https://www.ziprecruiter.com/Jobs/1-Click-Apply/-in-Bellingham,WA) — `jobs`  
+  - _Browse 92 BELLINGHAM, WA 1 CLICK APPLY jobs ($23-$31/hr) hiring now. New openings posted daily. Wayward Medical Travel PACU RN - $2,371 per week. ..._
+- [$19-$30/hr Jobs in New York, NY (NOW HIRING) Jul 2026](https://www.ziprecruiter.com/Jobs/-in-New-York,NY) — `jobs`  
+  - _Browse 1000+ NEW YORK, NY jobs ($19-$30/hr) from companies hiring now. New openings posted daily. Apply early, be seen first & 1-click apply ..._
 
-### atlworks.org — 1 result(s)
+### builtin.com — 1 result(s)
 
-- [Find a Job Now - WorkSource - ATLWorks.Org](https://atlworks.org/job-seekers/)  
-  - _We've helped find meaningful jobs for a wide range of people with many different backgrounds. We'll match your skills and interests to real companies ready to ..._
+- [Built In: Job Search & Company Research](https://builtin.com/)  
+  - _Built In is a top destination for highly skilled professionals around the world. Our platform features real-time job listings and company profiles with rich ..._
 
-### careersourcebroward.com — 1 result(s)
+### careerforce.mn.gov — 1 result(s)
 
-- [Find a job | Broward County, Florida](https://careersourcebroward.com/career-seekers/find-a-job)  
-  - _Through the online portal, you can apply for jobs, set up automatic job posting notifications, upload your résumé, research training and education opportunities ..._
+- [Job Search - CareerForce - MN.gov](https://careerforce.mn.gov/job-search) — `search`  
+  - _No information is available for this page._
 
-### help.ahrefs.com — 1 result(s)
+### h3brasil.wordpress.com — 1 result(s)
 
-- [How to use inurl: and In URL dropdown or both in Content ...](https://help.ahrefs.com/en/articles/2459712-how-to-use-inurl-and-in-url-dropdown-or-both-in-content-explorer)  
-  - _Using inurl: or selecting the In URL dropdown in Content Explorer tool will search for a string within the URL. Here are some examples of usage that you might ..._
+- [Comandos para encontrar vulnerabilidades de SQL em SITES](https://h3brasil.wordpress.com/2015/04/09/comandos-para-encontrar-vulnerabilidades-de-sql-em-sites/)  
+  - _Olá Mundo,aqui vai uns comandos para “encontrar” possíveis falhas de SQL. Lembrando que quando estiver no site,coloque aspas simples ..._
 
-### in.linkedin.com — 1 result(s)
+### images.fatesa.edu.br — 1 result(s)
 
-- [Radhika Shah - C++ Developer at Turain Software Pvt. Ltd.](https://in.linkedin.com/in/radhika-shah-a3000033a)  
-  - _Proficient in algorithms, data structures, and system-level programming. Strong analytical and debugging capabilities. Professional Role: At Turain Software, ..._
+- [Vacancies At Road Authority Namibia 2014](https://images.fatesa.edu.br/ProductPdf/u3GH77/244100/vacancies__at_road-authority_namibia_2014.pdf) — `vacancies`  
+  - _Vacancies at Road Authority Namibia 2014 marked a significant milestone for professionals seeking employment in Namibia's infrastructure and transportation ..._
 
-### jobapscloud.com — 1 result(s)
+### jobs.insightglobal.com — 1 result(s)
 
-- [State of Maryland Job Openings](https://jobapscloud.com/MD/)  
-  - _The job opportunities below provide vital support to Maryland residents, including critical services such as public safety, health care, and education._
+- [Find a Job Using Insight Global's Staffing Services, Start Your ...](https://jobs.insightglobal.com/)  
+  - _Start your job search now. We work with job seekers to find the IT, Accounting & Finance, Engineering and Government jobs that match their skills and goals._
 
-### jobs.allsearchinc.com — 1 result(s)
+### libguides.njstatelib.org — 1 result(s)
 
-- [AllSearch Recruiting](https://jobs.allsearchinc.com/)  
-  - _Send us your resume, and we'll find the jobs that are the best match for you. Submit Your Resume._
+- [Job Search Sites - Careers and Employment](https://libguides.njstatelib.org/business/careers/jobs) — `careers`  
+  - _Resources to help professionals in researching information about employment, career choices, career and employment counseling, resume writing, and interviewing ..._
 
-### jobs.workable.com — 1 result(s)
+### old.sourcingcertification.com — 1 result(s)
 
-- [Jobs By Workable](https://jobs.workable.com/)  
-  - _Search thousands of job openings from global companies hiring right now. Remote or office-based, your perfect job could be waiting for you!_
+- [300 Best Boolean Strings - Sourcing Certifications](https://old.sourcingcertification.com/300bestbooleanstrings/)  
+  - _The class follows the sixth edition ebook. We provide an up-to-date review of Boolean search fundamentals and a wealth of examples of applying ..._
 
-### kinsta.com — 1 result(s)
+### s3-eu-west-1.amazonaws.com — 1 result(s)
 
-- [Google Search Operators: 40 Commands to Know ...](https://kinsta.com/blog/google-search-operators/)  
-  - _The inurl: operator followed by a keyword lists all search results that include the keyword somewhere in their URL. This can be helpful when ..._
+- [ERESOURCES.docx](https://s3-eu-west-1.amazonaws.com/s3-euw1-ap-pe-ws4-cws-documents.ri-prod/9780367567392/ERESOURCES.docx)  
+  - _inurl: Search for keywords or phrases in page URLs: • inurl:careers – the word "careers" must appear in the URL. • inurl:directory faculty earth ..._
 
-### medium.com — 1 result(s)
+### scionstaffing.com — 1 result(s)
 
-- [Google's Advanced Search Operators: intext vs. allintext & ...](https://medium.com/serpapi/googles-advanced-search-operators-intext-allintext-vs-inurl-allinurl-9982f3d57f3)  
-  - _The inurl: advanced search operator made a bigger difference in the initial search for a particular keyword. This deems itself a powerful tool ..._
+- [12 Top Job Boards and Job Search Engines in the U.S.](https://scionstaffing.com/the-most-popular-job-board-websites/)  
+  - _We've compiled a list of the 20 top online job boards and job search engines, along with valuable insights into their unique features and benefits._
 
-### pdfcoffee.com — 1 result(s)
+### www.careerbuilder.com — 1 result(s)
 
-- [Пособие It Рекрутера](https://pdfcoffee.com/-it--4-pdf-free.html)  
-  - _Citation preview. Автор: ПОСОБИЕ IT рекрутера. Язиля Насибуллина IT Recruiter / Язиля @Yazilya_n Ценность: настольная книга Время чтения: 120 минут_
-
-### support.google.com — 1 result(s)
-
-- [inurl keyword not giving right results](https://support.google.com/websearch/thread/390185115/inurl-keyword-not-giving-right-results?hl=en)  
-  - _I often use inurl keyword to search in specific reddit forums. but from today, it does not work regularly, like, if i search "日本 ..._
-
-### uk.linkedin.com — 1 result(s)
-
-- [Alex Gray - Lead Recruiter @ Framer](https://uk.linkedin.com/in/alexanderkgray)  
-  - _Lead Recruiter @ Framer · Experience: Framer · Education: Leeds Beckett University · Location: Newcastle Upon Tyne · 500+ connections on LinkedIn._
+- [550+ Jobs in Bellingham, WA](https://www.careerbuilder.com/jobs-in-bellingham,wa) — `jobs`  
+  - _Apply today or Upload your resume and be found by top employers. Browse 550+ jobs in Bellingham, WA hiring now at CareerBuilder®._
 
 ### www.careeronestop.org — 1 result(s)
 
-- [Job Search - Career OneStop](https://www.careeronestop.org/JobSearch/job-search.aspx) — `jobs`  
-  - _JavaScript is disabled. In order to continue, we need to verify that you're not a robot. This requires JavaScript. Enable JavaScript and then reload the page._
+- [Job Search](https://www.careeronestop.org/JobSearch/job-search.aspx) — `jobs`  
+  - _Plan your job search. Create a job search plan · Gather your documents · Your knowledge, skills, and abilities (KSAs) · Research employers._
 
-### www.careersite.com — 1 result(s)
+### www.chooseatl.com — 1 result(s)
 
-- [Career Site](https://www.careersite.com/)  
+- [Start Your Search Here: Job Opportunities in Atlanta](https://www.chooseatl.com/work/open-jobs) — `jobs`  
+  - _With thousands of businesses in metro Atlanta, the right fit for you is just one search away. Find a job that will inspire you today._
 
 ### www.facebook.com — 1 result(s)
 
-- [☮️GOOGLE HACKING 101☮️ Hello and welcome back to ...](https://www.facebook.com/groups/525788299630768/posts/528200956056169/)  
-  - _GOOGLE HACKING 101☮️ Hello and welcome back to today's session. In this we will take a look at more in-depth Google dorks or hacking search ..._
+- [You can do some crazy hacking with google 😁😁](https://www.facebook.com/groups/0xc8h/posts/1175652116213002/)  
+  - _Google hacking, also known as Google dorking, is an information gathering technique used by attackers to leverage advanced Google searching ..._
 
-### www.frontlinesourcegroup.com — 1 result(s)
+### www.indeed.com — 1 result(s)
 
-- [Which jobs hiring website is best for your job search?](https://www.frontlinesourcegroup.com/blog-your-guide-to-the-best-jobs-hiring-website-options.html)  
-  - _Compare the best jobs hiring website options, from job boards to a staffing agency like Frontline Source Group, for a smarter job search._
+- [Website Jobs, Employment in Bellingham, WA](https://www.indeed.com/q-website-l-bellingham,-wa-jobs.html)  
+  - _38 Website jobs available in Bellingham, WA on Indeed.com. Apply to Director of Marketing, Web Developer, Videographer/editor and more!_
 
-### www.google.com — 1 result(s)
+### www.joblist.com — 1 result(s)
 
-- [Search for your career at Google.](https://www.google.com/about/careers/applications/) — `careers`  
-  - _Join Google Careers and build what's next, today. Explore career opportunities in engineering, design, sales, hardware, and more. Make a global impact with ..._
+- [Joblist: Find Jobs Anywhere with the Best Job Search Site](https://www.joblist.com/)  
+  - _Your job search is about to end. Joblist is the best place to find a job, aggregating, and personalizing every listing near you so your dream job becomes a ..._
 
-### www.hirewithnear.com — 1 result(s)
+### www.jobradar.app — 1 result(s)
 
-- [Find Remote Jobs with US Companies](https://www.hirewithnear.com/find-a-job)  
-  - _Hire With Near connects top professionals across Latin America with US companies looking for skilled, English-fluent remote talent._
-
-### www.illinoisworknet.com — 1 result(s)
-
-- [Job Openings & Recruiting Illinois workNet JobFinder](https://www.illinoisworknet.com/jobfinder)  
-  - _Job Title, Company, Location, Date Posted, Job URL. Registered Nurse RN - ICU, Prime Healthcare, Chicago, IL, 7/28/26, 1:26 AM, https://de.jobsyn.org/ ..._
+- [Master Google Search Operators to Find Hidden ... - Job](https://www.jobradar.app/blog/google-search-operators-for-jobs) — `jobs`  
+  - _Learn advanced Google search operators (dorks) to uncover job listings that most job seekers never see. inurl: - Search URLs_
 
 ### www.larimer.gov — 1 result(s)
 
 - [Current Job Openings](https://www.larimer.gov/ewd/job-seekers/jobs) — `jobs`  
-  - _Job listings are refreshed on Tuesday and Thursday. Want to receive this list? Click on the link below, enter your email address, and we will email the current ..._
+  - _Here's a snapshot of current openings, updated regularly. The job listings below are gathered by an outside data provider that searches job postings online._
 
-### www.link-assistant.com — 1 result(s)
+### www.marketingminer.com — 1 result(s)
 
-- [InURL Search Explained](https://www.link-assistant.com/seo-wiki/inurl-search/)  
-  - _InURL search is a query technique used to find web pages with specific words or phrases in their URLs with the help of the inurl: operator._
+- [Understanding the Power of the Google inURL](https://www.marketingminer.com/en/blog/inurl-search-operator)  
+  - _In this blog post, we discuss the Google InURL search operator, how it works, and why it's a useful tool for SEO marketers. inurl search ..._
 
-### www.liveinlou.com — 1 result(s)
+### www.maryland.gov — 1 result(s)
 
-- [Places Hiring in Louisville KY, Jobs, Career Opportunities](https://www.liveinlou.com/jobs-list/) — `jobs`  
-  - _With more than 16,000 open jobs across every industry, the Greater Louisville region is the perfect place to start, grow, or change your career._
+- [Job and Career Support](https://www.maryland.gov/business-and-work/job-and-career-support)  
+  - _Explore job and career resources in Maryland. Find help with a job search, apprenticeships, adult education, and see programs for youth, veterans, ..._
 
-### www.mometrix.com — 1 result(s)
+### www.monster.com — 1 result(s)
 
-- [Top 37 Job Search Websites](https://www.mometrix.com/blog/top-37-job-search-websites/)  
-  - _Learn about the top 37 job websites and job search engines. What you need to know about each job search site and tips to get your best job!_
+- [Browse Job Openings Hiring Now | Monster.com](https://www.monster.com/jobs) — `jobs`  
+  - _Browse millions of job openings by job title, category, company, or location at Monster.com._
 
-### www.oreilly.com — 1 result(s)
+### www.shu.edu — 1 result(s)
 
-- [Google Hacks - inurl: Versus site](https://www.oreilly.com/library/view/google-hacks/0596004478/ch01s20.html)  
-  - _Use inurl: syntax to search site subdirectories. , a Google special syntax [Section 1.5] for specifying a string to be found in a resultant URL._
+- [More job search websites](https://www.shu.edu/documents/Industry-Websites.xlsx)  
 
-### www.pacareerlink.pa.gov — 1 result(s)
+### www.vdart.com — 1 result(s)
 
-- [Search Jobs - PA CareerLink - Commonwealth of Pennsylvania](https://www.pacareerlink.pa.gov/jponline/jobseeker/searchjobs) — `jobs`  
-  - _No information is available for this page._
+- [20 Job Portals Starting From Ours - Find Your Next Career ...](https://www.vdart.com/what-we-do/blog/20-job-portals-starting-from-ours/)  
+  - _You can upload your resume, apply for permanent or contract roles, and sign up for job alerts to receive updates on the latest opportunities._
 
-### www.quora.com — 1 result(s)
+### www.whatcomcounty.us — 1 result(s)
 
-- [How do I use "inurl:~" in Google search?](https://www.quora.com/How-do-I-use-inurl-in-Google-search) — `search`  
-  - _How do I use "inurl:~" in Google search?_
+- [Current Job Openings | Whatcom County, WA](https://www.whatcomcounty.us/1675/Current-Job-Openings)  
+  - _Whatcom County offers full-time, part-time, temporary, seasonal, and internship opportunities. Check available job opportunities here. Phone: 360-778-5300_
 
-### www.reddit.com — 1 result(s)
+### www.workonward.com — 1 result(s)
 
-- [inurl dont work more 06 05 2026 : r/SEO](https://www.reddit.com/r/SEO/comments/1t58nwz/inurl_dont_work_more_06_05_2026/)  
-  - _Yesterday inurl: was working fine for me. Today the same queries no longer behave like a URL filter at all. It looks like Google now treats ..._
-
-### www.roberthalf.com — 1 result(s)
-
-- [25 Job Search Sites and Job Boards, Starting With Ours](https://www.roberthalf.com/us/en/insights/landing-job/best-job-search-sites-job-boards)  
-  - _We created a list of the best job boards and job search sites for US job seekers, starting with ours._
-
-### www.simplyhired.com — 1 result(s)
-
-- [SimplyHired: Job Search Engine](https://www.simplyhired.com/)  
-  - _Browse SimplyHired for jobs, view local and national salary information, discover companies, and learn about the job market in a specific city._
-
-### www.unlistedjobs.com — 1 result(s)
-
-- [UnlistedJobs: Jobs not found anywhere else](https://www.unlistedjobs.com/)  
-  - _70% of all jobs are not posted publicly. We find them. Access hidden tech jobs directly from company websites. GET STARTED. Companies. 200,000+. Active jobs._
+- [WorkOnward: Local Jobs Near You | Map-Based Job Search](https://www.workonward.com/en)  
+  - _Find jobs near you in minutes — right on the map. Get matched with local jobs in minutes — or hire qualified neighbors within 48 hours._
 
 ### www.youtube.com — 1 result(s)
 
-- [Google Advanced Search with inurl: & allinurl: Vol. 6 | Web ...](https://www.youtube.com/watch?v=xNpn2HDPX3E)  
-  - _Google Advanced Search Tips & Tricks with inurl: & allinurl: Vol. 6 | Web Search Skills Series The "Association of Internet Research ..._
+- [8 Job Search Engines to Land Your Next Role](https://www.youtube.com/watch?v=4FP4Dj6a0fs&vl=en)  
+  - _Looking for a smarter way to land your next role? This video breaks down eight of the most popular job search engines, covering how each ..._
