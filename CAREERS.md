@@ -1,230 +1,199 @@
 # Job results for: `(inurl:careers OR inurl:jobs) (inurl:open OR inurl:positions OR inurl:listings OR inurl:vacancies OR inurl:search)`
 
-_Engine: serpapi  |  Generated: 2026-08-01T02:34:09.806014+00:00  |  Results: 49_
+_Engine: serpapi  |  Generated: 2026-08-02T02:32:46.054891+00:00  |  Results: 39_
 
 **Search metadata**:
 - source: serpapi
-- fetched: 50
-- deduped: 49
+- fetched: 40
+- deduped: 39
 
 ## Results grouped by domain
 
-### github.com — 3 result(s)
+### github.com — 2 result(s)
 
 - [dork/CAREERS.md at main · ahmed-n-abdeltwab/dork](https://github.com/ahmed-n-abdeltwab/dork/blob/main/CAREERS.md) — `careers`  
   - _CareerBuilder is another long-standing job search platform that offers a vast database of job listings, as well as career advice and resources for job seekers._
 - [kenzolv/OSINT-Cheat-sheet](https://github.com/kenzolv/OSINT-Cheat-sheet-)  
   - _inurl: Search for specific urls or paths; intext: Search for specific words or contects; filetype: Search for files; site: Search from a specified target ..._
-- [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet)  
-  - _Contains a list of OSINT tools, OSINT tips, datasets, Maltego transform and others. There are free and paid tools you can use and owner is not responsible._
-
-### ua.linkedin.com — 3 result(s)
-
-- [Bohdan Hordiienko – Senior iOS Engineer](https://ua.linkedin.com/in/bohdan-hordiienko-75318a148)  
-  - _Досвід ; Senior iOS Engineer. NDA. бер 2023 р. ; Senior iOS Engineer. Tango Me. лют 2022 р. ; iOS Developer. EPAM Systems. кві 2017 р._
-- [Ольга Кадубенко – 💎 Менеджер з кадрового ...](https://ua.linkedin.com/in/%D0%BE%D0%BB%D1%8C%D0%B3%D0%B0-%D0%BA%D0%B0%D0%B4%D1%83%D0%B1%D0%B5%D0%BD%D0%BA%D0%BE-a695b2284)  
-  - _Менеджер з кадрового адміністрування · Досвід: ТОВ "Електросвіт" · Освіта: Прикарпатський національний університет імені Василя Стефаника · Регіон: ..._
-- [Олексій Касумов – Системний інженер/DevOps, маю ...](https://ua.linkedin.com/in/oleksii-kasumov-277a65137/uk)  
-  - _Олексій Касумов · Системний інженер/DevOps, маю досвід з Windows та Linux, хмарними сервісами та інформаційною безпекою. Щасливо працевлаштований. За нав' ..._
-
-### www.scribd.com — 3 result(s)
-
-- [Google Boolean Search Operators Guide | PDF](https://www.scribd.com/document/515343369/one-page-tip-sheet-boolean-google-irina-shamaeva)  
-  - _inurl: Search for keywords or phrases in page URL's (shown as green text in Google search results): [inurl:careers] the word “careers” must appear in the URL_
-- [SEO Strategies for Online Retail Sites | PDF](https://www.scribd.com/document/978299081/10k-Shopping-Dorks-CrackerzHub)  
-  - _The document contains a series of search queries combining various keywords and site-specific parameters, likely intended for web scraping or data ..._
-- [1 - Dorks | PDF | Login | World Wide Web](https://www.scribd.com/document/472367010/1-Dorks)  
-  - _The document contains a list of search queries related to finding administrative interfaces and login pages on websites. Many queries look for pages ..._
-
-### pdfcoffee.com — 2 result(s)
-
-- [300 Best Boolean Strings](https://pdfcoffee.com/download/300-best-boolean-strings-5-pdf-free.html)  
-  - _inurl: Search for keywords or phrases in page URL's (shown as green text in Google search results):. [inurl:careers] the word careers must appear in the URL._
-- [Пособие It Рекрутера](https://pdfcoffee.com/-it--4-pdf-free.html)  
-  - _Citation preview. Автор: ПОСОБИЕ IT рекрутера. Язиля Насибуллина IT Recruiter / Язиля @Yazilya_n Ценность: настольная книга Время чтения: 120 минут_
 
 ### www.linkedin.com — 2 result(s)
 
-- [Alex Gray posted this](https://www.linkedin.com/posts/alexanderkgray_after-4-years-of-learning-how-to-source-on-activity-7463642361382862848-9AgY)  
-  - _We were hiring a Designer and one thing became obvious quickly: designers use X. They post their work, share their process, build an audience._
+- [23000+ jobs in United Arab Emirates - Dubai](https://www.linkedin.com/jobs/jobs-in-united-arab-emirates/) — `jobs`  
+  - _23,000+ Jobs in United Arab Emirates · Cabin Crew Opportunities · Role in Origins - F&B (VAJ) · IT Assistant · Contact Centre Agent · F&B Supervisor · Customer ..._
 - [Love Boolean search options for switching up your job ...](https://www.linkedin.com/posts/kelseyjohnson_love-boolean-search-options-for-switching-activity-7151545794276335616-phuy)  
   - _Step 1: Copy paste the following boolean searches into Google inurl:careers -inurl:linkedin -inurl:zippia -inurl:indeed -inurl ..._
 
-### alabamaworks.workforce.alabama.gov — 1 result(s)
+### ae.indeed.com — 1 result(s)
 
-- [alabamaworks.workforce.alabama.gov - Job Search Options](https://alabamaworks.workforce.alabama.gov/vosnet/JobBanks/JobSearchCriteriaQuick.aspx) — `jobs`  
-  - _To create an automated job search (virtual recruiter), select criteria below, perform the search and then save your search at the bottom of the results screen._
+- [Indeed: Job Search](https://ae.indeed.com/)  
+  - _With Indeed, you can search millions of jobs online to find the next step in your career. With tools for job search, resumes, company reviews and more, ..._
 
-### atlworks.org — 1 result(s)
+### careers.opentext.com — 1 result(s)
 
-- [Find a Job Now - WorkSource - ATLWorks.Org](https://atlworks.org/job-seekers/)  
-  - _We've helped find meaningful jobs for a wide range of people with many different backgrounds. We'll match your skills and interests to real companies ready to ..._
+- [Explore Career Opportunities at OpenText](https://careers.opentext.com/)  
+  - _Explore career opportunities at OpenText and join our award-winning workplace. Discover our culture of mutual respect and mindfulness._
 
-### careerforce.mn.gov — 1 result(s)
+### context.reverso.net — 1 result(s)
 
-- [Job Search - CareerForce - MN.gov](https://careerforce.mn.gov/job-search) — `search`  
-  - _No information is available for this page._
+- [job listings - Traducción al español - ejemplos inglés](https://context.reverso.net/traduccion/ingles-espanol/job+listings) — `listings`  
+  - _La bolsa de trabajo en línea ofrece una manera conveniente de explorar ofertas de empleo. Más ejemplos a continuación. Elimina los anuncios con Premium._
 
-### careers.illinois.gov — 1 result(s)
+### dribbble.com — 1 result(s)
 
-- [Current Job Postings - State of Illinois Employment Opportunities](https://careers.illinois.gov/current-job-openings.html)  
-  - _Current Job Postings. External Applicants · Internal Applicants. Footer. Back to top. Helpful Links. Job Opportunities · Benefits · Central Management ..._
+- [Browse job directory designs for inspiration](https://dribbble.com/search/job-directory) — `search`  
+  - _Explore thousands of high-quality job directory images on Dribbble. Your resource to get inspired, discover and connect with designers worldwide._
 
-### careersourcetampabay.com — 1 result(s)
+### dubaicareers.ae — 1 result(s)
 
-- [Job Boards](https://careersourcetampabay.com/job-boards/)  
-  - _Looking for a new job or next step in your career? Based on your education, skills, experience and goals, we guide you through every step of the process._
-
-### dew.sc.gov — 1 result(s)
-
-- [Search for Work - SC Department of Employment and Workforce](https://dew.sc.gov/individuals/search-work) — `search`  
-  - _Search for Work ... Starting April 18, 2021, you must actively search for work each week that you file a weekly certification for unemployment insurance benefits._
+- [Dubai Careers: Home](https://dubaicareers.ae/en/pages/default.aspx)  
+  - _Download the app now! Jobs on your fingertips. Download Dubai Careers and be able to access, search and apply for jobs from 45+ entities and much more to come._
 
 ### h3brasil.wordpress.com — 1 result(s)
 
 - [Comandos para encontrar vulnerabilidades de SQL em SITES](https://h3brasil.wordpress.com/2015/04/09/comandos-para-encontrar-vulnerabilidades-de-sql-em-sites/)  
   - _Olá Mundo,aqui vai uns comandos para “encontrar” possíveis falhas de SQL. Lembrando que quando estiver no site,coloque aspas simples ..._
 
-### in.linkedin.com — 1 result(s)
+### jobs.popular.com — 1 result(s)
 
-- [Radhika Shah - C++ Developer at Turain Software Pvt. Ltd.](https://in.linkedin.com/in/radhika-shah-a3000033a)  
-  - _Proficient in algorithms, data structures, and system-level programming. Strong analytical and debugging capabilities. Professional Role: At Turain Software, ..._
+- [Jobs at Popular](https://jobs.popular.com/)  
+  - _Popular Community Banks offers the solutions to all your financial needs. Visit us for personal banking, small business and commercial banking services._
 
-### jobapscloud.com — 1 result(s)
+### jobs.workable.com — 1 result(s)
 
-- [State of Maryland Job Openings](https://jobapscloud.com/MD/)  
-  - _The job opportunities below provide vital support to Maryland residents, including critical services such as public safety, health care, and education._
+- [Jobs By Workable](https://jobs.workable.com/)  
+  - _Search thousands of job openings from global companies hiring right now. Remote or office-based, your perfect job could be waiting for you!_
 
-### jobs.allsearchinc.com — 1 result(s)
+### jobsfornationals.com — 1 result(s)
 
-- [AllSearch Recruiting](https://jobs.allsearchinc.com/)  
-  - _A #1 Rated Sales, Management & Engineering Search Firm._
+- [JobsForNationals | UAE & Saudi National Talent Activation ...](https://jobsfornationals.com/)  
+  - _JobsForNationals is a National Talent Activation platform helping employers attract and engage UAE and Saudi nationals through AI-powered job previews, ..._
+
+### kansasjobslink.com — 1 result(s)
+
+- [KS Jobs Link: Home](https://kansasjobslink.com/)  
+  - _Looking for a job in Kansas? At KansasJobsLink.com you'll find some of the most up-to-date currently available positions throughout Salina & Surrounding areas ..._
+
+### liveworkmaryland.com — 1 result(s)
+
+- [Maryland Jobs - Quick Search](https://liveworkmaryland.com/work/search-jobs/) — `search`  
+  - _Professionals in tech, life sciences, engineering and life sciences, and more are in high demand in Maryland. Find the right job for you in Maryland._
 
 ### old.sourcingcertification.com — 1 result(s)
 
 - [300 Best Boolean Strings - Sourcing Certifications](https://old.sourcingcertification.com/300bestbooleanstrings/)  
   - _The class follows the sixth edition ebook. We provide an up-to-date review of Boolean search fundamentals and a wealth of examples of applying ..._
 
+### openrol.es — 1 result(s)
+
+- [Open Roles](https://openrol.es/)  
+  - _Discover creative jobs, connect with creative talents, and learn from industry leaders. 1x Job Listing on Open Roles Featured for 30 days._
+
+### pdfcoffee.com — 1 result(s)
+
+- [300 Best Boolean Strings](https://pdfcoffee.com/download/300-best-boolean-strings-5-pdf-free.html)  
+  - _inurl: Search for keywords or phrases in page URL's (shown as green text in Google search results):. [inurl:careers] the word careers must appear in the URL._
+
 ### s3-eu-west-1.amazonaws.com — 1 result(s)
 
 - [ERESOURCES.docx](https://s3-eu-west-1.amazonaws.com/s3-euw1-ap-pe-ws4-cws-documents.ri-prod/9780367567392/ERESOURCES.docx)  
   - _inurl: Search for keywords or phrases in page URLs: • inurl:careers – the word "careers" must appear in the URL. • inurl:directory faculty earth ..._
 
-### uk.linkedin.com — 1 result(s)
+### scionstaffing.com — 1 result(s)
 
-- [Alex Gray - Lead Recruiter @ Framer](https://uk.linkedin.com/in/alexanderkgray)  
-  - _Lead Recruiter @ Framer · Experience: Framer · Education: Leeds Beckett University · Location: Newcastle Upon Tyne · 500+ connections on LinkedIn._
+- [12 Top Job Boards and Job Search Engines in the U.S.](https://scionstaffing.com/the-most-popular-job-board-websites/)  
+  - _We've compiled a list of the 20 top online job boards and job search engines, along with valuable insights into their unique features and benefits._
 
-### workforindiana.in.gov — 1 result(s)
+### u.ae — 1 result(s)
 
-- [Work for Indiana - Careers at the State of Indiana](https://workforindiana.in.gov/)  
-  - _Find your career at the State of Indiana._
+- [Searching for a job | The Official Platform of the UAE ...](https://u.ae/en/information-and-services/jobs/searching-for-a-job) — `jobs`  
+  - _You can search for a job by registering on job portals, attending online job fairs, looking through classifieds and signing up with recruitment agencies._
 
-### worknola.com — 1 result(s)
+### welovesalt.com — 1 result(s)
 
-- [WorkNOLA: Home](https://worknola.com/)  
-  - _WorkNOLA is the leading website for professional employment listings in the Greater New Orleans region. Find career pathways, career training programs, and ..._
-
-### www.arjoblink.arkansas.gov — 1 result(s)
-
-- [Arkansas JobLink - Arkansas JobLink](https://www.arjoblink.arkansas.gov/)  
-  - _Use filters to find your dream job and save your search or apply right away. Create Resumes. Upload your resume or make a new one from scratch with our resume ..._
-
-### www.career.com — 1 result(s)
-
-- [Jobs and Careers - Find Jobs Near You - Career.com](https://www.career.com/)  
-  - _Find your next job on career.com - Search jobs and research careers by title, company, skills, salaries, industry, and career path._
+- [Find Jobs In United Arab Emirates](https://welovesalt.com/job-category/united-arab-emirates)  
+  - _Jobs in the UAE. Explore top creative, marketing, sales, technology, and business operations roles with leading employers in the United Arab Emirates._
 
 ### www.careeronestop.org — 1 result(s)
 
-- [Job Search](https://www.careeronestop.org/JobSearch/job-search.aspx) — `jobs`  
-  - _Plan your job search. Create a job search plan · Gather your documents · Your knowledge, skills, and abilities (KSAs) · Research employers._
+- [Career One Stop](https://www.careeronestop.org/toolkit/jobs/find-jobs.aspx) — `jobs`  
+  - _JavaScript is disabled. In order to continue, we need to verify that you're not a robot. This requires JavaScript. Enable JavaScript and then reload the page._
 
-### www.careersite.com — 1 result(s)
+### www.crawljobs.com — 1 result(s)
 
-- [Career Site](https://www.careersite.com/)  
+- [Global Job Offers and Job Board for Top Careers](https://www.crawljobs.com/)  
+  - _Find Your Dream Job. AI-collected job listings from companies worldwide, Find your next career opportunity today! Browse 424,827 active job offers, or check ..._
 
 ### www.facebook.com — 1 result(s)
 
 - [You can do some crazy hacking with google 😁😁](https://www.facebook.com/groups/0xc8h/posts/1175652116213002/)  
   - _Google hacking, also known as Google dorking, is an information gathering technique used by attackers to leverage advanced Google searching ..._
 
-### www.frontlinesourcegroup.com — 1 result(s)
+### www.gulftalent.com — 1 result(s)
 
-- [Which jobs hiring website is best for your job search?](https://www.frontlinesourcegroup.com/blog-your-guide-to-the-best-jobs-hiring-website-options.html)  
-  - _Compare the best jobs hiring website options, from job boards to a staffing agency like Frontline Source Group, for a smarter job search._
+- [Jobs in UAE](https://www.gulftalent.com/uae/jobs) — `jobs`  
+  - _12290 Jobs in UAE: Find the latest UAE jobs and vacancies with the top employers in your field. All UAE job categories and industries covered._
 
-### www.indeed.com — 1 result(s)
+### www.illinoisworknet.com — 1 result(s)
 
-- [Indeed: Job Search](https://www.indeed.com/)  
-  - _With Indeed, you can search millions of jobs online to find the next step in your career. With tools for job search, resumes, company reviews and more, ..._
+- [Job Openings & Recruiting Illinois workNet JobFinder](https://www.illinoisworknet.com/Jobs/Pages/JobFinder.aspx) — `jobs`  
+  - _The Illinois workNet Center System, an American Job Center, is an equal opportunity employer/program. Auxiliary aids and services are available upon request._
 
-### www.insearch-it.com — 1 result(s)
+### www.infojobs.com — 1 result(s)
 
-- [Job Listings - InSearch IT Recruiting](https://www.insearch-it.com/job-listings/)  
-  - _Focus on your success, and search for exciting opportunities through InSearch IT. We've got great jobs with top employers that value your skills._
+- [InfoJobs Job Search | The leading career site in Europe](https://www.infojobs.com/)  
+  - _InfoJobs is the largest and most successful online Job Search in Europe and the career builder site operating in Spain, Italy and Brazil._
 
 ### www.instagram.com — 1 result(s)
 
 - [Шановні рекрутери і сорсери, чи фіксуєте ви якось ...](https://www.instagram.com/p/C6GnVk8KfoK/)  
   - _Шановні рекрутери і сорсери, чи фіксуєте ви якось інформацію про кандидатів, які вам зараз самостійно пишуть? Я - завжди!_
 
-### www.jacksonville.gov — 1 result(s)
-
-- [Current Job Openings](https://www.jacksonville.gov/departments/employee-services/current-job-openings)  
-  - _Welcome to the City of Jacksonville application page. Thank you for selecting the City of Jacksonville as your potential employer. Click the Open Positions ..._
-
 ### www.jobradar.app — 1 result(s)
 
 - [Master Google Search Operators to Find Hidden ... - Job](https://www.jobradar.app/blog/google-search-operators-for-jobs) — `jobs`  
   - _Learn advanced Google search operators (dorks) to uncover job listings that most job seekers never see. inurl: - Search URLs_
 
-### www.maryland.gov — 1 result(s)
+### www.michaelpage.ae — 1 result(s)
 
-- [Job and Career Support](https://www.maryland.gov/business-and-work/job-and-career-support)  
-  - _Explore job and career resources in Maryland. Find help with a job search, apprenticeships, adult education, and see programs for youth, veterans, ..._
+- [Job Search](https://www.michaelpage.ae/job-search) — `search`  
+  - _Catering to mid-level professionals and senior level professionals in the Middle East, our job search platform helps you find employment opportunities._
 
-### www.mometrix.com — 1 result(s)
+### www.nyit.edu — 1 result(s)
 
-- [Top 37 Job Search Websites](https://www.mometrix.com/blog/top-37-job-search-websites/)  
-  - _Being able to simply hop online, look at a few job boards and send your resume to potential employers can make your job search a little easier._
+- [Job Search Engines | New York Tech](https://www.nyit.edu/academics/academic-success/career-success-and-experiential-education/career-resources/job-search-engines/)  
+  - _We've compiled a large list of job sites, from general to area-specific, that might be helpful in your search. General Job/Intern Search Sites._
 
-### www.pacareerlink.pa.gov — 1 result(s)
+### www.scribd.com — 1 result(s)
 
-- [Search Jobs - PA CareerLink - Commonwealth of Pennsylvania](https://www.pacareerlink.pa.gov/jponline/jobseeker/searchjobs) — `jobs`  
-  - _No information is available for this page._
+- [Google Search Engine Insights | PDF | Websites](https://www.scribd.com/document/660149566/ERESOURCES)  
+  - _inurl: Search for keywords or phrases in page URLs: • inurl:careers – the word "careers" must appear in the URL. • inurl:directory faculty earth ..._
 
-### www.roberthalf.com — 1 result(s)
+### www.spanishdict.com — 1 result(s)
 
-- [25 Job Search Sites and Job Boards, Starting With Ours](https://www.roberthalf.com/us/en/insights/landing-job/best-job-search-sites-job-boards)  
-  - _We created a list of the best job boards and job search sites for US job seekers, starting with ours._
+- [Examples of Job websites in English](https://www.spanishdict.com/examples/job%20websites?lang=en)  
+  - _The main source of job opportunities for candidates is personal contacts (97.2%), followed by job websites (76.42%) and companies' corporate websites (73.15%)._
 
-### www.simplyhired.com — 1 result(s)
+### www.stanislaus.courts.ca.gov — 1 result(s)
 
-- [SimplyHired: Job Search Engine](https://www.simplyhired.com/)  
-  - _Browse SimplyHired for jobs, view local and national salary information, discover companies, and learn about the job market in a specific city._
+- [job search web sites](https://www.stanislaus.courts.ca.gov/system/files/job-search-websites.pdf)  
+  - _We naturally first think of looking for jobs online at the big job boards, like the top three: Monster,. (www.monster.com), HotJobs, (www.hotjobs.com) and ..._
 
 ### www.tiktok.com — 1 result(s)
 
 - [Cheatcodes to Get Any Information on Google](https://www.tiktok.com/discover/cheatcodes-to-get-any-information-on-google)  
   - _A travel influencer recently shared a video revealing a hidden Google "cheat code" for discovering the cheapest worldwide flights and avid ..._
 
-### www.unlistedjobs.com — 1 result(s)
+### www.workonward.com — 1 result(s)
 
-- [UnlistedJobs: Jobs not found anywhere else](https://www.unlistedjobs.com/)  
-  - _Unlock the hidden tech job market. Find uncrowded, unadvertised opportunities instantly on company websites. No employer-paid ads or content._
+- [WorkOnward: Local Jobs Near You | Map-Based Job Search](https://www.workonward.com/en)  
+  - _Find jobs near you in minutes — right on the map. Get matched with local jobs in minutes — or hire qualified neighbors within 48 hours._
 
-### www.vdart.com — 1 result(s)
+### www.workopolis.com — 1 result(s)
 
-- [20 Job Portals Starting From Ours - Find Your Next Career ...](https://www.vdart.com/what-we-do/blog/20-job-portals-starting-from-ours/)  
-  - _You can upload your resume, apply for permanent or contract roles, and sign up for job alerts to receive updates on the latest opportunities._
+- [Workopolis: Job Search Engine](https://www.workopolis.com/)  
+  - _Search for job opportunities across Canada on Workopolis. Browse by job category, city, province, employer and more. Get a head start and post your resume._
 
-### www.vermontjoblink.com — 1 result(s)
+### www.ziprecruiter.com — 1 result(s)
 
-- [Vermont JobLink - Vermont JobLink](https://www.vermontjoblink.com/)  
-  - _Job Seeker Alert – Beware of employment scams and sharing sensitive information. Be careful, for example, of any purported “employer” who contacts you about a ..._
-
-### www.youtube.com — 1 result(s)
-
-- [How to Search Company Websites for Job Openings | CloudHire](https://www.youtube.com/watch?v=F2CVuEf3alA)  
-  - _How to search company websites for job openings is one of the smartest ways to find jobs before they reach LinkedIn, Indeed, or other job ..._
+- [Job Search: Millions of US Jobs (HIRING NOW) Near You ...](https://www.ziprecruiter.com/)  
+  - _Job Search: Millions of US Jobs (HIRING NOW) Near You - ZipRecruiter._
