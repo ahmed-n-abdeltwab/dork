@@ -1,179 +1,214 @@
 # Job results for: `(inurl:careers OR inurl:jobs) (inurl:open OR inurl:positions OR inurl:listings OR inurl:vacancies OR inurl:search)`
 
-_Engine: serpapi  |  Generated: 2026-08-17T01:06:35.250766+00:00  |  Results: 38_
+_Engine: serpapi  |  Generated: 2026-08-18T01:05:02.608678+00:00  |  Results: 45_
 
 **Search metadata**:
 - source: serpapi
-- fetched: 39
-- deduped: 38
+- fetched: 50
+- deduped: 45
 
 ## Results grouped by domain
 
-### www.scribd.com — 4 result(s)
+### applyre.com — 2 result(s)
 
-- [Google Search Engine Insights | PDF | Websites](https://www.scribd.com/document/660149566/ERESOURCES)  
-  - _inurl: Search for keywords or phrases in page URLs: • inurl:careers – the word "careers" must appear in the URL. • inurl:directory faculty earth ..._
-- [Google Programmable Search Engine Guide | PDF](https://www.scribd.com/document/883666438/IrinaShamaeva-DavidMichaelGalley-CustomSearch-DiscoverMore-ACompleteGuidetoGoogleProgrammableSearchEngines-CRCPress-2021)  
-  - _inurl: Search for keywords or phrases in page URLs: • inurl:careers – the word "careers" must appear in the URL. • inurl:directory faculty earth ..._
-- [1 - Dorks | PDF | Login | World Wide Web](https://www.scribd.com/document/472367010/1-Dorks)  
-  - _The document contains a list of search queries related to finding administrative interfaces and login pages on websites. Many queries look for pages ..._
-- [SEO Strategies for Online Retail Sites | PDF](https://www.scribd.com/document/978299081/10k-Shopping-Dorks-CrackerzHub)  
-  - _The document contains a series of search queries combining various keywords and site-specific parameters, likely intended for web scraping or data ..._
+- [Top 10 Job Sites in the US](https://applyre.com/blog/en/top-10-job-sites-in-usa/)  
+  - _CareerBuilder offers a vast database of job listings along with resume-building tools and career advice. It is ideal for job seekers looking for a wide range of ..._
+- [Top 200 Job Sites in the US](https://applyre.com/insights/top-200-job-sites-in-the-usa/)  
+  - _CareerBuilder is another long-standing job search platform that offers a vast database of job listings, as well as career advice and resources for job seekers._
 
-### atlworks.org — 1 result(s)
+### www.google.com — 2 result(s)
 
-- [Find a Job Now - WorkSource - ATLWorks.org](https://atlworks.org/job-seekers/)  
-  - _Find work that works for you · All jobseekers have access to free employment services, including: · Use of Resource Room · Workshops & Webinars · Skill and Interest ..._
+- [New York - Google Careers](https://www.google.com/about/careers/applications/locations/new-york/) — `careers`  
+  - _Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce_
+- [Atlanta - Google Careers](https://www.google.com/about/careers/applications/locations/atlanta/) — `careers`  
+  - _Each one of our locations has its own flavor of Googleyness, featuring unique architecture and design, office traditions, and of course, snacks._
+
+### www.nyc.gov — 2 result(s)
+
+- [Available Jobs - NYC Business Link](https://www.nyc.gov/site/businesslink/job-seekers/available-jobs.page)  
+  - _HRA Business Link screens for positions that range from entry level to professional. To find out more information about the various employment opportunities, ..._
+- [Find Jobs](https://www.nyc.gov/employment/find-jobs) — `jobs`  
+  - _Make a difference in your community by joining the City of New York's workforce. Find jobs in NYC government. Private and Public Sector Jobs in NYC Area._
+
+### adindex.browardpalmbeach.com — 1 result(s)
+
+- [Online Classified Advertising Directory - Employment](https://adindex.browardpalmbeach.com/classifieds/category/employment-100)  
+  - _CLASSIFIEDS - Employment. DIRECTOR OF INTERNATIONAL SALES sought by Barnes International Realty LLC (Miami, FL) Must have a minimum of 5 yrs' exp as a real ..._
+
+### alabamaworks.workforce.alabama.gov — 1 result(s)
+
+- [alabamaworks.workforce.alabama.gov - Job Search Options](https://alabamaworks.workforce.alabama.gov/vosnet/JobBanks/JobSearchCriteriaQuick.aspx) — `jobs`  
+  - _To create an automated job search (virtual recruiter), select criteria below, perform the search and then save your search at the bottom of the results screen._
 
 ### careerforce.mn.gov — 1 result(s)
 
 - [Job Search - CareerForce - Minnesota.gov](https://careerforce.mn.gov/job-search) — `search`  
   - _No information is available for this page._
 
+### careers.illinois.gov — 1 result(s)
+
+- [Current Job Postings - State of Illinois Employment Opportunities](https://careers.illinois.gov/current-job-openings.html)  
+  - _Current Job Postings. External Applicants · Internal Applicants. Footer. Back to top. Helpful Links. Job Opportunities · Benefits · Central Management ..._
+
+### careersourcebroward.com — 1 result(s)
+
+- [Find a job | Broward County, Florida](https://careersourcebroward.com/career-seekers/find-a-job)  
+  - _Through the online portal, you can apply for jobs, set up automatic job posting notifications, upload your résumé, research training and education opportunities ..._
+
 ### careersourcenortheastflorida.com — 1 result(s)
 
 - [Find a Job](https://careersourcenortheastflorida.com/find_a_job/)  
-  - _CareerSource NEFL has partnered with Employ Florida, Florida's official online portal for virtual job-matching services, to help you search from hundreds of ..._
-
-### cdle.colorado.gov — 1 result(s)
-
-- [Find a Job | Department of Labor & Employment](https://cdle.colorado.gov/jobs-training/find-a-job) — `jobs`  
-  - _Colorado state government currently has a variety of job openings. There is an immediate need for talented and skilled workers in occupations impacted by the ..._
-
-### directlyapply.com — 1 result(s)
-
-- [DirectlyApply: Job Search](https://directlyapply.com/)  
-  - _Search for jobs with your resume. Let AI match you to your perfect job. No keywords, no filters - just describe your ideal role and find jobs instantly._
+  - _Ready to Start Your Job Search? · Employ Florida Employ Florida logo · Employment and Volunteer Resources · Go to NEFL Jobs to see our Daily Hot Jobs List._
 
 ### dol.ny.gov — 1 result(s)
 
-- [Find a Job - Department of Labor - NY.Gov](https://dol.ny.gov/find-job-0)  
+- [Find a Job | Department of Labor - NY.Gov](https://dol.ny.gov/find-job-0)  
   - _Using New York's Job Bank you can search open job opportunities, post your resume so employers can find you and sign up to receive e-mails about new job ..._
 
-### evalground.com — 1 result(s)
+### georgia.gov — 1 result(s)
 
-- [Top 8 Job Search Engines Available Currently On The Web](https://evalground.com/blog/top-8-job-search-engines-available-currently-on-the-web/)  
-  - _Currently, there are lots of job search engines in the market but here are the top 8 job search engines available currently on the web._
+- [Find Jobs in Georgia](https://georgia.gov/find-jobs-georgia)  
+  - _Find job opportunities and employment resources across Georgia. WorkSource Georgia, local career centers, and other partners can help you search for jobs, ..._
 
-### github.com — 1 result(s)
+### indeedinc.my.site.com — 1 result(s)
 
-- [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet)  
-  - _inurl: Search for specific urls or paths; intext: Search for specific words or contects; filetype: Search for files; site: Search from a specified target ..._
+- [Using Apply URL](https://indeedinc.my.site.com/employerSupport1/s/article/360003389972)  
+  - _The article explains how employers can post a job on Indeed while directing applicants to apply on their own website using the Apply URL feature._
 
-### h3brasil.wordpress.com — 1 result(s)
+### irtalent.com — 1 result(s)
 
-- [Comandos para encontrar vulnerabilidades de SQL em SITES](https://h3brasil.wordpress.com/2015/04/09/comandos-para-encontrar-vulnerabilidades-de-sql-em-sites/)  
-  - _Olá Mundo,aqui vai uns comandos para “encontrar” possíveis falhas de SQL. Lembrando que quando estiver no site,coloque aspas simples ..._
+- [Browse Job Opportunities - Interactive Resources](https://irtalent.com/career-opportunities/browse-jobs/)  
+  - _Browse Jobs · Process Engineer · Senior Projects Director · Director of Preconstruction · Industrial Controls Engineer · Principal Software Engineer · Sales Manager._
 
 ### jobapscloud.com — 1 result(s)
 
 - [State of Maryland Job Openings](https://jobapscloud.com/MD/)  
   - _Welcome to the Maryland State Online Employment Center! We appreciate that you are considering opportunities to serve your community and the State._
 
-### jobs.allsearchinc.com — 1 result(s)
+### joblink.delaware.gov — 1 result(s)
 
-- [AllSearch Recruiting](https://jobs.allsearchinc.com/)  
-  - _Send us your resume, and we'll find the jobs that are the best match for you. Submit Your Resume._
+- [Welcome, Job Seeker! - Delaware JobLink](https://joblink.delaware.gov/job_seeker)  
+  - _With a job seeker account you can: Perform and save advanced searches to find the job that's perfect for you. Create and post an unlimited number of resumes ..._
 
 ### jobs.insightglobal.com — 1 result(s)
 
 - [Find a Job Using Insight Global's Staffing Services, Start Your ...](https://jobs.insightglobal.com/)  
   - _Start your job search now. We work with job seekers to find the IT, Accounting & Finance, Engineering and Government jobs that match their skills and goals._
 
-### jobs.kansas.com — 1 result(s)
-
-- [The Wichita Eagle Jobs](https://jobs.kansas.com/)  
-  - _Searching for jobs or hiring in your area? Use The Wichita Eagle job search engine - the best way to find a job. Find employers hiring near you and quickly ..._
-
 ### jobs.mo.gov — 1 result(s)
 
 - [Job Seekers | JobsMoGov - Missouri Job Center](https://jobs.mo.gov/jobseeker) — `jobs`  
   - _Learn more about Missouri's thriving job market and find the job growth rate, total job openings, and average wages compared to other occupations in the state._
 
-### jobs.workable.com — 1 result(s)
+### myjobsny.usnlx.com — 1 result(s)
 
-- [Jobs By Workable](https://jobs.workable.com/)  
-  - _Search thousands of job openings from global companies hiring right now. Remote or office-based, your perfect job could be waiting for you!_
+- [New York State Job Bank: Jobs](https://myjobsny.usnlx.com/)  
+  - _Welcome to the New York State Job Bank! New York State Department of Labor (Department), acts as a portal for prospective employees and businesses._
 
 ### nccareers.org — 1 result(s)
 
 - [Search for a Job](https://nccareers.org/look-new-job/search-for-a-job) — `search`  
   - _Start a job search by entering an occupation name or job title and then select a location. Select from Region (this includes State-wide), City, County or Zip ..._
 
-### ua.linkedin.com — 1 result(s)
+### support.google.com — 1 result(s)
 
-- [Bohdan Hordiienko – Senior iOS Engineer](https://ua.linkedin.com/in/bohdan-hordiienko-75318a148)  
-  - _Досвід ; Senior iOS Engineer. NDA. бер 2023 р. ; Senior iOS Engineer. Tango Me. лют 2022 р. ; iOS Developer. EPAM Systems. кві 2017 р._
+- [Search for jobs on Google](https://support.google.com/websearch/answer/7498276?hl=en)  
+  - _Find jobs near you: Search for a job with no location, like server jobs . Or enter: server jobs near me . · Find jobs elsewhere: Add the location to your search._
 
-### uk.linkedin.com — 1 result(s)
+### theundercoverrecruiter.com — 1 result(s)
 
-- [Alex Gray - Lead Recruiter @ Framer](https://uk.linkedin.com/in/alexanderkgray)  
-  - _Lead Recruiter @ Framer · Experience: Framer · Education: Leeds Beckett University · Location: Newcastle Upon Tyne · 500+ connections on LinkedIn._
+- [How to Find Hidden Jobs with an Easy Google Search](https://theundercoverrecruiter.com/find-hidden-jobs-google/)  
+  - _Find unadvertised jobs online by using a clever Google search technique. Search corporate Applicant Tracking Systems for jobs with this simple 'hack'._
 
-### workforindiana.in.gov — 1 result(s)
+### www.builtinnyc.com — 1 result(s)
 
-- [Work for Indiana - Careers at the State of Indiana](https://workforindiana.in.gov/)  
-  - _Careers Near You ... We're hiring across the entirety of the Hoosier State! Check out our careers by location to see where you can Work for Indiana. Careers by ..._
+- [Best Tech Jobs & Startup Jobs in NYC, NY 2026](https://www.builtinnyc.com/jobs) — `jobs`  
+  - _Search the best Tech Jobs & Startup Jobs from top companies & startups in NYC, NY. New jobs added daily._
 
-### www.careerbuilder.com — 1 result(s)
+### www.careersite.com — 1 result(s)
 
-- [CareerBuilder® - Search Jobs Hiring Now](https://www.careerbuilder.com/)  
-  - _Find your next job with CareerBuilder. Browse millions of recent job listings, upload your resume, get job alerts & let employers find you today._
+- [CareerSite.com - thousands of new jobs posted every day!](http://www.careersite.com/)  
+  - _Welcome to CareerSite.com, with thousands of new jobs posted every day and thousands of employers searching for candidates just like you._
 
-### www.facebook.com — 1 result(s)
+### www.employmentcrossing.com — 1 result(s)
 
-- [You can do some crazy hacking with google 😁😁](https://www.facebook.com/groups/0xc8h/posts/1175652116213002/)  
-  - _Google hacking, also known as Google dorking, is an information gathering technique used by attackers to leverage advanced Google searching ..._
-
-### www.google.com — 1 result(s)
-
-- [Search for your career at Google.](https://www.google.com/about/careers/applications/) — `careers`  
-  - _Join Google Careers and build what's next, today. Explore career opportunities in engineering, design, sales, hardware, and more. Make a global impact with ..._
+- [Job Search | Largest Collection of Jobs | EmploymentCrossing ...](https://www.employmentcrossing.com/)  
+  - _Find jobs today at EmploymentCrossing.com. We are the only job-opening research institution that offers career opportunities from industries worldwide._
 
 ### www.hirewithnear.com — 1 result(s)
 
 - [Find Remote Jobs with US Companies](https://www.hirewithnear.com/find-a-job)  
-  - _Hire With Near connects top professionals across Latin America with US companies looking for skilled, English-fluent remote talent._
+  - _Join 3500+ Latin American professionals working remotely for US companies. Hire With Near connects top LatAm talent with US employers across all industries ..._
 
 ### www.indeed.com — 1 result(s)
 
-- [Job Search jobs in Wichita, KS](https://www.indeed.com/q-job-search-l-wichita,-ks-jobs.html)  
-  - _New openings added daily. Tool Crib Attendant. Speech Language Pathologist (SLP) Clinical Therapy Supervisor - Forensic (SCR) $70,000 - $75,000 a year. ..._
+- [jobs in New York, NY](https://www.indeed.com/l-new-york,-ny-jobs.html)  
+  - _New openings added daily. Substitute Laundry Attendant Marriott … $31.78 - $42.37 an hour Full-time. Housekeeping Room Attendant Marriott. Laundry Attendant ..._
+
+### www.insearch-it.com — 1 result(s)
+
+- [Job Listings - InSearch IT Recruiting](https://www.insearch-it.com/job-listings/)  
+  - _Focus on your success, and search for exciting opportunities through InSearch IT. We've got great jobs with top employers that value your skills. Keywords._
+
+### www.joblist.com — 1 result(s)
+
+- [Joblist: Find Jobs Anywhere with the Best Job Search Site](https://www.joblist.com/)  
+  - _Your job search is about to end. Joblist is the best place to find a job, aggregating, and personalizing every listing near you so your dream job becomes a ..._
 
 ### www.jobradar.app — 1 result(s)
 
 - [Master Google Search Operators to Find Hidden ... - Job](https://www.jobradar.app/blog/google-search-operators-for-jobs) — `jobs`  
   - _Learn advanced Google search operators (dorks) to uncover job listings that most job seekers never see. inurl: - Search URLs_
 
+### www.jobspider.com — 1 result(s)
+
+- [JobSpider | Free Job Posting in the US and Canada](https://www.jobspider.com/)  
+  - _Post unlimited job openings for free across the United States and Canada. JobSpider is the 100% free job board for employers to hire local talent and job ..._
+
+### www.larimer.gov — 1 result(s)
+
+- [Current Job Openings](https://www.larimer.gov/ewd/job-seekers/jobs) — `jobs`  
+  - _Here's a snapshot of current openings, updated regularly. The job listings below are gathered by an outside data provider that searches job postings online._
+
 ### www.linkedin.com — 1 result(s)
 
-- [8000+ jobs in Wichita, Kansas Metropolitan Area](https://www.linkedin.com/jobs/jobs-in-wichita-kansas-metropolitan-area) — `jobs`  
-  - _8,000+ Jobs in Wichita, Kansas Metropolitan Area · NOW HIRING – ALL POSITIONS NOW HIRING – ALL POSITIONS · Project Detailer · Design Engineer · Estimator · INTERIOR ..._
+- [162000+ Jobs in New York](https://www.linkedin.com/jobs/jobs-in-new-york) — `jobs`  
+  - _Today's top 162000+ Jobs jobs in New York. Leverage your professional network, and get hired. New Jobs jobs added daily._
 
-### www.maryland.gov — 1 result(s)
+### www.liveinlou.com — 1 result(s)
 
-- [Job and Career Support](https://www.maryland.gov/business-and-work/job-and-career-support)  
-  - _Explore job and career resources in Maryland. Find help with a job search, apprenticeships, adult education, and see programs for youth, veterans, ..._
-
-### www.michaelpage.com — 1 result(s)
-
-- [Job Search](https://www.michaelpage.com/job-search) — `search`  
-  - _Browse our jobs and apply for your next role. We find the best talent for our clients and match candidates to their ideal jobs. Search for jobs at America's ..._
+- [Employment Opportunities in Louisville KY, Job Openings](https://www.liveinlou.com/work/)  
+  - _Explore our Greater Louisville job board to search for careers in Louisville, KY, including full-time, part-time, temporary, startup jobs, and internships. From ..._
 
 ### www.mometrix.com — 1 result(s)
 
 - [Top 37 Job Search Websites](https://www.mometrix.com/blog/top-37-job-search-websites/)  
-  - _Learn about the top 37 job websites and job search engines. What you need to know about each job search site and tips to get your best job!_
+  - _Being able to simply hop online, look at a few job boards and send your resume to potential employers can make your job search a little easier._
 
-### www.nyc.gov — 1 result(s)
+### www.nyit.edu — 1 result(s)
 
-- [Find Jobs](https://www.nyc.gov/employment/find-jobs) — `jobs`  
-  - _Make a difference in your community by joining the City of New York's workforce. Find jobs in NYC government. Private and Public Sector Jobs in NYC Area._
+- [Job Search Engines | New York Tech](https://www.nyit.edu/academics/academic-success/career-success-and-experiential-education/career-resources/job-search-engines/)  
+  - _We've compiled a large list of job sites, from general to area-specific, that might be helpful in your search. Search for jobs by keyword and location, and ..._
 
-### www.tiktok.com — 1 result(s)
+### www.orlandojobs.com — 1 result(s)
 
-- [Google Secret Search](https://www.tiktok.com/discover/google-secret-search) — `search`  
-  - _Unlock Google's Hidden Secrets with These Tricks and Hacks!. Discover the top secrets and hacks of Google with this comprehensive guide. Learn ..._
+- [Home - Orlandojobs.com | Orlando Jobs](https://www.orlandojobs.com/)  
+  - _The #1 job board for Orlando and Central Florida. Search local jobs in hospitality, tech, healthcare & more. Post jobs or apply today._
+
+### www.pacareerlink.pa.gov — 1 result(s)
+
+- [Search Jobs - PA CareerLink - Commonwealth of Pennsylvania](https://www.pacareerlink.pa.gov/jponline/jobseeker/searchjobs) — `jobs`  
+  - _No information is available for this page._
+
+### www.tn.gov — 1 result(s)
+
+- [Job Search](https://www.tn.gov/workforce/jobs-and-education/job-search.html) — `jobs`  
+  - _Jobs4TN.gov gives you an unprecedented number of jobs to search, averaging 400,000 every day, and also helps you build a resume and discover labor market ..._
+
+### www.vdart.com — 1 result(s)
+
+- [20 Job Portals Starting From Ours - Find Your Next Career ...](https://www.vdart.com/what-we-do/blog/20-job-portals-starting-from-ours/)  
+  - _You can upload your resume, apply for permanent or contract roles, and sign up for job alerts to receive updates on the latest opportunities._
 
 ### www.vermontjoblink.com — 1 result(s)
 
@@ -187,5 +222,5 @@ _Engine: serpapi  |  Generated: 2026-08-17T01:06:35.250766+00:00  |  Results: 38
 
 ### www.youtube.com — 1 result(s)
 
-- [Extract list of job postings from a search URL on Indeed](https://www.youtube.com/watch?v=4GtUrcoqU7E)  
-  - _Use this prebuilt robot from Browse AI to easily extract list of job postings from a search URL on Indeed. You just need to provide the ..._
+- [8 Job Search Engines to Land Your Next Role](https://www.youtube.com/watch?v=4FP4Dj6a0fs&vl=en)  
+  - _Looking for a smarter way to land your next role? This video breaks down eight of the most popular job search engines, covering how each ..._
