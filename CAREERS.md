@@ -1,33 +1,13 @@
 # Job results for: `(inurl:careers OR inurl:jobs) (inurl:open OR inurl:positions OR inurl:listings OR inurl:vacancies OR inurl:search)`
 
-_Engine: serpapi  |  Generated: 2026-08-28T09:29:55.315201+00:00  |  Results: 40_
+_Engine: serpapi  |  Generated: 2026-08-29T05:36:48.387932+00:00  |  Results: 45_
 
 **Search metadata**:
 - source: serpapi
 - fetched: 50
-- deduped: 40
+- deduped: 45
 
 ## Results grouped by domain
-
-### www.scribd.com — 4 result(s)
-
-- [Google Search Engine Insights | PDF | Websites](https://www.scribd.com/document/660149566/ERESOURCES)  
-  - _inurl: Search for keywords or phrases in page URLs: • inurl:careers – the word "careers" must appear in the URL. • inurl:directory faculty earth ..._
-- [Google Programmable Search Engine Guide | PDF](https://www.scribd.com/document/883666438/IrinaShamaeva-DavidMichaelGalley-CustomSearch-DiscoverMore-ACompleteGuidetoGoogleProgrammableSearchEngines-CRCPress-2021)  
-  - _inurl: Search for keywords or phrases in page URLs: • inurl:careers – the word "careers" must appear in the URL. • inurl:directory faculty earth ..._
-- [1 - Dorks | PDF | Login | World Wide Web](https://www.scribd.com/document/472367010/1-Dorks)  
-  - _The document contains a list of search queries related to finding administrative interfaces and login pages on websites. Many queries look for pages ..._
-- [SEO Strategies for Online Retail Sites | PDF](https://www.scribd.com/document/978299081/10k-Shopping-Dorks-CrackerzHub)  
-  - _The document contains a series of search queries combining various keywords and site-specific parameters, likely intended for web scraping or data ..._
-
-### ua.linkedin.com — 3 result(s)
-
-- [Ksenia Terebukha – Talent Acquisition Specialist | Genesis](https://ua.linkedin.com/in/kseniaterebukha)  
-  - _Ukrainian full-service recruitment agency from the Genesis ecosystem. Since 2014, we've been supporting top businesses in Ukraine and around the world by hiring ..._
-- [Oleh Yarosh – Student | Passionate about ML & AI](https://ua.linkedin.com/in/oleh-yarosh)  
-  - _Hello, I'm Oleh, an aspiring Deep Learning Researcher and Engineer. With a passion for cutting-edge technology and a relentless drive for innovation, ..._
-- [Олексій Касумов – Системний інженер/DevOps, маю ...](https://ua.linkedin.com/in/oleksii-kasumov-277a65137/uk)  
-  - _Олексій Касумов · Системний інженер/DevOps, маю досвід з Windows та Linux, хмарними сервісами та інформаційною безпекою. Щасливо працевлаштований. За нав' ..._
 
 ### pdfcoffee.com — 2 result(s)
 
@@ -36,36 +16,26 @@ _Engine: serpapi  |  Generated: 2026-08-28T09:29:55.315201+00:00  |  Results: 40
 - [Пособие It Рекрутера](https://pdfcoffee.com/-it--4-pdf-free.html)  
   - _Citation preview. Автор: ПОСОБИЕ IT рекрутера. Язиля Насибуллина IT Recruiter / Язиля @Yazilya_n Ценность: настольная книга Время чтения: 120 минут_
 
-### uk.linkedin.com — 2 result(s)
-
-- [Chris Hague - Senior Talent Partner @ Pearson](https://uk.linkedin.com/in/chris-hague-90ab40106)  
-  - _I'm a seasoned Tech Recruitment Ninja, specializing in Product, AI, XR, Deep Tech, Data, Security and Engineering —basically, all the fun stuff shaping the ..._
-- [Alex Gray - Lead Recruiter @ Framer](https://uk.linkedin.com/in/alexanderkgray)  
-  - _Lead Recruiter @ Framer · Experience: Framer · Education: Leeds Beckett University · Location: Newcastle Upon Tyne · 500+ connections on LinkedIn._
-
 ### www.linkedin.com — 2 result(s)
 
 - [Alex Gray posted this](https://www.linkedin.com/posts/alexanderkgray_after-4-years-of-learning-how-to-source-on-activity-7463642361382862848-9AgY)  
-  - _After 4 years of learning how to source on X, I finally had a real reason to use it. We were hiring a Designer and one thing became obvious ..._
+  - _We were hiring a Designer and one thing became obvious quickly: designers use X. They post their work, share their process, build an audience. ..._
 - [Love Boolean search options for switching up your job ...](https://www.linkedin.com/posts/kelseyjohnson_love-boolean-search-options-for-switching-activity-7151545794276335616-phuy)  
   - _Step 1: Copy paste the following boolean searches into Google inurl:careers -inurl:linkedin -inurl:zippia -inurl:indeed -inurl ..._
+
+### www.scribd.com — 2 result(s)
+
+- [Google Search Engine Insights | PDF | Websites](https://www.scribd.com/document/660149566/ERESOURCES)  
+  - _inurl: Search for keywords or phrases in page URLs: • inurl:careers – the word "careers" must appear in the URL. • inurl:directory faculty earth ..._
+- [Google Programmable Search Engine Guide | PDF](https://www.scribd.com/document/883666438/IrinaShamaeva-DavidMichaelGalley-CustomSearch-DiscoverMore-ACompleteGuidetoGoogleProgrammableSearchEngines-CRCPress-2021)  
+  - _inurl: Search for keywords or phrases in page URLs: • inurl:careers – the word "careers" must appear in the URL. • inurl:directory faculty earth ..._
 
 ### x.com — 2 result(s)
 
 - [GitHub](https://x.com/konig0000/status/2092144177920520277)  
-  - _Here are 15 search operators worth saving: 3. inurl: — Search URLs inurl:jobs "software engineer" Search URLs inurl:jobs "software engineer"_
+  - _Here are 15 search operators worth saving: 1. site: 3. inurl: — Search URLs inurl:jobs "software engineer" inurl:jobs "software engineer"_
 - [Krishna (@KrishnaMohanS30) / Posts / X](https://x.com/KrishnaMohanS30)  
   - _Your daily tech career resource. Verified job alerts. Free courses + certifications. AI tools + developer resources. New opportunities daily. Posts._
-
-### afnicareers.com — 1 result(s)
-
-- [Apply Tucson Jobs [Hiring Immediately] | August 2026](https://afnicareers.com/jobs/jobs-in-tucson-az) — `jobs`  
-  - _Our open positions include onsite roles at our Tucson location with paid training, career advancement paths, and benefits including medical, dental, and 401(k)._
-
-### arizonaatwork.com — 1 result(s)
-
-- [Search Jobs | ARIZONA@WORK](https://arizonaatwork.com/find-jobs/search-jobs) — `jobs`  
-  - _Arizona Job Connection (AJC) is a no-cost jobs database for our state's public workforce system. We offer job matching, job vacancy listings, and current labor ..._
 
 ### ascendurepro.com — 1 result(s)
 
@@ -77,19 +47,10 @@ _Engine: serpapi  |  Generated: 2026-08-28T09:29:55.315201+00:00  |  Results: 40
 - [Job Search - CareerForce - Minnesota.gov](https://careerforce.mn.gov/job-search) — `search`  
   - _No information is available for this page._
 
-### careers.oracle.com — 1 result(s)
+### careersourcenortheastflorida.com — 1 result(s)
 
-- [https://careers.oracle.com/sitemaps/careerSitePages](https://careers.oracle.com/sitemaps/careerSitePages) — `careers`  
-
-### dol.ny.gov — 1 result(s)
-
-- [Find a Job | Department of Labor](https://dol.ny.gov/find-job-0)  
-  - _Using New York's Job Bank you can search open job opportunities, post your resume so employers can find you and sign up to receive e-mails about new job ..._
-
-### evalground.com — 1 result(s)
-
-- [Top 8 Job Search Engines Available Currently On The Web](https://evalground.com/blog/top-8-job-search-engines-available-currently-on-the-web/)  
-  - _Currently, there are lots of job search engines in the market but here are the top 8 job search engines available currently on the web._
+- [Find a Job](https://careersourcenortheastflorida.com/find_a_job/)  
+  - _CareerSource NEFL has partnered with Employ Florida, Florida's official online portal for virtual job-matching services, to help you search from hundreds of ..._
 
 ### github.com — 1 result(s)
 
@@ -106,40 +67,90 @@ _Engine: serpapi  |  Generated: 2026-08-28T09:29:55.315201+00:00  |  Results: 40
 - [State of Maryland Job Openings](https://jobapscloud.com/MD/)  
   - _Welcome to the Maryland State Online Employment Center! We appreciate that you are considering opportunities to serve your community and the State._
 
-### jobs.allsearchinc.com — 1 result(s)
+### joblinksonoma.org — 1 result(s)
 
-- [AllSearch Recruiting](https://jobs.allsearchinc.com/)  
-  - _Send us your resume, and we'll find the jobs that are the best match for you. Submit Your Resume._
+- [Job Postings](https://joblinksonoma.org/job-postings/)  
+  - _Job Postings for Employers. The Business and Employment Services Team (BEST) provides postings for job openings, work recruitments, and other hiring events ..._
+
+### jobs.ebayinc.com — 1 result(s)
+
+- [eBay Jobs: Careers at eBay](https://jobs.ebayinc.com/us/en/)  
+  - _From Engineering to Customer Service, we have opportunities in more than a dozen categories to match your experience, interests, and ambitions._
+
+### jobs.google.com — 1 result(s)
+
+- [Job Search on Google - Get Your Job Postings on Google Today](https://jobs.google.com/about/)  
+  - _Google brings together job postings from across the web. Have your job postings found by millions of job seekers who search on Google every day._
+
+### jobs.scworks.org — 1 result(s)
+
+- [SC Works Online Services](https://jobs.scworks.org/)  
+  - _SC Works Online Services - Complete set of employment tools for job seekers in South Carolina. Job seekers and employers access jobs, résumés, education, ..._
+
+### jobs.workable.com — 1 result(s)
+
+- [Jobs By Workable](https://jobs.workable.com/)  
+  - _Search thousands of job openings from global companies hiring right now. Remote or office-based, your perfect job could be waiting for you! · Customer Service ..._
+
+### nccareers.org — 1 result(s)
+
+- [Search for a Job](https://nccareers.org/look-new-job/search-for-a-job) — `search`  
+  - _Start a job search by entering an occupation name or job title and then select a location. Select from Region (this includes State-wide), City, County or Zip ..._
+
+### recruit.com — 1 result(s)
+
+- [Recruit.com](https://recruit.com/)  
+  - _Crafting an Attention-Grabbing Resume A polished and organized resume improves the chances of attracting busy recruiters and employers. You can increase the ..._
+
+### remote.com — 1 result(s)
+
+- [Find remote jobs](https://remote.com/jobs) — `jobs`  
+  - _Say goodbye to endless job searching – create your profile, improve it with AI, and let companies find you with relevant opportunities. Create profile · Browse ..._
 
 ### ru.linkedin.com — 1 result(s)
 
 - [Публикация участника Hopeffer.com](https://ru.linkedin.com/posts/hopeffer_%D0%BA%D0%B0%D1%80%D1%8C%D0%B5%D1%80%D0%BD%D1%8B%D0%B5%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%8Bhopeffer-jobsearch-%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-activity-7399672220358352896-oY9W)  
   - _Как использовать поисковик LinkedIn, чтобы получить оффер?! {1} Добавляйся к людям из локации, где ты хочешь найти работу Например, Кипр, ..._
 
-### tucson.com — 1 result(s)
+### workforindiana.in.gov — 1 result(s)
 
-- [Jobs | tucson.com](https://tucson.com/jobs/) — `jobs`  
-  - _Jobcase will distribute your jobs to 100+ online job boards! Use the buttons below to find out more. Post Online + Print Post Online Only. Powered by._
+- [Work for Indiana - Careers at the State of Indiana](https://workforindiana.in.gov/)  
+  - _Careers Near You ... We're hiring across the entirety of the Hoosier State! Check out our careers by location to see where you can Work for Indiana. Careers by ..._
+
+### worknola.com — 1 result(s)
+
+- [WorkNOLA: Home](https://worknola.com/)  
+  - _WorkNOLA is the leading website for professional employment listings in the Greater New Orleans region. Now powered by Greater New Orleans, Inc., ..._
 
 ### www.careerbuilder.com — 1 result(s)
 
 - [CareerBuilder® - Search Jobs Hiring Now](https://www.careerbuilder.com/)  
   - _Find your next job with CareerBuilder. Browse millions of recent job listings, upload your resume, get job alerts & let employers find you today._
 
-### www.employmentcrossing.com — 1 result(s)
+### www.careersite.com — 1 result(s)
 
-- [Job Search | Largest Collection of Jobs | EmploymentCrossing ...](https://www.employmentcrossing.com/)  
-  - _Find jobs today at EmploymentCrossing.com. We are the only job-opening research institution that offers career opportunities from industries worldwide._
+- [CareerSite.com - thousands of new jobs posted every day!](http://www.careersite.com/)  
+  - _Welcome to CareerSite.com, with thousands of new jobs posted every day and thousands of employers searching for candidates just like you._
+
+### www.chicago.gov — 1 result(s)
+
+- [Jobs Now](https://www.chicago.gov/city/en/narr/misc/jobs/jobsnow.html) — `jobs`  
+  - _The City of Chicago is committed to assisting residents in their pursuit of finding a job. This page contains information on where residents can find job ..._
+
+### www.flexjobs.com — 1 result(s)
+
+- [25 Best Job Search Sites in 2026](https://www.flexjobs.com/blog/post/best-job-search-sites)  
+  - _These 25 job search sites are excellent places to find jobs online. Here's how to find great opportunities, with tips to make sure jobs are ..._
 
 ### www.google.com — 1 result(s)
 
-- [Search for your career at Google.](https://www.google.com/about/careers/applications/) — `careers`  
-  - _Join Google Careers and build what's next, today. Explore career opportunities in engineering, design, sales, hardware, and more. Make a global impact with ..._
+- [How to find the latest job openings on Google before they get ...](https://www.google.com/goto?url=CAESyAEB6zswFdhoDIwQTWdwSJXlNmyTY3P7n6eNl14a4PAJ7Ye8mMaQ8YH8ojQDMwfGBywgUZYxFzrfxDJiMIuEj-DT0jYuKxRU2-Lb5p3pJBcI5FejJ9gy68X-o1bcbogBY724WIMjaYsKSbLYWDvaYk8g3WpPhjbIdezLXjRQ8Pui3N29PV4ApKLayj1c2CitaeL3KC0PI1_Yw3tfh91MrvJsElDMDUNrl755ffelb8nOUsjdOOUoUSr3K6bnfUckT8oJt4loKKlG9w)  
+  - _Step one, go to Google. Step 2, search for your job title plus careers or jobs plus location. Step three, Google will show you matching roles ..._
 
-### www.hirewithnear.com — 1 result(s)
+### www.illinoisworknet.com — 1 result(s)
 
-- [Find Remote Jobs with US Companies](https://www.hirewithnear.com/find-a-job)  
-  - _Hire With Near connects top professionals across Latin America with US companies looking for skilled, English-fluent remote talent._
+- [Job Openings & Recruiting Illinois workNet JobFinder](https://www.illinoisworknet.com/jobfinder)  
+  - _This workforce product was funded by a grant awarded by the U.S. Department of Labor's Employment and Training Administration. The product was created by the ..._
 
 ### www.indeed.com — 1 result(s)
 
@@ -159,24 +170,54 @@ _Engine: serpapi  |  Generated: 2026-08-28T09:29:55.315201+00:00  |  Results: 40
 ### www.jobradar.app — 1 result(s)
 
 - [Master Google Search Operators to Find Hidden ... - Job](https://www.jobradar.app/blog/google-search-operators-for-jobs) — `jobs`  
-  - _Learn advanced Google search operators (dorks) to uncover job listings that most job seekers never see. Find opportunities before they hit ..._
+  - _Learn advanced Google search operators (dorks) to uncover job listings that most job seekers never see._
+
+### www.learnhowtobecome.org — 1 result(s)
+
+- [15 Best Job Search Sites Tailored For Your Career Goals](https://www.learnhowtobecome.org/career-resource-center/15-best-job-search-sites/)  
+  - _Seeking a job? These career sites are a great way to search through positions that can help with everything from entry-level work to career advancement._
 
 ### www.link-assistant.com — 1 result(s)
 
 - [InURL Search Explained](https://www.link-assistant.com/seo-wiki/inurl-search/)  
   - _InURL search is a query technique used to find web pages with specific words or phrases in their URLs with the help of the inurl: operator._
 
-### www.mometrix.com — 1 result(s)
+### www.liveinlou.com — 1 result(s)
 
-- [Top 37 Job Search Websites](https://www.mometrix.com/blog/top-37-job-search-websites/)  
-  - _Learn about the top 37 job websites and job search engines. What you need to know about each job search site and tips to get your best job!_
+- [Employment Opportunities in Louisville KY, Job Openings](https://www.liveinlou.com/work/)  
+  - _Explore our Greater Louisville job board to search for careers in Louisville, KY, including full-time, part-time, temporary, startup jobs, and internships. From ..._
 
-### www.pacareerlink.pa.gov — 1 result(s)
+### www.marketingminer.com — 1 result(s)
 
-- [PA CareerLink Job Search - Commonwealth of Pennsylvania](https://www.pacareerlink.pa.gov/jponline/jobseeker/searchjobs) — `jobs`  
-  - _No information is available for this page._
+- [Understanding the Power of the Google inURL](https://www.marketingminer.com/en/blog/inurl-search-operator)  
+  - _In this blog post, we discuss the Google InURL search operator, how it works, and why it's a useful tool for SEO marketers. inurl search ..._
+
+### www.monster.com — 1 result(s)
+
+- [Browse Job Openings Hiring Now | Monster.com](https://www.monster.com/jobs) — `jobs`  
+  - _Browse millions of job openings by job title, category, company, or location at Monster.com._
+
+### www.ncworks.gov — 1 result(s)
+
+- [Job Seeker Services - Job Search Options - Standard ...](https://www.ncworks.gov/vosnet/jobbanks/jobsearchcriteriaquick.aspx) — `jobs`  
+  - _To create an automated job search (virtual recruiter), select criteria below, perform the search and then save your search at the bottom of the results screen._
+
+### www.nj.gov — 1 result(s)
+
+- [Find a job](https://www.nj.gov/labor/career-services/job-search/)  
+  - _Looking for in-person career services support? Walk into any One-Stop Career Center or request an appointment here. Visit a One-Stop Career Center._
+
+### www.nyc.gov — 1 result(s)
+
+- [Find Jobs, Training, and Career Resources in New York City](https://www.nyc.gov/employment)  
+  - _Explore Jobs NYC for career opportunities, programs, and services designed to support job seekers and employers across New York City._
+
+### www.unlistedjobs.com — 1 result(s)
+
+- [UnlistedJobs: Jobs not found anywhere else](https://www.unlistedjobs.com/)  
+  - _70% of all jobs are not posted publicly, we find them. Access hidden tech jobs directly from company websites. Companies. 200,000+. Active jobs. 405,000+._
 
 ### www.ziprecruiter.com — 1 result(s)
 
-- [New Postings Jobs in Tucson, AZ (NOW HIRING) Aug 26](https://www.ziprecruiter.com/Jobs/New-Postings/-in-Tucson,AZ) — `jobs`  
-  - _Browse 1000+ TUCSON, AZ NEW POSTINGS jobs from companies hiring now. New openings posted daily. Apply early, be seen first & 1-click apply ..._
+- [Job Search: Millions of US Jobs (HIRING NOW) Near You ...](https://www.ziprecruiter.com/)  
+  - _Job Search: Millions of US Jobs (HIRING NOW) Near You - ZipRecruiter._
