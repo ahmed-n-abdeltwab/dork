@@ -1,214 +1,144 @@
 # Job results for: `(inurl:careers OR inurl:jobs) (inurl:open OR inurl:positions OR inurl:listings OR inurl:vacancies OR inurl:search)`
 
-_Engine: serpapi  |  Generated: 2026-08-30T03:35:44.118206+00:00  |  Results: 42_
+_Engine: serpapi  |  Generated: 2026-08-31T03:35:05.782576+00:00  |  Results: 28_
 
 **Search metadata**:
 - source: serpapi
-- fetched: 50
-- deduped: 42
+- fetched: 29
+- deduped: 28
 
 ## Results grouped by domain
 
-### www.google.com — 3 result(s)
+### www.google.com — 2 result(s)
 
-- [How to find the latest job openings on Google before they get ...](https://www.google.com/goto?url=CAESyAEB6zswFQ4temjZVZtGeIERfjcgtehM90aMqoR_yAupTh4ByPxWySyIZejg0ExLF-F4gG1059vU0pbvp3rcbDTur2QzTewUca600_u-Ezy57lrgP4v4Vkgm129Y1QF16Q-6omMWDWz7uwX_gZdhiZ9jStKIatnY2s-TeuAErxt5mrYyM5xkFDQzrm0khGtyfmisO1VFLyf-wRDabMJtQiPB4f2-lrCPp20t_xBKtW8ACppRM5taHyc4U82lgV_qAc2oQ77N5B--JQ)  
+- [How to find the latest job openings on Google before they get ...](https://www.google.com/goto?url=CAESyAEB6zswFf2metZfn2FvMyo_Ck4NDxBge-U4fQIt5VwPqvC2P05QZS4kfQIH1xBeD3sRoYk1svFRHx6GcIZ7vMFxTQYXlLqaQ4-iV5MRxfk7N8gtUjSVhACWs2UD46KhgkWCsaXNGidokG0NDmEzGFmEMsRXaM2o-pE5oOUGgXP2WrtomA32H04hF6wSEzpclfZgJgPnUuwHUxRJsG8b0B9AHjhqIC9nDccKrVkkj7l-Ma10StCu-tkJtpkCyEY3A7oTsyxvF2-IKQ)  
   - _Step one, go to Google. Step 2, search for your job title plus careers or jobs plus location. Use the Find Recruiters tool to reach out ..._
-- [Search for your career at Google.](https://www.google.com/about/careers/applications/) — `careers`  
-  - _Join Google Careers and build what's next, today. Explore career opportunities in engineering, design, sales, hardware, and more. Make a global impact with ..._
-- [Atlanta - Google Careers](https://www.google.com/about/careers/applications/locations/atlanta/) — `careers`  
-  - _Each one of our locations has its own flavor of Googleyness, featuring unique architecture and design, office traditions, and of course, snacks._
+- [Toronto - Google Careers](https://www.google.com/about/careers/applications/locations/toronto/) — `careers`  
+  - _From a single hire in 2001 to 700+ Googlers today, Google Toronto is a regional hub for our Cloud and Ad Sales teams and is also where Marketing, YouTube, ..._
 
-### aiqusolutions.com — 1 result(s)
+### www.ziprecruiter.com — 2 result(s)
 
-- [Apply for Tech & IT Jobs in Dubai, UAE](https://aiqusolutions.com/vacancies) — `vacancies`  
-  - _Explore urgent IT job vacancies in Dubai at AIQU. We are hiring front end developers, software development managers, IT project managers and more._
+- [$15-$38/hr Jobs in Orem, UT (NOW HIRING) Aug 2026](https://www.ziprecruiter.com/Jobs/-in-Orem,UT) — `jobs`  
+  - _Browse 1000+ OREM, UT jobs ($15-$38/hr) from companies hiring now. New openings posted daily. Apply early, be seen first & 1-click apply ..._
+- [All Job Vacancies Jobs in London, ON (NOW HIRING)](https://www.ziprecruiter.com/Jobs/All-Job-Vacancies/-in-London,ON) — `jobs`  
+  - _Browse 885 LONDON, ON ALL JOB VACANCIES jobs from companies hiring now. New openings posted daily. Apply early, be seen first & 1-click apply ..._
 
-### applyre.com — 1 result(s)
+### alabamaworks.workforce.alabama.gov — 1 result(s)
 
-- [Top 200 Job Sites in the US](https://applyre.com/insights/top-200-job-sites-in-the-usa/)  
-  - _CareerBuilder is another long-standing job search platform that offers a vast database of job listings, as well as career advice and resources for job seekers._
+- [alabamaworks.workforce.alabama.gov - Job Search Options](https://alabamaworks.workforce.alabama.gov/vosnet/JobBanks/JobSearchCriteriaQuick.aspx) — `jobs`  
+  - _To create an automated job search (virtual recruiter), select criteria below, perform the search and then save your search at the bottom of the results screen._
 
-### ascendurepro.com — 1 result(s)
+### avahr.com — 1 result(s)
 
-- [25 Best Job Websites in the USA to Find Your Next Job](https://ascendurepro.com/best-job-websites-in-the-usa/)  
-  - _Best Job Websites in the USA for Most Job Seekers · 1. Indeed · 2. LinkedIn Jobs · 3. Glassdoor · 4. ZipRecruiter · 5. Google for Jobs · 6. Monster · 7 ..._
+- [Free Job Posting Sites Atlanta](https://avahr.com/free-job-posting-sites-atlanta/)  
+  - _List of the top free job posting sites in Atlanta, GA. Post your jobs on the best job boards in Atlanta._
 
-### careersourcerc.com — 1 result(s)
+### careerforce.mn.gov — 1 result(s)
 
-- [Search For Jobs](https://careersourcerc.com/job-seekers/services-for-job-seekers/search-for-jobs/) — `search`  
-  - _Search for the right job for you through the CareerSource Research Coast page. Visit our website today to get started._
+- [Job Search - CareerForce - Minnesota.gov](https://careerforce.mn.gov/job-search) — `search`  
+  - _No information is available for this page._
 
-### classifieds.gulfnews.com — 1 result(s)
+### careers.winnipeg.ca — 1 result(s)
 
-- [Find Jobs in Dubai & UAE: Urgent Openings, Top Companies](https://classifieds.gulfnews.com/jobs/) — `jobs`  
-  - _Explore thousands of jobs across Dubai & the UAE! Search by location, salary, industry & more. Apply online to top companies - urgent openings ..._
+- [Search Jobs](https://careers.winnipeg.ca/psc/cgext/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page\u003dHRS_APP_SCHJOB_FL\u0026Action\u003dU)  
+  - _PW-Parks & Open Space Division. Department. PW-Insect Control Branch. Posted Date. 08/27/2026. Job Title. Welder. Job ID. 127314. Location._
 
-### coordinate.ae — 1 result(s)
+### eresponse.gdol.ga.gov — 1 result(s)
 
-- [Top 10 Jobs Portal Sites in Dubai and Abu Dhabi, UAE](https://coordinate.ae/top-10-jobs-portal-sites-dubai-abu-dhabi-uae/)  
-  - _Job sites are playing a most important role for job hunters. Seekers searching jobs in overseas countries for the professional working ..._
+- [Job Openings in Georgia | Job Seekers](https://eresponse.gdol.ga.gov/js/job_info_system.htm)  
+  - _To search the Georgia Department of Labor's job listings by a specific job number, please enter the number below and select the "Start Search" button._
 
-### dol.ny.gov — 1 result(s)
+### jobs.utah.gov — 1 result(s)
 
-- [Find a Job | Department of Labor - NY.Gov](https://dol.ny.gov/find-job-0)  
-  - _Using New York's Job Bank you can search open job opportunities, post your resume so employers can find you and sign up to receive e-mails about new job ..._
+- [Job Seekers - Workforce Services - Utah.gov](https://jobs.utah.gov/jobseeker/) — `jobs`  
+  - _Open the Door to a New Career. Get free help polishing a resume, applying for a job, nailing an interview or connecting to training._
 
-### evalground.com — 1 result(s)
+### joinrise.co — 1 result(s)
 
-- [Top 8 Job Search Engines Available Currently On The Web](https://evalground.com/blog/top-8-job-search-engines-available-currently-on-the-web/)  
-  - _Currently, there are lots of job search engines in the market but here are the top 8 job search engines available currently on the web._
+- [57 All Jobs in Orem Hiring Now (August 2026)](https://joinrise.co/jobs/all/all/orem) — `jobs`  
+  - _Browse 57 exciting jobs hiring now. Apply to positions such as Sales Associate, Marketing Coordinator, Customer Service Representative, and more._
 
-### freejobsindubai.com — 1 result(s)
+### recruitregion.durham.ca — 1 result(s)
 
-- [6,500+ Dubai Jobs 2026 – Latest UAE Vacancies & Walk-In ...](https://freejobsindubai.com/)  
-  - _Welcome to FreeJobsInDubai.com, your trusted platform for finding genuine and up-to-date job opportunities in Dubai and across the UAE._
+- [Search Jobs](https://recruitregion.durham.ca/psc/recruit_rmd/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Action\u003dU\u0026Page\u003dHRS_APP_SCHJOB_FL)  
+  - _Social Services-LTC & SSD. Posted Date. 08/21/2026. Close Date. 09/03/2026. Job Title. Engineering Process Designer. Job ID. 24181. Business Unit._
 
-### gccexchange.com — 1 result(s)
+### theundercoverrecruiter.com — 1 result(s)
 
-- [15 Top and Best Job Search Websites in Dubai – UAE](https://gccexchange.com/blog/15-top-and-best-job-search-websites-in-dubai-uae/)  
-  - _Vacancies.ae is a reliable job portal which provides professional network solution for every Jobseekers and Employers within and outside United ..._
+- [How to Find Hidden Jobs with an Easy Google Search](https://theundercoverrecruiter.com/find-hidden-jobs-google/)  
+  - _Find unadvertised jobs online by using a clever Google search technique. Search corporate Applicant Tracking Systems for jobs with this simple 'hack'._
 
-### georgia.gov — 1 result(s)
+### www.canada.ca — 1 result(s)
 
-- [Find Jobs in Georgia](https://georgia.gov/find-jobs-georgia)  
-  - _Find job opportunities and employment resources across Georgia. WorkSource Georgia, local career centers, and other partners can help you search for jobs, ..._
-
-### groups.google.com — 1 result(s)
-
-- [Jobs in Dubai, UAE](https://groups.google.com/g/jobs-in-dubai) — `jobs`  
-  - _manager.dubai's profile photo. manager.dubai. 10/15/07. Web Developer ; manager.dubai's profile photo. manager.dubai. 10/14/07. Wanted administrators and ..._
-
-### jobs.allsearchinc.com — 1 result(s)
-
-- [AllSearch Recruiting](https://jobs.allsearchinc.com/)  
-  - _Send us your resume, and we'll find the jobs that are the best match for you. Submit Your Resume._
-
-### jobs.google.com — 1 result(s)
-
-- [Job Search on Google - Get Your Job Postings on Google Today](https://jobs.google.com/about/)  
-  - _Google brings together job postings from across the web. Have your job postings found by millions of job seekers who search on Google every day._
-
-### jobs.workable.com — 1 result(s)
-
-- [Jobs By Workable](https://jobs.workable.com/)  
-  - _Search thousands of job openings from global companies hiring right now. Remote or office-based, your perfect job could be waiting for you! · Customer Service ..._
-
-### liveworkmaryland.com — 1 result(s)
-
-- [Maryland Jobs - Quick Search](https://liveworkmaryland.com/work/search-jobs/) — `search`  
-  - _Professionals in tech, life sciences, engineering and life sciences, and more are in high demand in Maryland. Find the right job for you in Maryland._
-
-### nccareers.org — 1 result(s)
-
-- [Search for a Job](https://nccareers.org/look-new-job/search-for-a-job) — `search`  
-  - _Start a job search by entering an occupation name or job title and then select a location. Select from Region (this includes State-wide), City, County or Zip ..._
-
-### recruiter.com — 1 result(s)
-
-- [List of Careers and Occupations | Find Career Opportunities](https://recruiter.com/careers) — `careers`  
-  - _Latest 2023-2024 career data from a list of 1200+ careers and occupations._
-
-### www.asrs.ae — 1 result(s)
-
-- [ASRS](https://www.asrs.ae/)  
-  - _Recruitment Services. Find the perfect fit for your organization with our comprehensive recruitment solutions. We streamline the hiring process, ensuring you ..._
+- [Jobs](https://www.canada.ca/en/services/jobs.html) — `jobs`  
+  - _Search jobs and apprenticeships from employers across Canada, get matched with a job. Government of Canada jobs. Search federal government jobs and hiring ..._
 
 ### www.careerbuilder.com — 1 result(s)
 
 - [CareerBuilder® - Search Jobs Hiring Now](https://www.careerbuilder.com/)  
   - _Find your next job with CareerBuilder. Browse millions of recent job listings, upload your resume, get job alerts & let employers find you today._
 
-### www.colliervilletn.gov — 1 result(s)
+### www.glassdoor.com — 1 result(s)
 
-- [Search for a Job](https://www.colliervilletn.gov/residents/library/i-want-to/search-for-a-job) — `search`  
-  - _Peterson's Career Prep - Search jobs, internships, & more. Free tools for resume and cover letter creation, plus a useful job interview simulation tool. Exam ..._
+- [1823 hiring immediately Jobs in Atlanta, GA, August 2026](https://www.glassdoor.com/Job/atlanta-hiring-immediately-jobs-SRCH_IL.0,7_IC1155583_KO8,26.htm)  
+  - _Search Hiring immediately jobs in Atlanta, GA with company ratings & salaries. 1823 open jobs for Hiring immediately in Atlanta._
 
 ### www.indeed.com — 1 result(s)
 
-- [Indeed: Job Search](https://www.indeed.com/)  
-  - _With Indeed, you can search millions of jobs online to find the next step in your career. With tools for job search, resumes, company reviews and more, ..._
+- [Job Search jobs in Orem, UT](https://www.indeed.com/q-job-search-l-orem,-ut-jobs.html)  
+  - _835 Job Search jobs available in Orem, UT on Indeed.com. Apply to Nursing Assistant, Sales Associate, Customer Service Representative and more!_
 
-### www.jobaaj.com — 1 result(s)
+### www.joblist.com — 1 result(s)
 
-- [78364 jobs in Dubai - Hiring Now](https://www.jobaaj.com/jobs/jobs-in-dubai) — `jobs`  
-  - _Explore 85K+ Latest Jobs for 270+ Profiles & Locations · Quick Overview of Job Vacancies in Dubai · Pay Ranges in Dubai._
+- [Joblist: Find Jobs Anywhere with the Best Job Search Site](https://www.joblist.com/)  
+  - _Your job search is about to end. Joblist is the best place to find a job, aggregating, and personalizing every listing near you so your dream job becomes a ..._
 
 ### www.jobradar.app — 1 result(s)
 
 - [Master Google Search Operators to Find Hidden ... - Job](https://www.jobradar.app/blog/google-search-operators-for-jobs) — `jobs`  
   - _Learn advanced Google search operators (dorks) to uncover job listings that most job seekers never see. Find opportunities before they hit ..._
 
-### www.jobsoid.com — 1 result(s)
+### www.jobs.ca — 1 result(s)
 
-- [Top 5+ Job Posting Sites in the UAE](https://www.jobsoid.com/top-5-job-posting-sites-in-the-uae/amp/)  
-  - _Attracting the right candidates for open positions can take a lot of efforts. Finding talent using traditional methods can be time-consuming and ..._
-
-### www.laborfinders.com — 1 result(s)
-
-- [Jobs in Baltimore, Maryland - Now Hiring](https://www.laborfinders.com/browse-jobs/md/baltimore/)  
-  - _Applying for Baltimore jobs has never been easier with Labor Finders. Simply check the job listings below, click on a job title that interests you and hit the ..._
-
-### www.link-assistant.com — 1 result(s)
-
-- [InURL Search Explained](https://www.link-assistant.com/seo-wiki/inurl-search/)  
-  - _InURL search is a query technique used to find web pages with specific words or phrases in their URLs with the help of the inurl: operator._
+- [Jobs.ca: Jobs in Canada](https://www.jobs.ca/)  
+  - _Search current jobs across Canada from trusted employers. Browse by role, city, workplace type, and salary, then apply on Jobs.ca._
 
 ### www.linkedin.com — 1 result(s)
 
-- [8000+ jobs in Wichita, Kansas Metropolitan Area](https://www.linkedin.com/jobs/jobs-in-wichita-kansas-metropolitan-area) — `jobs`  
-  - _8,000+ Jobs in Wichita, Kansas Metropolitan Area · HR Generalist · NOW HIRING – ALL POSITIONS NOW HIRING – ALL POSITIONS · Drafter · Estimator · Trial Court Clerk ..._
+- [2000+ Jobs Hiring jobs in Orem](https://www.linkedin.com/jobs/jobs-hiring-jobs-orem-ut) — `jobs`  
+  - _2000+ Jobs Hiring jobs in Orem. New Jobs Hiring jobs added daily. Actively Hiring 20 hours ago. Data Analyst (eCommerce Analytics Specialist)_
 
-### www.marketingminer.com — 1 result(s)
+### www.monster.com — 1 result(s)
 
-- [Understanding the Power of the Google inURL](https://www.marketingminer.com/en/blog/inurl-search-operator)  
-  - _The "inurl" search operator is a nifty tool. You can use it in Google search to find pages containing a specific word or phrase in the URL._
+- [Browse Job Openings Hiring Now | Monster.com](https://www.monster.com/jobs) — `jobs`  
+  - _Browse millions of job openings by job title, category, company, or location at Monster.com._
 
-### www.maryland.gov — 1 result(s)
+### www.reddit.com — 1 result(s)
 
-- [Job and Career Support](https://www.maryland.gov/business-and-work/job-and-career-support)  
-  - _Explore job and career resources in Maryland. Find help with a job search, apprenticeships, adult education, and see programs for youth, veterans, ..._
+- ["inurl:" search operator still doesn't work : r/duckduckgo](https://www.reddit.com/r/duckduckgo/comments/8b2jo9/inurl_search_operator_still_doesnt_work/)  
+  - _Hi there, first of all let me say that I LOVE duckduckgo. However, I still use google. The main reason is the lack of the "inurl" search_
 
-### www.mometrix.com — 1 result(s)
+### www.simplyhired.ca — 1 result(s)
 
-- [Top 37 Job Search Websites](https://www.mometrix.com/blog/top-37-job-search-websites/)  
-  - _Learn about the top 37 job websites and job search engines. What you need to know about each job search site and tips to get your best job!_
-
-### www.pacareerlink.pa.gov — 1 result(s)
-
-- [PA CareerLink Job Search - Commonwealth of Pennsylvania](https://www.pacareerlink.pa.gov/jponline/jobseeker/searchjobs) — `jobs`  
-  - _No information is available for this page._
+- [London, On Jobs – 4508 Openings This Week](https://www.simplyhired.ca/search?l\u003dlondon%2C+on) — `search`  
+  - _Secure your next role on SimplyHired.com. Find 4508 job openings in London, On. Check opportunities, estimated salaries and receive job alerts via email._
 
 ### www.simplyhired.com — 1 result(s)
 
-- [SimplyHired: Job Search Engine](https://www.simplyhired.com/)  
-  - _Browse SimplyHired for jobs, view local and national salary information, discover companies, and learn about the job market in a specific city._
+- [Top 69076 Jobs in Atlanta, Ga](https://www.simplyhired.com/search?l\u003datlanta%2C+ga) — `search`  
+  - _69076 jobs available in Atlanta, Ga. See salaries, compare reviews, easily apply, and get hired. New careers in Atlanta, Ga are added daily on ..._
 
-### www.unlistedjobs.com — 1 result(s)
+### www.tn.gov — 1 result(s)
 
-- [UnlistedJobs: Jobs not found anywhere else](https://www.unlistedjobs.com/)  
-  - _70% of all jobs are not posted publicly, we find them. Access hidden tech jobs directly from company websites. Companies. 200,000+. Active jobs. 405,000+._
+- [Job Search](https://www.tn.gov/workforce/jobs-and-education/job-search.html) — `jobs`  
+  - _Jobs4TN.gov gives you an unprecedented number of jobs to search, averaging 400,000 every day, and also helps you build a resume and discover labor market ..._
 
-### www.workonward.com — 1 result(s)
+### www.wrenetwork.ca — 1 result(s)
 
-- [WorkOnward: Local Jobs Near You | Map-Based Job Search](https://www.workonward.com/en)  
-  - _Find jobs near you in minutes — right on the map. Get matched with local jobs in minutes — or hire qualified neighbors within 48 hours._
-
-### www.worksourcegaportal.com — 1 result(s)
-
-- [Job Seeker Services - Job Search Options - Standard ...](https://www.worksourcegaportal.com/vosnet/jobbanks/jobsearchcriteriaquick.aspx) — `jobs`  
-  - _To create an automated job search (virtual recruiter), select criteria below, perform the search and then save your search at the bottom of the results screen._
-
-### www.yellowpages.com — 1 result(s)
-
-- [Employment opportunities in Los Angeles, CA](https://www.yellowpages.com/los-angeles-ca/employment-opportunities)  
-  - _Employment opportunities in Los Angeles, CA · 1.Los Angeles Hospital Employment Center. 2202 S Figueroa St # 230. Los Angeles, CA. 21 Years._
-
-### www.ziprecruiter.com — 1 result(s)
-
-- [$20-$21/hr Jobs in Wichita, KS (NOW HIRING) Aug 2026](https://www.ziprecruiter.com/Jobs/-in-Wichita,KS) — `jobs`  
-  - _Browse 1000+ WICHITA, KS jobs ($20-$21/hr) from companies hiring now. New openings posted daily. Apply early, be seen first & 1-click apply ..._
+- [Job Board](https://www.wrenetwork.ca/jobs/) — `jobs`  
+  - _Cover Letter Generator. Create a professional cover letter quickly and easily. Work From Home Job Board. Browse jobs from across Ontario that may be fully or ..._
 
 ### x.com — 1 result(s)
 
 - [GitHub](https://x.com/konig0000/status/2092144177920520277)  
-  - _Here are 15 search operators worth saving: 3. inurl: — Search URLs inurl:jobs "software engineer" Search URLs inurl:jobs "software engineer"_
+  - _Most people use Google to search. Security researchers use it to search with precision. Here are 15 search operators worth saving: 1. site: ..._
