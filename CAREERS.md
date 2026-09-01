@@ -1,144 +1,167 @@
 # Job results for: `(inurl:careers OR inurl:jobs) (inurl:open OR inurl:positions OR inurl:listings OR inurl:vacancies OR inurl:search)`
 
-_Engine: serpapi  |  Generated: 2026-08-31T03:35:05.782576+00:00  |  Results: 28_
+_Engine: serpapi  |  Generated: 2026-09-01T03:32:42.757286+00:00  |  Results: 34_
 
 **Search metadata**:
 - source: serpapi
-- fetched: 29
-- deduped: 28
+- fetched: 50
+- deduped: 34
 
 ## Results grouped by domain
 
+### ua.linkedin.com — 3 result(s)
+
+- [Ksenia Terebukha – Talent Acquisition Specialist | Genesis](https://ua.linkedin.com/in/kseniaterebukha)  
+  - _Ukrainian full-service recruitment agency from the Genesis ecosystem. Since 2014, we've been supporting top businesses in Ukraine and around the world by hiring ..._
+- [Oleh Yarosh – Student | Passionate about ML & AI](https://ua.linkedin.com/in/oleh-yarosh)  
+  - _Hello, I'm Oleh, an aspiring Deep Learning Researcher and Engineer. With a passion for cutting-edge technology and a relentless drive for innovation, ..._
+- [Олексій Касумов – Системний інженер/DevOps, маю ...](https://ua.linkedin.com/in/oleksii-kasumov-277a65137/uk)  
+  - _Олексій Касумов · Системний інженер/DevOps, маю досвід з Windows та Linux, хмарними сервісами та інформаційною безпекою. Щасливо працевлаштований. За нав' ..._
+
 ### www.google.com — 2 result(s)
 
-- [How to find the latest job openings on Google before they get ...](https://www.google.com/goto?url=CAESyAEB6zswFf2metZfn2FvMyo_Ck4NDxBge-U4fQIt5VwPqvC2P05QZS4kfQIH1xBeD3sRoYk1svFRHx6GcIZ7vMFxTQYXlLqaQ4-iV5MRxfk7N8gtUjSVhACWs2UD46KhgkWCsaXNGidokG0NDmEzGFmEMsRXaM2o-pE5oOUGgXP2WrtomA32H04hF6wSEzpclfZgJgPnUuwHUxRJsG8b0B9AHjhqIC9nDccKrVkkj7l-Ma10StCu-tkJtpkCyEY3A7oTsyxvF2-IKQ)  
+- [How to find the latest job openings on Google before they get ...](https://www.google.com/goto?url=CAESyAEB6zswFZ0AVgXPDYZaL-O2PqZwkNZReSpMJEJPRAVAvnuTjF0UjF5K7crmvABuUV_QO7AxZyaGUJl3wA0fJnTZX_xvQ6rlLEORumRWmLYIG2D-0DkxfxmZVkNXA37MbfCuaCPlbqF_iDvvqeauiDS9SjTm--7Bk3WW6-XMZNBeCyZaZDF-kbHjBV_rnRBnqTsGtWhg0l2K-ZwozgV7WFL1t3spnyPJP91oS7eYlFyqcTXUvM97zcRGBONuSa3vq0bYn97Q1S8qJA)  
   - _Step one, go to Google. Step 2, search for your job title plus careers or jobs plus location. Use the Find Recruiters tool to reach out ..._
-- [Toronto - Google Careers](https://www.google.com/about/careers/applications/locations/toronto/) — `careers`  
-  - _From a single hire in 2001 to 700+ Googlers today, Google Toronto is a regional hub for our Cloud and Ad Sales teams and is also where Marketing, YouTube, ..._
+- [Search for your career at Google.](https://www.google.com/about/careers/applications/) — `careers`  
+  - _Join Google Careers and build what's next, today. Explore career opportunities in engineering, design, sales, hardware, and more. Make a global impact with ..._
 
-### www.ziprecruiter.com — 2 result(s)
+### www.linkedin.com — 2 result(s)
 
-- [$15-$38/hr Jobs in Orem, UT (NOW HIRING) Aug 2026](https://www.ziprecruiter.com/Jobs/-in-Orem,UT) — `jobs`  
-  - _Browse 1000+ OREM, UT jobs ($15-$38/hr) from companies hiring now. New openings posted daily. Apply early, be seen first & 1-click apply ..._
-- [All Job Vacancies Jobs in London, ON (NOW HIRING)](https://www.ziprecruiter.com/Jobs/All-Job-Vacancies/-in-London,ON) — `jobs`  
-  - _Browse 885 LONDON, ON ALL JOB VACANCIES jobs from companies hiring now. New openings posted daily. Apply early, be seen first & 1-click apply ..._
-
-### alabamaworks.workforce.alabama.gov — 1 result(s)
-
-- [alabamaworks.workforce.alabama.gov - Job Search Options](https://alabamaworks.workforce.alabama.gov/vosnet/JobBanks/JobSearchCriteriaQuick.aspx) — `jobs`  
-  - _To create an automated job search (virtual recruiter), select criteria below, perform the search and then save your search at the bottom of the results screen._
-
-### avahr.com — 1 result(s)
-
-- [Free Job Posting Sites Atlanta](https://avahr.com/free-job-posting-sites-atlanta/)  
-  - _List of the top free job posting sites in Atlanta, GA. Post your jobs on the best job boards in Atlanta._
+- [3976000+ Jobs in United States](https://www.linkedin.com/jobs/search) — `jobs`  
+  - _Today's top 3976000+ Jobs jobs in United States. Leverage your professional network, and get hired. New Jobs jobs added daily._
+- [Alex Gray posted this](https://www.linkedin.com/posts/alexanderkgray_after-4-years-of-learning-how-to-source-on-activity-7463642361382862848-9AgY)  
+  - _... inurl:search -inurl:favorites -inurl:status -inurl:statuses -inurl:jobs -inurl:replies -inurl:posts "design" "engineer" ("Ireland" OR ..._
 
 ### careerforce.mn.gov — 1 result(s)
 
 - [Job Search - CareerForce - Minnesota.gov](https://careerforce.mn.gov/job-search) — `search`  
   - _No information is available for this page._
 
-### careers.winnipeg.ca — 1 result(s)
+### careers.oracle.com — 1 result(s)
 
-- [Search Jobs](https://careers.winnipeg.ca/psc/cgext/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page\u003dHRS_APP_SCHJOB_FL\u0026Action\u003dU)  
-  - _PW-Parks & Open Space Division. Department. PW-Insect Control Branch. Posted Date. 08/27/2026. Job Title. Welder. Job ID. 127314. Location._
+- [https://careers.oracle.com/sitemaps/careerSitePages](https://careers.oracle.com/sitemaps/careerSitePages) — `careers`  
 
-### eresponse.gdol.ga.gov — 1 result(s)
+### careersourcenortheastflorida.com — 1 result(s)
 
-- [Job Openings in Georgia | Job Seekers](https://eresponse.gdol.ga.gov/js/job_info_system.htm)  
-  - _To search the Georgia Department of Labor's job listings by a specific job number, please enter the number below and select the "Start Search" button._
+- [Find a Job](https://careersourcenortheastflorida.com/find_a_job/)  
+  - _Florida's official online portal for virtual job-matching services, to help you search from hundreds of jobs available in your area._
 
-### jobs.utah.gov — 1 result(s)
+### jobapscloud.com — 1 result(s)
 
-- [Job Seekers - Workforce Services - Utah.gov](https://jobs.utah.gov/jobseeker/) — `jobs`  
-  - _Open the Door to a New Career. Get free help polishing a resume, applying for a job, nailing an interview or connecting to training._
+- [State of Maryland Job Openings](https://jobapscloud.com/MD/)  
+  - _Welcome to the Maryland State Online Employment Center! We appreciate that you are considering opportunities to serve your community and the State._
 
-### joinrise.co — 1 result(s)
+### jobs.allsearchinc.com — 1 result(s)
 
-- [57 All Jobs in Orem Hiring Now (August 2026)](https://joinrise.co/jobs/all/all/orem) — `jobs`  
-  - _Browse 57 exciting jobs hiring now. Apply to positions such as Sales Associate, Marketing Coordinator, Customer Service Representative, and more._
+- [AllSearch Recruiting](https://jobs.allsearchinc.com/)  
+  - _Send us your resume, and we'll find the jobs that are the best match for you. Submit Your Resume._
 
-### recruitregion.durham.ca — 1 result(s)
+### jobs.google.com — 1 result(s)
 
-- [Search Jobs](https://recruitregion.durham.ca/psc/recruit_rmd/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Action\u003dU\u0026Page\u003dHRS_APP_SCHJOB_FL)  
-  - _Social Services-LTC & SSD. Posted Date. 08/21/2026. Close Date. 09/03/2026. Job Title. Engineering Process Designer. Job ID. 24181. Business Unit._
+- [Job Search on Google - Get Your Job Postings on Google Today](https://jobs.google.com/about/)  
+  - _Google brings together job postings from across the web. Have your job postings found by millions of job seekers who search on Google every day._
 
-### theundercoverrecruiter.com — 1 result(s)
+### jobs.workable.com — 1 result(s)
 
-- [How to Find Hidden Jobs with an Easy Google Search](https://theundercoverrecruiter.com/find-hidden-jobs-google/)  
-  - _Find unadvertised jobs online by using a clever Google search technique. Search corporate Applicant Tracking Systems for jobs with this simple 'hack'._
+- [Jobs By Workable](https://jobs.workable.com/)  
+  - _Search thousands of job openings from global companies hiring right now. Remote or office-based, your perfect job could be waiting for you! · Customer Service ..._
 
-### www.canada.ca — 1 result(s)
+### ru.linkedin.com — 1 result(s)
 
-- [Jobs](https://www.canada.ca/en/services/jobs.html) — `jobs`  
-  - _Search jobs and apprenticeships from employers across Canada, get matched with a job. Government of Canada jobs. Search federal government jobs and hiring ..._
+- [Публикация участника Hopeffer.com](https://ru.linkedin.com/posts/hopeffer_%D0%BA%D0%B0%D1%80%D1%8C%D0%B5%D1%80%D0%BD%D1%8B%D0%B5%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%8Bhopeffer-jobsearch-%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-activity-7399672220358352896-oY9W)  
+  - _Как использовать поисковик LinkedIn, чтобы получить оффер?! {1} Добавляйся к людям из локации, где ты хочешь найти работу Например, Кипр, ..._
+
+### worknola.com — 1 result(s)
+
+- [WorkNOLA: Home](https://worknola.com/)  
+  - _WorkNOLA is the leading website for professional employment listings in the Greater New Orleans region. Now powered by Greater New Orleans, Inc., ..._
 
 ### www.careerbuilder.com — 1 result(s)
 
 - [CareerBuilder® - Search Jobs Hiring Now](https://www.careerbuilder.com/)  
   - _Find your next job with CareerBuilder. Browse millions of recent job listings, upload your resume, get job alerts & let employers find you today._
 
-### www.glassdoor.com — 1 result(s)
+### www.careersite.com — 1 result(s)
 
-- [1823 hiring immediately Jobs in Atlanta, GA, August 2026](https://www.glassdoor.com/Job/atlanta-hiring-immediately-jobs-SRCH_IL.0,7_IC1155583_KO8,26.htm)  
-  - _Search Hiring immediately jobs in Atlanta, GA with company ratings & salaries. 1823 open jobs for Hiring immediately in Atlanta._
+- [CareerSite.com - thousands of new jobs posted every day!](https://www.careersite.com/)  
+  - _Welcome to CareerSite.com, with thousands of new jobs posted every day and thousands of employers searching for candidates just like you._
 
 ### www.indeed.com — 1 result(s)
 
-- [Job Search jobs in Orem, UT](https://www.indeed.com/q-job-search-l-orem,-ut-jobs.html)  
-  - _835 Job Search jobs available in Orem, UT on Indeed.com. Apply to Nursing Assistant, Sales Associate, Customer Service Representative and more!_
+- [Indeed: Job Search](https://www.indeed.com/)  
+  - _With Indeed, you can search millions of jobs online to find the next step in your career. With tools for job search, resumes, company reviews and more, ..._
 
-### www.joblist.com — 1 result(s)
+### www.inhersight.com — 1 result(s)
 
-- [Joblist: Find Jobs Anywhere with the Best Job Search Site](https://www.joblist.com/)  
-  - _Your job search is about to end. Joblist is the best place to find a job, aggregating, and personalizing every listing near you so your dream job becomes a ..._
+- [A Comprehensive List of Job Search Sites](https://www.inhersight.com/blog/guide/job-search-sites)  
+  - _A comprehensive list of all the places online you can search for jobs, find freelance work, get matched to employers, or find flexible work opportunities._
+
+### www.jacksonville.gov — 1 result(s)
+
+- [Current Job Openings](https://www.jacksonville.gov/departments/employee-services/current-job-openings)  
+  - _Welcome to the City of Jacksonville application page. Click the Open Positions … to browse our job opportunities or create an account at www.governmentjobs.com_
 
 ### www.jobradar.app — 1 result(s)
 
 - [Master Google Search Operators to Find Hidden ... - Job](https://www.jobradar.app/blog/google-search-operators-for-jobs) — `jobs`  
   - _Learn advanced Google search operators (dorks) to uncover job listings that most job seekers never see. Find opportunities before they hit ..._
 
-### www.jobs.ca — 1 result(s)
+### www.jobs.now — 1 result(s)
 
-- [Jobs.ca: Jobs in Canada](https://www.jobs.ca/)  
-  - _Search current jobs across Canada from trusted employers. Browse by role, city, workplace type, and salary, then apply on Jobs.ca._
+- [JOBS.NOW](https://www.jobs.now/)  
+  - _JOBS.NOW job board. Connecting the best jobs with top talent._
 
-### www.linkedin.com — 1 result(s)
+### www.learnhowtobecome.org — 1 result(s)
 
-- [2000+ Jobs Hiring jobs in Orem](https://www.linkedin.com/jobs/jobs-hiring-jobs-orem-ut) — `jobs`  
-  - _2000+ Jobs Hiring jobs in Orem. New Jobs Hiring jobs added daily. Actively Hiring 20 hours ago. Data Analyst (eCommerce Analytics Specialist)_
+- [15 Best Job Search Sites Tailored For Your Career Goals](https://www.learnhowtobecome.org/career-resource-center/15-best-job-search-sites/)  
+  - _Seeking a job? These career sites are a great way to search through positions that can help with everything from entry-level work to career advancement._
 
-### www.monster.com — 1 result(s)
+### www.link-assistant.com — 1 result(s)
 
-- [Browse Job Openings Hiring Now | Monster.com](https://www.monster.com/jobs) — `jobs`  
-  - _Browse millions of job openings by job title, category, company, or location at Monster.com._
+- [InURL Search Explained](https://www.link-assistant.com/seo-wiki/inurl-search/)  
+  - _InURL search is a query technique used to find web pages with specific words or phrases in their URLs with the help of the inurl: operator._
 
-### www.reddit.com — 1 result(s)
+### www.marketingminer.com — 1 result(s)
 
-- ["inurl:" search operator still doesn't work : r/duckduckgo](https://www.reddit.com/r/duckduckgo/comments/8b2jo9/inurl_search_operator_still_doesnt_work/)  
-  - _Hi there, first of all let me say that I LOVE duckduckgo. However, I still use google. The main reason is the lack of the "inurl" search_
+- [Understanding the Power of the Google inURL: Search ...](https://www.marketingminer.com/en/blog/inurl-search-operator)  
+  - _In this blog post, we discuss the Google InURL search operator, how it works, and why it's a useful tool for SEO marketers. inurl search ..._
 
-### www.simplyhired.ca — 1 result(s)
+### www.mometrix.com — 1 result(s)
 
-- [London, On Jobs – 4508 Openings This Week](https://www.simplyhired.ca/search?l\u003dlondon%2C+on) — `search`  
-  - _Secure your next role on SimplyHired.com. Find 4508 job openings in London, On. Check opportunities, estimated salaries and receive job alerts via email._
+- [Top 37 Job Search Websites](https://www.mometrix.com/blog/top-37-job-search-websites/)  
+  - _Learn about the top 37 job websites and job search engines. What you need to know about each job search site and tips to get your best job!_
+
+### www.ncworks.gov — 1 result(s)
+
+- [Job Seeker Services - Job Search Options - Standard ...](https://www.ncworks.gov/vosnet/jobbanks/jobsearchcriteriaquick.aspx) — `jobs`  
+  - _To create an automated job search (virtual recruiter), select criteria below, perform the search and then save your search at the bottom of the results screen._
+
+### www.roberthalf.com — 1 result(s)
+
+- [25 Job Search Sites and Job Boards, Starting With Ours](https://www.roberthalf.com/us/en/insights/landing-job/best-job-search-sites-job-boards)  
+  - _Discover a list of job search sites that can be your first step to finding your next great role, including an introduction to Robert Half's ..._
+
+### www.scribd.com — 1 result(s)
+
+- [SEO Strategies for Online Retail Sites | PDF](https://www.scribd.com/document/978299081/10k-Shopping-Dorks-CrackerzHub)  
+  - _The document contains a series of search queries combining various keywords and site-specific parameters, likely intended for web scraping or data ..._
 
 ### www.simplyhired.com — 1 result(s)
 
-- [Top 69076 Jobs in Atlanta, Ga](https://www.simplyhired.com/search?l\u003datlanta%2C+ga) — `search`  
-  - _69076 jobs available in Atlanta, Ga. See salaries, compare reviews, easily apply, and get hired. New careers in Atlanta, Ga are added daily on ..._
+- [SimplyHired: Job Search Engine](https://www.simplyhired.com/)  
+  - _Browse SimplyHired for jobs, view local and national salary information, discover companies, and learn about the job market in a specific city._
 
-### www.tn.gov — 1 result(s)
+### www.unlistedjobs.com — 1 result(s)
 
-- [Job Search](https://www.tn.gov/workforce/jobs-and-education/job-search.html) — `jobs`  
-  - _Jobs4TN.gov gives you an unprecedented number of jobs to search, averaging 400,000 every day, and also helps you build a resume and discover labor market ..._
+- [UnlistedJobs: Jobs not found anywhere else](https://www.unlistedjobs.com/)  
+  - _70% of all jobs are not posted publicly, we find them. Access hidden tech jobs directly from company websites. Companies. 200,000+. Active jobs. 405,000+._
 
-### www.wrenetwork.ca — 1 result(s)
+### www.workonward.com — 1 result(s)
 
-- [Job Board](https://www.wrenetwork.ca/jobs/) — `jobs`  
-  - _Cover Letter Generator. Create a professional cover letter quickly and easily. Work From Home Job Board. Browse jobs from across Ontario that may be fully or ..._
+- [WorkOnward: Local Jobs Near You | Map-Based Job Search](https://www.workonward.com/en)  
+  - _Find jobs near you in minutes — right on the map. Get matched with local jobs in minutes — or hire qualified neighbors within 48 hours._
 
 ### x.com — 1 result(s)
 
 - [GitHub](https://x.com/konig0000/status/2092144177920520277)  
-  - _Most people use Google to search. Security researchers use it to search with precision. Here are 15 search operators worth saving: 1. site: ..._
+  - _Here are 15 search operators worth saving: 3. inurl: — Search URLs inurl:jobs "software engineer" Search URLs inurl:jobs "software engineer"_
