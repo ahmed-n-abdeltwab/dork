@@ -1,150 +1,195 @@
 # Job results for: `(inurl:careers OR inurl:jobs) (inurl:open OR inurl:positions OR inurl:listings OR inurl:vacancies OR inurl:search)`
 
-_Engine: serpapi  |  Generated: 2026-09-02T02:52:25.259547+00:00  |  Results: 36_
+_Engine: serpapi  |  Generated: 2026-09-03T02:55:09.138201+00:00  |  Results: 47_
 
 **Search metadata**:
 - source: serpapi
 - fetched: 50
-- deduped: 36
+- deduped: 47
 
 ## Results grouped by domain
 
-### ua.linkedin.com — 3 result(s)
+### www.google.com — 2 result(s)
 
-- [Ksenia Terebukha – Talent Acquisition Specialist | Genesis](https://ua.linkedin.com/in/kseniaterebukha)  
-  - _Ukrainian full-service recruitment agency from the Genesis ecosystem. Since 2014, we've been supporting top businesses in Ukraine and around the world by hiring ..._
-- [Oleh Yarosh – Student | Passionate about ML & AI](https://ua.linkedin.com/in/oleh-yarosh)  
-  - _Hello, I'm Oleh, an aspiring Deep Learning Researcher and Engineer. With a passion for cutting-edge technology and a relentless drive for innovation, ..._
-- [Олексій Касумов – Системний інженер/DevOps, маю ...](https://ua.linkedin.com/in/oleksii-kasumov-277a65137/uk)  
-  - _Олексій Касумов · Системний інженер/DevOps, маю досвід з Windows та Linux, хмарними сервісами та інформаційною безпекою. Щасливо працевлаштований. За нав' ..._
+- [How to find the latest job openings on Google before they get ...](https://www.google.com/goto?url=CAESyAEB6zswFbHY9zJDyftFzYV0BAqkQrQUkmYnA6a1GhHysXBYGQErkYvp4DNUiIfIDTUjkSBQdyKHlMKjcHymmggP54jMzogwbUbAK-5h_0V_xwK5Gaaksqg8euh1qaz_l04QZnIyGP0nZRaer1JO3el0WWj-_1suZzpSzYEUOtmI6CQohucIIiR3XQx7brJEIMDjOx8_9hwai-tsMbQXbaQAUDmRqgMLmj44RDYXqXin00QXLipdsEhl5KstXTuozwvo6gOboIACeg)  
+  - _Jobsearch Hack finds the latest job posts in seconds. Step one, go to Google. Step 2, search for your job title plus careers or jobs plus ..._
+- [Atlanta - Google Careers](https://www.google.com/about/careers/applications/locations/atlanta/) — `careers`  
+  - _Each one of our locations has its own flavor of Googleyness, featuring unique architecture and design, office traditions, and of course, snacks._
 
-### pdfcoffee.com — 2 result(s)
+### ae.jobsora.com — 1 result(s)
 
-- [300 Best Boolean Strings](https://pdfcoffee.com/download/300-best-boolean-strings-5-pdf-free.html)  
-  - _inurl: Search for keywords or phrases in page URL's (shown as green text in Google search results):. [inurl:careers] the word careers must appear in the URL._
-- [Пособие It Рекрутера](https://pdfcoffee.com/-it--4-pdf-free.html)  
-  - _Citation preview. Автор: ПОСОБИЕ IT рекрутера. Язиля Насибуллина IT Recruiter / Язиля @Yazilya_n Ценность: настольная книга Время чтения: 120 минут_
+- [Urgent! Jobs in Dubai - 138511 current vacancies](https://ae.jobsora.com/jobs-dubai) — `jobs`  
+  - _Search 1000s jobs in Dubai and apply for the vacancy in seconds with Jobsora.com! Start your new career with us today!_
 
-### www.linkedin.com — 2 result(s)
+### aiqusolutions.com — 1 result(s)
 
-- [26000+ jobs in Cleveland](https://www.linkedin.com/jobs/jobs-in-cleveland-oh) — `jobs`  
-  - _Today's top 26000+ jobs in Cleveland. Leverage your professional network, and get hired. New Cleveland jobs added daily._
-- [Love Boolean search options for switching up your job ...](https://www.linkedin.com/posts/kelseyjohnson_love-boolean-search-options-for-switching-activity-7151545794276335616-phuy)  
-  - _Step 1: Copy paste the following boolean searches into Google inurl:careers -inurl:linkedin -inurl:zippia -inurl:indeed -inurl ..._
+- [Apply for Tech & IT Jobs in Dubai, UAE](https://aiqusolutions.com/vacancies) — `vacancies`  
+  - _Explore urgent IT job vacancies in Dubai at AIQU. We are hiring front end developers, software development managers, IT project managers and more._
 
-### www.scribd.com — 2 result(s)
+### applyre.com — 1 result(s)
 
-- [Google Search Engine Insights | PDF | Websites](https://www.scribd.com/document/660149566/ERESOURCES)  
-  - _inurl: Search for keywords or phrases in page URLs: • inurl:careers – the word "careers" must appear in the URL. • inurl:directory faculty earth ..._
-- [Google Programmable Search Engine Guide | PDF](https://www.scribd.com/document/883666438/IrinaShamaeva-DavidMichaelGalley-CustomSearch-DiscoverMore-ACompleteGuidetoGoogleProgrammableSearchEngines-CRCPress-2021)  
-  - _inurl: Search for keywords or phrases in page URLs: • inurl:careers – the word "careers" must appear in the URL. • inurl:directory faculty earth ..._
+- [Top 200 Job Sites in the US](https://applyre.com/insights/top-200-job-sites-in-the-usa/)  
+  - _CareerBuilder is another long-standing job search platform that offers a vast database of job listings, as well as career advice and resources for job seekers._
 
-### www.ziprecruiter.com — 2 result(s)
+### atlworks.org — 1 result(s)
 
-- [Google Search Jobs in Cleveland, OH (NOW HIRING)](https://www.ziprecruiter.com/Jobs/Google-Search/-in-Cleveland,OH) — `jobs`  
-  - _Browse 96 CLEVELAND, OH GOOGLE SEARCH jobs ($61k-$97k) hiring now. New openings posted daily. Apply early, get seen first & 1-click apply ..._
-- [Job Search: Millions of US Jobs (HIRING NOW) Near You ...](https://www.ziprecruiter.com/)  
-  - _Millions of US Jobs (HIRING NOW) Near You. Rated #1 job site in the U.S. These jobs let you add a short note to your application. Seekers Small & Medium ..._
+- [Find a Job Now - WorkSource - ATLWorks.org](https://atlworks.org/job-seekers/)  
+  - _Find work that works for you · All jobseekers have access to free employment services, including: · Use of Resource Room · Workshops & Webinars · Skill and Interest ..._
 
-### careerforce.mn.gov — 1 result(s)
+### builtin.com — 1 result(s)
 
-- [Job Search - CareerForce - Minnesota.gov](https://careerforce.mn.gov/job-search) — `search`  
-  - _No information is available for this page._
+- [Built In: Job Search & Company Research](https://builtin.com/)  
+  - _Built In is a top destination for highly skilled professionals around the world. Our platform features real-time job listings and company profiles with rich ..._
 
-### cuyahogacounty.gov — 1 result(s)
+### careersourcebroward.com — 1 result(s)
 
-- [Employment Opportunities in Cuyahoga County Departments](https://cuyahogacounty.gov/i-want-to-contact/employment-opportunities-in-cuyahoga-county-departments)  
-  - _Popular link 5 title : Popular link 5 url : Come join the Cuyahoga County Team where you can find available jobs that fit you. Apply online!_
+- [Find a job | Broward County, Florida](https://careersourcebroward.com/career-seekers/find-a-job)  
+  - _Through the online portal, you can apply for jobs, set up automatic job posting notifications, upload your résumé, research training and education opportunities ..._
 
-### github.com — 1 result(s)
+### careersourcerc.com — 1 result(s)
 
-- [README.md - Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet/blob/main/README.md)  
-  - _inurl: Search for specific urls or paths; intext: Search for specific words or contects; filetype: Search for files; site: Search from a specified target ..._
+- [Search For Jobs](https://careersourcerc.com/job-seekers/services-for-job-seekers/search-for-jobs/) — `search`  
+  - _Search for the right job for you through the CareerSource Research Coast page. Visit our website today to get started._
 
-### h3brasil.wordpress.com — 1 result(s)
+### coordinate.ae — 1 result(s)
 
-- [Comandos para encontrar vulnerabilidades de SQL em SITES](https://h3brasil.wordpress.com/2015/04/09/comandos-para-encontrar-vulnerabilidades-de-sql-em-sites/)  
-  - _Olá Mundo,aqui vai uns comandos para “encontrar” possíveis falhas de SQL. Lembrando que quando estiver no site,coloque aspas simples ..._
+- [Top 10 Jobs Portal Sites in Dubai and Abu Dhabi, UAE](https://coordinate.ae/top-10-jobs-portal-sites-dubai-abu-dhabi-uae/)  
+  - _Job sites are playing a most important role for job hunters. Seekers searching jobs in overseas countries for the professional working ..._
+
+### dol.ny.gov — 1 result(s)
+
+- [Find a Job | Department of Labor - NY.Gov](https://dol.ny.gov/find-job-0)  
+  - _Using New York's Job Bank you can search open job opportunities, post your resume so employers can find you and sign up to receive e-mails about new job ..._
+
+### freejobsindubai.com — 1 result(s)
+
+- [6,500+ Dubai Jobs 2026 – Latest UAE Vacancies & Walk-In ...](https://freejobsindubai.com/)  
+  - _Welcome to FreeJobsInDubai.com, your trusted platform for finding genuine and up-to-date job opportunities in Dubai and across the UAE._
+
+### gccexchange.com — 1 result(s)
+
+- [15 Top and Best Job Search Websites in Dubai – UAE](https://gccexchange.com/blog/15-top-and-best-job-search-websites-in-dubai-uae/)  
+  - _Vacancies.ae is a reliable job portal which provides professional network solution for every Jobseekers and Employers within and outside United ..._
+
+### idahoworks.gov — 1 result(s)
+
+- [Welcome, Job Seeker!](https://idahoworks.gov/job_seeker)  
+  - _With a job seeker account you can: Perform and save advanced searches to find the job that's perfect for you. Create and post an unlimited number of resumes ..._
+
+### jobcenterofwisconsin.com — 1 result(s)
+
+- [Search for Jobs](https://jobcenterofwisconsin.com/presentation/jobseekers/JobSearch.aspx) — `jobs`  
+  - _Job Search allows job seekers to search job openings available in Wisconsin and its bordering counties._
 
 ### joblinksonoma.org — 1 result(s)
 
 - [Job Postings](https://joblinksonoma.org/job-postings/)  
   - _Job Postings for Employers. The Business and Employment Services Team (BEST) provides postings for job openings, work recruitments, and other hiring events ..._
 
-### jobs.crainscleveland.com — 1 result(s)
+### jobs.google.com — 1 result(s)
 
-- [Career Center](https://jobs.crainscleveland.com/home/index.cfm)  
-  - _Crains Cleveland offers the top jobs available in Cleveland. Search and apply to open positions or post jobs on Crains Cleveland now. us at 860-437-5700,_
+- [Job Search on Google - Get Your Job Postings on Google Today](https://jobs.google.com/about/)  
+  - _Google brings together job postings from across the web. Have your job postings found by millions of job seekers who search on Google every day._
+
+### jobs.mo.gov — 1 result(s)
+
+- [Job Seekers | JobsMoGov - Missouri Job Center](https://jobs.mo.gov/jobseeker) — `jobs`  
+  - _If you have lost your job, want to change careers, or are new to the job search, how do you decide where to start the job hunt? We're here to help!_
 
 ### jobs.scworks.org — 1 result(s)
 
 - [SC Works Online Services](https://jobs.scworks.org/)  
   - _SC Works Online Services - Complete set of employment tools for job seekers in South Carolina. Job seekers and employers access jobs, résumés, education, ..._
 
-### ohiomeansjobs.ohio.gov — 1 result(s)
+### jobs.workable.com — 1 result(s)
 
-- [Find a job in Ohio - OhioMeansJobs](https://ohiomeansjobs.ohio.gov/job-seekers/find-a-job)  
-  - _Searching for a great position on OhioMeansJobs.com is easy. Filter career opportunities by Location, Salary, & More! Find a New Job! Find a State Job!_
+- [Jobs By Workable](https://jobs.workable.com/)  
+  - _Search thousands of job openings from global companies hiring right now. Remote or office-based, your perfect job could be waiting for you! · Customer Service ..._
 
-### ru.linkedin.com — 1 result(s)
+### recruit.com — 1 result(s)
 
-- [Публикация участника Hopeffer.com](https://ru.linkedin.com/posts/hopeffer_%D0%BA%D0%B0%D1%80%D1%8C%D0%B5%D1%80%D0%BD%D1%8B%D0%B5%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%8Bhopeffer-jobsearch-%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-activity-7399672220358352896-oY9W)  
-  - _Как использовать поисковик LinkedIn, чтобы получить оффер?! {1} Добавляйся к людям из локации, где ты хочешь найти работу Например, Кипр, ..._
+- [Recruit.com](https://recruit.com/)  
+  - _Crafting an Attention-Grabbing Resume A polished and organized resume improves the chances of attracting busy recruiters and employers. You can increase the ..._
 
-### uk.linkedin.com — 1 result(s)
+### work4.illinois.gov — 1 result(s)
 
-- [Chris Hague - Senior Talent Partner @ Pearson](https://uk.linkedin.com/in/chris-hague-90ab40106)  
-  - _I'm a seasoned Tech Recruitment Ninja, specializing in Product, AI, XR, Deep Tech, Data, Security and Engineering —basically, all the fun stuff shaping the ..._
+- [State of Illinois Employment Opportunities](https://work4.illinois.gov/)  
+  - _The State of Illinois has fulfilling career opportunities in a variety of public service sectors including but not limited to: Public Safety, Human Services, ..._
+
+### www.arjoblink.arkansas.gov — 1 result(s)
+
+- [Arkansas JobLink - Arkansas JobLink](https://www.arjoblink.arkansas.gov/)  
+  - _Use filters to find your dream job and save your search or apply right away. ... Upload your resume or make a new one from scratch with our resume wizard._
+
+### www.biginterview.com — 1 result(s)
+
+- [The 50 Best Job Search Sites You Need to Know About](https://www.biginterview.com/resources/best-job-search-sites)  
+  - _This job search website is designed for early to mid-career candidates with 0-15 years of professional experience in non-technical roles to find jobs at ..._
 
 ### www.careerbuilder.com — 1 result(s)
 
 - [CareerBuilder® - Search Jobs Hiring Now](https://www.careerbuilder.com/)  
   - _Find your next job with CareerBuilder. Browse millions of recent job listings, upload your resume, get job alerts & let employers find you today._
 
-### www.chicago.gov — 1 result(s)
+### www.careersite.com — 1 result(s)
 
-- [Jobs Now](https://www.chicago.gov/city/en/narr/misc/jobs/jobsnow.html) — `jobs`  
-  - _This page contains information on where residents can find job opportunities in the public, private, and nonprofit sectors._
+- [CareerSite.com - thousands of new jobs posted every day!](https://www.careersite.com/)  
+  - _Welcome to CareerSite.com, with thousands of new jobs posted every day and thousands of employers searching for candidates just like you._
 
-### www.colliervilletn.gov — 1 result(s)
+### www.foundit.in — 1 result(s)
 
-- [Search for a Job | Collierville, TN](https://www.colliervilletn.gov/residents/library/i-want-to/search-for-a-job) — `search`  
-  - _Peterson's Career Prep - Search jobs, internships, & more. Free tools for resume and cover letter creation, plus a useful job interview simulation tool. Exam ..._
+- [29982 Latest Job Vacancies in Uae 31 August 2026](https://www.foundit.in/search/jobs-in-uae) — `jobs`  
+  - _Jobs in Uae · PGTR HUB Heavy Lift Sourcing Specialist · BIM Modeller · Digital Project Manager · Store Associate (UAE National) · Admin Officer · Senior ..._
 
-### www.flexjobs.com — 1 result(s)
+### www.hirewithnear.com — 1 result(s)
 
-- [25 Best Job Search Sites in 2026](https://www.flexjobs.com/blog/post/best-job-search-sites)  
-  - _To help you find the best online job sites for you, we're highlighting 25 top job search engines and job boards below, along with the unique ..._
-
-### www.google.com — 1 result(s)
-
-- [How to find the latest job openings on Google before they get ...](https://www.google.com/goto?url=CAESyAEB6zswFW73n36B1VVg7pzrw2g3JOJfw5jGQXu2WUi_CfYfVGsJUoyxXgM4aS6UBi_FDrK3jjztjQUbmT_UkQZrTKmxq6lUf15VBFZT9A7aymNiC2OZUouTcT3ckuUXy9J6D9DldUjlapytP9-UhZIAhQMN5WgEcml634bU9WrtODvWVFWRVRcycN-pYNd11uxS4EIdAKiNIOrN4ve7JxNIj7LlEZnH2emzAUNNZgBMVA9GDDuU7Q8UhLBfdGyn0wv0ZN-hy8cxFg)  
-  - _Step one, go to Google. Step 2, search for your job title plus careers or jobs plus location. Use the Find Recruiters tool to reach out ..._
-
-### www.illinoisworknet.com — 1 result(s)
-
-- [Job Openings & Recruiting Illinois workNet JobFinder](https://www.illinoisworknet.com/Jobs/Pages/JobFinder.aspx) — `jobs`  
-  - _URL Senior Manager, Product Management - Developer Experience. SAP Commodity Solutions Senor Consultant Deloitte Chicago, IL … 1st Shift CNC Specialist. ..._
-
-### www.inc.com — 1 result(s)
-
-- [The 16 Best Job Search Engines in 2019 - Inc. Magazine](https://www.inc.com/larry-kim/the-16-best-job-search-engines-in-2019.html)  
-  - _This website features job openings, company profiles and reviews, salary listings, and so on. Indeed was designed to connect job seekers and ..._
+- [Find Remote Jobs with US Companies](https://www.hirewithnear.com/find-a-job)  
+  - _Hire With Near connects top professionals across Latin America with US companies looking for skilled, English-fluent remote talent._
 
 ### www.indeed.com — 1 result(s)
 
-- [Search Jobs, Employment in Cleveland, OH](https://www.indeed.com/q-search-l-cleveland,-oh-jobs.html)  
-  - _New openings added daily. Conduct rounds, security checks, and perform searches as needed. Cleveland, OH $22.00 - $25.85 an hour. Compensation: $75,000–$85,000 ..._
+- [Indeed: Job Search](https://www.indeed.com/)  
+  - _With Indeed, you can search millions of jobs online to find the next step in your career. With tools for job search, resumes, company reviews and more, ..._
 
-### www.instagram.com — 1 result(s)
+### www.jacksonville.gov — 1 result(s)
 
-- [Шановні рекрутери і сорсери, чи фіксуєте ви якось ...](https://www.instagram.com/p/C6GnVk8KfoK/)  
-  - _Шановні рекрутери і сорсери, чи фіксуєте ви якось інформацію про кандидатів, які вам зараз самостійно пишуть? Я - завжди!_
+- [Current Job Openings](https://www.jacksonville.gov/departments/employee-services/current-job-openings)  
+  - _Welcome to the City of Jacksonville application page. Thank you for selecting the City of Jacksonville as your potential employer. Click the Open Positions ..._
+
+### www.jobaaj.com — 1 result(s)
+
+- [78364 jobs in Dubai - Hiring Now](https://www.jobaaj.com/jobs/jobs-in-dubai) — `jobs`  
+  - _Explore 85K+ Latest Jobs for 270+ Profiles & Locations · Quick Overview of Job Vacancies in Dubai · Pay Ranges in Dubai._
+
+### www.joblist.com — 1 result(s)
+
+- [Joblist: Find Jobs Anywhere with the Best Job Search Site](https://www.joblist.com/)  
+  - _Your job search is about to end. Joblist is the best place to find a job, aggregating, and personalizing every listing near you so your dream job becomes a ..._
 
 ### www.jobradar.app — 1 result(s)
 
 - [Master Google Search Operators to Find Hidden ... - Job](https://www.jobradar.app/blog/google-search-operators-for-jobs) — `jobs`  
   - _Learn advanced Google search operators (dorks) to uncover job listings that most job seekers never see. Find opportunities before they hit ..._
+
+### www.jobsoid.com — 1 result(s)
+
+- [Top 5+ Job Posting Sites in the UAE](https://www.jobsoid.com/top-5-job-posting-sites-in-the-uae/amp/)  
+  - _Attracting the right candidates for open positions can take a lot of efforts. Finding talent using traditional methods can be time-consuming and ..._
+
+### www.jobspider.com — 1 result(s)
+
+- [JobSpider | Free Job Posting in the US and Canada](https://www.jobspider.com/)  
+  - _Post unlimited job openings for free across the United States and Canada. JobSpider is the 100% free job board for employers to hire local talent and job ..._
+
+### www.linkedin.com — 1 result(s)
+
+- [Alex Gray posted this](https://www.linkedin.com/posts/alexanderkgray_after-4-years-of-learning-how-to-source-on-activity-7463642361382862848-9AgY)  
+  - _After 4 years of learning how to source on X, I finally had a real reason to use it. We were hiring a Designer and one thing became obvious ..._
+
+### www.liveinlou.com — 1 result(s)
+
+- [Employment Opportunities in Louisville KY, Job Openings](https://www.liveinlou.com/work/)  
+  - _Explore our Greater Louisville job board to search for careers in Louisville, KY, including full-time, part-time, temporary, startup jobs, and internships. From ..._
 
 ### www.nyc.gov — 1 result(s)
 
@@ -156,17 +201,42 @@ _Engine: serpapi  |  Generated: 2026-09-02T02:52:25.259547+00:00  |  Results: 36
 - [Job Search](https://www.onwardsearch.com/jobs/) — `jobs`  
   - _Showing. 127. Job Results ; Mechanical Drafter. New York, New York. $65 - $75 per hour · On-site ; Developer Engineer – PL/SQL Developer. Lebanon, New Jersey. $81 ..._
 
-### www.tn.gov — 1 result(s)
+### www.roberthalf.com — 1 result(s)
 
-- [Job Search](https://www.tn.gov/workforce/jobs-and-education/job-search.html) — `jobs`  
-  - _Jobs4TN.gov gives you an unprecedented number of jobs to search, averaging 400,000 every day, and also helps you build a resume and discover labor market ..._
+- [25 Job Search Sites and Job Boards, Starting With Ours](https://www.roberthalf.com/us/en/insights/landing-job/best-job-search-sites-job-boards)  
+  - _Discover a list of job search sites that can be your first step to finding your next great role, including an introduction to Robert Half's ..._
 
-### www.vermontjoblink.com — 1 result(s)
+### www.simplyhired.com — 1 result(s)
 
-- [Vermont JobLink - Vermont JobLink](https://www.vermontjoblink.com/)  
-  - _Use filters to find your dream job and save your search or apply right away. Create Resumes. Upload your resume or make a new one from scratch with our resume ..._
+- [SimplyHired: Job Search Engine](https://www.simplyhired.com/)  
+  - _Browse SimplyHired for jobs, view local and national salary information, discover companies, and learn about the job market in a specific city._
+
+### www.thetalentpoint.ae — 1 result(s)
+
+- [The Talent Point: #1 Job Portal in Middle East | Job Search ...](https://www.thetalentpoint.ae/)  
+  - _1 Portal to Search Jobs in the Middle East, Saudi Arabia, United Arab Emirates, Dubai. Post your Resume and find your dream job in gulf on TheTalentpoint._
+
+### www.vdart.com — 1 result(s)
+
+- [20 Job Portals Starting From Ours - Find Your Next Career ...](https://www.vdart.com/what-we-do/blog/20-job-portals-starting-from-ours/)  
+  - _You can upload your resume, apply for permanent or contract roles, and sign up for job alerts to receive updates on the latest opportunities._
+
+### www.wefindjobs.ae — 1 result(s)
+
+- [All The Latest Jobs in UAE - Search & Apply Now](https://www.wefindjobs.ae/jobs/) — `jobs`  
+  - _Accountant Required - Dubai · Site Architect Required - Dubai · Graphics Designer Required - Dubai · Anesthesia Specialist Required - Abu Dhabi · Audit & Assurance ..._
+
+### www.workonward.com — 1 result(s)
+
+- [WorkOnward: Local Jobs Near You | Map-Based Job Search](https://www.workonward.com/en)  
+  - _Find jobs near you in minutes — right on the map. Get matched with local jobs in minutes — or hire qualified neighbors within 48 hours._
+
+### www.ziprecruiter.com — 1 result(s)
+
+- [Job Search: Millions of US Jobs (HIRING NOW) Near You ...](https://www.ziprecruiter.com/)  
+  - _Job Search: Millions of US Jobs (HIRING NOW) Near You - ZipRecruiter._
 
 ### x.com — 1 result(s)
 
-- [Krishna (@KrishnaMohanS30) / Posts / X](https://x.com/KrishnaMohanS30)  
-  - _Your daily tech career resource. Verified job alerts. Free courses + certifications. AI tools + developer resources. New opportunities daily. Posts._
+- [GitHub](https://x.com/konig0000/status/2092144177920520277)  
+  - _Most people use Google to search. Security researchers use it to search with precision. Here are 15 search operators worth saving: 1. site: ..._
