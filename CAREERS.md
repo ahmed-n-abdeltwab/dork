@@ -1,43 +1,48 @@
 # Job results for: `(inurl:careers OR inurl:jobs) (inurl:open OR inurl:positions OR inurl:listings OR inurl:vacancies OR inurl:search)`
 
-_Engine: serpapi  |  Generated: 2026-09-07T02:51:20.590615+00:00  |  Results: 9_
+_Engine: serpapi  |  Generated: 2026-09-08T03:02:12.623910+00:00  |  Results: 17_
 
 **Search metadata**:
 - source: serpapi
-- fetched: 9
-- deduped: 9
+- fetched: 28
+- deduped: 17
 
 ## Results grouped by domain
 
-### bouldercolorado.gov — 1 result(s)
+### careerforce.mn.gov — 1 result(s)
 
-- [Work for the City of Boulder](https://bouldercolorado.gov/work-for-boulder)  
-  - _Join Our Team Applications must be submitted online through our secure system. Be sure to apply by the deadline listed in the job posting. All deadlines are ..._
+- [Job Search - CareerForce - Minnesota.gov](https://careerforce.mn.gov/job-search) — `search`  
+  - _No information is available for this page._
 
-### cdle.colorado.gov — 1 result(s)
+### dol.ny.gov — 1 result(s)
 
-- [Department of Labor & Employment](https://cdle.colorado.gov/ui/claimants/resources/assistance-programs/employment)  
-  - _If you're looking for a job, or need help with finding a job, check out these resources for employment and training opportunities._
+- [Find a Job | Department of Labor](https://dol.ny.gov/find-job-0)  
+  - _Using New York's Job Bank you can search open job opportunities, post your resume so employers can find you and sign up to receive e-mails about new job ..._
 
-### ce.colorado.edu — 1 result(s)
+### jobapscloud.com — 1 result(s)
 
-- [Job Search Resources | Career Advising - Continuing Education](https://ce.colorado.edu/advising-services/career-advising/job-search-resources)  
-  - _Search for jobs and internships, connect with employers, and learn about upcoming events. Available to all CU students and alumni. This site is a job board for ..._
+- [State of Maryland Job Openings](https://jobapscloud.com/MD/)  
+  - _Welcome to the Maryland State Online Employment Center! We appreciate that you are considering opportunities to serve your community and the State._
 
-### www.builtincolorado.com — 1 result(s)
+### workforindiana.in.gov — 1 result(s)
 
-- [Best Tech Jobs & Startup Jobs in Denver & Boulder, CO 2026](https://www.builtincolorado.com/jobs) — `jobs`  
-  - _Search the best Tech Jobs & Startup Jobs from top companies & startups in Denver & Boulder, CO. New jobs added daily._
+- [Work for Indiana - Careers at the State of Indiana](https://workforindiana.in.gov/)  
+  - _Find your career at the State of Indiana. Administrative & Clerical Architecture & Engineering. Check out our careers by location to see where you can Work for ..._
 
-### www.governmentjobs.com — 1 result(s)
+### worknola.com — 1 result(s)
 
-- [State of Colorado Job Opportunities](https://www.governmentjobs.com/careers/colorado) — `careers`  
-  - _Join us and find meaningful work in public service to Colorado and its citizens, and create a colorful Colorado we are all proud to live in._
+- [WorkNOLA: Home](https://worknola.com/)  
+  - _WorkNOLA is the leading website for professional employment listings in the Greater New Orleans region. Find career pathways, career training programs, and ..._
 
-### www.indeed.com — 1 result(s)
+### www.careerbuilder.com — 1 result(s)
 
-- [Now Hiring: 400 Url Jobs in Broomfield, CO](https://www.indeed.com/q-url-l-broomfield,-co-jobs.html)  
-  - _Url jobs in Broomfield, CO. Customer Service Associate Walgreens Broomfield, CO 80020 $16 - $18 an hour Full-time Weekends. From $17.75 an hour Part-time ..._
+- [CareerBuilder® - Search Jobs Hiring Now](https://www.careerbuilder.com/)  
+  - _Find your next job with CareerBuilder. Browse millions of recent job listings, upload your resume, get job alerts & let employers find you today._
+
+### www.jacksonville.gov — 1 result(s)
+
+- [Current Job Openings](https://www.jacksonville.gov/departments/employee-services/current-job-openings)  
+  - _Welcome to the City of Jacksonville application page. Click the Open Positions … to browse our job opportunities or create an account at www.governmentjobs.com_
 
 ### www.jobradar.app — 1 result(s)
 
@@ -51,5 +56,40 @@ _Engine: serpapi  |  Generated: 2026-09-07T02:51:20.590615+00:00  |  Results: 9_
 
 ### www.linkedin.com — 1 result(s)
 
-- [52000+ jobs in Denver](https://www.linkedin.com/jobs/jobs-in-denver-co) — `jobs`  
-  - _52,000+ Jobs in Denver · Team Member (Part Time) · Supervisor · Booking Coordinator · District Manager · Chief Financial Officer · Contracts Coordinator · Intern, ..._
+- [Alex Gray posted this](https://www.linkedin.com/posts/alexanderkgray_after-4-years-of-learning-how-to-source-on-activity-7463642361382862848-9AgY)  
+  - _After 4 years of learning how to source on X, I finally had a real reason to use it. We were hiring a Designer and one thing became obvious ..._
+
+### www.marketingminer.com — 1 result(s)
+
+- [Understanding the Power of the Google inURL: Search ...](https://www.marketingminer.com/en/blog/inurl-search-operator)  
+  - _In this blog post, we discuss the Google InURL search operator, how it works, and why it's a useful tool for SEO marketers. inurl search ..._
+
+### www.michaelpage.com — 1 result(s)
+
+- [Job Search](https://www.michaelpage.com/job-search) — `search`  
+  - _Search for jobs at America's biggest brands. Your next job starts here. Search. Job title._
+
+### www.nj.gov — 1 result(s)
+
+- [Find a job](https://www.nj.gov/labor/career-services/job-search/)  
+  - _Looking for in-person career services support? Walk into any One-Stop Career Center or request an appointment here. Visit a One-Stop Career Center._
+
+### www.welcometothejungle.com — 1 result(s)
+
+- [Jobs in New York, NY - Welcome to the Jungle](https://www.welcometothejungle.com/en/pages/jobs-new-york-us) — `jobs`  
+  - _Browse and find all Jobs in New York, US with Welcome to the Jungle._
+
+### www.workonward.com — 1 result(s)
+
+- [WorkOnward: Local Jobs Near You | Map-Based Job Search](https://www.workonward.com/en)  
+  - _Find jobs near you in minutes — right on the map. Get matched with local jobs in minutes — or hire qualified neighbors within 48 hours._
+
+### www.ziprecruiter.com — 1 result(s)
+
+- [Job Listings Jobs in New York (NOW HIRING) Aug 26](https://www.ziprecruiter.com/Jobs/Job-Listings/--in-New-York) — `jobs`  
+  - _Browse 1000+ JOB LISTINGS jobs from companies in NEW YORK hiring now. Listings Partnership Coordinator New York, NY · Hybrid $71K - $121K/yr_
+
+### x.com — 1 result(s)
+
+- [Post](https://x.com/konig0000/status/2092144177920520277)  
+  - _inurl: — Search URLs inurl:jobs "software engineer" 4. filetype: — Find specific file types filetype:pdf "machine learning" 5. ext: — Search ..._
