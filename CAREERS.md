@@ -1,54 +1,23 @@
 # Job results for: `(inurl:careers OR inurl:jobs) (inurl:open OR inurl:positions OR inurl:listings OR inurl:vacancies OR inurl:search)`
 
-_Engine: serpapi  |  Generated: 2026-09-17T03:24:28.876186+00:00  |  Results: 26_
+_Engine: serpapi  |  Generated: 2026-09-18T03:13:29.809625+00:00  |  Results: 29_
 
 **Search metadata**:
 - source: serpapi
-- fetched: 38
-- deduped: 26
+- fetched: 49
+- deduped: 29
 
 ## Results grouped by domain
 
-### ua.linkedin.com — 5 result(s)
+### careers.un.org — 1 result(s)
 
-- [Ksenia Terebukha – Talent Acquisition Specialist | Genesis](https://ua.linkedin.com/in/kseniaterebukha)  
-  - _Ukrainian full-service recruitment agency from the Genesis ecosystem. Since 2014, we've been supporting top businesses in Ukraine and around the world by hiring ..._
-- [Oleh Yarosh – Student | Passionate about ML & AI](https://ua.linkedin.com/in/oleh-yarosh)  
-  - _Hello, I'm Oleh, an aspiring Deep Learning Researcher and Engineer. With a passion for cutting-edge technology and a relentless drive for innovation, ..._
-- [Yehor Kovalchuk – Odesa, Odessa, Ukraine](https://ua.linkedin.com/in/yehor-kovalchuk-461081155)  
-  - _Регіон: Odesa · 500+ контактів на LinkedIn. Перегляньте профіль Yehor Kovalchuk на LinkedIn, професійній спільноті з одним мільярдом учасників._
-- [Mykola Poliakov – Network Operations Center](https://ua.linkedin.com/in/mykola-poliakov-761652300)  
-  - _An experienced specialist with almost 4 years of experience in the NOC field, specializing in setting up and supporting servers, as well as timely rolling ..._
-- [Олексій Касумов – Системний інженер/DevOps, маю ...](https://ua.linkedin.com/in/oleksii-kasumov-277a65137/uk)  
-  - _Системний інженер/DevOps, маю досвід з Windows та Linux, хмарними сервісами та інформаційною безпекою. Щасливо працевлаштований._
+- [UN Careers](https://careers.un.org/)  
+  - _The UN Secretariat is building a diverse workforce. Find out if your country is on the un- and under-represented list. Latest Opportunities. Consultancies._
 
-### www.scribd.com — 3 result(s)
+### dbm.maryland.gov — 1 result(s)
 
-- [Resume Search Techniques for Engineers | PDF](https://www.scribd.com/document/450258774/strings-major-xlsx)  
-  - _The document provides information on search strings and techniques for finding resumes and profiles online, including: - Keyword searches to find resumes ..._
-- [Google Search Engine Insights | PDF | Websites](https://www.scribd.com/document/660149566/ERESOURCES)  
-  - _inurl: Search for keywords or phrases in page URLs: • inurl:careers – the word "careers" must appear in the URL. • inurl:directory faculty earth ..._
-- [SEO Strategies for Online Retail Sites | PDF](https://www.scribd.com/document/978299081/10k-Shopping-Dorks-CrackerzHub)  
-  - _The document contains a series of search queries combining various keywords and site-specific parameters, likely intended for web scraping or data ..._
-
-### www.google.com — 2 result(s)
-
-- [Vilnius - Careers](https://www.google.com/about/careers/applications/locations/vilnius) — `careers`  
-  - _Each one of our locations has its own flavor of Googleyness, featuring unique architecture and design, office traditions, and of course, snacks._
-- [Dubai - Google Careers](https://www.google.com/about/careers/applications/locations/dubai/) — `careers`  
-  - _Each one of our locations has its own flavor of Googleyness, featuring unique architecture and design, office traditions, and of course, snacks._
-
-### www.linkedin.com — 2 result(s)
-
-- [Допис учасника Anastasiia Mheladze](https://www.linkedin.com/posts/anastasiia-mheladze_booleansearch-jobsearch-candidates-activity-7186695903896915969-wwLK)  
-  - _... (inurl:"vacancies" OR inurl:"jobs" OR inurl:"job" OR inurl:"career") "frontend" ukraine after:2024-04-01 before:2024-04-18 де inurl - ключові ..._
-- [Love Boolean search options for switching up your job ...](https://www.linkedin.com/posts/kelseyjohnson_love-boolean-search-options-for-switching-activity-7151545794276335616-phuy)  
-  - _Step 1: Copy paste the following boolean searches into Google inurl:careers -inurl:linkedin -inurl:zippia -inurl:indeed -inurl ..._
-
-### ae.jooble.org — 1 result(s)
-
-- [Jooble: Jobs in The United Arab Emirates - 48.000+ current ...](https://ae.jooble.org/)  
-  - _Your new job, vacancies all over the The United Arab Emirates. More than 57400 vacancies across 670 websites are available to you. Find your new job today._
+- [Maryland State Jobs - Immediate Openings!](https://dbm.maryland.gov/jobseekers/pages/jobseekershome.aspx) — `jobs`  
+  - _View Job Postings​; Existing Users View Your Current Applications; For immediate assistance - contact us at 410-767-4850 (8:00 a.m. to 4:00 p.m. daily, ..._
 
 ### en.cvbankas.lt — 1 result(s)
 
@@ -58,57 +27,127 @@ _Engine: serpapi  |  Generated: 2026-09-17T03:24:28.876186+00:00  |  Results: 26
 ### europa.eu — 1 result(s)
 
 - [Find a job in Europe - European Union](https://europa.eu/eures/portal/jv-se/home?lang=en&pageCode=find_a_job)  
-  - _Learn how to find a job on EURES, the European Job Mobility Portal, including details on who to contact for more information in your country._
+  - _Search for a job. There are currently 2.825.805 jobs waiting for you! Search by keyword, company, or job title. Countries. 0. All EURES countries._
 
-### hiresgulf.com — 1 result(s)
+### eutraining.eu — 1 result(s)
 
-- [HiresGulf: UAE Top Job Portals | Best Gulf Job Websites UAE](https://hiresgulf.com/)  
-  - _HiresGulf is a best job portal with a wide range of employment opportunities in the United Arab Emirates and Gulf!_
+- [Vacancies - EU Job Opportunities](https://eutraining.eu/jobs/vacancies) — `jobs`  
+  - _Scroll through open vacancies at EU institutions and agencies for both permanent and temporary posts. This page is updated regularly with the latest EU job ..._
+
+### jobs.google.com — 1 result(s)
+
+- [Job Search on Google - Get Your Job Postings on Google Today](https://jobs.google.com/about/)  
+  - _Google brings together job postings from across the web. Have your job postings found by millions of job seekers who search on Google every day._
+
+### jobs.workable.com — 1 result(s)
+
+- [Jobs by Workable](https://jobs.workable.com/)  
+  - _Search thousands of job openings from global companies hiring right now. Remote or office-based, your perfect job could be waiting for you! · Customer Service ..._
 
 ### jobs.workinlithuania.com — 1 result(s)
 
 - [Work in Lithuania: Find Your Dream Job in Lithuania](https://jobs.workinlithuania.com/)  
-  - _Find Your Career in Lithuania ; UAB „NFQ Technologies“. Senior Software Engineer (Java). 3850 - 6600 ; BIGBANK AS filialas. Credit Risk Analyst. 3600 - ..._
+  - _For employees · Browse jobs 328 · Discover Lithuania · Open Lithuania · Relaxed life · Inspiring work · Engineering · Philippines · Digital nomads._
 
-### www.bayt.com — 1 result(s)
+### landing.jobs — 1 result(s)
 
-- [Jobs in UAE - Dubai](https://www.bayt.com/en/uae/jobs/) — `jobs`  
-  - _Apply now to over 14280 jobs in UAE and make your job hunting simpler. Find the latest job vacancies and employment opportunities on the number one job site ..._
+- [Landing.Jobs: Find Tech Jobs in Europe](https://landing.jobs/)  
+  - _Find your next tech job or hire top tech talent faster. Landing.Jobs connects companies and tech talent with data-driven matching._
 
-### www.eurojobsites.com — 1 result(s)
+### liveworkmaryland.com — 1 result(s)
 
-- [EuroJobsites.com - specialist jobsites in Europe](https://www.eurojobsites.com/)  
-  - _Targeted Access to Highly Skilled Candidates. EuroJobsites provides job board services for recruiters seeking professional candidates across Europe._
+- [Maryland Jobs - Quick Search](https://liveworkmaryland.com/work/search-jobs/) — `search`  
+  - _Professionals in tech, life sciences, engineering and life sciences, and more are in high demand in Maryland. Find the right job for you in Maryland._
+
+### play.google.com — 1 result(s)
+
+- [JobServe Job Search](https://play.google.com/store/apps/details?id=net.aspiremediagroup.jobserve&hl=lt) — `jobs`  
+  - _Search from 100,000s of jobs in every industry, anywhere in the world. We are proud to be the world's first online job board. Our key features will help you ..._
+
+### support.google.com — 1 result(s)
+
+- [Search for jobs on Google](https://support.google.com/websearch/answer/7498276?hl=en)  
+  - _You can find job opportunities on Google. For example, you can search for: jobs near me or entry-level jobs in finance . Important: This feature is not ..._
+
+### www.chicago.gov — 1 result(s)
+
+- [Jobs Now](https://www.chicago.gov/city/en/narr/misc/jobs/jobsnow.html) — `jobs`  
+  - _The City of Chicago is committed to assisting residents in their pursuit of finding a job. This page contains information on where residents can find job ..._
 
 ### www.facebook.com — 1 result(s)
 
-- [Hot Jobs of the Week are here! Looking for your next big ...](https://www.facebook.com/Innovationsgroup/posts/hot-jobs-of-the-week-are-herelooking-for-your-next-big-opportunity-we-are-hiring/1730089245828848/)  
-  - _Hot Jobs of the Week are here! Looking for your next big opportunity? We are hiring! Scan the QR code in the poster to apply._
+- [A job board gives you a list of opportunities. European Job ...](https://www.facebook.com/EURESjobs/posts/a-job-board-gives-you-a-list-of-opportunities-european-job-days-connect-you-with/1501603395344208/)  
+  - _✓ Discover new roles in your sector ✓ Connect with recruiters online ✓ Make your job search interactive. Ready to go beyond browsing? Join ..._
 
-### www.inspireselection.com — 1 result(s)
+### www.google.com — 1 result(s)
 
-- [Vacancies - Dubai](https://www.inspireselection.com/vacancies) — `vacancies`  
-  - _Location: Qatar. Salary: QAR 30,000 per month + single status package. Relocation: International candidates may be considered, with relocation ..._
+- [Vilnius - Careers](https://www.google.com/about/careers/applications/locations/vilnius) — `careers`  
+  - _Each one of our locations has its own flavor of Googleyness, featuring unique architecture and design, office traditions, and of course, snacks._
+
+### www.indeed.com — 1 result(s)
+
+- [Now Hiring: 30000 Url Jobs](https://www.indeed.com/q-url-jobs.html)  
+  - _Today's top Url jobs. New openings added daily. Apply now and find your next opportunity on Indeed.com._
+
+### www.infojobs.com — 1 result(s)
+
+- [InfoJobs Job Search | The leading career site in Europe](https://www.infojobs.com/)  
+  - _InfoJobs is the largest and most successful online Job Search in Europe and the career builder site operating in Spain, Italy and Brazil._
 
 ### www.jobradar.app — 1 result(s)
 
 - [Master Google Search Operators to Find Hidden ... - Job](https://www.jobradar.app/blog/google-search-operators-for-jobs) — `jobs`  
   - _Learn advanced Google search operators (dorks) to uncover job listings that most job seekers never see. Find opportunities before they hit ..._
 
-### www.mohre.gov.ae — 1 result(s)
+### www.joinrs.com — 1 result(s)
 
-- [Careers | Ministry of Human Resources & Emiratisation](https://www.mohre.gov.ae/en/careers) — `careers`  
-  - _There are currently no vacancies available at the Ministry of Human Resources & Emiratisation. To view all vacancies in the federal government ..._
+- [Joinrs — Only jobs that fit](https://www.joinrs.com/)  
+  - _Cut the noise. Joinrs uses AI to find the jobs that actually match your skills, experience, and preferences. Over 2 million job seekers trust Joinrs._
+
+### www.linkedin.com — 1 result(s)
+
+- [Допис учасника Anastasiia Mheladze](https://www.linkedin.com/posts/anastasiia-mheladze_booleansearch-jobsearch-candidates-activity-7186695903896915969-wwLK)  
+  - _Скажу чесно, я гадки не маю, чому про це відкрито не говорять ❓ Чи знали ви, шукачі роботи, що найновіші і найсвіжіші вакансії легко ..._
+
+### www.monster.com — 1 result(s)
+
+- [Browse Job Openings Hiring Now | Monster.com](https://www.monster.com/jobs) — `jobs`  
+  - _Browse millions of job openings by job title, category, company, or location at Monster.com._
+
+### www.niras.com — 1 result(s)
+
+- [Vacant positions](https://www.niras.com/jobs/vacant-positions/) — `jobs`  
+  - _Vacant positions. Home · Career · Vacant positions. Country / Region. Tanzania. Office. Business area. Development Consulting. Employment. Temporary._
+
+### www.nj.com — 1 result(s)
+
+- [New Jersey Job Search and Employment Opportunities](https://www.nj.com/jobs/) — `jobs`  
+  - _Search the latest local job and employment postings in New Jersey including full-time and part-time work and find your new career today using NJ.com._
+
+### www.onwardsearch.com — 1 result(s)
+
+- [Job Search](https://www.onwardsearch.com/jobs/) — `jobs`  
+  - _Showing. 133. Job Results ; Account Strategy Manager. Hoboken, New Jersey. $50 - $55 per hour ; Technology Project Coordinator. Glendale, California. $40 - $43 ..._
 
 ### www.peoplelink.lt — 1 result(s)
 
 - [Job opportunities | Staff search and selection | PeopleLink.lt](https://www.peoplelink.lt/en/for-candidates/job-opportunities/)  
   - _Interested in new career opportunities? Subscribe to our newsletter and be the first to know about the latest job offers. Finance and administration. Sales and ..._
 
-### www.talentmate.com — 1 result(s)
+### www.unjobnet.org — 1 result(s)
 
-- [Jobs in UAE and Gulf Countries | Job Vacancies](https://www.talentmate.com/)  
-  - _Browse Jobs by Location · Dubai. 4296 Jobs Available · Abu Dhabi. 2562 Jobs Available · Sharjah. 256 Jobs Available · Ras Al Khaimah. 185 Jobs Available · Fujairah._
+- [UNjobnet: UN & International Development Jobs — Search ...](https://www.unjobnet.org/)  
+  - _All jobs in one platform. Access the complete list of job openings across the United Nations system and major international organizations._
+
+### www.workonward.com — 1 result(s)
+
+- [WorkOnward: Local Jobs Near You | Map-Based Job Search](https://www.workonward.com/en)  
+  - _Find jobs near you in minutes — right on the map. Get matched with local jobs in minutes — or hire qualified neighbors within 48 hours._
+
+### www.worksourcegaportal.com — 1 result(s)
+
+- [Job Seeker Services - Job Search Options - Standard ...](https://www.worksourcegaportal.com/vosnet/jobbanks/jobsearchcriteriaquick.aspx) — `jobs`  
+  - _To create an automated job search (virtual recruiter), select criteria below, perform the search and then save your search at the bottom of the results screen._
 
 ### x.com — 1 result(s)
 
