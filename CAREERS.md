@@ -1,6 +1,6 @@
 # Job results for: `(inurl:careers OR inurl:jobs) (inurl:open OR inurl:positions OR inurl:listings OR inurl:vacancies OR inurl:search)`
 
-_Engine: serpapi  |  Generated: 2026-09-28T03:36:58.070852+00:00  |  Results: 8_
+_Engine: serpapi  |  Generated: 2026-09-29T04:11:15.300667+00:00  |  Results: 8_
 
 **Search metadata**:
 - source: serpapi
