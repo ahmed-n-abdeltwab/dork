@@ -1,25 +1,29 @@
 # Job results for: `(inurl:careers OR inurl:jobs) (inurl:open OR inurl:positions OR inurl:listings OR inurl:vacancies OR inurl:search)`
 
-_Engine: serpapi  |  Generated: 2026-10-05T04:00:50.515623+00:00  |  Results: 7_
+_Engine: serpapi  |  Generated: 2026-10-06T04:51:37.798105+00:00  |  Results: 8_
 
 **Search metadata**:
 - source: serpapi
-- fetched: 7
-- deduped: 7
+- fetched: 8
+- deduped: 8
 
 ## Results grouped by domain
 
-### ua.linkedin.com — 2 result(s)
+### ua.linkedin.com — 3 result(s)
 
 - [Mykola Poliakov – Network Operations Center](https://ua.linkedin.com/in/mykola-poliakov-761652300)  
   - _An experienced specialist with almost 4 years of experience in the NOC field, specializing in setting up and supporting servers, as well as timely rolling ..._
 - [Олексій Касумов – Системний інженер/DevOps, маю ...](https://ua.linkedin.com/in/oleksii-kasumov-277a65137/uk)  
   - _Системний інженер/DevOps, маю досвід з Windows та Linux, хмарними сервісами та інформаційною безпекою. Щасливо працевлаштований._
+- [Yehor Kovalchuk – Odesa, Odessa, Ukraine](https://ua.linkedin.com/in/yehor-kovalchuk-461081155)  
+  - _Регіон: Odesa · 500+ контактів на LinkedIn. Перегляньте профіль Yehor Kovalchuk на LinkedIn, професійній спільноті з одним мільярдом учасників._
 
-### fr.scribd.com — 1 result(s)
+### www.scribd.com — 2 result(s)
 
-- [1 - Dorks | PDF | Login | World Wide Web](https://fr.scribd.com/document/472367010/1-Dorks)  
+- [1 - Dorks | PDF | Login | World Wide Web](https://www.scribd.com/document/472367010/1-Dorks)  
   - _The document contains a list of search queries related to finding administrative interfaces and login pages on websites._
+- [SEO Strategies for Online Retail Sites | PDF](https://www.scribd.com/document/978299081/10k-Shopping-Dorks-CrackerzHub)  
+  - _The document contains a series of search queries combining various keywords and site-specific parameters, likely intended for web scraping or data collection._
 
 ### github.com — 1 result(s)
 
@@ -35,8 +39,3 @@ _Engine: serpapi  |  Generated: 2026-10-05T04:00:50.515623+00:00  |  Results: 7_
 
 - [300 Best Boolean Strings](https://pdfcoffee.com/300-best-boolean-strings-5-pdf-free.html)  
   - _This tip sheet covers the most useful Boolean search operators and syntax elements on Google. [inurl:careers] the word careers must appear in the URL_
-
-### www.scribd.com — 1 result(s)
-
-- [SEO Strategies for Online Retail Sites | PDF](https://www.scribd.com/document/978299081/10k-Shopping-Dorks-CrackerzHub)  
-  - _The document contains a series of search queries combining various keywords and site-specific parameters, likely intended for web scraping or data collection._
