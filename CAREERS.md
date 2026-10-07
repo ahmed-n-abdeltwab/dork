@@ -1,41 +1,55 @@
 # Job results for: `(inurl:careers OR inurl:jobs) (inurl:open OR inurl:positions OR inurl:listings OR inurl:vacancies OR inurl:search)`
 
-_Engine: serpapi  |  Generated: 2026-10-06T04:51:37.798105+00:00  |  Results: 8_
+_Engine: serpapi  |  Generated: 2026-10-07T04:17:17.936642+00:00  |  Results: 9_
 
 **Search metadata**:
 - source: serpapi
-- fetched: 8
-- deduped: 8
+- fetched: 9
+- deduped: 9
 
 ## Results grouped by domain
 
-### ua.linkedin.com — 3 result(s)
+### jobs.sok.ks.gov — 1 result(s)
 
-- [Mykola Poliakov – Network Operations Center](https://ua.linkedin.com/in/mykola-poliakov-761652300)  
-  - _An experienced specialist with almost 4 years of experience in the NOC field, specializing in setting up and supporting servers, as well as timely rolling ..._
-- [Олексій Касумов – Системний інженер/DevOps, маю ...](https://ua.linkedin.com/in/oleksii-kasumov-277a65137/uk)  
-  - _Системний інженер/DevOps, маю досвід з Windows та Linux, хмарними сервісами та інформаційною безпекою. Щасливо працевлаштований._
-- [Yehor Kovalchuk – Odesa, Odessa, Ukraine](https://ua.linkedin.com/in/yehor-kovalchuk-461081155)  
-  - _Регіон: Odesa · 500+ контактів на LinkedIn. Перегляньте профіль Yehor Kovalchuk на LinkedIn, професійній спільноті з одним мільярдом учасників._
+- [Careers](https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL)  
+  - _Need assistance? Find Help Guides, Browser Compatibility, and Customer Service at the Kansas Employment Center: jobs.ks.gov_
 
-### www.scribd.com — 2 result(s)
+### www.careerbuilder.com — 1 result(s)
 
-- [1 - Dorks | PDF | Login | World Wide Web](https://www.scribd.com/document/472367010/1-Dorks)  
-  - _The document contains a list of search queries related to finding administrative interfaces and login pages on websites._
-- [SEO Strategies for Online Retail Sites | PDF](https://www.scribd.com/document/978299081/10k-Shopping-Dorks-CrackerzHub)  
-  - _The document contains a series of search queries combining various keywords and site-specific parameters, likely intended for web scraping or data collection._
+- [CareerBuilder® - Search Jobs Hiring Now](https://www.careerbuilder.com/)  
+  - _Find your next job with CareerBuilder. Browse millions of recent job listings, upload your resume, get job alerts & let employers find you today._
 
-### github.com — 1 result(s)
+### www.google.com — 1 result(s)
 
-- [README.md - Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet/blob/main/README.md)  
-  - _Contains a list of OSINT tools, OSINT tips, datasets, Maltego transform and others. inurl: Search for specific urls or paths_
+- [Search for your career at Google.](https://www.google.com/about/careers/applications/) — `careers`  
+  - _Join Google Careers and build what's next, today. Explore career opportunities in engineering, design, sales, hardware, and more. Make a global impact with ..._
 
-### h3brasil.wordpress.com — 1 result(s)
+### www.indeed.com — 1 result(s)
 
-- [Comandos para encontrar vulnerabilidades de SQL em SITES](https://h3brasil.wordpress.com/2015/04/09/comandos-para-encontrar-vulnerabilidades-de-sql-em-sites/)  
-  - _Olá Mundo,aqui vai uns comandos para “encontrar” possíveis falhas de SQL. Lembrando que quando estiver no site,coloque aspas simples ..._
+- [Indeed: Job Search](https://www.indeed.com/)  
+  - _With Indeed, you can search millions of jobs online to find the next step in your career. With tools for job search, resumes, company reviews and more, ..._
 
-### pdfcoffee.com — 1 result(s)
+### www.jobradar.app — 1 result(s)
 
-- [300 Best Boolean Strings](https://pdfcoffee.com/300-best-boolean-strings-5-pdf-free.html)  
-  - _This tip sheet covers the most useful Boolean search operators and syntax elements on Google. [inurl:careers] the word careers must appear in the URL_
+- [Master Google Search Operators to Find Hidden ... - Job](https://www.jobradar.app/blog/google-search-operators-for-jobs) — `jobs`  
+  - _Learn advanced Google search operators (dorks) to uncover job listings that most job seekers never see. Find opportunities before they hit ..._
+
+### www.larimer.gov — 1 result(s)
+
+- [Current Job Openings](https://www.larimer.gov/ewd/job-seekers/jobs) — `jobs`  
+  - _Here's a snapshot of current openings, updated regularly. The job listings below are gathered by an outside data provider that searches job postings online._
+
+### www.linkedin.com — 1 result(s)
+
+- [Alex Gray posted this](https://www.linkedin.com/posts/alexanderkgray_after-4-years-of-learning-how-to-source-on-activity-7463642361382862848-9AgY)  
+  - _We were hiring a Designer and one thing became obvious quickly: designers use X. They post their work, share their process, build an audience._
+
+### www.marketingminer.com — 1 result(s)
+
+- [Understanding the Power of the Google inURL: Search ...](https://www.marketingminer.com/en/blog/inurl-search-operator)  
+  - _In this blog post, we discuss the Google InURL search operator, how it works, and why it's a useful tool for SEO marketers. inurl search ..._
+
+### www.usajobs.gov — 1 result(s)
+
+- [USAJOBS - The Federal Government's official employment site](https://www.usajobs.gov/)  
+  - _Search and apply for federal jobs. Learn about unique hiring paths for veterans, students and graduates, individuals with a disability, and more._
