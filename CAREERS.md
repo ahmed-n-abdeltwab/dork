@@ -1,105 +1,91 @@
 # Job results for: `(inurl:careers OR inurl:jobs) (inurl:open OR inurl:positions OR inurl:listings OR inurl:vacancies OR inurl:search)`
 
-_Engine: serpapi  |  Generated: 2026-10-13T05:29:24.943440+00:00  |  Results: 34_
+_Engine: serpapi  |  Generated: 2026-10-14T03:34:39.284391+00:00  |  Results: 30_
 
 **Search metadata**:
 - source: serpapi
 - fetched: 50
-- deduped: 34
+- deduped: 30
 
 ## Results grouped by domain
 
-### www.ziprecruiter.com — 8 result(s)
+### www.linkedin.com — 5 result(s)
 
-- [$19-$36/hr Jobs in Missouri (NOW HIRING) Oct 2026](https://www.ziprecruiter.com/Jobs/--in-Missouri) — `jobs`  
-  - _Browse 1000+ jobs ($19-$36/hr) from companies in MISSOURI hiring now. New openings posted daily. Apply early, be seen first & 1-click apply ..._
-- [$26-$28/hr Jobs in Baltimore, MD (NOW HIRING) Oct 2026](https://www.ziprecruiter.com/Jobs/-in-Baltimore,MD) — `jobs`  
-  - _Browse 1000+ BALTIMORE, MD jobs ($26-$28/hr) from companies hiring now. New openings posted daily. Apply early, be seen first & 1-click apply ..._
-- [$27-$23/hr Jobs in Chicago, IL (NOW HIRING) Oct 2026](https://www.ziprecruiter.com/Jobs/-in-Chicago,IL) — `jobs`  
-  - _Browse 1000+ CHICAGO, IL jobs ($27-$23/hr) from companies hiring now. New openings posted daily. Apply early, be seen first & 1-click apply ..._
-- [Search Jobs in Smyrna, GA (NOW HIRING)](https://www.ziprecruiter.com/Jobs/Search/-in-Smyrna,GA) — `jobs`  
-  - _Browse 1000+ SMYRNA, GA SEARCH jobs ($62k-$98k) from companies hiring now. New openings posted daily. Apply early, be seen first & 1-click ..._
-- [Openings In Jobs in Greenville, GA (NOW HIRING)](https://www.ziprecruiter.com/Jobs/Openings-In/-in-Greenville,GA) — `jobs`  
-  - _Browse 1000+ GREENVILLE, GA OPENINGS IN jobs ($15-$35/hr) hiring now. New openings posted daily. Apply early, get seen first & 1-click apply ..._
-- [Immediate Fulltime Jobs in Indianapolis, IN (NOW HIRING)](https://www.ziprecruiter.com/Jobs/Immediate-Fulltime/-in-Indianapolis,IN) — `jobs`  
-  - _Browse 1000+ INDIANAPOLIS, IN IMMEDIATE FULLTIME jobs hiring now. New openings posted daily. Apply early, get seen first & 1-click apply ..._
-- [$22-$62/hr 1 Click Apply Jobs in Atlanta, GA (NOW HIRING)](https://www.ziprecruiter.com/Jobs/1-Click-Apply/-in-Atlanta,GA) — `jobs`  
-  - _Browse 1000+ ATLANTA, GA 1 CLICK APPLY jobs ($22-$62/hr) hiring now. New openings posted daily. Apply early, get seen first & 1-click apply ..._
-- [$40-$64/hr Job Application Jobs Indianapolis, IN Hiring Now](https://www.ziprecruiter.com/Jobs/Job-Application/-in-Indianapolis,IN) — `jobs`  
-  - _Browse 1000+ INDIANAPOLIS, IN JOB APPLICATION jobs ($40-$64/hr) hiring now. New openings posted daily. Apply early, get seen first & 1-click ..._
-
-### www.linkedin.com — 6 result(s)
-
-- [Here's how you can discover job openings in your industry](https://www.linkedin.com/advice/0/heres-how-you-can-discover-job-openings-your-shpif)  
-  - _Discover top resources and websites to find job openings in your industry with effective job search strategies for your career path._
+- [1000+ Private Sector Full Time jobs in Indianapolis](https://www.linkedin.com/jobs/private-sector-full-time-jobs-indianapolis-in) — `jobs`  
+  - _1000+ Private Sector Full Time jobs in Indianapolis. Leverage your professional network, and get hired. Home Depot (14) Walmart (8) State of Indiana (6) Philip ..._
+- [Jobs in Fishers (36000+ Open Roles)](https://www.linkedin.com/jobs/jobs-in-fishers-in) — `jobs`  
+  - _36,000+ Jobs in Fishers · Manager - Project Management · Medical Receptionist - OBGYN Office · Learning & Development Coordinator · Research Associate · Analogue ..._
+- [Search for jobs on LinkedIn | LinkedIn Help](https://www.linkedin.com/help/linkedin/answer/a511260)  
+  - _You can either search for a job using the search field on top of the LinkedIn homepage or you can directly access the Jobs page where you can search and apply ..._
+- [Google: Jobs](https://www.linkedin.com/company/google/jobs) — `jobs`  
+  - _Jobs at Google · Strategic Partnerships Development Manager, YouTube Product Partnerships, Living Room · Senior Staff CPU Cache Subsystem Design Engineer · Data ..._
 - [How to Find the Right Job Openings in the Search Engines ...](https://www.linkedin.com/advice/0/youre-looking-job-openings-search-engines-industry-fpwyc)  
   - _Learn how to search for relevant and quality job opportunities in the Search Engines industry with these tips and strategies._
-- [How can you find job openings before they are posted?](https://www.linkedin.com/advice/1/how-can-you-find-job-openings-before-posted-excef)  
-  - _Learn five strategies to find hidden job opportunities, connect with potential employers, and showcase your value before other candidates._
-- [Application Online Jobs in Indianapolis (277 Open Roles)](https://www.linkedin.com/jobs/application-online-jobs-indianapolis-in) — `jobs`  
-  - _Today's top 277 Application Online jobs in Indianapolis. Leverage your professional network, and get hired. New Application Online jobs added daily._
-- [11000+ Job Search Full Time jobs in Indianapolis](https://www.linkedin.com/jobs/job-search-full-time-jobs-indianapolis-in) — `jobs`  
-  - _11,000+ Job Search Full Time Jobs in Indianapolis · Warehouse Maintenance Associate · Project Manager · Entry Level -Account Executive- B2B · JANITOR (FULL TIME)._
-- [Google Jobs in Austin (1000+ Open Roles)](https://www.linkedin.com/jobs/google-jobs-austin-tx) — `jobs`  
-  - _Today's top 1000+ Google jobs in Austin. Leverage your professional network, and get hired. New Google jobs added daily._
 
-### www.indeed.com — 2 result(s)
+### www.indeed.com — 4 result(s)
 
-- [Now Hiring: 181000 Search Jobs](https://www.indeed.com/m/jobs?q=Search) — `jobs`  
-  - _Browse 181854 Search jobs. New jobs posted today. Apply now and find your next opportunity on Indeed.com._
-- [Currently hiring jobs in Atlanta, GA](https://www.indeed.com/q-currently-hiring-l-atlanta,-ga-jobs.html)  
-  - _Browse 7502 Currently Hiring jobs in Atlanta, GA. New jobs posted today. Apply now and find your next opportunity on Indeed.com._
+- [New jobs in Jacksonville, FL](https://www.indeed.com/q-new-l-jacksonville,-fl-jobs.html)  
+  - _Browse 6005 New jobs in Jacksonville, FL. $15 - $28 an hour - Delivery Driver 22.25 an hour. Cashier/Sales Associate Easily apply $15 - $22 an hour_
+- [Now Hiring: 100 Indeed Jobs](https://www.indeed.com/q-indeed-jobs.html)  
+  - _Browse 128 Indeed jobs. New jobs posted today. Remote $150,000 - $311,000 a year. Warehouse Operative - Hiring now! $19.00/hr Flat Rate:_
+- [Coming Soon Jobs, Employment in Indianapolis, IN](https://www.indeed.com/q-coming-soon-l-indianapolis,-in-jobs.html)  
+  - _Browse 21 Coming Soon jobs in Indianapolis, IN. $270 - $450 a day ・ $18.40 an hour Part-time 20 hours per week ・ 401 Paid time off Paid_
+- [Now Hiring: 70000 Jobs in Minneapolis, MN](https://www.indeed.com/l-minneapolis,-mn-jobs.html)  
+  - _Browse 70164 jobs in Minneapolis, MN. New jobs posted today. Apply now and find your next opportunity on Indeed.com._
 
-### www.snagajob.com — 2 result(s)
+### apps.microsoft.com — 1 result(s)
 
-- [Genuine Search Group Jobs in Indianapolis, IN - Now Hiring](https://www.snagajob.com/find-jobs/c-genuine+search+group,w-indianapolis,+in)  
-  - _Find hourly Genuine Search Group jobs in Indianapolis, IN on Snagajob.com. Apply to 2 full-time and part-time jobs, gigs, shifts, local jobs ..._
-- [Indiana Search Technologies Llc Jobs in Anderson, IN](https://www.snagajob.com/find-jobs/c-indiana+search+technologies+llc,w-anderson,+in)  
-  - _Find hourly Indiana Search Technologies Llc jobs in Anderson, IN on Snagajob.com. Apply to 9 full-time and part-time jobs, gigs, shifts, local jobs and ..._
+- [Job Searcher - Preuzmi i instaliraj na operativnom sistemu ...](https://apps.microsoft.com/detail/9pnf75rdpf4v?hl=bs-Latn-BA&gl=KM)  
+  - _Search remote, local, and international jobs from multiple sources in one Windows app with filters and direct application links. ... Informacije o izdavaču._
 
-### blog.careerangels.eu — 1 result(s)
+### arjawinangun.id.expertini.com — 1 result(s)
 
-- [On-Site & Hybrid Senior-Level Job Ads –Week 39](https://blog.careerangels.eu/on-site-hybrid-senior-level-job-ads-week-39/)  
-  - _Browse the listings below, organized by function and format, to find roles that match your goal. Job Opportunities by Function. General ..._
+- [Post a Job in Arjawinangun | Hire Talent & Recruitment Tools](https://arjawinangun.id.expertini.com/employer/post-jobs/)  
+  - _Arjawinangun Jobs Expertini connects job seekers with opportunities and supports employers in their talent acquisition efforts across Arjawinangun and Indonesia ..._
 
-### cr.linkedin.com — 1 result(s)
+### docs.webscrapingapi.com — 1 result(s)
 
-- [Search in Global Jobs](https://cr.linkedin.com/company/search-in-global-jobs) — `jobs`  
-  - _Search in Global Jobs aims to function as an interactive forum of global job seekers and opportunity providers. Initially, the opportunities listings will be ..._
+- [Google Jobs Listing API](https://docs.webscrapingapi.com/google-search-api/google-search-engines/google-jobs-listing-api)  
+  - _Google Jobs Listing API. Scrape a single Google Jobs listing by encoded job ID. Retrieve one Google Jobs listing using its encoded job ID payload._
 
-### hiring.cincinnati.com — 1 result(s)
+### jakarta.id.expertini.com — 1 result(s)
 
-- [My Job Board](https://hiring.cincinnati.com/recruitmentproducts/pcin/network/my_job_board)  
-  - _Job seekers can search for jobs by location and company. Each job posting contains a full job description page with title, description, location, job type and ..._
-
-### jobs.allsearchinc.com — 1 result(s)
-
-- [AllSearch Recruiting](https://jobs.allsearchinc.com/)  
-  - _Send us your resume, and we'll find the jobs that are the best match for you. Submit Your Resume._
-
-### kingfishercounty.us.expertini.com — 1 result(s)
-
-- [Google for Jobs Posting Guide – Kingfisher County](https://kingfishercounty.us.expertini.com/employer/google-for-jobs-faq/)  
+- [Google for Jobs Posting Guide – Jakarta](https://jakarta.id.expertini.com/employer/google-for-jobs-faq/)  
   - _By posting your job vacancies on Google for Jobs, you increase their visibility and reach a larger audience of potential candidates. Targeted candidate matching ..._
+
+### jambicity.id.expertini.com — 1 result(s)
+
+- [Post a Job in Jambi City | Hire Talent & Recruitment Tools](https://jambicity.id.expertini.com/employer/post-jobs/)  
+  - _Reach best talent in Indonesia — absolutely free! Professional job seekers finding jobs through Expertini. Accurate Job Posting._
+
+### jobapp-new.hrhotlink.com — 1 result(s)
+
+- [https://jobapp-new.hrhotlink.com/c/e06f5a4622734e/...](https://jobapp-new.hrhotlink.com/c/e06f5a4622734e/en-us/openpositions/show) — `open`  
+  - _No information is available for this page._
+
+### kabupatenacehtamiang.id.expertini.com — 1 result(s)
+
+- [Browse Jobs by City in Indonesia](https://kabupatenacehtamiang.id.expertini.com/cities/)  
+  - _Explore jobs across 16162+ cities in Indonesia! Browse local opportunities with FREE AI Resume Score™, Job Match & Interview Predictor._
+
+### knowledge.traffit.com — 1 result(s)
+
+- [What is the job link and how do I get it?](https://knowledge.traffit.com/en/articles/3405632-what-is-the-job-link-and-how-do-i-get-it)  
+  - _The recruitment link is a unique URL given to each recruitment in Traffit. To get it, open the recruitment and copy the URL address from the ..._
+
+### mt.linkedin.com — 1 result(s)
+
+- [Search Engines Jobs in Malta (29 Open Roles)](https://mt.linkedin.com/jobs/search-engines-jobs) — `jobs`  
+  - _29 Search Engines Jobs in Malta · Link Acquisition Specialist · AI Integrations Engineer (Open Source · Web Search) · Head of SEO · Digital Marketing Assistant._
 
 ### play.google.com — 1 result(s)
 
-- [Publish Jobs Search - Aplikacije na Google Playu](https://play.google.com/store/apps/details?id=com.publishjobs.jobsearchapp&hl=bs) — `jobs`  
-  - _Easily find jobs, apply in seconds, and showcase your complete professional profile to top employers. Whether you're a fresh graduate, experienced professional, ..._
+- [Publish Jobs Search – Aplikacije na Google Play-u](https://play.google.com/store/apps/details?id=com.publishjobs.jobsearchapp&hl=sr_Latn) — `jobs`  
+  - _Прегледајте хиљаде огласа за посао прилагођених вашим вештинама, искуству и интересовањима. ... Филтрирајте према називу посла, компанији, локацији, врсти посла и ..._
 
-### recruit.com — 1 result(s)
+### surabaya.id.expertini.com — 1 result(s)
 
-- [Recruit.com](https://recruit.com/)  
-  - _From the job seeker's perspective, these sites help contact recruiters, expand professional networks, and promote relevant skills. You can boost your chances of ..._
-
-### recruiter.com — 1 result(s)
-
-- [OnDemand Contract Recruiters and Recruiting Solutions](https://recruiter.com/)  
-  - _We help companies recruit top talent with our OnDemand recruiters and solutions. Scale your hiring team up or down based on your recruitment needs._
-
-### twinfallscounty.us.expertini.com — 1 result(s)
-
-- [Google for Jobs Posting Guide – Twin Falls County](https://twinfallscounty.us.expertini.com/employer/google-for-jobs-faq/)  
+- [Google for Jobs Posting Guide – Surabaya](https://surabaya.id.expertini.com/employer/google-for-jobs-faq/)  
   - _By posting your job vacancies on Google for Jobs, you increase their visibility and reach a larger audience of potential candidates. Targeted candidate matching ..._
 
 ### vilkaviskis.lt.expertini.com — 1 result(s)
@@ -107,15 +93,30 @@ _Engine: serpapi  |  Generated: 2026-10-13T05:29:24.943440+00:00  |  Results: 34
 - [Google for Jobs Posting Guide – Vilkaviskis](https://vilkaviskis.lt.expertini.com/employer/google-for-jobs-faq/)  
   - _By posting your job vacancies on Google for Jobs, you increase their visibility and reach a larger audience of potential candidates. Targeted candidate matching ..._
 
-### www.careersite.com — 1 result(s)
+### www.careerbuilder.com — 1 result(s)
 
-- [CareerSite.com - thousands of new jobs posted every day!](https://www.careersite.com/)  
-  - _Welcome to CareerSite.com, with thousands of new jobs posted every day and thousands of employers searching for candidates just like you._
+- [3275+ Jobs in Louisville, KY](https://www.careerbuilder.com/jobs-in-louisville,ky) — `jobs`  
+  - _Apply today or Upload your resume and be found by top employers. Browse 3275+ jobs in Louisville, KY hiring now at CareerBuilder®._
 
-### www.hr.com — 1 result(s)
+### www.chooseatl.com — 1 result(s)
 
-- [Search Job Openings using Google](https://www.hr.com/en?t=/blogs/blog.show&blogid=1239015007970&page=15)  
-  - _Search Job Openings using Google. Staffing and Recruitment. You can use the intitle command in Google to search for job openings on the Internet._
+- [Start Your Search Here: Job Opportunities in Atlanta](https://www.chooseatl.com/work/open-jobs) — `jobs`  
+  - _Find a job that will inspire you today. JOBS AVAILABLE NOW. Lyft UberEats. Submit your organization's open positions to reach hundreds of qualified applicants._
+
+### www.clayhr.com — 1 result(s)
+
+- [How to embed open positions list into your website](https://www.clayhr.com/articles/how-to-embed-open-positions-list-into-your-website)  
+  - _With ClayHR, you can have your own candidate portal, as well as embed your open positions into your website, so it is always up to date. Embed Formats._
+
+### www.facebook.com — 1 result(s)
+
+- [How to find job openings on company websites](https://www.facebook.com/groups/INSWJobs/posts/1571779486249010/)  
+  - _Companies have websites and internal recruitment department. 1:Search for the company name. 2:Click on the company website. 4:Scroll all the ..._
+
+### www.itworks.id — 1 result(s)
+
+- [Begini Cara Cari Lowongan Pekerjaan di Fitur "Jobs on ...](https://www.itworks.id/17160/begini-cara-cari-lowongan-pekerjaan-di-fitur-jobs-on-google-search.html)  
+  - _Pengguna cukup mengetik kata kunci “lowongan kerja” di kotak teks mesin pencarian Google. Nantinya, Google akan memberikan referensi berdasarkan ..._
 
 ### www.slideshare.net — 1 result(s)
 
@@ -127,12 +128,12 @@ _Engine: serpapi  |  Generated: 2026-10-13T05:29:24.943440+00:00  |  Results: 34
 - [How to find job vacancies online - Mintly](https://www.trymintly.com/blogs/how-to-find-job-vacancies-online)  
   - _How to find job vacancies online · 1. Use Job Search Engines · 2. Explore Company Websites · 3. Leverage Professional Networking Sites · 4. Join ..._
 
-### www.unlistedjobs.com — 1 result(s)
-
-- [477562 Jobs | UnlistedJobs](https://www.unlistedjobs.com/jobs) — `jobs`  
-  - _477,562 Jobs · Manager, FP&A · Interim Director of Marketing · Analyst III, Workday ERP · Senior Financial Analyst, Corporate Development · Senior IT Solution ..._
-
 ### www.youtube.com — 1 result(s)
 
-- [How To Find More Jobs Using Advanced Search Strings on ...](https://www.youtube.com/watch?v=a8ImWl2nFf4)  
-  - _Learn how to Find More Jobs using Advanced Search Strings. In this video I show you the exact strings you need to find more openings, ..._
+- [How to See Applied Jobs in LinkedIn [2025 Full Guide]](https://www.youtube.com/watch?v=qqGzv6w5qVc)  
+  - _How to See Applied Jobs in LinkedIn [2025 Full Guide] In today's video we will show you how to use linkedin,how to use linkedin to find a ..._
+
+### yogyakarta.id.expertini.com — 1 result(s)
+
+- [Google for Jobs Posting Guide – Yogyakarta](https://yogyakarta.id.expertini.com/employer/google-for-jobs-faq/)  
+  - _By posting your job vacancies on Google for Jobs, you increase their visibility and reach a larger audience of potential candidates. Targeted candidate matching ..._
