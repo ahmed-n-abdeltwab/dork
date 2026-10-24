@@ -1,47 +1,55 @@
 # Job results for: `(inurl:careers OR inurl:jobs) (inurl:open OR inurl:positions OR inurl:listings OR inurl:vacancies OR inurl:search)`
 
-_Engine: serpapi  |  Generated: 2026-10-23T03:21:07.761536+00:00  |  Results: 8_
+_Engine: serpapi  |  Generated: 2026-10-24T03:16:51.020781+00:00  |  Results: 9_
 
 **Search metadata**:
 - source: serpapi
 - fetched: 9
-- deduped: 8
+- deduped: 9
 
 ## Results grouped by domain
 
-### www.indeed.com — 2 result(s)
+### careerforce.mn.gov — 1 result(s)
 
-- [Now Hiring: 100 Indeed Jobs](https://www.indeed.com/q-indeed-jobs.html)  
-  - _Browse 124 Indeed jobs. New jobs posted today. Warehouse Worker - Get Same Day Pay $19.50 an hour Full-time. Vision insurance Dental insurance … $16.00 - $18. ..._
-- [Search jobs in Philadelphia, PA](https://www.indeed.com/q-search-l-philadelphia,-pa-jobs.html)  
-  - _Browse 2453 Search jobs in Philadelphia, PA. CASHIER/FOOD SERVICE WORKER (FULL AND PART TIME) $21 - $25 an hour , with an hourly pay $21 per hour - $22 per ..._
+- [Job Search - CareerForce Minnesota](https://careerforce.mn.gov/job-search) — `search`  
+  - _No information is available for this page._
 
-### directlyapply.com — 1 result(s)
+### careersourcerc.com — 1 result(s)
 
-- [Job Search](https://directlyapply.com/search) — `search`  
-  - _Search for jobs with your resume. Let AI match you to your perfect job. No keywords, no filters - just describe your ideal role and find jobs instantly._
+- [Search For Jobs](https://careersourcerc.com/job-seekers/services-for-job-seekers/search-for-jobs/) — `search`  
+  - _Search for the right job for you through the CareerSource Research Coast page. Visit our website today to get started._
 
-### jobs.allsearchinc.com — 1 result(s)
+### dol.ny.gov — 1 result(s)
 
-- [AllSearch Recruiting](https://jobs.allsearchinc.com/)  
-  - _A #1 Rated Sales, Management &amp; Engineering Search Firm. Send us your resume, and we'll find the jobs that are the best match for you._
+- [Find a Job | Department of Labor - NY.Gov](https://dol.ny.gov/find-job-0)  
+  - _Using New York's Job Bank you can search open job opportunities, post your resume so employers can find you and sign up to receive e-mails about new job ..._
+
+### www.careerforcemn.com — 1 result(s)
+
+- [Career Force Job Search](https://www.careerforcemn.com/job-search) — `search`  
+  - _No information is available for this page._
 
 ### www.facebook.com — 1 result(s)
 
-- [How to find job openings on company websites](https://www.facebook.com/groups/INSWJobs/posts/1571779486249010/)  
-  - _Companies have websites and internal recruitment department. 1:Search for the company name. 2:Click on the company website. 4:Scroll all the ..._
+- [How to find the latest job openings on Google before they get ...](https://www.facebook.com/careerflowai/videos/how-to-find-the-latest-job-openings-on-google-before-they-get-buriedyour-next-jo/3653616628122694/)  
+  - _Step one, go to Google. Step 2, search for your job title plus careers or jobs plus location. Step three, Google will show you matching roles ..._
 
-### www.nj.com — 1 result(s)
+### www.jobradar.app — 1 result(s)
 
-- [New Jersey Job Search and Employment Opportunities](https://www.nj.com/jobs/) — `jobs`  
-  - _Search the latest local job and employment postings in New Jersey including full-time and part-time work and find your new career today using NJ.com._
+- [Master Google Search Operators to Find Hidden ... - Job](https://www.jobradar.app/blog/google-search-operators-for-jobs) — `jobs`  
+  - _Learn advanced Google search operators (dorks) to uncover job listings that most job seekers never see. Find opportunities before they hit ..._
 
-### www.slideshare.net — 1 result(s)
+### www.larimer.gov — 1 result(s)
 
-- [Company List For Url And Recruiting Websites | DOC](https://www.slideshare.net/slideshow/company-list-for-url-and-recruiting-websites-4490511/4490511)  
-  - _The document provides a comprehensive list of companies along with their websites and email addresses, primarily for job search and resume submission ..._
+- [Job Search & Finding Open Positions](https://www.larimer.gov/ewd/young-adults/careerrise/careerrise-job-search-tool-kit/job-search-finding-open-positions) — `positions`  
+  - _Search and apply for jobs that match your skills, experience, and goals; Explore career planning tools to help guide your job search; Discover training ..._
 
-### www.youtube.com — 1 result(s)
+### www.marketingminer.com — 1 result(s)
 
-- [How To Find More Jobs Using Advanced Search Strings on ...](https://www.youtube.com/watch?v=a8ImWl2nFf4)  
-  - _Learn how to Find More Jobs using Advanced Search Strings. In this video I show you the exact strings you need to find more openings, AND to ..._
+- [Understanding the Power of the Google inURL](https://www.marketingminer.com/en/blog/inurl-search-operator)  
+  - _The "inurl" search operator is a nifty tool. You can use it in Google search to find pages containing a specific word or phrase in the URL._
+
+### www.pacareerlink.pa.gov — 1 result(s)
+
+- [Search Jobs - PACareerLink.pa.gov](https://www.pacareerlink.pa.gov/jponline/jobseeker/searchjobs) — `jobs`  
+  - _No information is available for this page._
