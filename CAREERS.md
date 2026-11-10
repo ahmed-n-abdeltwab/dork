@@ -1,6 +1,6 @@
 # Job results for: `(inurl:careers OR inurl:jobs) (inurl:open OR inurl:positions OR inurl:listings OR inurl:vacancies OR inurl:search)`
 
-_Engine: serpapi  |  Generated: 2026-11-09T04:37:52.435703+00:00  |  Results: 8_
+_Engine: serpapi  |  Generated: 2026-11-10T05:54:50.100573+00:00  |  Results: 8_
 
 **Search metadata**:
 - source: serpapi
@@ -9,36 +9,39 @@ _Engine: serpapi  |  Generated: 2026-11-09T04:37:52.435703+00:00  |  Results: 8_
 
 ## Results grouped by domain
 
-### www.indeed.com — 3 result(s)
+### www.indeed.com — 2 result(s)
 
-- [Now Hiring: 25000 Jobs in Knoxville, TN](https://www.indeed.com/m/jobs?l=Knoxville%2C+TN) — `jobs`  
-  - _Browse 25305 jobs in Knoxville, TN. New jobs posted today. Apply now and find your next opportunity on Indeed.com._
-- [Now Hiring: 185000 Jobs in Atlanta, GA](https://www.indeed.com/l-atlanta,-ga-jobs.html)  
-  - _Browse 185344 jobs in Atlanta, GA. New jobs posted today. Apply now and find your next opportunity on Indeed.com._
-- [Now Hiring: 600 Immediate Openings Jobs in Knoxville, TN](https://www.indeed.com/q-immediate-openings-l-knoxville,-tn-jobs.html)  
-  - _Browse 623 Immediate Openings jobs in Knoxville, TN. $80.00 - $200.00 per. Seeking: uber driver , door dashers , Amazon flex drivers, and Walmart Spark Drivers._
+- [Now Hiring: 84000 Jobs in Louisiana](https://www.indeed.com/l-louisiana-jobs.html)  
+  - _Browse 84503 jobs in Louisiana. Amazon DSP, UPS, DHL, courier services, route delivery, landscaping, construction, moving, or other physically active driving ..._
+- [jobs in New Orleans, LA](https://www.indeed.com/l-new-orleans,-la-jobs.html)  
+  - _Browse 29734 jobs in New Orleans, LA. From $13 an hour Full-time 36 to 48 hours per week Day. Patient Access Associate (Full-time;_
 
-### www.linkedin.com — 1 result(s)
+### jobs.allsearchinc.com — 1 result(s)
 
-- [Search for jobs on LinkedIn | LinkedIn Help](https://www.linkedin.com/help/linkedin/answer/a511260)  
-  - _LinkedIn helps you find relevant jobs that suit your skills and qualifications. You can either search for a job using the search field on top of the ..._
+- [AllSearch Recruiting](https://jobs.allsearchinc.com/)  
+  - _A #1 Rated Sales, Management &amp; Engineering Search Firm. Send us your resume, and we'll find the jobs that are the best match for you._
 
-### www.mometrix.com — 1 result(s)
+### ssaecajoblist.sccgov.org — 1 result(s)
 
-- [Top 37 Job Search Websites](https://www.mometrix.com/blog/top-37-job-search-websites/)  
-  - _Learn about the top 37 job websites and job search engines. What you need to know about each job search site and tips to get your best job!_
+- [Job listings | Employment Connection | County of Santa Clara](https://ssaecajoblist.sccgov.org/)  
+  - _Below are active job openings that employers have listed with us. Contact us at (408) 758-3797_
 
-### www.upwork.com — 1 result(s)
+### www.f6s.com — 1 result(s)
 
-- [19 Best Job Search Websites for Every Career and Industry ...](https://www.upwork.com/resources/best-job-search-website)  
-  - _Find the best job search website for your career. Compare 19 top platforms for freelance, remote, entry-level, tech, and federal jobs, ..._
+- [100 Top Job Search Companies in United States](https://www.f6s.com/companies/job-search/united-states/co)  
+  - _Detailed info and reviews on 100 top Job Search companies and startups in United States in 2026. Get the latest updates on their products, ..._
+
+### www.google.com — 1 result(s)
+
+- [Chicago - Google Careers](https://www.google.com/about/careers/applications/locations/chicago/) — `careers`  
+  - _Located in the vibrant West Loop, Google Chicago is a diverse, cross-functional site where Googlers of all backgrounds and job descriptions work, thrive, ..._
+
+### www.usatoday.com — 1 result(s)
+
+- [Google I/O exclusive: Google to launch Google for Jobs to ...](https://www.usatoday.com/story/tech/news/2017/05/17/google-io-google-for-jobs-sundar-pichai/101768492/)  
+  - _So Google is launching a new initiative, Google for Jobs, that includes a feature in search that collects and organizes millions of job postings ..._
 
 ### www.youtube.com — 1 result(s)
 
-- [How to Search Jobs in the USA Using Google](https://www.youtube.com/watch?v=c8XftaB9nEE)  
-  - _In this video, we'll explore practical Google search techniques to help you discover relevant US job openings based on your skills, job title, ..._
-
-### www.ziprecruiter.com — 1 result(s)
-
-- [$22-$72/hr 1 Click Apply Jobs in Atlanta, GA (NOW HIRING)](https://www.ziprecruiter.com/Jobs/1-Click-Apply/-in-Atlanta,GA) — `jobs`  
-  - _Browse 1000+ ATLANTA, GA 1 CLICK APPLY jobs ($22-$72/hr) hiring now. New openings posted daily. Apply early, get seen first & 1-click apply ..._
+- [Google launches Jobs Search Engine in U.S. ...](https://www.youtube.com/watch?v=jFx1EmQ2490)  
+  - _Google today added a new jobs search feature to its search engine to allow the U.S users to search for jobs across virtually all of the major ..._
