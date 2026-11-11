@@ -1,6 +1,6 @@
 # Job results for: `(inurl:careers OR inurl:jobs) (inurl:open OR inurl:positions OR inurl:listings OR inurl:vacancies OR inurl:search)`
 
-_Engine: serpapi  |  Generated: 2026-11-10T05:54:50.100573+00:00  |  Results: 8_
+_Engine: serpapi  |  Generated: 2026-11-11T04:40:46.783595+00:00  |  Results: 8_
 
 **Search metadata**:
 - source: serpapi
@@ -9,32 +9,35 @@ _Engine: serpapi  |  Generated: 2026-11-10T05:54:50.100573+00:00  |  Results: 8_
 
 ## Results grouped by domain
 
-### www.indeed.com — 2 result(s)
+### worknola.com — 1 result(s)
 
-- [Now Hiring: 84000 Jobs in Louisiana](https://www.indeed.com/l-louisiana-jobs.html)  
-  - _Browse 84503 jobs in Louisiana. Amazon DSP, UPS, DHL, courier services, route delivery, landscaping, construction, moving, or other physically active driving ..._
-- [jobs in New Orleans, LA](https://www.indeed.com/l-new-orleans,-la-jobs.html)  
-  - _Browse 29734 jobs in New Orleans, LA. From $13 an hour Full-time 36 to 48 hours per week Day. Patient Access Associate (Full-time;_
+- [Find a Job](https://worknola.com/jobs) — `jobs`  
+  - _WorkNOLA is the leading website for professional employment listings in the Greater New Orleans region. 112 Get In Touch 504.568.6130itjobs@lsuhsc. ..._
 
-### jobs.allsearchinc.com — 1 result(s)
+### www.indeed.com — 1 result(s)
 
-- [AllSearch Recruiting](https://jobs.allsearchinc.com/)  
-  - _A #1 Rated Sales, Management &amp; Engineering Search Firm. Send us your resume, and we'll find the jobs that are the best match for you._
+- [Now Hiring: 85000 Jobs in Louisiana](https://www.indeed.com/l-louisiana-jobs.html)  
+  - _Browse 85414 jobs in Louisiana. New jobs posted today. Apply now and find your next opportunity on Indeed.com._
 
-### ssaecajoblist.sccgov.org — 1 result(s)
+### www.jobleads.com — 1 result(s)
 
-- [Job listings | Employment Connection | County of Santa Clara](https://ssaecajoblist.sccgov.org/)  
-  - _Below are active job openings that employers have listed with us. Contact us at (408) 758-3797_
+- [Jobs in the United States](https://www.jobleads.com/us/jobs) — `jobs`  
+  - _Find personalized executive jobs with higher salaries from over 400000 sources with JobLeads job search engine. Land your dream job and help your career ..._
 
-### www.f6s.com — 1 result(s)
+### www.jobs.now — 1 result(s)
 
-- [100 Top Job Search Companies in United States](https://www.f6s.com/companies/job-search/united-states/co)  
-  - _Detailed info and reviews on 100 top Job Search companies and startups in United States in 2026. Get the latest updates on their products, ..._
+- [JOBS.NOW](https://www.jobs.now/)  
+  - _Connecting the best jobs with top talent. Software Engineering Data Science Engineering Finance Accounting IT & Sys Admin … $127.55k / year_
 
-### www.google.com — 1 result(s)
+### www.linkedin.com — 1 result(s)
 
-- [Chicago - Google Careers](https://www.google.com/about/careers/applications/locations/chicago/) — `careers`  
-  - _Located in the vibrant West Loop, Google Chicago is a diverse, cross-functional site where Googlers of all backgrounds and job descriptions work, thrive, ..._
+- [Search Jobs in United States (8000+ Open Roles)](https://www.linkedin.com/jobs/search-jobs) — `jobs`  
+  - _Today's top 8000+ Search jobs in United States. Leverage your professional network, and get hired. New Search jobs added daily._
+
+### www.maryland.gov — 1 result(s)
+
+- [Job and Career Support](https://www.maryland.gov/business-and-work/job-and-career-support)  
+  - _Explore job and career resources in Maryland. Find help with a job search, apprenticeships, adult education, and see programs for youth, veterans, ..._
 
 ### www.usatoday.com — 1 result(s)
 
