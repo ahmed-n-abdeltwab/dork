@@ -1,6 +1,6 @@
 # Job results for: `(inurl:careers OR inurl:jobs) (inurl:open OR inurl:positions OR inurl:listings OR inurl:vacancies OR inurl:search)`
 
-_Engine: serpapi  |  Generated: 2026-11-21T05:37:34.996990+00:00  |  Results: 10_
+_Engine: serpapi  |  Generated: 2026-11-22T05:02:48.467196+00:00  |  Results: 10_
 
 **Search metadata**:
 - source: serpapi
@@ -9,43 +9,46 @@ _Engine: serpapi  |  Generated: 2026-11-21T05:37:34.996990+00:00  |  Results: 10
 
 ## Results grouped by domain
 
-### www.indeed.com — 4 result(s)
+### www.google.com — 2 result(s)
 
-- [Indeed: Job Search](https://www.indeed.com/)  
-  - _With Indeed, you can search millions of jobs online to find the next step in your career. With tools for job search, resumes, company reviews and more, ..._
-- [Now Hiring: 200 Google Suites Jobs in Indianapolis, IN](https://www.indeed.com/q-google-suites-l-indianapolis,-in-jobs.html)  
-  - _Browse 250 Google Suites jobs in Indianapolis, IN. New jobs posted today. Apply now and find your next opportunity on Indeed.com._
-- [Company Search | Indeed.com](https://www.indeed.com/companies/search) — `search`  
-  - _Search by company to find available jobs and read reviews from current and past employees._
-- [Career jobs in Atlanta, GA](https://www.indeed.com/q-career-l-atlanta,-ga-jobs.html)  
-  - _Browse 43186 Career jobs in Atlanta, GA. New jobs posted today. Apply now and find your next opportunity on Indeed.com._
+- [Google for Jobs Posting Guide – United States](https://www.google.com/goto?url=CAEScwHEIkXXFxROUbVgoMMZ5JAnvmKBtvplJjRkb64T4p_pSJJkDf9SOD4_Hhz0vA7nTktJ0Y3o3QSYGnnHBugT3BvMx_LLBrxJ9i24BgYmg9UsM9I_POM_29uEN8mjsl-Sj-YhXKigZusrQfreFtebCNvsFRs)  
+  - _By posting your job vacancies on Google for Jobs, you increase their visibility and reach a larger audience of potential candidates. Targeted candidate matching ..._
+- [Lenoir - Google Careers](https://www.google.com/about/careers/applications/locations/lenoir/) — `careers`  
+  - _Each one of our locations has its own flavor of Googleyness, featuring unique architecture and design, office traditions, and of course, snacks._
 
-### greatnews.life — 1 result(s)
+### www.indeed.com — 2 result(s)
 
-- [Indiana Adds Job Search Function to IN.gov App](https://greatnews.life/article/indiana-adds-job-search-function-to-in-gov-app/)  
-  - _Searching for a job with the State of Indiana became even easier today with the release of the newest version of the IN.gov iOS app._
+- [Immediate openings jobs in Denver, CO](https://www.indeed.com/q-immediate-openings-l-denver,-co-jobs.html)  
+  - _Browse 1309 Immediate Openings jobs in Denver, CO. Traffic Control Flaggers Needed ・ $17.29 - $21.00 an hour Full-time ・ $21.00 per hour + overtime ..._
+- [Now Hiring: 25 Google Search Jobs in Dayton, OH](https://www.indeed.com/q-google-search-l-dayton,-oh-jobs.html)  
+  - _Browse 38 Google Search jobs in Dayton, OH. New jobs posted today. Apply now and find your next opportunity on Indeed.com._
 
-### www.careeronestop.org — 1 result(s)
+### miamidadecounty.us.expertini.com — 1 result(s)
 
-- [Job Search](https://www.careeronestop.org/JobSearch/job-search.aspx) — `jobs`  
-  - _Plan your job search. Create a job search plan · Gather your documents · Your knowledge, skills, and abilities (KSAs) · Research employers._
+- [Google for Jobs Posting Guide – Miami Dade County](https://miamidadecounty.us.expertini.com/employer/google-for-jobs-faq/)  
+  - _By posting your job vacancies on Google for Jobs, you increase their visibility and reach a larger audience of potential candidates. Targeted candidate matching ..._
 
-### www.google.com — 1 result(s)
+### pittsburgh.us.expertini.com — 1 result(s)
 
-- [CareerBuilder® - Search Jobs Hiring Now](https://www.google.com/goto?url=CAESWwHEIkXXV4I0hqWbJ-qFJS3WaYRV7UgqKrBSxBUaeyJzxLXQ_yIx1NMLAEWlpGpgQR1ESfaTWq-u9fD6gzi7UrWsgfpvMpP4imkIsTWNMYOAN7Q874ZAjjU6cIs)  
-  - _Find your next job with CareerBuilder. Browse millions of recent job listings, upload your resume, get job alerts & let employers find you today._
+- [Google for Jobs Posting Guide – Pittsburgh](https://pittsburgh.us.expertini.com/employer/google-for-jobs-faq/)  
+  - _By posting your job vacancies on Google for Jobs, you increase their visibility and reach a larger audience of potential candidates. Targeted candidate matching ..._
 
-### www.laborfinders.com — 1 result(s)
+### stokescounty.us.expertini.com — 1 result(s)
 
-- [Jobs in Jacksonville, Florida - Now Hiring](https://www.laborfinders.com/browse-jobs/fl/jacksonville/)  
-  - _Applying for Jacksonville jobs has never been easier with Labor Finders. Simply check the job listings below, click on a job title that interests you and hit ..._
+- [Google for Jobs Posting Guide – Stokes County](https://stokescounty.us.expertini.com/employer/google-for-jobs-faq/)  
+  - _By posting your job vacancies on Google for Jobs, you increase their visibility and reach a larger audience of potential candidates. Targeted candidate matching ..._
 
-### www.nj.com — 1 result(s)
+### www.linkedin.com — 1 result(s)
 
-- [New Jersey Job Search and Employment Opportunities](https://www.nj.com/jobs/) — `jobs`  
-  - _Search the latest local job and employment postings in New Jersey including full-time and part-time work and find your new career today using NJ.com._
+- [Google Hiring Jobs in New Orleans (612 Open Roles)](https://www.linkedin.com/jobs/google-hiring-jobs-new-orleans-la) — `jobs`  
+  - _Today's top 612 Google Hiring jobs in New Orleans. Leverage your professional network, and get hired. New Google Hiring jobs added daily._
 
-### www.ziprecruiter.com — 1 result(s)
+### www.secretjobs.ai — 1 result(s)
 
-- [$18-$24/hr Jobs in Alabama (NOW HIRING) Nov 2026](https://www.ziprecruiter.com/Jobs/--in-Alabama) — `jobs`  
-  - _Browse 1000+ jobs ($18-$24/hr) from companies in ALABAMA hiring now. New openings posted daily. Apply early, be seen first & 1-click apply ..._
+- [Why search jobs from company career pages](https://www.secretjobs.ai/blog/job-search-sites-company-career-pages)  
+  - _Short answer: a few job search sites collect openings directly from employers' own career pages instead of waiting for employers to post ads ..._
+
+### www.usatoday.com — 1 result(s)
+
+- [Google I/O exclusive: Google to launch Google for Jobs to ...](https://www.usatoday.com/story/tech/news/2017/05/17/google-io-google-for-jobs-sundar-pichai/101768492/)  
+  - _So Google is launching a new initiative, Google for Jobs, that includes a feature in search that collects and organizes millions of job postings ..._
